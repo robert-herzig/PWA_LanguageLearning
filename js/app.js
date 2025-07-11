@@ -6,7 +6,12 @@ class LanguageLearningPWA {
     this.isOnline = navigator.onLine;
     this.currentLanguage = 'spanish';
     this.currentCardIndex = 0;
-    this.currentSection = 'flashcards';
+    this.currentSection = 'home'; // Start with home section
+    this.settings = {
+      englishVariant: 'us', // 'us' or 'gb'
+      speechRate: 0.9,
+      autoSpeak: true
+    };
     this.init();
   }
 
@@ -62,12 +67,16 @@ class LanguageLearningPWA {
 
     // Navigation
     this.setupNavigation();
+    this.setupHomeNavigation();
 
     // Language selector
     this.setupLanguageSelector();
 
     // Flashcard controls
     this.setupFlashcardControls();
+
+    // Settings controls
+    this.setupSettingsControls();
 
     // Install prompt buttons
     const installBtn = document.getElementById('install-btn');
@@ -97,6 +106,36 @@ class LanguageLearningPWA {
     });
   }
 
+  // Home Navigation Setup
+  setupHomeNavigation() {
+    // Feature card navigation
+    const featureCards = document.querySelectorAll('.feature-card');
+    featureCards.forEach(card => {
+      const button = card.querySelector('.feature-btn');
+      const section = card.dataset.navigate;
+      
+      if (button && section && !button.disabled) {
+        const clickHandler = () => {
+          this.navigateToSection(section);
+          // Update nav buttons
+          const navButtons = document.querySelectorAll('.nav-btn');
+          navButtons.forEach(b => b.classList.remove('active'));
+          const targetNavBtn = document.querySelector(`[data-section="${section}"]`);
+          if (targetNavBtn) {
+            targetNavBtn.classList.add('active');
+          }
+        };
+        
+        // Add click handlers to both card and button
+        card.addEventListener('click', clickHandler);
+        button.addEventListener('click', (e) => {
+          e.stopPropagation(); // Prevent double firing
+          clickHandler();
+        });
+      }
+    });
+  }
+
   // Navigation Handler
   navigateToSection(section) {
     console.log(`Navigating to: ${section}`);
@@ -113,6 +152,9 @@ class LanguageLearningPWA {
     }
     
     switch(section) {
+      case 'home':
+        this.showHomeSection();
+        break;
       case 'flashcards':
         this.showFlashcardsSection();
         break;
@@ -126,11 +168,15 @@ class LanguageLearningPWA {
         this.showSettingsSection();
         break;
       default:
-        this.showFlashcardsSection();
+        this.showHomeSection();
     }
   }
 
   // Section Display Methods
+  showHomeSection() {
+    console.log('Showing home section');
+  }
+
   showFlashcardsSection() {
     console.log('Showing flashcards section');
     this.loadCurrentCard();
@@ -145,7 +191,8 @@ class LanguageLearningPWA {
   }
 
   showSettingsSection() {
-    console.log('Showing settings section - to be implemented');
+    console.log('Showing settings section');
+    this.loadSettings();
   }
 
   // Language Selector Setup
@@ -249,23 +296,23 @@ class LanguageLearningPWA {
       english: [
         {
           german: 'Hallo',
-          target: 'Hello',
+          target: this.settings.englishVariant === 'gb' ? 'Hello' : 'Hello',
           germanExample: '"Hallo, wie geht es dir?"',
-          targetExample: '"Hello, how are you?"',
+          targetExample: this.settings.englishVariant === 'gb' ? '"Hello, how are you?"' : '"Hello, how are you?"',
           known: false
         },
         {
           german: 'Danke',
-          target: 'Thank you',
+          target: this.settings.englishVariant === 'gb' ? 'Thank you' : 'Thank you',
           germanExample: '"Danke für deine Hilfe!"',
-          targetExample: '"Thank you for your help!"',
+          targetExample: this.settings.englishVariant === 'gb' ? '"Thank you for your help!"' : '"Thank you for your help!"',
           known: false
         },
         {
-          german: 'Auf Wiedersehen',
-          target: 'Goodbye',
-          germanExample: '"Auf Wiedersehen, bis morgen!"',
-          targetExample: '"Goodbye, see you tomorrow!"',
+          german: 'Farbe',
+          target: this.settings.englishVariant === 'gb' ? 'Colour' : 'Color',
+          germanExample: '"Welche Farbe magst du?"',
+          targetExample: this.settings.englishVariant === 'gb' ? '"What colour do you like?"' : '"What color do you like?"',
           known: false
         }
       ],
@@ -337,10 +384,12 @@ class LanguageLearningPWA {
       
       // Only speak when flipping TO the target language (back side)
       if (flashcard.classList.contains('flipped')) {
-        // Wait for flip animation to complete, then speak
-        setTimeout(() => {
-          this.speakCurrentWord();
-        }, 300);
+        // Wait for flip animation to complete, then speak (if auto-speak is enabled)
+        if (this.settings.autoSpeak) {
+          setTimeout(() => {
+            this.speakCurrentWord();
+          }, 300);
+        }
       } else {
         // Stop any ongoing speech when flipping back to German side
         if ('speechSynthesis' in window) {
@@ -424,27 +473,7 @@ class LanguageLearningPWA {
     const utterance = new SpeechSynthesisUtterance(textToSpeak);
     
     // Set language-specific settings for proper pronunciation
-    const languageSettings = {
-      spanish: {
-        lang: 'es-ES',
-        langCodes: ['es-ES', 'es-MX', 'es-AR', 'es-US', 'es'], // Multiple Spanish variants
-        rate: 0.9,
-        pitch: 1.0
-      },
-      english: {
-        lang: 'en-US',
-        langCodes: ['en-US', 'en-GB', 'en-AU', 'en'], // Multiple English variants
-        rate: 0.9,
-        pitch: 1.0
-      },
-      russian: {
-        lang: 'ru-RU',
-        langCodes: ['ru-RU', 'ru'], // Russian variants
-        rate: 0.9, // Slower for Cyrillic pronunciation
-        pitch: 1.0
-      }
-    };
-    
+    const languageSettings = this.getLanguageSettings();
     const settings = languageSettings[this.currentLanguage] || languageSettings.english;
     
     // Set the primary language
@@ -457,44 +486,8 @@ class LanguageLearningPWA {
     const voices = speechSynthesis.getVoices();
     console.log('All available voices:', voices.map(v => `${v.name} (${v.lang})`));
     
-    // Try to find the best voice in order of preference
-    let selectedVoice = null;
-    
-    // 1. Try to find exact language match with local service
-    for (const langCode of settings.langCodes) {
-      selectedVoice = voices.find(voice => 
-        voice.lang === langCode && voice.localService
-      );
-      if (selectedVoice) break;
-    }
-    
-    // 2. Try to find exact language match (any service)
-    if (!selectedVoice) {
-      for (const langCode of settings.langCodes) {
-        selectedVoice = voices.find(voice => voice.lang === langCode);
-        if (selectedVoice) break;
-      }
-    }
-    
-    // 3. Try to find language prefix match with local service
-    if (!selectedVoice) {
-      for (const langCode of settings.langCodes) {
-        const prefix = langCode.substring(0, 2);
-        selectedVoice = voices.find(voice => 
-          voice.lang.startsWith(prefix) && voice.localService
-        );
-        if (selectedVoice) break;
-      }
-    }
-    
-    // 4. Try to find any language prefix match
-    if (!selectedVoice) {
-      for (const langCode of settings.langCodes) {
-        const prefix = langCode.substring(0, 2);
-        selectedVoice = voices.find(voice => voice.lang.startsWith(prefix));
-        if (selectedVoice) break;
-      }
-    }
+    // Use the extracted voice finding logic
+    const selectedVoice = this.findBestVoice(voices, settings.langCodes);
     
     if (selectedVoice) {
       utterance.voice = selectedVoice;
@@ -658,6 +651,14 @@ class LanguageLearningPWA {
 
   // App Initialization
   initializeApp() {
+    // Debug: Check if all sections exist
+    const expectedSections = ['home', 'flashcards', 'chatbot', 'progress', 'settings'];
+    expectedSections.forEach(sectionName => {
+      const element = document.getElementById(`${sectionName}-section`);
+      console.log(`Section check - ${sectionName}: ${element ? 'EXISTS' : 'MISSING'}`);
+    });
+    
+    this.loadSettings();
     this.loadUserData();
     this.setupPushNotifications();
     this.initializeTextToSpeech();
@@ -843,6 +844,221 @@ class LanguageLearningPWA {
         .map(v => `${v.name} (${v.lang}) ${v.localService ? '[LOCAL]' : '[REMOTE]'}`)
     );
   }
+
+  // Settings Controls Setup
+  setupSettingsControls() {
+    // English variant selection
+    const englishVariantInputs = document.querySelectorAll('input[name="english-variant"]');
+    englishVariantInputs.forEach(input => {
+      input.addEventListener('change', (e) => {
+        this.settings.englishVariant = e.target.value;
+        this.saveSettings();
+        this.onSettingsChange();
+        console.log(`English variant changed to: ${this.settings.englishVariant}`);
+      });
+    });
+
+    // Speech rate control
+    const speechRateSlider = document.getElementById('speech-rate');
+    const rateValueDisplay = document.getElementById('rate-value');
+    
+    if (speechRateSlider && rateValueDisplay) {
+      speechRateSlider.addEventListener('input', (e) => {
+        this.settings.speechRate = parseFloat(e.target.value);
+        rateValueDisplay.textContent = `${this.settings.speechRate}x`;
+        this.saveSettings();
+      });
+    }
+
+    // Auto-speak toggle
+    const autoSpeakCheckbox = document.getElementById('auto-speak');
+    if (autoSpeakCheckbox) {
+      autoSpeakCheckbox.addEventListener('change', (e) => {
+        this.settings.autoSpeak = e.target.checked;
+        this.saveSettings();
+        console.log(`Auto-speak ${this.settings.autoSpeak ? 'enabled' : 'disabled'}`);
+      });
+    }
+
+    // Test buttons
+    const testButtons = {
+      'test-spanish': () => this.testLanguageVoice('spanish', 'Hola'),
+      'test-english': () => this.testLanguageVoice('english', this.settings.englishVariant === 'gb' ? 'Colour' : 'Color'),
+      'test-russian': () => this.testLanguageVoice('russian', 'Привет')
+    };
+
+    Object.entries(testButtons).forEach(([id, handler]) => {
+      const button = document.getElementById(id);
+      if (button) {
+        button.addEventListener('click', handler);
+      }
+    });
+  }
+
+  // Test voice for specific language
+  testLanguageVoice(language, testWord) {
+    const originalLanguage = this.currentLanguage;
+    const originalAutoSpeak = this.settings.autoSpeak;
+    
+    // Temporarily set language and enable speaking
+    this.currentLanguage = language;
+    this.settings.autoSpeak = true;
+    
+    // Create a test utterance
+    const utterance = new SpeechSynthesisUtterance(testWord);
+    const languageSettings = this.getLanguageSettings();
+    const settings = languageSettings[language];
+    
+    if (settings) {
+      utterance.lang = settings.lang;
+      utterance.rate = settings.rate;
+      utterance.pitch = settings.pitch;
+      
+      // Find appropriate voice
+      const voices = speechSynthesis.getVoices();
+      const selectedVoice = this.findBestVoice(voices, settings.langCodes);
+      
+      if (selectedVoice) {
+        utterance.voice = selectedVoice;
+      }
+      
+      console.log(`🧪 Testing ${language}: "${testWord}" with voice: ${selectedVoice ? selectedVoice.name : 'default'}`);
+      speechSynthesis.speak(utterance);
+    }
+    
+    // Restore original settings
+    this.currentLanguage = originalLanguage;
+    this.settings.autoSpeak = originalAutoSpeak;
+  }
+
+  // Get language settings (extracted for reuse)
+  getLanguageSettings() {
+    return {
+      spanish: {
+        lang: 'es-ES',
+        langCodes: ['es-ES', 'es-MX', 'es-AR', 'es-US', 'es'],
+        rate: this.settings.speechRate,
+        pitch: 1.0
+      },
+      english: {
+        lang: this.settings.englishVariant === 'gb' ? 'en-GB' : 'en-US',
+        langCodes: this.settings.englishVariant === 'gb' ? 
+          ['en-GB', 'en-AU', 'en-NZ', 'en'] : 
+          ['en-US', 'en-CA', 'en'],
+        rate: this.settings.speechRate,
+        pitch: 1.0
+      },
+      russian: {
+        lang: 'ru-RU',
+        langCodes: ['ru-RU', 'ru'],
+        rate: this.settings.speechRate * 0.8,
+        pitch: 1.0
+      }
+    };
+  }
+
+  // Extract voice finding logic
+  findBestVoice(voices, langCodes) {
+    let selectedVoice = null;
+    
+    // 1. Try to find exact language match with local service
+    for (const langCode of langCodes) {
+      selectedVoice = voices.find(voice => 
+        voice.lang === langCode && voice.localService
+      );
+      if (selectedVoice) break;
+    }
+    
+    // 2. Try to find exact language match (any service)
+    if (!selectedVoice) {
+      for (const langCode of langCodes) {
+        selectedVoice = voices.find(voice => voice.lang === langCode);
+        if (selectedVoice) break;
+      }
+    }
+    
+    // 3. Try to find language prefix match with local service
+    if (!selectedVoice) {
+      for (const langCode of langCodes) {
+        const prefix = langCode.substring(0, 2);
+        selectedVoice = voices.find(voice => 
+          voice.lang.startsWith(prefix) && voice.localService
+        );
+        if (selectedVoice) break;
+      }
+    }
+    
+    // 4. Try to find any language prefix match
+    if (!selectedVoice) {
+      for (const langCode of langCodes) {
+        const prefix = langCode.substring(0, 2);
+        selectedVoice = voices.find(voice => voice.lang.startsWith(prefix));
+        if (selectedVoice) break;
+      }
+    }
+    
+    return selectedVoice;
+  }
+
+  // Handle settings changes
+  onSettingsChange() {
+    // Refresh vocabulary data to reflect new English variant
+    if (this.currentLanguage === 'english') {
+      this.loadCurrentCard();
+    }
+  }
+
+  // Load settings from localStorage
+  loadSettings() {
+    try {
+      const savedSettings = localStorage.getItem('app-settings');
+      if (savedSettings) {
+        this.settings = { ...this.settings, ...JSON.parse(savedSettings) };
+      }
+    } catch (error) {
+      console.error('Error loading settings:', error);
+    }
+
+    // Update UI to reflect loaded settings
+    this.updateSettingsUI();
+  }
+
+  // Save settings to localStorage
+  saveSettings() {
+    try {
+      localStorage.setItem('app-settings', JSON.stringify(this.settings));
+      console.log('Settings saved:', this.settings);
+    } catch (error) {
+      console.error('Error saving settings:', error);
+    }
+  }
+
+  // Update settings UI
+  updateSettingsUI() {
+    // English variant radio buttons
+    const englishVariantInput = document.querySelector(`input[name="english-variant"][value="${this.settings.englishVariant}"]`);
+    if (englishVariantInput) {
+      englishVariantInput.checked = true;
+    }
+
+    // Speech rate slider
+    const speechRateSlider = document.getElementById('speech-rate');
+    const rateValueDisplay = document.getElementById('rate-value');
+    if (speechRateSlider) {
+      speechRateSlider.value = this.settings.speechRate;
+    }
+    if (rateValueDisplay) {
+      rateValueDisplay.textContent = `${this.settings.speechRate}x`;
+    }
+
+    // Auto-speak checkbox
+    const autoSpeakCheckbox = document.getElementById('auto-speak');
+    if (autoSpeakCheckbox) {
+      autoSpeakCheckbox.checked = this.settings.autoSpeak;
+    }
+  }
+
+  // ...existing code...
 }
 
 // Initialize the app when DOM is loaded

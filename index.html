@@ -44,15 +44,58 @@
     </header>
 
     <main class="main">
-        <section class="welcome-section">
-            <h2>Willkommen zu deiner Sprachlern-Reise!</h2>
-            <p>Beginne mit dem Lernen einer neuen Sprache mit unserer interaktiven PWA.</p>
-        </section>
-
         <!-- Main Content Area -->
         <div class="content-container">
+            <!-- Home/Start Section -->
+            <section id="home-section" class="learning-section active">
+                <div class="home-container">
+                    <div class="welcome-hero">
+                        <h2>🌟 Willkommen beim Sprachenlernen!</h2>
+                        <p>Wähle eine Aktivität und beginne deine Lernreise</p>
+                    </div>
+                    
+                    <div class="feature-grid">
+                        <div class="feature-card" data-navigate="flashcards">
+                            <div class="feature-icon">📚</div>
+                            <h3>Lernkarten</h3>
+                            <p>Lerne neue Wörter mit interaktiven Lernkarten und Aussprache</p>
+                            <button class="feature-btn">Starten</button>
+                        </div>
+                        
+                        <div class="feature-card" data-navigate="chatbot">
+                            <div class="feature-icon">💬</div>
+                            <h3>Sprach-Chatbot</h3>
+                            <p>Übe Konversationen mit unserem KI-Assistenten (Bald verfügbar)</p>
+                            <button class="feature-btn" disabled>Bald verfügbar</button>
+                        </div>
+                        
+                        <div class="feature-card" data-navigate="progress">
+                            <div class="feature-icon">📊</div>
+                            <h3>Lernfortschritt</h3>
+                            <p>Verfolge deinen Fortschritt und sieh deine Statistiken</p>
+                            <button class="feature-btn">Ansehen</button>
+                        </div>
+                        
+                        <div class="feature-card" data-navigate="settings">
+                            <div class="feature-icon">⚙️</div>
+                            <h3>Einstellungen</h3>
+                            <p>Passe Sprache, Aussprache und andere Einstellungen an</p>
+                            <button class="feature-btn">Konfigurieren</button>
+                        </div>
+                    </div>
+                    
+                    <div class="language-info">
+                        <h4>🌍 Verfügbare Sprachen</h4>
+                        <div class="language-badges">
+                            <span class="language-badge">🇪🇸 Spanisch</span>
+                            <span class="language-badge">🇺🇸 Englisch</span>
+                            <span class="language-badge">🇷🇺 Russisch</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <!-- Flashcards Section -->
-            <section id="flashcards-section" class="learning-section active">
+            <section id="flashcards-section" class="learning-section">
                 <div class="section-header">
                     <h3>📚 Lernkarten</h3>
                     <div class="section-controls">
@@ -107,12 +150,88 @@
                     </div>
                 </div>
             </section>
+
+            <!-- Progress Section -->
+            <section id="progress-section" class="learning-section">
+                <div class="section-header">
+                    <h3>📊 Lernfortschritt</h3>
+                </div>
+                
+                <div class="progress-container">
+                    <div class="progress-placeholder">
+                        <div class="placeholder-icon">📈</div>
+                        <h4>Fortschritt wird verfolgt!</h4>
+                        <p>Hier siehst du bald deinen Lernfortschritt und Statistiken.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Settings Section -->
+            <section id="settings-section" class="learning-section">
+                <div class="section-header">
+                    <h3>⚙️ Einstellungen</h3>
+                </div>
+                
+                <div class="settings-container">
+                    <div class="setting-group">
+                        <h4>🇬🇧 Englisch-Variante</h4>
+                        <p>Wähle zwischen britischem und amerikanischem Englisch für Aussprache und Schreibweise:</p>
+                        
+                        <div class="setting-option">
+                            <input type="radio" id="english-us" name="english-variant" value="us" checked>
+                            <label for="english-us">
+                                <span class="flag">🇺🇸</span>
+                                <span class="variant-info">
+                                    <strong>Amerikanisches Englisch</strong>
+                                    <small>Aussprache: "color", "center", "organize"</small>
+                                </span>
+                            </label>
+                        </div>
+                        
+                        <div class="setting-option">
+                            <input type="radio" id="english-gb" name="english-variant" value="gb">
+                            <label for="english-gb">
+                                <span class="flag">🇬🇧</span>
+                                <span class="variant-info">
+                                    <strong>Britisches Englisch</strong>
+                                    <small>Aussprache: "colour", "centre", "organise"</small>
+                                </span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="setting-group">
+                        <h4>🔊 Audio-Einstellungen</h4>
+                        <div class="setting-row">
+                            <label for="speech-rate">Sprechgeschwindigkeit:</label>
+                            <input type="range" id="speech-rate" min="0.5" max="1.5" step="0.1" value="0.9">
+                            <span id="rate-value">0.9x</span>
+                        </div>
+                        
+                        <div class="setting-row">
+                            <label for="auto-speak">Automatische Wiedergabe:</label>
+                            <input type="checkbox" id="auto-speak" checked>
+                        </div>
+                    </div>
+
+                    <div class="setting-group">
+                        <h4>🎯 Test-Bereich</h4>
+                        <p>Teste die Sprachausgabe für alle Sprachen:</p>
+                        <div class="test-buttons">
+                            <button id="test-spanish" class="test-btn">🇪🇸 Spanisch testen</button>
+                            <button id="test-english" class="test-btn">🇺🇸 Englisch testen</button>
+                            <button id="test-russian" class="test-btn">🇷🇺 Russisch testen</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
         </div>
     </main>
 
     <footer class="footer">
         <nav class="nav">
-            <button class="nav-btn active" data-section="flashcards">📚 Lernkarten</button>
+            <button class="nav-btn active" data-section="home">🏠 Start</button>
+            <button class="nav-btn" data-section="flashcards">📚 Lernkarten</button>
             <button class="nav-btn" data-section="chatbot">💬 Chatbot</button>
             <button class="nav-btn" data-section="progress">📊 Fortschritt</button>
             <button class="nav-btn" data-section="settings">⚙️ Einstellungen</button>
