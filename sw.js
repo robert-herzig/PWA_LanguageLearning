@@ -1,13 +1,17 @@
 // Service Worker for Language Learning PWA
-const CACHE_NAME = 'language-learning-v1';
+const CACHE_NAME = 'language-learning-v2';
 const urlsToCache = [
   '/',
   '/index.html',
   '/css/styles.css',
   '/js/app.js',
   '/manifest.json',
-  '/icons/icon-192x192.png',
-  '/icons/icon-512x512.png',
+  '/icons/favicon-96x96.png',
+  '/icons/web-app-manifest-192x192.png',
+  '/icons/web-app-manifest-512x512.png',
+  '/icons/apple-touch-icon.png',
+  '/icons/favicon.ico',
+  '/icons/favicon.svg',
   // Add other static assets here
 ];
 

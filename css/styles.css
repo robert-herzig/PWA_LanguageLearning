@@ -51,17 +51,37 @@ body {
   font-weight: 600;
 }
 
-.status-indicator {
-  padding: 0.25rem 0.75rem;
-  border-radius: 20px;
-  font-size: 0.875rem;
-  font-weight: 500;
-  background-color: rgba(255, 255, 255, 0.2);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+.header__controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
 }
 
-.status-indicator.offline {
-  background-color: var(--accent-color);
+/* Language Selector */
+.language-selector {
+  display: flex;
+  align-items: center;
+}
+
+.language-dropdown {
+  background: rgba(255, 255, 255, 0.9);
+  border: none;
+  border-radius: var(--border-radius);
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: var(--transition);
+  min-width: 150px;
+}
+
+.language-dropdown:hover {
+  background: white;
+}
+
+.language-dropdown:focus {
+  outline: 2px solid var(--secondary-color);
+  outline-offset: 2px;
 }
 
 /* Main Content */
@@ -87,6 +107,45 @@ body {
 .welcome-section p {
   color: var(--text-secondary);
   font-size: 1.1rem;
+}
+
+/* Content Container */
+.content-container {
+  width: 100%;
+}
+
+.learning-section {
+  display: none;
+  background: var(--surface-color);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.learning-section.active {
+  display: block;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.section-header h3 {
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.section-controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
 }
 
 /* Features Section */
@@ -173,6 +232,172 @@ body {
 
 .vocab-item:hover .translation {
   color: rgba(255, 255, 255, 0.9);
+}
+
+/* Flashcard Styles */
+.flashcard-container {
+  perspective: 1000px;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.flashcard {
+  width: 100%;
+  max-width: 400px;
+  height: 300px;
+  position: relative;
+  cursor: pointer;
+}
+
+.flashcard-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flashcard.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  background: linear-gradient(135deg, var(--primary-light), white);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-elevated);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  gap: 1rem;
+}
+
+.flashcard-back {
+  background: linear-gradient(135deg, var(--secondary-color), #fff8e1);
+  transform: rotateY(180deg);
+}
+
+.word-german,
+.word-target {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--primary-dark);
+  margin-bottom: 1rem;
+}
+
+.word-target {
+  color: #e65100;
+}
+
+.example-sentence,
+.example-sentence-target {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.flip-btn,
+.speak-btn {
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-size: 1rem;
+  transition: var(--transition);
+}
+
+.flip-btn:hover,
+.speak-btn:hover {
+  background: var(--primary-dark);
+  transform: translateY(-2px);
+}
+
+.speak-btn {
+  background: var(--secondary-color);
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}
+
+.speak-btn:hover {
+  background: #ff8f00;
+}
+
+/* Card Navigation */
+.card-nav-btn {
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.2rem;
+  transition: var(--transition);
+}
+
+.card-nav-btn:hover:not(:disabled) {
+  background: var(--primary-dark);
+  transform: scale(1.1);
+}
+
+.card-nav-btn:disabled {
+  background: var(--text-secondary);
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.card-counter {
+  color: var(--text-secondary);
+  font-weight: 500;
+  min-width: 50px;
+  text-align: center;
+}
+
+/* Flashcard Actions */
+.flashcard-actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.action-btn {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: var(--transition);
+}
+
+.action-btn.know {
+  background: #4caf50;
+  color: white;
+}
+
+.action-btn.know:hover {
+  background: #45a049;
+}
+
+.action-btn.study {
+  background: #ff9800;
+  color: white;
+}
+
+.action-btn.study:hover {
+  background: #f57c00;
 }
 
 /* Footer Navigation */
@@ -305,6 +530,13 @@ body {
 @media (max-width: 768px) {
   .header {
     padding: 1rem;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .header__controls {
+    width: 100%;
+    justify-content: space-between;
   }
   
   .header__title {
@@ -319,22 +551,34 @@ body {
     font-size: 1.75rem;
   }
   
-  .features {
-    grid-template-columns: 1fr;
+  .flashcard {
+    height: 250px;
   }
   
-  .lesson-area {
-    padding: 1.5rem;
+  .word-german,
+  .word-target {
+    font-size: 1.5rem;
   }
   
-  .vocab-item {
+  .example-sentence,
+  .example-sentence-target {
+    font-size: 1rem;
+  }
+  
+  .flashcard-actions {
     flex-direction: column;
+    align-items: center;
+  }
+  
+  .action-btn {
+    width: 100%;
+    max-width: 200px;
+  }
+  
+  .section-header {
+    flex-direction: column;
+    gap: 1rem;
     text-align: center;
-    gap: 0.5rem;
-  }
-  
-  .install-prompt__buttons {
-    flex-direction: column;
   }
 }
 
@@ -389,4 +633,45 @@ body {
   .footer {
     padding-bottom: env(safe-area-inset-bottom, 0.5rem);
   }
+}
+
+/* Chatbot Placeholder */
+.chatbot-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 400px;
+}
+
+.chatbot-placeholder {
+  text-align: center;
+  max-width: 500px;
+  padding: 2rem;
+}
+
+.placeholder-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.chatbot-placeholder h4 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+}
+
+.chatbot-placeholder p {
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.chatbot-placeholder ul {
+  text-align: left;
+  color: var(--text-secondary);
+  line-height: 1.8;
+}
+
+chatbot-placeholder li {
+  margin-bottom: 0.5rem;
 }
