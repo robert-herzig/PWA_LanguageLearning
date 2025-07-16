@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, i                    <button id="easy-btn" class="action-btn easy">🟡 Einfach</button>itial-scale=1.0">
     <meta name="description" content="Language Learning Progressive Web App">
     <meta name="theme-color" content="#2196F3">
     
@@ -12,7 +12,7 @@
     <link rel="manifest" href="manifest.json">
     
     <!-- iOS Safari -->
-    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="Language Learning">
     <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
@@ -32,9 +32,9 @@
             <div class="language-selector">
                 <label for="language-select" class="sr-only">Select Language</label>
                 <select id="language-select" class="language-dropdown">
-                    <option value="spanish" data-flag="🇪🇸">🇪🇸 Spanish</option>
-                    <option value="english" data-flag="🇺🇸">🇺🇸 English</option>
-                    <option value="russian" data-flag="🇷🇺">🇷🇺 Russian</option>
+                    <option value="spanish" data-flag="🇪🇸">🇪🇸&nbsp;&nbsp;Spanisch</option>
+                    <option value="english" data-flag="🇺🇸">🇺🇸&nbsp;&nbsp;Englisch</option>
+                    <option value="russian" data-flag="🇷🇺">🇷🇺&nbsp;&nbsp;Russisch</option>
                 </select>
             </div>
             <div class="header__status">
@@ -124,8 +124,9 @@
                 </div>
 
                 <div class="flashcard-actions">
-                    <button id="know-it" class="action-btn know">✓ Ich kenne es</button>
-                    <button id="study-more" class="action-btn study">📖 Noch lernen</button>
+                    <button id="difficult-btn" class="action-btn difficult">🔴 Schwierig</button>
+                    <button id="easy-btn" class="action-btn easy">� Einfach</button>
+                    <button id="known-btn" class="action-btn known">🟢 Bekannt</button>
                 </div>
             </section>
 
@@ -217,9 +218,11 @@
                     <div class="setting-group">
                         <h4>🎯 Test-Bereich</h4>
                         <p>Teste die Sprachausgabe für alle Sprachen:</p>
+                        <p><small><em>Hinweis: Falls beide Englisch-Varianten gleich klingen, hat Ihr System nur eine englische Stimme installiert.</em></small></p>
                         <div class="test-buttons">
                             <button id="test-spanish" class="test-btn">🇪🇸 Spanisch testen</button>
-                            <button id="test-english" class="test-btn">🇺🇸 Englisch testen</button>
+                            <button id="test-english-us" class="test-btn">🇺🇸 Englisch (US) testen</button>
+                            <button id="test-english-gb" class="test-btn">🇬🇧 Englisch (UK) testen</button>
                             <button id="test-russian" class="test-btn">🇷🇺 Russisch testen</button>
                         </div>
                     </div>

@@ -12,10 +12,20 @@ A Progressive Web App (PWA) for learning languages with offline capabilities, pu
 - Responsive design
 
 ✅ **Language Learning Features**
-- Interactive vocabulary lessons
-- Progress tracking (localStorage)
+- Interactive flashcard system with text-to-speech
+- Advanced spaced repetition system (similar to Anki)
+- Three difficulty levels with optimized intervals:
+  - 🔴 **Difficult**: Immediate repetition within session
+  - 🟡 **Easy**: Progressive intervals (10min → 30min → 1h → 3h → 6h) until known
+  - 🟢 **Known**: Long-term intervals (1d → 2d → 5d → 10d → 20d+)
+- Cards stay in session until marked as "Known"
+- Multi-language support (Spanish, English, Russian)
+- Language-specific pronunciation variants (British/American English)
+- Customizable speech settings and auto-play
+- Modern dark theme with anthracite and blue color scheme
+- Progress tracking with localStorage persistence
 - Offline learning capability
-- Clean, modern UI
+- Responsive design for all devices
 
 ## Project Structure
 

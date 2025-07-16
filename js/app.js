@@ -22,6 +22,40 @@ class LanguageLearningPWA {
     this.checkInstallPrompt();
     this.initializeApp();
     this.initializeFlashcards();
+    
+    // Listen for PWA install prompt
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault();
+      this.deferredPrompt = e;
+      this.checkInstallPrompt();
+    });
+    
+    // Setup home navigation after DOM is ready
+    setTimeout(() => {
+      console.log('=== INITIALIZING HOME NAVIGATION ===');
+      this.setupHomeNavigation();
+    }, 100);
+  }
+
+  initializeApp() {
+    console.log('Initializing app...');
+    
+    // Load saved settings
+    this.loadSettings();
+    
+    // Set initial language if saved
+    const savedLanguage = localStorage.getItem('currentLanguage');
+    if (savedLanguage && ['spanish', 'english', 'russian'].includes(savedLanguage)) {
+      this.currentLanguage = savedLanguage;
+      
+      // Update language dropdown
+      const languageSelect = document.getElementById('language-select');
+      if (languageSelect) {
+        languageSelect.value = savedLanguage;
+      }
+    }
+    
+    console.log('App initialized with language:', this.currentLanguage);
   }
 
   // Service Worker Registration
@@ -46,28 +80,70 @@ class LanguageLearningPWA {
     }
   }
 
+  updateOnlineStatus() {
+    const isOnline = navigator.onLine;
+    document.body.classList.toggle('offline', !isOnline);
+    
+    // Show/hide offline indicator
+    const offlineIndicator = document.querySelector('.offline-indicator');
+    if (offlineIndicator) {
+      offlineIndicator.style.display = isOnline ? 'none' : 'block';
+    }
+    
+    console.log('Online status:', isOnline ? 'Online' : 'Offline');
+  }
+
+  checkInstallPrompt() {
+    // This will be called by beforeinstallprompt event listener
+    if (this.deferredPrompt) {
+      const installButton = document.querySelector('.install-app-button');
+      if (installButton) {
+        installButton.style.display = 'block';
+        installButton.addEventListener('click', () => {
+          this.deferredPrompt.prompt();
+          this.deferredPrompt.userChoice.then((choiceResult) => {
+            if (choiceResult.outcome === 'accepted') {
+              console.log('User accepted the PWA install prompt');
+            } else {
+              console.log('User dismissed the PWA install prompt');
+            }
+            this.deferredPrompt = null;
+          });
+        });
+      }
+    }
+  }
+
+  installApp() {
+    if (this.deferredPrompt) {
+      this.deferredPrompt.prompt();
+      this.deferredPrompt.userChoice.then((choiceResult) => {
+        if (choiceResult.outcome === 'accepted') {
+          console.log('User accepted the PWA install prompt');
+        } else {
+          console.log('User dismissed the PWA install prompt');
+        }
+        this.deferredPrompt = null;
+        this.hideInstallPrompt();
+      });
+    }
+  }
+
+  hideInstallPrompt() {
+    const installPrompt = document.querySelector('.install-prompt');
+    if (installPrompt) {
+      installPrompt.style.display = 'none';
+    }
+  }
+
   // Event Listeners Setup
   setupEventListeners() {
     // Online/Offline status
-    window.addEventListener('online', () => this.updateOnlineStatus(true));
-    window.addEventListener('offline', () => this.updateOnlineStatus(false));
-
-    // Install prompt
-    window.addEventListener('beforeinstallprompt', (e) => {
-      e.preventDefault();
-      this.deferredPrompt = e;
-      this.showInstallPrompt();
-    });
-
-    // App installed
-    window.addEventListener('appinstalled', () => {
-      console.log('PWA was installed');
-      this.hideInstallPrompt();
-    });
+    window.addEventListener('online', () => this.updateOnlineStatus());
+    window.addEventListener('offline', () => this.updateOnlineStatus());
 
     // Navigation
     this.setupNavigation();
-    this.setupHomeNavigation();
 
     // Language selector
     this.setupLanguageSelector();
@@ -108,15 +184,30 @@ class LanguageLearningPWA {
 
   // Home Navigation Setup
   setupHomeNavigation() {
+    console.log('=== SETTING UP HOME NAVIGATION ===');
+    
     // Feature card navigation
     const featureCards = document.querySelectorAll('.feature-card');
-    featureCards.forEach(card => {
+    console.log(`Found ${featureCards.length} feature cards`);
+    
+    featureCards.forEach((card, index) => {
       const button = card.querySelector('.feature-btn');
       const section = card.dataset.navigate;
       
-      if (button && section && !button.disabled) {
-        const clickHandler = () => {
+      console.log(`Feature card ${index}: section="${section}", button=${!!button}, disabled=${button?.disabled}`);
+      
+      if (section && !button?.disabled) {
+        const clickHandler = (e) => {
+          console.log(`=== FEATURE CARD CLICKED: ${section} ===`);
+          console.log('Click target:', e.target);
+          console.log('Current target:', e.currentTarget);
+          
+          e.preventDefault();
+          e.stopPropagation();
+          
+          // Navigate to section
           this.navigateToSection(section);
+          
           // Update nav buttons
           const navButtons = document.querySelectorAll('.nav-btn');
           navButtons.forEach(b => b.classList.remove('active'));
@@ -126,50 +217,101 @@ class LanguageLearningPWA {
           }
         };
         
-        // Add click handlers to both card and button
+        // Add click handlers to both the card and the button
         card.addEventListener('click', clickHandler);
-        button.addEventListener('click', (e) => {
-          e.stopPropagation(); // Prevent double firing
-          clickHandler();
+        if (button) {
+          button.addEventListener('click', clickHandler);
+        }
+        
+        // Make it visually clear that it's clickable
+        card.style.cursor = 'pointer';
+        card.style.userSelect = 'none'; // Prevent text selection on click
+        
+        console.log(`✅ Event listeners added to card ${index} for section "${section}"`);
+        
+        // Test the card immediately
+        console.log(`🔍 Testing card ${index}:`, {
+          hasDataNavigate: !!card.dataset.navigate,
+          dataNavigate: card.dataset.navigate,
+          hasClickListener: card.onclick !== null,
+          isEnabled: !button?.disabled
         });
+        
+      } else {
+        console.log(`❌ Skipping card ${index}: section="${section}", button=${!!button}, disabled=${button?.disabled}`);
       }
     });
+    
+    console.log('=== HOME NAVIGATION SETUP COMPLETE ===');
+    
+    // Add a test to verify cards are clickable
+    setTimeout(() => {
+      console.log('🧪 Testing feature card accessibility...');
+      const testCard = document.querySelector('.feature-card[data-navigate="flashcards"]');
+      if (testCard) {
+        console.log('✅ Flashcard feature card found and should be clickable');
+        console.log('Card dataset:', testCard.dataset);
+        console.log('Card computed style cursor:', window.getComputedStyle(testCard).cursor);
+      } else {
+        console.log('❌ Flashcard feature card not found!');
+      }
+    }, 500);
   }
 
   // Navigation Handler
   navigateToSection(section) {
-    console.log(`Navigating to: ${section}`);
+    console.log(`=== NAVIGATING TO: ${section} ===`);
+    console.log(`Current section before: ${this.currentSection}`);
     this.currentSection = section;
     
     // Hide all sections
     const sections = document.querySelectorAll('.learning-section');
-    sections.forEach(s => s.classList.remove('active'));
+    console.log(`Found ${sections.length} sections to hide`);
+    sections.forEach(s => {
+      console.log(`Hiding section: ${s.id}`);
+      s.classList.remove('active');
+    });
     
     // Show selected section
     const targetSection = document.getElementById(`${section}-section`);
+    console.log(`Target section: ${section}-section`, targetSection);
     if (targetSection) {
       targetSection.classList.add('active');
+      console.log(`✅ Activated section: ${targetSection.id}`);
+      console.log(`Section classes: ${targetSection.className}`);
+      console.log(`Section display: ${window.getComputedStyle(targetSection).display}`);
+    } else {
+      console.error(`❌ Section not found: ${section}-section`);
     }
     
-    switch(section) {
-      case 'home':
-        this.showHomeSection();
-        break;
-      case 'flashcards':
-        this.showFlashcardsSection();
-        break;
-      case 'chatbot':
-        this.showChatbotSection();
-        break;
-      case 'progress':
-        this.showProgressSection();
-        break;
-      case 'settings':
-        this.showSettingsSection();
-        break;
-      default:
-        this.showHomeSection();
+    // Try calling section methods but wrap in try-catch to prevent errors
+    try {
+      switch(section) {
+        case 'home':
+          this.showHomeSection();
+          break;
+        case 'flashcards':
+          console.log('About to call showFlashcardsSection...');
+          this.showFlashcardsSection();
+          break;
+        case 'chatbot':
+          this.showChatbotSection();
+          break;
+        case 'progress':
+          this.showProgressSection();
+          break;
+        case 'settings':
+          this.showSettingsSection();
+          break;
+        default:
+          console.log(`Unknown section: ${section}, showing home`);
+          this.showHomeSection();
+      }
+    } catch (error) {
+      console.error(`Error in section method for ${section}:`, error);
     }
+    
+    console.log(`=== NAVIGATION TO ${section} COMPLETE ===`);
   }
 
   // Section Display Methods
@@ -195,6 +337,37 @@ class LanguageLearningPWA {
     this.loadSettings();
   }
 
+  loadSettings() {
+    console.log('Loading settings...');
+    
+    // Load settings from localStorage
+    const savedSettings = localStorage.getItem('languageLearningSettings');
+    if (savedSettings) {
+      this.settings = { ...this.settings, ...JSON.parse(savedSettings) };
+    }
+    
+    // Update UI elements with current settings
+    const speechRateSlider = document.getElementById('speech-rate');
+    const rateValue = document.getElementById('rate-value');
+    const autoSpeakCheckbox = document.getElementById('auto-speak');
+    
+    if (speechRateSlider && rateValue) {
+      speechRateSlider.value = this.settings.speechRate || 0.9;
+      rateValue.textContent = `${speechRateSlider.value}x`;
+    }
+    
+    if (autoSpeakCheckbox) {
+      autoSpeakCheckbox.checked = this.settings.autoSpeak !== false;
+    }
+    
+    console.log('Settings loaded:', this.settings);
+  }
+
+  saveSettings() {
+    localStorage.setItem('languageLearningSettings', JSON.stringify(this.settings));
+    console.log('Settings saved:', this.settings);
+  }
+
   // Language Selector Setup
   setupLanguageSelector() {
     const languageSelect = document.getElementById('language-select');
@@ -215,9 +388,17 @@ class LanguageLearningPWA {
 
   // Flashcard System
   initializeFlashcards() {
+    // Get cards due for review
+    const dueCards = this.getDueCards();
+    this.currentDueCards = dueCards;
     this.currentCardIndex = 0;
-    this.loadCurrentCard();
-    this.updateCardCounter();
+    
+    if (dueCards.length === 0) {
+      this.showNoCardsMessage();
+    } else {
+      this.loadCurrentCard();
+      this.updateCardCounter();
+    }
   }
 
   setupFlashcardControls() {
@@ -246,15 +427,20 @@ class LanguageLearningPWA {
     }
 
     // Action buttons
-    const knowBtn = document.getElementById('know-it');
-    const studyBtn = document.getElementById('study-more');
+    const difficultBtn = document.getElementById('difficult-btn');
+    const easyBtn = document.getElementById('easy-btn');
+    const knownBtn = document.getElementById('known-btn');
     
-    if (knowBtn) {
-      knowBtn.addEventListener('click', () => this.markAsKnown());
+    if (difficultBtn) {
+      difficultBtn.addEventListener('click', () => this.markAsDifficult());
     }
     
-    if (studyBtn) {
-      studyBtn.addEventListener('click', () => this.markForStudy());
+    if (easyBtn) {
+      easyBtn.addEventListener('click', () => this.markAsEasy());
+    }
+    
+    if (knownBtn) {
+      knownBtn.addEventListener('click', () => this.markAsKnown());
     }
 
     // Auto-flip on click
@@ -268,83 +454,267 @@ class LanguageLearningPWA {
     }
   }
 
+  setupSettingsControls() {
+    // Test buttons for speech
+    const testSpanish = document.getElementById('test-spanish');
+    const testEnglishUS = document.getElementById('test-english-us');
+    const testEnglishGB = document.getElementById('test-english-gb');
+    const testRussian = document.getElementById('test-russian');
+    
+    if (testSpanish) {
+      testSpanish.addEventListener('click', () => this.testSpeech('spanish', 'Hola mundo', 'es'));
+    }
+    
+    if (testEnglishUS) {
+      testEnglishUS.addEventListener('click', () => this.testSpeech('english-us', 'Hello world, how are you doing?', 'en-US'));
+    }
+    
+    if (testEnglishGB) {
+      testEnglishGB.addEventListener('click', () => this.testSpeech('english-gb', 'Hello world, how are you doing?', 'en-GB'));
+    }
+    
+    if (testRussian) {
+      testRussian.addEventListener('click', () => this.testSpeech('russian', 'Привет мир', 'ru'));
+    }
+
+    // Speech rate slider
+    const speechRateSlider = document.getElementById('speech-rate');
+    const rateValue = document.getElementById('rate-value');
+    
+    if (speechRateSlider && rateValue) {
+      speechRateSlider.addEventListener('input', (e) => {
+        this.settings.speechRate = parseFloat(e.target.value);
+        rateValue.textContent = `${e.target.value}x`;
+        this.saveSettings();
+      });
+    }
+
+    // Auto-speak checkbox
+    const autoSpeakCheckbox = document.getElementById('auto-speak');
+    if (autoSpeakCheckbox) {
+      autoSpeakCheckbox.addEventListener('change', (e) => {
+        this.settings.autoSpeak = e.target.checked;
+        this.saveSettings();
+      });
+    }
+  }
+
+  testSpeech(language, text, langCode) {
+    console.log(`=== TESTING SPEECH: ${language} - "${text}" - Lang: ${langCode} ===`);
+    
+    if (!('speechSynthesis' in window)) {
+      alert('Text-to-speech wird von diesem Browser nicht unterstützt.');
+      return;
+    }
+
+    // Cancel any ongoing speech without triggering error handlers
+    if (speechSynthesis.speaking) {
+      speechSynthesis.cancel();
+      // Wait a bit for cancellation to complete
+      setTimeout(() => this.executeSpeechTest(language, text, langCode), 100);
+      return;
+    }
+    
+    this.executeSpeechTest(language, text, langCode);
+  }
+
+  executeSpeechTest(language, text, langCode) {
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.rate = this.settings.speechRate || 0.9;
+    utterance.volume = 1;
+    utterance.lang = langCode; // Set the specific language code
+    
+    // Get available voices
+    const voices = speechSynthesis.getVoices();
+    console.log(`Available voices for test: ${voices.length}`);
+    console.log(`Looking for voices with language: ${langCode}`);
+    
+    // Find appropriate voice based on the specific language code
+    let preferredVoice = null;
+    let alternativeVoices = [];
+    
+    if (language === 'spanish') {
+      preferredVoice = voices.find(v => v.lang.startsWith('es')) || 
+                     voices.find(v => v.name.toLowerCase().includes('spanish'));
+      alternativeVoices = voices.filter(v => v.lang.startsWith('es'));
+    } else if (language === 'english-us') {
+      // Look specifically for US English voices
+      preferredVoice = voices.find(v => v.lang === 'en-US') ||
+                     voices.find(v => v.lang.startsWith('en-US')) ||
+                     voices.find(v => v.name.toLowerCase().includes('united states')) ||
+                     voices.find(v => v.name.toLowerCase().includes('us ')) ||
+                     voices.find(v => v.lang.startsWith('en') && v.name.toLowerCase().includes('american'));
+      alternativeVoices = voices.filter(v => v.lang.startsWith('en'));
+    } else if (language === 'english-gb') {
+      // Look specifically for British English voices
+      preferredVoice = voices.find(v => v.lang === 'en-GB') ||
+                     voices.find(v => v.lang.startsWith('en-GB')) ||
+                     voices.find(v => v.name.toLowerCase().includes('united kingdom')) ||
+                     voices.find(v => v.name.toLowerCase().includes('british')) ||
+                     voices.find(v => v.name.toLowerCase().includes('uk '));
+      alternativeVoices = voices.filter(v => v.lang.startsWith('en'));
+    } else if (language === 'russian') {
+      preferredVoice = voices.find(v => v.lang.startsWith('ru')) ||
+                     voices.find(v => v.name.toLowerCase().includes('russian'));
+      alternativeVoices = voices.filter(v => v.lang.startsWith('ru'));
+    }
+    
+    // Fallback to any voice with the language code
+    if (!preferredVoice) {
+      preferredVoice = voices.find(v => v.lang === langCode) ||
+                     voices.find(v => v.lang.startsWith(langCode.split('-')[0]));
+    }
+    
+    if (preferredVoice) {
+      utterance.voice = preferredVoice;
+      utterance.lang = preferredVoice.lang; // Use the voice's specific language
+      console.log(`✅ Using voice: ${preferredVoice.name} (${preferredVoice.lang}) - Local: ${preferredVoice.localService}`);
+    } else {
+      console.log(`⚠️ No specific voice found for ${language} (${langCode}), using system default`);
+    }
+    
+    // Show available voices for this language family
+    if (alternativeVoices.length > 0) {
+      console.log(`📋 Available ${language.split('-')[0]} voices:`, 
+        alternativeVoices.map(v => `${v.name} (${v.lang}) - Local: ${v.localService}`));
+    } else {
+      console.log(`❌ No voices found for language family: ${langCode.split('-')[0]}`);
+      console.log('All available voices:', voices.map(v => `${v.name} (${v.lang})`));
+    }
+    
+    // Track if this utterance was manually cancelled
+    let wasCancelled = false;
+    
+    utterance.onstart = () => {
+      console.log(`✅ Test speech started: "${text}" using ${preferredVoice?.name || 'default voice'}`);
+    };
+    
+    utterance.onend = () => {
+      if (!wasCancelled) {
+        console.log(`✅ Test speech finished: "${text}"`);
+      }
+    };
+    
+    utterance.onerror = (event) => {
+      // Only show errors that aren't caused by cancellation
+      if (event.error !== 'interrupted' && event.error !== 'cancelled') {
+        console.error(`❌ Test speech error:`, event.error);
+        alert(`Speech-Test-Fehler: ${event.error}`);
+      } else {
+        console.log(`ℹ️ Speech was interrupted (this is normal when switching tests)`);
+      }
+    };
+    
+    // Store reference for potential cancellation
+    this.currentTestUtterance = utterance;
+    utterance.onstart = () => {
+      console.log(`✅ Test speech started: "${text}" using ${preferredVoice?.name || 'default voice'}`);
+      if (preferredVoice) {
+        console.log(`🎤 Voice details: ${preferredVoice.name} (${preferredVoice.lang}) - ${preferredVoice.localService ? 'Local' : 'Remote'}`);
+      }
+    };
+    
+    try {
+      speechSynthesis.speak(utterance);
+      console.log('✅ Test speech synthesis called');
+    } catch (error) {
+      console.error('❌ Error in test speech:', error);
+      alert(`Fehler beim Test: ${error.message}`);
+    }
+  }
+
   getVocabularyData() {
-    return {
+    // Base vocabulary data - this would be expanded with more words
+    const baseVocabulary = {
       spanish: [
         {
+          id: 'es_1',
           german: 'Hallo',
           target: 'Hola',
           germanExample: '"Hallo, wie geht es dir?"',
-          targetExample: '"Hola, ¿cómo estás?"',
-          known: false
+          targetExample: '"Hola, ¿cómo estás?"'
         },
         {
+          id: 'es_2',
           german: 'Danke',
           target: 'Gracias',
           germanExample: '"Danke für deine Hilfe!"',
-          targetExample: '"¡Gracias por tu ayuda!"',
-          known: false
+          targetExample: '"¡Gracias por tu ayuda!"'
         },
         {
+          id: 'es_3',
           german: 'Auf Wiedersehen',
           target: 'Adiós',
           germanExample: '"Auf Wiedersehen, bis morgen!"',
-          targetExample: '"¡Adiós, hasta mañana!"',
-          known: false
+          targetExample: '"¡Adiós, hasta mañana!"'
         }
       ],
       english: [
         {
+          id: 'en_1',
           german: 'Hallo',
           target: this.settings.englishVariant === 'gb' ? 'Hello' : 'Hello',
           germanExample: '"Hallo, wie geht es dir?"',
-          targetExample: this.settings.englishVariant === 'gb' ? '"Hello, how are you?"' : '"Hello, how are you?"',
-          known: false
+          targetExample: this.settings.englishVariant === 'gb' ? '"Hello, how are you?"' : '"Hello, how are you?"'
         },
         {
+          id: 'en_2',
           german: 'Danke',
           target: this.settings.englishVariant === 'gb' ? 'Thank you' : 'Thank you',
           germanExample: '"Danke für deine Hilfe!"',
-          targetExample: this.settings.englishVariant === 'gb' ? '"Thank you for your help!"' : '"Thank you for your help!"',
-          known: false
+          targetExample: this.settings.englishVariant === 'gb' ? '"Thank you for your help!"' : '"Thank you for your help!"'
         },
         {
+          id: 'en_3',
           german: 'Farbe',
           target: this.settings.englishVariant === 'gb' ? 'Colour' : 'Color',
           germanExample: '"Welche Farbe magst du?"',
-          targetExample: this.settings.englishVariant === 'gb' ? '"What colour do you like?"' : '"What color do you like?"',
-          known: false
+          targetExample: this.settings.englishVariant === 'gb' ? '"What colour do you like?"' : '"What color do you like?"'
         }
       ],
       russian: [
         {
+          id: 'ru_1',
           german: 'Hallo',
           target: 'Привет',
           germanExample: '"Hallo, wie geht es dir?"',
-          targetExample: '"Привет, как дела?"',
-          known: false
+          targetExample: '"Привет, как дела?"'
         },
         {
+          id: 'ru_2',
           german: 'Danke',
           target: 'Спасибо',
           germanExample: '"Danke für deine Hilfe!"',
-          targetExample: '"Спасибо за помощь!"',
-          known: false
+          targetExample: '"Спасибо за помощь!"'
         },
         {
+          id: 'ru_3',
           german: 'Auf Wiedersehen',
           target: 'До свидания',
           germanExample: '"Auf Wiedersehen, bis morgen!"',
-          targetExample: '"До свидания, до завтра!"',
-          known: false
+          targetExample: '"До свидания, до завтра!"'
         }
       ]
     };
+
+    // Get spaced repetition data from localStorage
+    const spacedRepetitionData = this.getSpacedRepetitionData();
+    
+    // Merge base data with spaced repetition data
+    const vocabulary = {};
+    Object.keys(baseVocabulary).forEach(lang => {
+      vocabulary[lang] = baseVocabulary[lang].map(card => {
+        const srData = spacedRepetitionData[card.id] || this.getDefaultSpacedRepetitionData();
+        return { ...card, ...srData };
+      });
+    });
+
+    return vocabulary;
   }
 
   getCurrentCard() {
-    const vocabulary = this.getVocabularyData();
-    const cards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    // Use due cards if available, otherwise fall back to all cards
+    const cards = this.currentDueCards || this.getVocabularyData()[this.currentLanguage] || this.getVocabularyData().spanish;
     return cards[this.currentCardIndex] || cards[0];
   }
 
@@ -365,6 +735,9 @@ class LanguageLearningPWA {
     if (wordTarget) wordTarget.textContent = card.target;
     if (exampleTarget) exampleTarget.textContent = card.targetExample;
     
+    // Add spaced repetition indicator
+    this.updateSpacedRepetitionIndicator(card);
+    
     // Reset card to front (German side)
     const flashcard = document.getElementById('flashcard');
     if (flashcard) {
@@ -375,6 +748,78 @@ class LanguageLearningPWA {
     if ('speechSynthesis' in window) {
       speechSynthesis.cancel();
     }
+  }
+
+  updateSpacedRepetitionIndicator(card) {
+    // Add or update the spaced repetition indicator
+    let indicator = document.querySelector('.sr-indicator');
+    if (!indicator) {
+      indicator = document.createElement('div');
+      indicator.className = 'sr-indicator';
+      document.querySelector('.flashcard-front').appendChild(indicator);
+    }
+    
+    const level = card.level || 0;
+    const reviewCount = card.reviewCount || 0;
+    const nextReview = card.nextReview;
+    
+    let statusText = '';
+    let statusClass = '';
+    
+    switch(level) {
+      case 0:
+        statusText = '🆕 Neu';
+        statusClass = 'sr-new';
+        break;
+      case 1:
+        statusText = `🔴 Schwierig (${reviewCount}x)`;
+        statusClass = 'sr-difficult';
+        break;
+      case 2:
+        statusText = `🟡 Einfach (${reviewCount}x)`;
+        statusClass = 'sr-easy';
+        break;
+      case 3:
+        statusText = `🟢 Bekannt (${reviewCount}x)`;
+        statusClass = 'sr-known';
+        break;
+    }
+    
+    if (nextReview && level > 0) {
+      const nextDate = new Date(nextReview);
+      const now = new Date();
+      
+      if (level <= 2 && nextReview.includes('T')) {
+        // Time-based intervals (minutes/hours)
+        const minutesUntil = Math.ceil((nextDate - now) / (1000 * 60));
+        
+        if (minutesUntil <= 0) {
+          statusText += ` - Jetzt fällig`;
+        } else if (minutesUntil < 60) {
+          statusText += ` - ${minutesUntil}min`;
+        } else {
+          const hoursUntil = Math.ceil(minutesUntil / 60);
+          statusText += ` - ${hoursUntil}h`;
+        }
+      } else {
+        // Date-based intervals (days)
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        nextDate.setHours(0, 0, 0, 0);
+        const daysUntil = Math.ceil((nextDate - today) / (1000 * 60 * 60 * 24));
+        
+        if (daysUntil <= 0) {
+          statusText += ` - Heute fällig`;
+        } else if (daysUntil === 1) {
+          statusText += ` - Morgen`;
+        } else {
+          statusText += ` - ${daysUntil}d`;
+        }
+      }
+    }
+    
+    indicator.textContent = statusText;
+    indicator.className = `sr-indicator ${statusClass}`;
   }
 
   flipCard() {
@@ -424,12 +869,18 @@ class LanguageLearningPWA {
   }
 
   updateCardCounter() {
-    const vocabulary = this.getVocabularyData();
-    const cards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    const cards = this.currentDueCards || this.getVocabularyData()[this.currentLanguage] || this.getVocabularyData().spanish;
     const counter = document.getElementById('card-counter');
     
     if (counter) {
+      const totalDue = this.getDueCards().length;
+      const remaining = cards.length;
       counter.textContent = `${this.currentCardIndex + 1} / ${cards.length}`;
+      
+      // Add due cards info
+      if (totalDue > 0 && totalDue !== cards.length) {
+        counter.textContent += ` (${totalDue} fällig heute)`;
+      }
     }
     
     this.updateNavigationButtons();
@@ -452,50 +903,47 @@ class LanguageLearningPWA {
 
   // Text-to-Speech with proper language support
   speakCurrentWord() {
+    console.log('=== SPEAK CURRENT WORD CALLED ===');
+    
     // Only speak if we're currently showing the target language (card is flipped)
     const flashcard = document.getElementById('flashcard');
     if (!flashcard || !flashcard.classList.contains('flipped')) {
-      console.log('Not speaking - card is showing German side');
+      console.log('❌ Not speaking - card is showing German side or flashcard not found');
+      console.log('Flashcard element:', flashcard);
+      console.log('Flashcard classes:', flashcard?.className);
       return;
     }
 
     if (!('speechSynthesis' in window)) {
-      console.log('Text-to-speech not supported');
+      console.log('❌ Text-to-speech not supported in this browser');
+      alert('Text-to-speech wird von diesem Browser nicht unterstützt.');
       return;
     }
 
+    console.log('✅ Speech synthesis is available');
+
     const card = this.getCurrentCard();
-    const textToSpeak = card.target;
-    
-    // Cancel any ongoing speech
-    speechSynthesis.cancel();
-    
-    const utterance = new SpeechSynthesisUtterance(textToSpeak);
-    
-    // Set language-specific settings for proper pronunciation
-    const languageSettings = this.getLanguageSettings();
-    const settings = languageSettings[this.currentLanguage] || languageSettings.english;
-    
-    // Set the primary language
-    utterance.lang = settings.lang;
-    utterance.rate = settings.rate;
-    utterance.pitch = settings.pitch;
-    utterance.volume = 1;
-    
-    // Find the best voice for the language
-    const voices = speechSynthesis.getVoices();
-    console.log('All available voices:', voices.map(v => `${v.name} (${v.lang})`));
-    
-    // Use the extracted voice finding logic
-    const selectedVoice = this.findBestVoice(voices, settings.langCodes);
-    
-    if (selectedVoice) {
-      utterance.voice = selectedVoice;
-      console.log(`✅ Using voice: ${selectedVoice.name} (${selectedVoice.lang}) - Local: ${selectedVoice.localService}`);
-    } else {
-      console.warn(`❌ No suitable voice found for ${this.currentLanguage}. Available voices:`, 
-        voices.filter(v => v.lang.startsWith(settings.lang.substring(0, 2))).map(v => `${v.name} (${v.lang})`));
+    if (!card) {
+      console.log('❌ No current card to speak');
+      return;
     }
+    
+    const textToSpeak = card.target;
+    console.log(`📢 Text to speak: "${textToSpeak}"`);
+    
+    // Cancel any ongoing speech without error messages
+    if (speechSynthesis.speaking) {
+      speechSynthesis.cancel();
+    }
+    
+    // Simple test first - try without any voice settings
+    const testUtterance = new SpeechSynthesisUtterance(textToSpeak);
+    testUtterance.rate = 0.8;
+    testUtterance.volume = 1;
+    
+    // Get available voices
+    const voices = speechSynthesis.getVoices();
+    console.log(`📋 Available voices (${voices.length}):`, voices.map(v => `${v.name} (${v.lang}) - Local: ${v.localService}`));
     
     // Visual feedback
     const speakBtn = document.getElementById('speak-btn');
@@ -504,39 +952,77 @@ class LanguageLearningPWA {
       speakBtn.disabled = true;
     }
     
-    utterance.onstart = () => {
-      console.log(`🔊 Started speaking: "${textToSpeak}" in ${settings.lang}`);
-      if (selectedVoice) {
-        console.log(`🎤 Voice being used: ${selectedVoice.name} (${selectedVoice.lang})`);
-      }
+    testUtterance.onstart = () => {
+      console.log(`✅ Speech started: "${textToSpeak}"`);
     };
     
-    utterance.onend = () => {
+    testUtterance.onend = () => {
+      console.log(`✅ Speech finished: "${textToSpeak}"`);
       if (speakBtn) {
         speakBtn.textContent = '🔊 Anhören';
         speakBtn.disabled = false;
       }
-      console.log(`✅ Finished speaking: "${textToSpeak}" in ${settings.lang}`);
     };
     
-    utterance.onerror = (event) => {
-      if (speakBtn) {
-        speakBtn.textContent = '🔊 Fehler';
-        speakBtn.disabled = false;
+    testUtterance.onerror = (event) => {
+      // Only show errors that aren't caused by cancellation
+      if (event.error !== 'interrupted' && event.error !== 'cancelled') {
+        console.error(`❌ Speech error:`, event.error);
+        console.error('Error details:', event);
+        if (speakBtn) {
+          speakBtn.textContent = '🔊 Fehler';
+          speakBtn.disabled = false;
+        }
+        alert(`Speech-Fehler: ${event.error}`);
+      } else {
+        console.log(`ℹ️ Speech was interrupted (normal when switching cards or clicking other buttons)`);
+        if (speakBtn) {
+          speakBtn.textContent = '🔊 Anhören';
+          speakBtn.disabled = false;
+        }
       }
-      console.error('❌ Speech synthesis error:', event.error);
-      console.error('Error details:', event);
     };
     
-    // Extra verification before speaking
-    console.log(`🎯 About to speak "${textToSpeak}" with:`, {
-      language: utterance.lang,
-      voice: selectedVoice ? selectedVoice.name : 'default',
-      rate: utterance.rate,
-      currentLanguage: this.currentLanguage
+    // Try to use a suitable voice if available
+    if (voices.length > 0) {
+      const currentLang = this.currentLanguage;
+      let preferredVoice = null;
+      
+      // Find voice for current language
+      if (currentLang === 'english') {
+        preferredVoice = voices.find(v => v.lang.startsWith('en-')) || voices.find(v => v.lang === 'en');
+      } else if (currentLang === 'spanish') {
+        preferredVoice = voices.find(v => v.lang.startsWith('es-')) || voices.find(v => v.lang === 'es');
+      } else if (currentLang === 'russian') {
+        preferredVoice = voices.find(v => v.lang.startsWith('ru-')) || voices.find(v => v.lang === 'ru');
+      }
+      
+      if (preferredVoice) {
+        testUtterance.voice = preferredVoice;
+        testUtterance.lang = preferredVoice.lang;
+        console.log(`🎤 Using voice: ${preferredVoice.name} (${preferredVoice.lang})`);
+      } else {
+        console.log(`⚠️ No preferred voice found for ${currentLang}, using default`);
+      }
+    } else {
+      console.log('⚠️ No voices available, using system default');
+    }
+    
+    console.log(`🎯 About to speak with settings:`, {
+      text: textToSpeak,
+      lang: testUtterance.lang,
+      voice: testUtterance.voice?.name || 'default',
+      rate: testUtterance.rate,
+      volume: testUtterance.volume
     });
     
-    speechSynthesis.speak(utterance);
+    try {
+      speechSynthesis.speak(testUtterance);
+      console.log('✅ speechSynthesis.speak() called successfully');
+    } catch (error) {
+      console.error('❌ Error calling speechSynthesis.speak():', error);
+      alert(`Fehler beim Starten der Sprachausgabe: ${error.message}`);
+    }
   }
 
   // Learning Progress
@@ -545,528 +1031,374 @@ class LanguageLearningPWA {
     card.known = true;
     console.log(`Marked "${card.german}" as known`);
     
+    // Update spaced repetition data
+    this.updateSpacedRepetition(card.id, 'known');
+    
     // Move to next card automatically
     setTimeout(() => {
       this.nextCard();
     }, 500);
   }
 
-  markForStudy() {
+  markAsDifficult() {
     const card = this.getCurrentCard();
-    card.known = false;
-    console.log(`Marked "${card.german}" for more study`);
+    if (card && card.id) {
+      this.updateSpacedRepetition(card.id, 'difficult');
+      this.showFeedback('🔴 Als schwierig markiert - bleibt in der heutigen Session', 'difficult');
+      this.moveToNextCard();
+    }
+  }
+
+  markAsEasy() {
+    const card = this.getCurrentCard();
+    if (card && card.id) {
+      this.updateSpacedRepetition(card.id, 'easy');
+      const streak = (card.streak || 0) + 1;
+      let timeInfo = '';
+      if (streak === 1) timeInfo = '10min';
+      else if (streak === 2) timeInfo = '30min';  
+      else if (streak === 3) timeInfo = '1h';
+      else if (streak === 4) timeInfo = '3h';
+      else timeInfo = '6h';
+      
+      this.showFeedback(`🟡 Als einfach markiert - nächste Wiederholung in ${timeInfo}`, 'easy');
+      this.moveToNextCard();
+    }
+  }
+
+  markAsKnown() {
+    const card = this.getCurrentCard();
+    if (card && card.id) {
+      this.updateSpacedRepetition(card.id, 'known');
+      const streak = (card.streak || 0) + 1;
+      let dayInfo = '';
+      if (streak === 1) dayInfo = '1 Tag';
+      else if (streak === 2) dayInfo = '2 Tage';
+      else if (streak === 3) dayInfo = '5 Tage';
+      else if (streak === 4) dayInfo = '10 Tage';
+      else dayInfo = '20+ Tage';
+      
+      this.showFeedback(`🟢 Als bekannt markiert - nächste Wiederholung in ${dayInfo}`, 'known');
+      this.moveToNextCard();
+    }
+  }
+
+  showFeedback(message, type) {
+    // Create feedback element
+    let feedback = document.querySelector('.feedback-message');
+    if (!feedback) {
+      feedback = document.createElement('div');
+      feedback.className = 'feedback-message';
+      document.querySelector('.flashcard-container').appendChild(feedback);
+    }
     
-    // Move to next card automatically
+    feedback.textContent = message;
+    feedback.className = `feedback-message feedback-${type}`;
+    
+    // Remove after 2 seconds
     setTimeout(() => {
-      this.nextCard();
+      if (feedback.parentNode) {
+        feedback.remove();
+      }
+    }, 2000);
+  }
+
+  moveToNextCard() {
+    setTimeout(() => {
+      // Remove current card from due cards array
+      if (this.currentDueCards && this.currentDueCards.length > 1) {
+        this.currentDueCards.splice(this.currentCardIndex, 1);
+        
+        // Adjust index if we're at the end
+        if (this.currentCardIndex >= this.currentDueCards.length) {
+          this.currentCardIndex = 0;
+        }
+        
+        this.loadCurrentCard();
+        this.updateCardCounter();
+      } else {
+        // No more cards due today
+        this.showNoCardsMessage();
+      }
     }, 500);
   }
 
-  // Online Status Management
-  updateOnlineStatus(isOnline = navigator.onLine) {
-    this.isOnline = isOnline;
-    const statusIndicator = document.getElementById('online-status');
-    
-    if (statusIndicator) {
-      statusIndicator.textContent = isOnline ? 'Online' : 'Offline';
-      statusIndicator.classList.toggle('offline', !isOnline);
-    }
-
-    // Show/hide offline indicator
-    this.toggleOfflineIndicator(!isOnline);
-  }
-
-  toggleOfflineIndicator(show) {
-    let offlineIndicator = document.querySelector('.offline-indicator');
-    
-    if (show && !offlineIndicator) {
-      offlineIndicator = document.createElement('div');
-      offlineIndicator.className = 'offline-indicator';
-      offlineIndicator.textContent = 'You are currently offline. Some features may be limited.';
-      document.body.insertBefore(offlineIndicator, document.body.firstChild);
-    } else if (!show && offlineIndicator) {
-      offlineIndicator.remove();
-    }
-  }
-
-  // Install Prompt Management
-  checkInstallPrompt() {
-    // Check if app is already installed
-    if (window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone) {
-      console.log('App is running in standalone mode');
-      return;
-    }
-
-    // Check if install prompt was previously dismissed
-    const dismissed = localStorage.getItem('install-prompt-dismissed');
-    if (dismissed) {
-      const dismissedDate = new Date(dismissed);
-      const now = new Date();
-      const daysSinceDismissed = (now - dismissedDate) / (1000 * 60 * 60 * 24);
-      
-      // Show prompt again after 7 days
-      if (daysSinceDismissed < 7) {
-        return;
-      }
-    }
-  }
-
-  showInstallPrompt() {
-    const installPrompt = document.getElementById('install-prompt');
-    if (installPrompt) {
-      installPrompt.classList.remove('hidden');
-    }
-  }
-
-  hideInstallPrompt() {
-    const installPrompt = document.getElementById('install-prompt');
-    if (installPrompt) {
-      installPrompt.classList.add('hidden');
-      localStorage.setItem('install-prompt-dismissed', new Date().toISOString());
-    }
-  }
-
-  async installApp() {
-    if (!this.deferredPrompt) {
-      console.log('Install prompt not available');
-      return;
-    }
-
-    try {
-      this.deferredPrompt.prompt();
-      const { outcome } = await this.deferredPrompt.userChoice;
-      
-      if (outcome === 'accepted') {
-        console.log('User accepted the install prompt');
-      } else {
-        console.log('User dismissed the install prompt');
-      }
-      
-      this.deferredPrompt = null;
-      this.hideInstallPrompt();
-    } catch (error) {
-      console.error('Error during installation:', error);
-    }
-  }
-
-  // App Initialization
-  initializeApp() {
-    // Debug: Check if all sections exist
-    const expectedSections = ['home', 'flashcards', 'chatbot', 'progress', 'settings'];
-    expectedSections.forEach(sectionName => {
-      const element = document.getElementById(`${sectionName}-section`);
-      console.log(`Section check - ${sectionName}: ${element ? 'EXISTS' : 'MISSING'}`);
-    });
-    
-    this.loadSettings();
-    this.loadUserData();
-    this.setupPushNotifications();
-    this.initializeTextToSpeech();
-    console.log('Language Learning PWA initialized');
-  }
-
-  // Initialize Text-to-Speech and load voices
-  initializeTextToSpeech() {
-    if ('speechSynthesis' in window) {
-      // Force cancel any ongoing speech
-      speechSynthesis.cancel();
-      
-      // Wait for voices to be loaded
-      const loadVoices = () => {
-        const voices = speechSynthesis.getVoices();
-        if (voices.length > 0) {
-          console.log('📢 Available voices loaded:', voices.length);
-          this.logAvailableVoices();
-        } else {
-          // Try again after a short delay
-          setTimeout(loadVoices, 100);
-        }
-      };
-      
-      // Load voices immediately
-      loadVoices();
-      
-      // Also set up the event listener for when voices change
-      if (speechSynthesis.onvoiceschanged !== undefined) {
-        speechSynthesis.onvoiceschanged = loadVoices;
-      }
-      
-      // Force a voices reload after a delay (some browsers need this)
-      setTimeout(() => {
-        if (speechSynthesis.getVoices().length === 0) {
-          console.log('🔄 Forcing voices reload...');
-          speechSynthesis.getVoices();
-          loadVoices();
-        }
-      }, 1000);
-    }
-  }
-
-  // Log available voices for debugging
-  logAvailableVoices() {
-    const voices = speechSynthesis.getVoices();
-    const languageVoices = {
-      spanish: voices.filter(v => v.lang.startsWith('es')),
-      english: voices.filter(v => v.lang.startsWith('en')),
-      russian: voices.filter(v => v.lang.startsWith('ru')),
-      german: voices.filter(v => v.lang.startsWith('de'))
-    };
-    
-    console.log('🗣️ Available voices by language:');
-    Object.entries(languageVoices).forEach(([lang, voiceList]) => {
-      console.log(`${lang}:`, voiceList.map(v => `${v.name} (${v.lang}) ${v.localService ? '[LOCAL]' : '[REMOTE]'}`));
-    });
-    
-    // Show total count
-    console.log(`Total voices available: ${voices.length}`);
-  }
-
-  // User Data Management
-  loadUserData() {
-    try {
-      const userData = localStorage.getItem('user-data');
-      if (userData) {
-        const data = JSON.parse(userData);
-        console.log('User data loaded:', data);
-        // Apply user preferences, progress, etc.
-      }
-    } catch (error) {
-      console.error('Error loading user data:', error);
-    }
-  }
-
-  saveUserData(data) {
-    try {
-      localStorage.setItem('user-data', JSON.stringify(data));
-      console.log('User data saved');
-    } catch (error) {
-      console.error('Error saving user data:', error);
-    }
-  }
-
-  // Push Notifications
-  async setupPushNotifications() {
-    if (!('Notification' in window) || !('serviceWorker' in navigator)) {
-      console.log('Push notifications not supported');
-      return;
-    }
-
-    try {
-      const permission = await Notification.requestPermission();
-      if (permission === 'granted') {
-        console.log('Notification permission granted');
-        // You can now send notifications
-      }
-    } catch (error) {
-      console.error('Error requesting notification permission:', error);
-    }
-  }
-
-  // Update Available Notification
-  showUpdateAvailable() {
-    const updateBanner = document.createElement('div');
-    updateBanner.className = 'update-banner';
-    updateBanner.innerHTML = `
-      <p>A new version is available!</p>
-      <button onclick="window.location.reload()">Update Now</button>
-      <button onclick="this.parentElement.remove()">Later</button>
-    `;
-    document.body.insertBefore(updateBanner, document.body.firstChild);
-  }
-
-  // Utility Methods
-  showNotification(title, options = {}) {
-    if ('Notification' in window && Notification.permission === 'granted') {
-      return new Notification(title, {
-        icon: '/icons/icon-192x192.png',
-        badge: '/icons/icon-72x72.png',
-        ...options
-      });
-    }
-  }
-
-  // Analytics (if needed)
-  trackEvent(eventName, eventData = {}) {
-    console.log('Event tracked:', eventName, eventData);
-    // Implement your analytics tracking here
-  }
-
-  // Test method for debugging TTS language issues
-  testSpeechLanguages() {
-    console.log('🧪 Testing speech synthesis for all languages...');
-    
-    const testPhrases = {
-      spanish: 'Hola',
-      english: 'Hello', 
-      russian: 'Привет'
-    };
-    
-    Object.entries(testPhrases).forEach(([lang, phrase]) => {
-      console.log(`\n--- Testing ${lang} ---`);
-      const originalLang = this.currentLanguage;
-      this.currentLanguage = lang;
-      
-      // Get card data for this language
-      const card = this.getCurrentCard();
-      console.log(`Target word: ${card.target}`);
-      
-      // Test voice selection without actually speaking
-      this.analyzeVoiceSelection(card.target);
-      
-      // Restore original language
-      this.currentLanguage = originalLang;
-    });
-  }
-  
-  // Analyze voice selection without speaking
-  analyzeVoiceSelection(text) {
-    const languageSettings = {
-      spanish: {
-        lang: 'es-ES',
-        langCodes: ['es-ES', 'es-MX', 'es-AR', 'es-US', 'es']
-      },
-      english: {
-        lang: 'en-US',
-        langCodes: ['en-US', 'en-GB', 'en-AU', 'en']
-      },
-      russian: {
-        lang: 'ru-RU',
-        langCodes: ['ru-RU', 'ru']
-      }
-    };
-    
-    const settings = languageSettings[this.currentLanguage];
-    const voices = speechSynthesis.getVoices();
-    
-    console.log(`Target language: ${this.currentLanguage} (${settings.lang})`);
-    console.log(`Available voices for this language:`, 
-      voices.filter(v => v.lang.startsWith(settings.lang.substring(0, 2)))
-        .map(v => `${v.name} (${v.lang}) ${v.localService ? '[LOCAL]' : '[REMOTE]'}`)
-    );
-  }
-
-  // Settings Controls Setup
-  setupSettingsControls() {
-    // English variant selection
-    const englishVariantInputs = document.querySelectorAll('input[name="english-variant"]');
-    englishVariantInputs.forEach(input => {
-      input.addEventListener('change', (e) => {
-        this.settings.englishVariant = e.target.value;
-        this.saveSettings();
-        this.onSettingsChange();
-        console.log(`English variant changed to: ${this.settings.englishVariant}`);
-      });
-    });
-
-    // Speech rate control
-    const speechRateSlider = document.getElementById('speech-rate');
-    const rateValueDisplay = document.getElementById('rate-value');
-    
-    if (speechRateSlider && rateValueDisplay) {
-      speechRateSlider.addEventListener('input', (e) => {
-        this.settings.speechRate = parseFloat(e.target.value);
-        rateValueDisplay.textContent = `${this.settings.speechRate}x`;
-        this.saveSettings();
-      });
-    }
-
-    // Auto-speak toggle
-    const autoSpeakCheckbox = document.getElementById('auto-speak');
-    if (autoSpeakCheckbox) {
-      autoSpeakCheckbox.addEventListener('change', (e) => {
-        this.settings.autoSpeak = e.target.checked;
-        this.saveSettings();
-        console.log(`Auto-speak ${this.settings.autoSpeak ? 'enabled' : 'disabled'}`);
-      });
-    }
-
-    // Test buttons
-    const testButtons = {
-      'test-spanish': () => this.testLanguageVoice('spanish', 'Hola'),
-      'test-english': () => this.testLanguageVoice('english', this.settings.englishVariant === 'gb' ? 'Colour' : 'Color'),
-      'test-russian': () => this.testLanguageVoice('russian', 'Привет')
-    };
-
-    Object.entries(testButtons).forEach(([id, handler]) => {
-      const button = document.getElementById(id);
-      if (button) {
-        button.addEventListener('click', handler);
-      }
-    });
-  }
-
-  // Test voice for specific language
-  testLanguageVoice(language, testWord) {
-    const originalLanguage = this.currentLanguage;
-    const originalAutoSpeak = this.settings.autoSpeak;
-    
-    // Temporarily set language and enable speaking
-    this.currentLanguage = language;
-    this.settings.autoSpeak = true;
-    
-    // Create a test utterance
-    const utterance = new SpeechSynthesisUtterance(testWord);
-    const languageSettings = this.getLanguageSettings();
-    const settings = languageSettings[language];
-    
-    if (settings) {
-      utterance.lang = settings.lang;
-      utterance.rate = settings.rate;
-      utterance.pitch = settings.pitch;
-      
-      // Find appropriate voice
-      const voices = speechSynthesis.getVoices();
-      const selectedVoice = this.findBestVoice(voices, settings.langCodes);
-      
-      if (selectedVoice) {
-        utterance.voice = selectedVoice;
-      }
-      
-      console.log(`🧪 Testing ${language}: "${testWord}" with voice: ${selectedVoice ? selectedVoice.name : 'default'}`);
-      speechSynthesis.speak(utterance);
-    }
-    
-    // Restore original settings
-    this.currentLanguage = originalLanguage;
-    this.settings.autoSpeak = originalAutoSpeak;
-  }
-
-  // Get language settings (extracted for reuse)
-  getLanguageSettings() {
+  // Spaced Repetition System
+  getDefaultSpacedRepetitionData() {
     return {
-      spanish: {
-        lang: 'es-ES',
-        langCodes: ['es-ES', 'es-MX', 'es-AR', 'es-US', 'es'],
-        rate: this.settings.speechRate,
-        pitch: 1.0
-      },
-      english: {
-        lang: this.settings.englishVariant === 'gb' ? 'en-GB' : 'en-US',
-        langCodes: this.settings.englishVariant === 'gb' ? 
-          ['en-GB', 'en-AU', 'en-NZ', 'en'] : 
-          ['en-US', 'en-CA', 'en'],
-        rate: this.settings.speechRate,
-        pitch: 1.0
-      },
-      russian: {
-        lang: 'ru-RU',
-        langCodes: ['ru-RU', 'ru'],
-        rate: this.settings.speechRate * 0.8,
-        pitch: 1.0
-      }
+      level: 0, // 0 = new, 1 = difficult, 2 = easy, 3 = known
+      interval: 1, // days until next review
+      lastReviewed: null,
+      nextReview: new Date().toDateString(), // today
+      reviewCount: 0,
+      streak: 0 // consecutive correct answers
     };
   }
 
-  // Extract voice finding logic
-  findBestVoice(voices, langCodes) {
-    let selectedVoice = null;
-    
-    // 1. Try to find exact language match with local service
-    for (const langCode of langCodes) {
-      selectedVoice = voices.find(voice => 
-        voice.lang === langCode && voice.localService
-      );
-      if (selectedVoice) break;
-    }
-    
-    // 2. Try to find exact language match (any service)
-    if (!selectedVoice) {
-      for (const langCode of langCodes) {
-        selectedVoice = voices.find(voice => voice.lang === langCode);
-        if (selectedVoice) break;
-      }
-    }
-    
-    // 3. Try to find language prefix match with local service
-    if (!selectedVoice) {
-      for (const langCode of langCodes) {
-        const prefix = langCode.substring(0, 2);
-        selectedVoice = voices.find(voice => 
-          voice.lang.startsWith(prefix) && voice.localService
-        );
-        if (selectedVoice) break;
-      }
-    }
-    
-    // 4. Try to find any language prefix match
-    if (!selectedVoice) {
-      for (const langCode of langCodes) {
-        const prefix = langCode.substring(0, 2);
-        selectedVoice = voices.find(voice => voice.lang.startsWith(prefix));
-        if (selectedVoice) break;
-      }
-    }
-    
-    return selectedVoice;
-  }
-
-  // Handle settings changes
-  onSettingsChange() {
-    // Refresh vocabulary data to reflect new English variant
-    if (this.currentLanguage === 'english') {
-      this.loadCurrentCard();
-    }
-  }
-
-  // Load settings from localStorage
-  loadSettings() {
+  getSpacedRepetitionData() {
     try {
-      const savedSettings = localStorage.getItem('app-settings');
-      if (savedSettings) {
-        this.settings = { ...this.settings, ...JSON.parse(savedSettings) };
-      }
+      const data = localStorage.getItem('spaced-repetition-data');
+      return data ? JSON.parse(data) : {};
     } catch (error) {
-      console.error('Error loading settings:', error);
+      console.error('Error loading spaced repetition data:', error);
+      return {};
     }
-
-    // Update UI to reflect loaded settings
-    this.updateSettingsUI();
   }
 
-  // Save settings to localStorage
-  saveSettings() {
+  saveSpacedRepetitionData(data) {
     try {
-      localStorage.setItem('app-settings', JSON.stringify(this.settings));
-      console.log('Settings saved:', this.settings);
+      localStorage.setItem('spaced-repetition-data', JSON.stringify(data));
     } catch (error) {
-      console.error('Error saving settings:', error);
+      console.error('Error saving spaced repetition data:', error);
     }
   }
 
-  // Update settings UI
-  updateSettingsUI() {
-    // English variant radio buttons
-    const englishVariantInput = document.querySelector(`input[name="english-variant"][value="${this.settings.englishVariant}"]`);
-    if (englishVariantInput) {
-      englishVariantInput.checked = true;
+  updateSpacedRepetition(cardId, difficulty) {
+    const srData = this.getSpacedRepetitionData();
+    const cardData = srData[cardId] || this.getDefaultSpacedRepetitionData();
+    
+    const today = new Date();
+    cardData.lastReviewed = today.toDateString();
+    cardData.reviewCount++;
+    
+    // Update level and calculate new interval based on difficulty
+    switch(difficulty) {
+      case 'difficult':
+        cardData.level = Math.max(1, cardData.level); // At least level 1
+        cardData.streak = 0;
+        cardData.interval = 0; // Review again in the same session (minutes)
+        cardData.nextReview = today.toDateString(); // Today
+        break;
+        
+      case 'easy':
+        cardData.level = Math.max(2, cardData.level); // At least level 2
+        cardData.streak++;
+        
+        // Progressive intervals within the same day, then next day
+        if (cardData.streak === 1) {
+          cardData.interval = 10; // 10 minutes
+        } else if (cardData.streak === 2) {
+          cardData.interval = 30; // 30 minutes  
+        } else if (cardData.streak === 3) {
+          cardData.interval = 60; // 1 hour
+        } else if (cardData.streak === 4) {
+          cardData.interval = 180; // 3 hours
+        } else {
+          cardData.interval = 360; // 6 hours, but still same day
+        }
+        
+        // Calculate next review time (in minutes from now)
+        const nextReview = new Date(today);
+        nextReview.setMinutes(nextReview.getMinutes() + cardData.interval);
+        cardData.nextReview = nextReview.toISOString();
+        break;
+        
+      case 'known':
+        cardData.level = 3;
+        cardData.streak++;
+        
+        // Days-based intervals for known cards
+        if (cardData.streak === 1) {
+          cardData.interval = 1; // 1 day
+        } else if (cardData.streak === 2) {
+          cardData.interval = 2; // 2 days
+        } else if (cardData.streak === 3) {
+          cardData.interval = 5; // 5 days
+        } else if (cardData.streak === 4) {
+          cardData.interval = 10; // 10 days
+        } else if (cardData.streak === 5) {
+          cardData.interval = 20; // 20 days
+        } else {
+          cardData.interval = Math.min(cardData.interval * 2, 90); // Max 3 months
+        }
+        
+        // Calculate next review date (in days)
+        const nextReviewKnown = new Date(today);
+        nextReviewKnown.setDate(nextReviewKnown.getDate() + cardData.interval);
+        cardData.nextReview = nextReviewKnown.toDateString();
+        break;
     }
-
-    // Speech rate slider
-    const speechRateSlider = document.getElementById('speech-rate');
-    const rateValueDisplay = document.getElementById('rate-value');
-    if (speechRateSlider) {
-      speechRateSlider.value = this.settings.speechRate;
-    }
-    if (rateValueDisplay) {
-      rateValueDisplay.textContent = `${this.settings.speechRate}x`;
-    }
-
-    // Auto-speak checkbox
-    const autoSpeakCheckbox = document.getElementById('auto-speak');
-    if (autoSpeakCheckbox) {
-      autoSpeakCheckbox.checked = this.settings.autoSpeak;
-    }
+    
+    // Save updated data
+    srData[cardId] = cardData;
+    this.saveSpacedRepetitionData(srData);
+    
+    console.log(`Card ${cardId} updated:`, {
+      difficulty,
+      level: cardData.level,
+      interval: cardData.interval,
+      nextReview: cardData.nextReview,
+      streak: cardData.streak
+    });
   }
 
-  // ...existing code...
+  getDueCards() {
+    const vocabulary = this.getVocabularyData();
+    const cards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    const now = new Date();
+    
+    // Filter cards that are due for review
+    const dueCards = cards.filter(card => {
+      if (!card.nextReview) return true; // New cards are always due
+      
+      // Handle different date formats (ISO string for time-based, date string for day-based)
+      const nextReviewDate = new Date(card.nextReview);
+      
+      // Check if the review date is invalid
+      if (isNaN(nextReviewDate.getTime())) {
+        console.warn(`Invalid nextReview date for card: ${card.german}`, card.nextReview);
+        return true; // Include cards with invalid dates
+      }
+      
+      // For cards with levels 1-5 (Difficult and Easy) that should stay in session
+      if (card.level >= 1 && card.level <= 5 && card.nextReview.includes('T')) {
+        // Time-based review (ISO string) - these stay in session until level 6
+        const isDue = nextReviewDate <= now;
+        console.log(`Time-based card "${card.german}" (level ${card.level}): due=${isDue}, nextReview=${card.nextReview}`);
+        return isDue;
+      } else if (card.level >= 6) {
+        // Date-based review (level 6+) - day-based scheduling
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        nextReviewDate.setHours(0, 0, 0, 0);
+        const isDue = nextReviewDate <= today;
+        console.log(`Date-based card "${card.german}" (level ${card.level}): due=${isDue}, nextReview=${card.nextReview}`);
+        return isDue;
+      } else {
+        // Fallback for other cases
+        return nextReviewDate <= now;
+      }
+    });
+    
+    console.log(`Found ${dueCards.length} due cards out of ${cards.length} total cards`);
+    
+    // Sort by priority: difficult cards first, then new cards, then by review date
+    dueCards.sort((a, b) => {
+      // Difficult cards (level 1) first
+      if (a.level === 1 && b.level !== 1) return -1;
+      if (b.level === 1 && a.level !== 1) return 1;
+      
+      // New cards (level 0) next
+      if (!a.lastReviewed && b.lastReviewed) return -1;
+      if (a.lastReviewed && !b.lastReviewed) return 1;
+      
+      // Sort by next review date/time
+      const dateA = new Date(a.nextReview || now);
+      const dateB = new Date(b.nextReview || now);
+      return dateA - dateB;
+    });
+    
+    return dueCards;
+  }
+
+  showNoCardsMessage() {
+    const vocabulary = this.getVocabularyData();
+    const allCards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    const now = new Date();
+    
+    // Check if there are any session-based cards still pending
+    const sessionCards = allCards.filter(card => {
+      return card.level >= 1 && card.level <= 5 && card.nextReview && card.nextReview.includes('T');
+    });
+    
+    const pendingSessionCards = sessionCards.filter(card => {
+      const nextReviewDate = new Date(card.nextReview);
+      return nextReviewDate > now;
+    });
+    
+    const flashcardContainer = document.querySelector('.flashcard-container');
+    if (flashcardContainer) {
+      let message, subtitle;
+      
+      if (pendingSessionCards.length > 0) {
+        // There are still session cards pending
+        const nextReview = Math.min(...pendingSessionCards.map(card => new Date(card.nextReview).getTime()));
+        const minutesUntilNext = Math.round((nextReview - now.getTime()) / (1000 * 60));
+        
+        message = "Session-Pause";
+        subtitle = `${pendingSessionCards.length} Karten warten noch in dieser Session. Nächste Karte in ${minutesUntilNext} Minuten.`;
+      } else {
+        // All session cards are done, only daily cards remain
+        message = "Alle Karten für heute erledigt!";
+        subtitle = "Komm morgen wieder für neue Wiederholungen.";
+      }
+      
+      flashcardContainer.innerHTML = `
+        <div class="no-cards-message">
+          <div class="no-cards-icon">🎉</div>
+          <h3>${message}</h3>
+          <p>${subtitle}</p>
+          <button class="btn btn--primary" onclick="window.languageLearningApp.showAllCards()">
+            Alle Karten anzeigen
+          </button>
+        </div>
+      `;
+    }
+    
+    // Hide navigation and action buttons
+    const cardControls = document.querySelector('.section-controls');
+    const cardActions = document.querySelector('.flashcard-actions');
+    if (cardControls) cardControls.style.display = 'none';
+    if (cardActions) cardActions.style.display = 'none';
+  }
+
+  showAllCards() {
+    // Reset to show all cards regardless of review schedule
+    const vocabulary = this.getVocabularyData();
+    this.currentDueCards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    this.currentCardIndex = 0;
+    
+    // Restore normal flashcard display
+    const flashcardContainer = document.querySelector('.flashcard-container');
+    if (flashcardContainer) {
+      flashcardContainer.innerHTML = `
+        <div id="flashcard" class="flashcard">
+          <div class="flashcard-inner">
+            <div class="flashcard-front">
+              <div class="word-german">Hallo</div>
+              <div class="example-sentence">"Hallo, wie geht es dir?"</div>
+              <button class="flip-btn">Übersetzen</button>
+            </div>
+            <div class="flashcard-back">
+              <div class="word-target">Hello</div>
+              <div class="example-sentence-target">"Hello, how are you?"</div>
+              <button class="speak-btn" id="speak-btn">🔊 Anhören</button>
+              <button class="flip-btn">Zurück</button>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+    
+    // Restore controls
+    const cardControls = document.querySelector('.section-controls');
+    const cardActions = document.querySelector('.flashcard-actions');
+    if (cardControls) cardControls.style.display = 'flex';
+    if (cardActions) cardActions.style.display = 'flex';
+    
+    // Re-setup flashcard controls
+    this.setupFlashcardControls();
+    this.loadCurrentCard();
+    this.updateCardCounter();
+  }
 }
 
-// Initialize the app when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
+// Initialize the app when the DOM is loaded
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('DOM Content Loaded - Initializing Language Learning PWA');
   window.languageLearningApp = new LanguageLearningPWA();
 });
 
-// Export for use in other modules
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = { LanguageLearningPWA };
+// Fallback for browsers that don't support DOMContentLoaded
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', function() {
+    if (!window.languageLearningApp) {
+      console.log('Fallback initialization - Creating Language Learning PWA');
+      window.languageLearningApp = new LanguageLearningPWA();
+    }
+  });
+} else {
+  // DOM is already loaded
+  console.log('DOM already loaded - Initializing Language Learning PWA immediately');
+  window.languageLearningApp = new LanguageLearningPWA();
 }
