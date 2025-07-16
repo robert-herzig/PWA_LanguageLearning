@@ -96,37 +96,74 @@
             </section>
             <!-- Flashcards Section -->
             <section id="flashcards-section" class="learning-section">
-                <div class="section-header">
-                    <h3>📚 Lernkarten</h3>
-                    <div class="section-controls">
-                        <button id="prev-card" class="card-nav-btn" disabled>←</button>
-                        <span id="card-counter" class="card-counter">1 / 3</span>
-                        <button id="next-card" class="card-nav-btn">→</button>
+                <!-- Level Selection View -->
+                <div id="level-selection" class="level-selection-container">
+                    <div class="section-header">
+                        <h3>📚 Lernkarten - Wähle dein Level</h3>
                     </div>
+                    
+                    <div class="level-grid">
+                        <div class="level-card" data-level="beginner">
+                            <div class="level-icon">🌱</div>
+                            <h4>Anfänger</h4>
+                            <p>Grundwortschatz und einfache Phrasen</p>
+                            <button class="level-btn">Starten</button>
+                        </div>
+                        
+                        <div class="level-card" data-level="b2">
+                            <div class="level-icon">📖</div>
+                            <h4>B2 Mittelstufe</h4>
+                            <p>Erweiterte Vokabeln für selbstständige Sprachverwendung</p>
+                            <button class="level-btn">Starten</button>
+                        </div>
+                        
+                        <div class="level-card" data-level="c1">
+                            <div class="level-icon">🎓</div>
+                            <h4>C1 Fortgeschritten</h4>
+                            <p>Komplexe Vokabeln für fachkundige Sprachverwendung</p>
+                            <button class="level-btn">Starten</button>
+                        </div>
+                    </div>
+                    
+                    <button id="back-to-level" class="back-btn" style="display: none;">← Zurück zur Level-Auswahl</button>
                 </div>
                 
-                <div class="flashcard-container">
-                    <div id="flashcard" class="flashcard">
-                        <div class="flashcard-inner">
-                            <div class="flashcard-front">
-                                <div class="word-german">Hallo</div>
-                                <div class="example-sentence">"Hallo, wie geht es dir?"</div>
-                                <button class="flip-btn">Übersetzen</button>
-                            </div>
-                            <div class="flashcard-back">
-                                <div class="word-target">Hello</div>
-                                <div class="example-sentence-target">"Hello, how are you?"</div>
-                                <button class="speak-btn" id="speak-btn">🔊 Anhören</button>
-                                <button class="flip-btn">Zurück</button>
+                <!-- Flashcard Practice View -->
+                <div id="flashcard-practice" class="flashcard-practice-container" style="display: none;">
+                    <div class="section-header">
+                        <h3 id="current-level-title">📚 Lernkarten</h3>
+                        <div class="section-controls">
+                            <button id="prev-card" class="card-nav-btn" disabled>←</button>
+                            <span id="card-counter" class="card-counter">1 / 3</span>
+                            <button id="next-card" class="card-nav-btn">→</button>
+                        </div>
+                    </div>
+                    
+                    <div class="flashcard-container">
+                        <div id="flashcard" class="flashcard">
+                            <div class="flashcard-inner">
+                                <div class="flashcard-front">
+                                    <div class="word-german">Hallo</div>
+                                    <div class="example-sentence">"Hallo, wie geht es dir?"</div>
+                                    <button class="flip-btn">Übersetzen</button>
+                                </div>
+                                <div class="flashcard-back">
+                                    <div class="word-target">Hello</div>
+                                    <div class="example-sentence-target">"Hello, how are you?"</div>
+                                    <button class="speak-btn" id="speak-btn">🔊 Anhören</button>
+                                    <button class="flip-btn">Zurück</button>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="flashcard-actions">
-                    <button id="difficult-btn" class="action-btn difficult">🔴 Schwierig</button>
-                    <button id="easy-btn" class="action-btn easy">🟡 Einfach</button>
-                    <button id="known-btn" class="action-btn known">🟢 Bekannt</button>
+                    <div class="flashcard-actions">
+                        <button id="difficult-btn" class="action-btn difficult">🔴 Schwierig</button>
+                        <button id="easy-btn" class="action-btn easy">🟡 Einfach</button>
+                        <button id="known-btn" class="action-btn known">🟢 Bekannt</button>
+                    </div>
+                    
+                    <button id="back-to-levels" class="back-btn">← Zurück zur Level-Auswahl</button>
                 </div>
             </section>
 

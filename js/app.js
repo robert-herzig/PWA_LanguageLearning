@@ -5,12 +5,14 @@ class LanguageLearningPWA {
     this.deferredPrompt = null;
     this.isOnline = navigator.onLine;
     this.currentLanguage = 'spanish';
+    this.currentLevel = 'beginner'; // Add level support
     this.currentCardIndex = 0;
     this.currentSection = 'home'; // Start with home section
     this.settings = {
       englishVariant: 'us', // 'us' or 'gb'
       speechRate: 0.9,
-      autoSpeak: true
+      autoSpeak: true,
+      speakExample: true // Speak example sentences too
     };
     this.init();
   }
@@ -34,6 +36,7 @@ class LanguageLearningPWA {
     setTimeout(() => {
       console.log('=== INITIALIZING HOME NAVIGATION ===');
       this.setupHomeNavigation();
+      this.setupLevelSelection();
     }, 100);
   }
 
@@ -258,6 +261,85 @@ class LanguageLearningPWA {
     }, 500);
   }
 
+  // Level Selection Setup
+  setupLevelSelection() {
+    console.log('=== SETTING UP LEVEL SELECTION ===');
+    
+    // Level selection buttons
+    const levelCards = document.querySelectorAll('.level-card');
+    levelCards.forEach(card => {
+      card.addEventListener('click', (e) => {
+        const level = card.dataset.level;
+        this.selectLevel(level);
+      });
+      
+      const levelBtn = card.querySelector('.level-btn');
+      if (levelBtn) {
+        levelBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const level = card.dataset.level;
+          this.selectLevel(level);
+        });
+      }
+    });
+    
+    // Back to level selection buttons
+    const backButtons = document.querySelectorAll('#back-to-levels, #back-to-level');
+    backButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        this.showLevelSelection();
+      });
+    });
+    
+    console.log('=== LEVEL SELECTION SETUP COMPLETE ===');
+  }
+
+  selectLevel(level) {
+    console.log(`=== LEVEL SELECTED: ${level} ===`);
+    this.currentLevel = level;
+    
+    // Save level selection
+    localStorage.setItem('currentLevel', level);
+    
+    // Show flashcard practice
+    this.showFlashcardPractice();
+    
+    // Initialize flashcards for this level
+    this.initializeFlashcards();
+  }
+
+  showLevelSelection() {
+    const levelSelection = document.getElementById('level-selection');
+    const flashcardPractice = document.getElementById('flashcard-practice');
+    
+    if (levelSelection && flashcardPractice) {
+      levelSelection.style.display = 'block';
+      flashcardPractice.style.display = 'none';
+    }
+  }
+
+  showFlashcardPractice() {
+    const levelSelection = document.getElementById('level-selection');
+    const flashcardPractice = document.getElementById('flashcard-practice');
+    const levelTitle = document.getElementById('current-level-title');
+    
+    if (levelSelection && flashcardPractice) {
+      levelSelection.style.display = 'none';
+      flashcardPractice.style.display = 'block';
+      
+      // Update title
+      if (levelTitle) {
+        const levelNames = {
+          'beginner': 'Anfänger',
+          'b2': 'B2 Mittelstufe',
+          'c1': 'C1 Fortgeschritten'
+        };
+        const levelName = levelNames[this.currentLevel] || 'Lernkarten';
+        levelTitle.textContent = `📚 ${levelName} - ${this.currentLanguage.charAt(0).toUpperCase() + this.currentLanguage.slice(1)}`;
+      }
+    }
+  }
+
   // Navigation Handler
   navigateToSection(section) {
     console.log(`=== NAVIGATING TO: ${section} ===`);
@@ -321,7 +403,15 @@ class LanguageLearningPWA {
 
   showFlashcardsSection() {
     console.log('Showing flashcards section');
-    this.loadCurrentCard();
+    
+    // Show level selection first
+    const levelSelection = document.getElementById('level-selection');
+    const flashcardPractice = document.getElementById('flashcard-practice');
+    
+    if (levelSelection && flashcardPractice) {
+      levelSelection.style.display = 'block';
+      flashcardPractice.style.display = 'none';
+    }
   }
 
   showChatbotSection() {
@@ -638,97 +728,235 @@ class LanguageLearningPWA {
   }
 
   getVocabularyData() {
-    // Base vocabulary data - this would be expanded with more words
+    // Base vocabulary data organized by language and level
     const baseVocabulary = {
-      spanish: [
-        {
-          id: 'es_1',
-          german: 'Hallo',
-          target: 'Hola',
-          germanExample: '"Hallo, wie geht es dir?"',
-          targetExample: '"Hola, ¿cómo estás?"'
-        },
-        {
-          id: 'es_2',
-          german: 'Danke',
-          target: 'Gracias',
-          germanExample: '"Danke für deine Hilfe!"',
-          targetExample: '"¡Gracias por tu ayuda!"'
-        },
-        {
-          id: 'es_3',
-          german: 'Auf Wiedersehen',
-          target: 'Adiós',
-          germanExample: '"Auf Wiedersehen, bis morgen!"',
-          targetExample: '"¡Adiós, hasta mañana!"'
-        }
-      ],
-      english: [
-        {
-          id: 'en_1',
-          german: 'Hallo',
-          target: this.settings.englishVariant === 'gb' ? 'Hello' : 'Hello',
-          germanExample: '"Hallo, wie geht es dir?"',
-          targetExample: this.settings.englishVariant === 'gb' ? '"Hello, how are you?"' : '"Hello, how are you?"'
-        },
-        {
-          id: 'en_2',
-          german: 'Danke',
-          target: this.settings.englishVariant === 'gb' ? 'Thank you' : 'Thank you',
-          germanExample: '"Danke für deine Hilfe!"',
-          targetExample: this.settings.englishVariant === 'gb' ? '"Thank you for your help!"' : '"Thank you for your help!"'
-        },
-        {
-          id: 'en_3',
-          german: 'Farbe',
-          target: this.settings.englishVariant === 'gb' ? 'Colour' : 'Color',
-          germanExample: '"Welche Farbe magst du?"',
-          targetExample: this.settings.englishVariant === 'gb' ? '"What colour do you like?"' : '"What color do you like?"'
-        }
-      ],
-      russian: [
-        {
-          id: 'ru_1',
-          german: 'Hallo',
-          target: 'Привет',
-          germanExample: '"Hallo, wie geht es dir?"',
-          targetExample: '"Привет, как дела?"'
-        },
-        {
-          id: 'ru_2',
-          german: 'Danke',
-          target: 'Спасибо',
-          germanExample: '"Danke für deine Hilfe!"',
-          targetExample: '"Спасибо за помощь!"'
-        },
-        {
-          id: 'ru_3',
-          german: 'Auf Wiedersehen',
-          target: 'До свидания',
-          germanExample: '"Auf Wiedersehen, bis morgen!"',
-          targetExample: '"До свидания, до завтра!"'
-        }
-      ]
+      spanish: {
+        beginner: [
+          {
+            id: 'es_beg_1',
+            german: 'Hallo',
+            target: 'Hola',
+            germanExample: '"Hallo, wie geht es dir?"',
+            targetExample: '"Hola, ¿cómo estás?"'
+          },
+          {
+            id: 'es_beg_2',
+            german: 'Danke',
+            target: 'Gracias',
+            germanExample: '"Danke für deine Hilfe!"',
+            targetExample: '"¡Gracias por tu ayuda!"'
+          },
+          {
+            id: 'es_beg_3',
+            german: 'Auf Wiedersehen',
+            target: 'Adiós',
+            germanExample: '"Auf Wiedersehen, bis morgen!"',
+            targetExample: '"¡Adiós, hasta mañana!"'
+          },
+          {
+            id: 'es_beg_4',
+            german: 'Bitte',
+            target: 'Por favor',
+            germanExample: '"Kannst du mir bitte helfen?"',
+            targetExample: '"¿Puedes ayudarme por favor?"'
+          },
+          {
+            id: 'es_beg_5',
+            german: 'Entschuldigung',
+            target: 'Disculpe',
+            germanExample: '"Entschuldigung, wo ist der Bahnhof?"',
+            targetExample: '"Disculpe, ¿dónde está la estación?"'
+          }
+        ]
+      },
+      english: {
+        beginner: [
+          {
+            id: 'en_beg_1',
+            german: 'Hallo',
+            target: 'Hello',
+            germanExample: '"Hallo, wie geht es dir?"',
+            targetExample: '"Hello, how are you?"'
+          },
+          {
+            id: 'en_beg_2',
+            german: 'Danke',
+            target: 'Thank you',
+            germanExample: '"Danke für deine Hilfe!"',
+            targetExample: '"Thank you for your help!"'
+          },
+          {
+            id: 'en_beg_3',
+            german: 'Farbe',
+            target: this.settings.englishVariant === 'gb' ? 'Colour' : 'Color',
+            germanExample: '"Welche Farbe magst du?"',
+            targetExample: this.settings.englishVariant === 'gb' ? '"What colour do you like?"' : '"What color do you like?"'
+          },
+          {
+            id: 'en_beg_4',
+            german: 'Bitte',
+            target: 'Please',
+            germanExample: '"Kannst du mir bitte helfen?"',
+            targetExample: '"Can you please help me?"'
+          },
+          {
+            id: 'en_beg_5',
+            german: 'Entschuldigung',
+            target: 'Excuse me',
+            germanExample: '"Entschuldigung, wo ist der Bahnhof?"',
+            targetExample: '"Excuse me, where is the station?"'
+          }
+        ],
+        b2: [
+          {
+            id: 'en_b2_1',
+            german: 'verlassen',
+            target: 'abandon',
+            germanExample: '"Er musste sein Zuhause verlassen."',
+            targetExample: '"He had to abandon his home."'
+          },
+          {
+            id: 'en_b2_2',
+            german: 'absolut',
+            target: 'absolute',
+            germanExample: '"Das ist die absolute Wahrheit."',
+            targetExample: '"That is the absolute truth."'
+          },
+          {
+            id: 'en_b2_3',
+            german: 'absorbieren',
+            target: 'absorb',
+            germanExample: '"Der Schwamm kann viel Wasser absorbieren."',
+            targetExample: '"The sponge can absorb a lot of water."'
+          },
+          {
+            id: 'en_b2_4',
+            german: 'abstrakt',
+            target: 'abstract',
+            germanExample: '"Das ist ein sehr abstrakter Begriff."',
+            targetExample: '"That is a very abstract concept."'
+          },
+          {
+            id: 'en_b2_5',
+            german: 'akademisch',
+            target: 'academic',
+            germanExample: '"Seine akademische Laufbahn war sehr erfolgreich."',
+            targetExample: '"His academic career was very successful."'
+          }
+        ],
+        c1: [
+          {
+            id: 'en_c1_1',
+            german: 'abschaffen',
+            target: 'abolish',
+            germanExample: '"Die Regierung will die Todesstrafe abschaffen."',
+            targetExample: '"The government wants to abolish the death penalty."'
+          },
+          {
+            id: 'en_c1_2',
+            german: 'Abtreibung',
+            target: 'abortion',
+            germanExample: '"Das Thema Abtreibung ist kontrovers."',
+            targetExample: '"The topic of abortion is controversial."'
+          },
+          {
+            id: 'en_c1_3',
+            german: 'Abwesenheit',
+            target: 'absence',
+            germanExample: '"Seine Abwesenheit fiel auf."',
+            targetExample: '"His absence was noticeable."'
+          },
+          {
+            id: 'en_c1_4',
+            german: 'abwesend',
+            target: 'absent',
+            germanExample: '"Er war gestern von der Schule abwesend."',
+            targetExample: '"He was absent from school yesterday."'
+          },
+          {
+            id: 'en_c1_5',
+            german: 'absurd',
+            target: 'absurd',
+            germanExample: '"Das ist eine absurde Idee."',
+            targetExample: '"That is an absurd idea."'
+          }
+        ]
+      },
+      russian: {
+        beginner: [
+          {
+            id: 'ru_beg_1',
+            german: 'Hallo',
+            target: 'Привет',
+            germanExample: '"Hallo, wie geht es dir?"',
+            targetExample: '"Привет, как дела?"'
+          },
+          {
+            id: 'ru_beg_2',
+            german: 'Danke',
+            target: 'Спасибо',
+            germanExample: '"Danke für deine Hilfe!"',
+            targetExample: '"Спасибо за помощь!"'
+          },
+          {
+            id: 'ru_beg_3',
+            german: 'Auf Wiedersehen',
+            target: 'До свидания',
+            germanExample: '"Auf Wiedersehen, bis morgen!"',
+            targetExample: '"До свидания, до завтра!"'
+          },
+          {
+            id: 'ru_beg_4',
+            german: 'Bitte',
+            target: 'Пожалуйста',
+            germanExample: '"Kannst du mir bitte helfen?"',
+            targetExample: '"Можешь мне помочь, пожалуйста?"'
+          },
+          {
+            id: 'ru_beg_5',
+            german: 'Entschuldigung',
+            target: 'Извините',
+            germanExample: '"Entschuldigung, wo ist der Bahnhof?"',
+            targetExample: '"Извините, где вокзал?"'
+          }
+        ]
+      }
     };
 
     // Get spaced repetition data from localStorage
     const spacedRepetitionData = this.getSpacedRepetitionData();
     
-    // Merge base data with spaced repetition data
-    const vocabulary = {};
-    Object.keys(baseVocabulary).forEach(lang => {
-      vocabulary[lang] = baseVocabulary[lang].map(card => {
+    // Get vocabulary for current language and level
+    const languageData = baseVocabulary[this.currentLanguage];
+    if (!languageData) {
+      console.warn(`No vocabulary data for language: ${this.currentLanguage}`);
+      return baseVocabulary.spanish.beginner.map(card => {
         const srData = spacedRepetitionData[card.id] || this.getDefaultSpacedRepetitionData();
         return { ...card, ...srData };
       });
+    }
+    
+    const levelData = languageData[this.currentLevel];
+    if (!levelData) {
+      console.warn(`No vocabulary data for level: ${this.currentLevel} in language: ${this.currentLanguage}`);
+      // Fallback to beginner level
+      const fallbackData = languageData.beginner || languageData[Object.keys(languageData)[0]];
+      return fallbackData.map(card => {
+        const srData = spacedRepetitionData[card.id] || this.getDefaultSpacedRepetitionData();
+        return { ...card, ...srData };
+      });
+    }
+    
+    // Merge base data with spaced repetition data
+    return levelData.map(card => {
+      const srData = spacedRepetitionData[card.id] || this.getDefaultSpacedRepetitionData();
+      return { ...card, ...srData };
     });
-
-    return vocabulary;
   }
 
   getCurrentCard() {
-    // Use due cards if available, otherwise fall back to all cards
-    const cards = this.currentDueCards || this.getVocabularyData()[this.currentLanguage] || this.getVocabularyData().spanish;
+    // Use due cards if available, otherwise fall back to vocabulary data
+    const cards = this.currentDueCards || this.getVocabularyData();
     return cards[this.currentCardIndex] || cards[0];
   }
 
@@ -859,8 +1087,7 @@ class LanguageLearningPWA {
   }
 
   previousCard() {
-    const vocabulary = this.getVocabularyData();
-    const cards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    const cards = this.currentDueCards || this.getVocabularyData();
     
     if (this.currentCardIndex > 0) {
       this.currentCardIndex--;
@@ -871,8 +1098,7 @@ class LanguageLearningPWA {
   }
 
   nextCard() {
-    const vocabulary = this.getVocabularyData();
-    const cards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    const cards = this.currentDueCards || this.getVocabularyData();
     
     if (this.currentCardIndex < cards.length - 1) {
       this.currentCardIndex++;
@@ -883,7 +1109,7 @@ class LanguageLearningPWA {
   }
 
   updateCardCounter() {
-    const cards = this.currentDueCards || this.getVocabularyData()[this.currentLanguage] || this.getVocabularyData().spanish;
+    const cards = this.currentDueCards || this.getVocabularyData();
     const counter = document.getElementById('card-counter');
     
     if (counter) {
@@ -901,8 +1127,7 @@ class LanguageLearningPWA {
   }
 
   updateNavigationButtons() {
-    const vocabulary = this.getVocabularyData();
-    const cards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    const cards = this.currentDueCards || this.getVocabularyData();
     const prevBtn = document.getElementById('prev-card');
     const nextBtn = document.getElementById('next-card');
     
@@ -915,7 +1140,7 @@ class LanguageLearningPWA {
     }
   }
 
-  // Text-to-Speech with proper language support
+  // Text-to-Speech with proper language support and example sentences
   speakCurrentWord() {
     console.log('=== SPEAK CURRENT WORD CALLED ===');
     
@@ -942,22 +1167,17 @@ class LanguageLearningPWA {
       return;
     }
     
-    const textToSpeak = card.target;
-    console.log(`📢 Text to speak: "${textToSpeak}"`);
+    // Get text to speak (word and optionally example)
+    const wordToSpeak = card.target;
+    const exampleToSpeak = card.targetExample;
+    
+    console.log(`📢 Word to speak: "${wordToSpeak}"`);
+    console.log(`📢 Example to speak: "${exampleToSpeak}"`);
     
     // Cancel any ongoing speech without error messages
     if (speechSynthesis.speaking) {
       speechSynthesis.cancel();
     }
-    
-    // Simple test first - try without any voice settings
-    const testUtterance = new SpeechSynthesisUtterance(textToSpeak);
-    testUtterance.rate = 0.8;
-    testUtterance.volume = 1;
-    
-    // Get available voices
-    const voices = speechSynthesis.getVoices();
-    console.log(`📋 Available voices (${voices.length}):`, voices.map(v => `${v.name} (${v.lang}) - Local: ${v.localService}`));
     
     // Visual feedback
     const speakBtn = document.getElementById('speak-btn');
@@ -966,77 +1186,118 @@ class LanguageLearningPWA {
       speakBtn.disabled = true;
     }
     
-    testUtterance.onstart = () => {
-      console.log(`✅ Speech started: "${textToSpeak}"`);
-    };
-    
-    testUtterance.onend = () => {
-      console.log(`✅ Speech finished: "${textToSpeak}"`);
+    // Speak the word first, then the example
+    this.speakTextSequence([wordToSpeak, exampleToSpeak], () => {
+      // Reset button when done
       if (speakBtn) {
         speakBtn.textContent = '🔊 Anhören';
         speakBtn.disabled = false;
       }
-    };
+    });
+  }
+
+  speakTextSequence(texts, onComplete) {
+    let currentIndex = 0;
     
-    testUtterance.onerror = (event) => {
-      // Only show errors that aren't caused by cancellation
-      if (event.error !== 'interrupted' && event.error !== 'cancelled') {
-        console.error(`❌ Speech error:`, event.error);
-        console.error('Error details:', event);
-        if (speakBtn) {
-          speakBtn.textContent = '🔊 Fehler';
-          speakBtn.disabled = false;
-        }
-        alert(`Speech-Fehler: ${event.error}`);
-      } else {
-        console.log(`ℹ️ Speech was interrupted (normal when switching cards or clicking other buttons)`);
-        if (speakBtn) {
-          speakBtn.textContent = '🔊 Anhören';
-          speakBtn.disabled = false;
-        }
+    const speakNext = () => {
+      if (currentIndex >= texts.length) {
+        onComplete();
+        return;
       }
-    };
-    
-    // Try to use a suitable voice if available
-    if (voices.length > 0) {
+      
+      const textToSpeak = texts[currentIndex];
+      if (!textToSpeak || textToSpeak.trim() === '') {
+        currentIndex++;
+        speakNext();
+        return;
+      }
+      
+      // Clean the text (remove quotes)
+      const cleanText = textToSpeak.replace(/["""]/g, '');
+      
+      const utterance = new SpeechSynthesisUtterance(cleanText);
+      utterance.rate = this.settings.speechRate || 0.9;
+      utterance.volume = 1;
+      
+      // Get appropriate voice
+      const voices = speechSynthesis.getVoices();
       const currentLang = this.currentLanguage;
       let preferredVoice = null;
       
       // Find voice for current language
       if (currentLang === 'english') {
-        preferredVoice = voices.find(v => v.lang.startsWith('en-')) || voices.find(v => v.lang === 'en');
+        const variant = this.settings.englishVariant;
+        if (variant === 'gb') {
+          preferredVoice = voices.find(v => v.lang === 'en-GB') ||
+                         voices.find(v => v.lang.startsWith('en-GB')) ||
+                         voices.find(v => v.name.toLowerCase().includes('british')) ||
+                         voices.find(v => v.name.toLowerCase().includes('uk'));
+        } else {
+          preferredVoice = voices.find(v => v.lang === 'en-US') ||
+                         voices.find(v => v.lang.startsWith('en-US')) ||
+                         voices.find(v => v.name.toLowerCase().includes('united states')) ||
+                         voices.find(v => v.name.toLowerCase().includes('american'));
+        }
+        // Fallback to any English voice
+        if (!preferredVoice) {
+          preferredVoice = voices.find(v => v.lang.startsWith('en')) || voices.find(v => v.lang === 'en');
+        }
       } else if (currentLang === 'spanish') {
-        preferredVoice = voices.find(v => v.lang.startsWith('es-')) || voices.find(v => v.lang === 'es');
+        preferredVoice = voices.find(v => v.lang.startsWith('es')) || voices.find(v => v.lang === 'es');
       } else if (currentLang === 'russian') {
-        preferredVoice = voices.find(v => v.lang.startsWith('ru-')) || voices.find(v => v.lang === 'ru');
+        preferredVoice = voices.find(v => v.lang.startsWith('ru')) || voices.find(v => v.lang === 'ru');
       }
       
       if (preferredVoice) {
-        testUtterance.voice = preferredVoice;
-        testUtterance.lang = preferredVoice.lang;
-        console.log(`🎤 Using voice: ${preferredVoice.name} (${preferredVoice.lang})`);
+        utterance.voice = preferredVoice;
+        utterance.lang = preferredVoice.lang;
+        console.log(`🎤 Using voice: ${preferredVoice.name} (${preferredVoice.lang}) for "${cleanText}"`);
       } else {
-        console.log(`⚠️ No preferred voice found for ${currentLang}, using default`);
+        console.log(`⚠️ No preferred voice found for ${currentLang}, using default for "${cleanText}"`);
       }
-    } else {
-      console.log('⚠️ No voices available, using system default');
-    }
+      
+      utterance.onstart = () => {
+        console.log(`✅ Speech started: "${cleanText}"`);
+      };
+      
+      utterance.onend = () => {
+        console.log(`✅ Speech finished: "${cleanText}"`);
+        currentIndex++;
+        
+        // Add pause between word and example
+        if (currentIndex < texts.length) {
+          setTimeout(() => {
+            speakNext();
+          }, 500); // 500ms pause
+        } else {
+          speakNext();
+        }
+      };
+      
+      utterance.onerror = (event) => {
+        // Only show errors that aren't caused by cancellation
+        if (event.error !== 'interrupted' && event.error !== 'cancelled') {
+          console.error(`❌ Speech error:`, event.error);
+          console.error('Error details:', event);
+          alert(`Speech-Fehler: ${event.error}`);
+        } else {
+          console.log(`ℹ️ Speech was interrupted (normal when switching cards or clicking other buttons)`);
+        }
+        currentIndex++;
+        speakNext();
+      };
+      
+      try {
+        speechSynthesis.speak(utterance);
+        console.log(`✅ speechSynthesis.speak() called for "${cleanText}"`);
+      } catch (error) {
+        console.error(`❌ Error calling speechSynthesis.speak() for "${cleanText}":`, error);
+        currentIndex++;
+        speakNext();
+      }
+    };
     
-    console.log(`🎯 About to speak with settings:`, {
-      text: textToSpeak,
-      lang: testUtterance.lang,
-      voice: testUtterance.voice?.name || 'default',
-      rate: testUtterance.rate,
-      volume: testUtterance.volume
-    });
-    
-    try {
-      speechSynthesis.speak(testUtterance);
-      console.log('✅ speechSynthesis.speak() called successfully');
-    } catch (error) {
-      console.error('❌ Error calling speechSynthesis.speak():', error);
-      alert(`Fehler beim Starten der Sprachausgabe: ${error.message}`);
-    }
+    speakNext();
   }
 
   // Learning Progress
@@ -1248,7 +1509,7 @@ class LanguageLearningPWA {
 
   getDueCards() {
     const vocabulary = this.getVocabularyData();
-    const cards = vocabulary[this.currentLanguage] || vocabulary.spanish;
+    const cards = vocabulary || [];
     const now = new Date();
     
     // Filter cards that are due for review
@@ -1284,7 +1545,7 @@ class LanguageLearningPWA {
       }
     });
     
-    console.log(`Found ${dueCards.length} due cards out of ${cards.length} total cards`);
+    console.log(`Found ${dueCards.length} due cards out of ${cards.length} total cards for ${this.currentLanguage} - ${this.currentLevel}`);
     
     // Sort by priority: difficult cards first, then new cards, then by review date
     dueCards.sort((a, b) => {

@@ -1126,3 +1126,98 @@ chatbot-placeholder li {
     align-items: center;
   }
 }
+
+/* Level Selection Styles */
+.level-selection-container {
+  padding: 2rem 1rem;
+}
+
+.level-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.level-card {
+  background: var(--surface-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius);
+  padding: 2rem;
+  text-align: center;
+  transition: var(--transition);
+  cursor: pointer;
+}
+
+.level-card:hover {
+  background: var(--surface-elevated);
+  border-color: var(--primary-light);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-elevated);
+}
+
+.level-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.level-card h4 {
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+}
+
+.level-card p {
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+
+.level-btn {
+  background: var(--primary-color);
+  color: var(--text-primary);
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-weight: 600;
+  transition: var(--transition);
+  width: 100%;
+}
+
+.level-btn:hover {
+  background: var(--primary-dark);
+  transform: translateY(-1px);
+}
+
+.back-btn {
+  background: var(--surface-color);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-weight: 500;
+  transition: var(--transition);
+  margin-top: 1rem;
+}
+
+.back-btn:hover {
+  background: var(--surface-elevated);
+  border-color: var(--primary-light);
+}
+
+.flashcard-practice-container {
+  padding: 1rem;
+}
+
+@media (max-width: 768px) {
+  .level-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .level-card {
+    padding: 1.5rem;
+  }
+}
