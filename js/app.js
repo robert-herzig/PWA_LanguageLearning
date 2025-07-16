@@ -381,17 +381,29 @@ class LanguageLearningPWA {
 
   onLanguageChange() {
     console.log(`Language changed to: ${this.currentLanguage}`);
-    this.currentCardIndex = 0; // Reset to first card
-    this.loadCurrentCard();
-    this.updateCardCounter();
+    
+    // Save the new language selection
+    localStorage.setItem('currentLanguage', this.currentLanguage);
+    
+    // Reset card index
+    this.currentCardIndex = 0;
+    
+    // Reinitialize flashcards for the new language
+    this.initializeFlashcards();
+    
+    console.log(`✅ Language changed to ${this.currentLanguage} and flashcards reloaded`);
   }
 
   // Flashcard System
   initializeFlashcards() {
+    console.log(`=== INITIALIZING FLASHCARDS FOR LANGUAGE: ${this.currentLanguage} ===`);
+    
     // Get cards due for review
     const dueCards = this.getDueCards();
     this.currentDueCards = dueCards;
     this.currentCardIndex = 0;
+    
+    console.log(`Found ${dueCards.length} due cards for ${this.currentLanguage}`);
     
     if (dueCards.length === 0) {
       this.showNoCardsMessage();
@@ -399,6 +411,8 @@ class LanguageLearningPWA {
       this.loadCurrentCard();
       this.updateCardCounter();
     }
+    
+    console.log(`=== FLASHCARDS INITIALIZED FOR ${this.currentLanguage} ===`);
   }
 
   setupFlashcardControls() {
