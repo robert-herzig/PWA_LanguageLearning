@@ -8,107 +8,107 @@ class TopicalVocabulary {
     this.currentTopicVocabulary = [];
   }
 
-  // Topic categories mapping
+  // Topic categories mapping with English names
   getTopicCategories() {
     return {
-      'dimensión física': {
+      'physical_dimension': {
         title: 'Physical Dimension',
         description: 'Body parts, physical appearance, and movements',
         icon: '👤'
       },
-      'dimensión perceptiva y anímica': {
-        title: 'Personality & Character',
-        description: 'Personality traits and character descriptions',
+      'perception_and_emotions': {
+        title: 'Perception & Emotions',
+        description: 'Feelings, emotions, and personality traits',
         icon: '🧠'
       },
-      'identidad personal': {
+      'personal_identity': {
         title: 'Personal Identity',
-        description: 'Personal information and identity',
+        description: 'Personal information and identity documents',
         icon: '🆔'
       },
-      'relaciones personales': {
+      'personal_relationships': {
         title: 'Personal Relationships',
         description: 'Family, friends, and social relationships',
-        icon: '👥'
+        icon: '👨‍👩‍👧‍👦'
       },
-      'alimentación': {
+      'food_and_nutrition': {
         title: 'Food & Nutrition',
-        description: 'Food, drinks, and eating habits',
+        description: 'Food, cooking, restaurants, and nutrition',
         icon: '🍽️'
       },
-      'educación': {
+      'education': {
         title: 'Education',
-        description: 'Learning, schools, and academic life',
-        icon: '📚'
+        description: 'School, university, learning, and studying',
+        icon: '🎓'
       },
-      'trabajo': {
-        title: 'Work & Professions',
-        description: 'Jobs, careers, and workplace',
+      'work': {
+        title: 'Work',
+        description: 'Jobs, professions, and workplace',
         icon: '💼'
       },
-      'ocio': {
-        title: 'Leisure & Entertainment',
-        description: 'Hobbies, sports, and entertainment',
-        icon: '🎨'
+      'leisure': {
+        title: 'Leisure',
+        description: 'Entertainment, sports, and hobbies',
+        icon: '🎯'
       },
-      'información y medios de comunicación': {
-        title: 'Media & Communication',
-        description: 'News, media, and communication',
-        icon: '📺'
+      'information_and_media': {
+        title: 'Information & Media',
+        description: 'Communication, media, and technology',
+        icon: '📱'
       },
-      'vivienda': {
+      'housing': {
         title: 'Housing',
         description: 'Home, furniture, and living spaces',
         icon: '🏠'
       },
-      'servicios': {
+      'services': {
         title: 'Services',
-        description: 'Public and private services',
-        icon: '🏢'
-      },
-      'compras': {
-        title: 'Shopping',
-        description: 'Shopping, stores, and purchases',
-        icon: '🛒'
-      },
-      'salud e higiene': {
-        title: 'Health & Hygiene',
-        description: 'Health, medicine, and personal care',
-        icon: '🏥'
-      },
-      'viajes': {
-        title: 'Travel',
-        description: 'Transportation, trips, and tourism',
-        icon: '✈️'
-      },
-      'aspectos cotidianos de la economía': {
-        title: 'Economy',
-        description: 'Money, banking, and economic activities',
-        icon: '💰'
-      },
-      'ciencia y tecnología': {
-        title: 'Science & Technology',
-        description: 'Science, technology, and innovation',
-        icon: '🔬'
-      },
-      'política y sociedad': {
-        title: 'Politics & Society',
-        description: 'Government, politics, and social issues',
+        description: 'Banking, postal, and public services',
         icon: '🏛️'
       },
-      'arte y cultura': {
+      'shopping_and_stores': {
+        title: 'Shopping & Stores',
+        description: 'Shopping, markets, and retail',
+        icon: '🛒'
+      },
+      'health_and_hygiene': {
+        title: 'Health & Hygiene',
+        description: 'Medical, wellness, and personal care',
+        icon: '🏥'
+      },
+      'travel_and_transport': {
+        title: 'Travel & Transport',
+        description: 'Tourism, vehicles, and transportation',
+        icon: '✈️'
+      },
+      'economy_and_industry': {
+        title: 'Economy & Industry',
+        description: 'Business, finance, and manufacturing',
+        icon: '🏭'
+      },
+      'science_and_technology': {
+        title: 'Science & Technology',
+        description: 'Research, computing, and innovation',
+        icon: '🔬'
+      },
+      'government_and_society': {
+        title: 'Government & Society',
+        description: 'Politics, law, and social issues',
+        icon: '🏛️'
+      },
+      'arts_and_culture': {
         title: 'Arts & Culture',
-        description: 'Art, literature, and cultural activities',
-        icon: '🎭'
+        description: 'Music, literature, and traditions',
+        icon: '🎨'
       },
-      'religión y filosofía': {
+      'religion_and_philosophy': {
         title: 'Religion & Philosophy',
-        description: 'Religious and philosophical concepts',
-        icon: '⛪'
+        description: 'Beliefs, ethics, and spirituality',
+        icon: '🕊️'
       },
-      'geografía y naturaleza': {
+      'geography_and_nature': {
         title: 'Geography & Nature',
-        description: 'Geography, nature, and environment',
+        description: 'Environment, weather, and landscapes',
         icon: '🌍'
       }
     };
@@ -183,26 +183,22 @@ class TopicalVocabulary {
 
   // Load vocabulary for a specific language and level
   async loadTopicalVocabulary(language, level) {
-    console.log(`Loading topical vocabulary for ${language} ${level}...`);
-    try {
-      const url = `data/word_lists/${language}_${level}_words.txt`;
-      
-      const response = await fetch(url);
-      if (!response.ok) {
-        throw new Error(`Failed to load vocabulary file: ${url} (Status: ${response.status})`);
-      }
-      
-      const text = await response.text();
-      const vocabulary = this.parseVocabularyFromText(text, language, level);
-      
-      this.vocabulary[`${language}_${level}`] = vocabulary;
-      console.log(`Successfully loaded topical vocabulary for ${language} ${level} with ${Object.keys(vocabulary).length} topics`);
-      
-      return vocabulary;
-    } catch (error) {
-      console.error('Error loading topical vocabulary:', error);
-      throw error;
+    console.log(`Loading topical JSON vocabulary for ${language} ${level}...`);
+    const base = `data/word_lists/${language}/${level}`;
+    // fetch topic index
+    const indexRes = await fetch(`${base}/index.json`);
+    if (!indexRes.ok) throw new Error(`Failed to load ${base}/index.json`);
+    const topics = await indexRes.json();
+    const vocab = {};
+    for (const key of topics) {
+      const res = await fetch(`${base}/${key}.json`);
+      if (!res.ok) throw new Error(`Failed to load ${key}.json`);
+      const data = await res.json();
+      vocab[key] = data;
     }
+    this.vocabulary[`${language}_${level}`] = vocab;
+    console.log(`✅ Loaded ${Object.keys(vocab).length} topics for ${language} ${level}`);
+    return vocab;
   }
 
   // Get vocabulary for a specific topic
@@ -211,7 +207,16 @@ class TopicalVocabulary {
     if (!this.vocabulary[key] || !this.vocabulary[key][topic]) {
       return [];
     }
-    return this.vocabulary[key][topic].words;
+    
+    // Get the vocabulary data and add topic info to each word
+    const vocabData = this.vocabulary[key][topic];
+    const topicName = vocabData.topic || topic; // Use the topic name from JSON or fallback to key
+    
+    return vocabData.words.map(word => ({
+      ...word,
+      topic: topicName, // Add topic name to each word
+      target: word.word // Ensure target is set from word field
+    }));
   }
 
   // Get all available topics for a language/level

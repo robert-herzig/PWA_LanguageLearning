@@ -1,0 +1,320 @@
+{
+  "topic": "Physical Dimension",
+  "words": [
+    {
+      "word": "músculo",
+      "translation": "мышца",
+      "example": "Слово «мышца» полезно."
+    },
+    {
+      "word": "hueso",
+      "translation": "кость",
+      "example": "Слово «кость» полезно."
+    },
+    {
+      "word": "piel",
+      "translation": "кожа",
+      "example": "Слово «кожа» полезно."
+    },
+    {
+      "word": "corazón",
+      "translation": "сердце",
+      "example": "Слово «сердце» полезно."
+    },
+    {
+      "word": "pulmón",
+      "translation": "лёгкое",
+      "example": "Слово «лёгкое» полезно."
+    },
+    {
+      "word": "cuello",
+      "translation": "шея",
+      "example": "Слово «шея» полезно."
+    },
+    {
+      "word": "hombros",
+      "translation": "плечи",
+      "example": "Слово «плечи» полезно."
+    },
+    {
+      "word": "pecho",
+      "translation": "грудь",
+      "example": "Слово «грудь» полезно."
+    },
+    {
+      "word": "cintura",
+      "translation": "талия",
+      "example": "Слово «талия» полезно."
+    },
+    {
+      "word": "barriga",
+      "translation": "живот",
+      "example": "Слово «живот» полезно."
+    },
+    {
+      "word": "rodilla",
+      "translation": "колено",
+      "example": "Слово «колено» полезно."
+    },
+    {
+      "word": "tobillo",
+      "translation": "лодыжка",
+      "example": "Слово «лодыжка» полезно."
+    },
+    {
+      "word": "codo",
+      "translation": "локоть",
+      "example": "Слово «локоть» полезно."
+    },
+    {
+      "word": "muñeca",
+      "translation": "запястье",
+      "example": "Слово «запястье» полезно."
+    },
+    {
+      "word": "postura",
+      "translation": "postura",
+      "example": "Слово «postura» полезно."
+    },
+    {
+      "word": "mirada",
+      "translation": "mirada",
+      "example": "Слово «mirada» полезно."
+    },
+    {
+      "word": "parecerse",
+      "translation": "parecerse",
+      "example": "Слово «parecerse» полезно."
+    },
+    {
+      "word": "tener la piel clara",
+      "translation": "tener la piel clara",
+      "example": "Слово «tener la piel clara» полезно."
+    },
+    {
+      "word": "tener la piel oscura",
+      "translation": "tener la piel oscura",
+      "example": "Слово «tener la piel oscura» полезно."
+    },
+    {
+      "word": "tener la piel sensible",
+      "translation": "tener la piel sensible",
+      "example": "Слово «tener la piel sensible» полезно."
+    },
+    {
+      "word": "tener la piel suave",
+      "translation": "tener la piel suave",
+      "example": "Слово «tener la piel suave» полезно."
+    },
+    {
+      "word": "estar moreno",
+      "translation": "estar moreno",
+      "example": "Слово «estar moreno» полезно."
+    },
+    {
+      "word": "ser blanco",
+      "translation": "ser blanco",
+      "example": "Слово «ser blanco» полезно."
+    },
+    {
+      "word": "ser moreno",
+      "translation": "ser moreno",
+      "example": "Слово «ser moreno» полезно."
+    },
+    {
+      "word": "tener buen tipo",
+      "translation": "tener buen tipo",
+      "example": "Слово «tener buen tipo» полезно."
+    },
+    {
+      "word": "tener mal tipo",
+      "translation": "tener mal tipo",
+      "example": "Слово «tener mal tipo» полезно."
+    },
+    {
+      "word": "tener buena figura",
+      "translation": "tener buena figura",
+      "example": "Слово «tener buena figura» полезно."
+    },
+    {
+      "word": "tener mala figura",
+      "translation": "tener mala figura",
+      "example": "Слово «tener mala figura» полезно."
+    },
+    {
+      "word": "tener buen estilo",
+      "translation": "tener buen estilo",
+      "example": "Слово «tener buen estilo» полезно."
+    },
+    {
+      "word": "tener mal estilo",
+      "translation": "tener mal estilo",
+      "example": "Слово «tener mal estilo» полезно."
+    },
+    {
+      "word": "tener buena presencia",
+      "translation": "tener buena presencia",
+      "example": "Слово «tener buena presencia» полезно."
+    },
+    {
+      "word": "tener mala presencia",
+      "translation": "tener mala presencia",
+      "example": "Слово «tener mala presencia» полезно."
+    },
+    {
+      "word": "caminar",
+      "translation": "ходить",
+      "example": "Слово «ходить» полезно."
+    },
+    {
+      "word": "dar un paseo",
+      "translation": "dar un paseo",
+      "example": "Слово «dar un paseo» полезно."
+    },
+    {
+      "word": "saltar",
+      "translation": "прыгать",
+      "example": "Слово «прыгать» полезно."
+    },
+    {
+      "word": "estar sentado",
+      "translation": "estar sentado",
+      "example": "Слово «estar sentado» полезно."
+    },
+    {
+      "word": "estar de pie",
+      "translation": "estar de pie",
+      "example": "Слово «estar de pie» полезно."
+    },
+    {
+      "word": "respirar",
+      "translation": "дышать",
+      "example": "Слово «дышать» полезно."
+    },
+    {
+      "word": "llorar",
+      "translation": "плакать",
+      "example": "Слово «плакать» полезно."
+    },
+    {
+      "word": "oler",
+      "translation": "oler",
+      "example": "Слово «oler» полезно."
+    },
+    {
+      "word": "tocar",
+      "translation": "tocar",
+      "example": "Слово «tocar» полезно."
+    },
+    {
+      "word": "besar",
+      "translation": "целовать",
+      "example": "Слово «целовать» полезно."
+    },
+    {
+      "word": "abrazar",
+      "translation": "обнимать",
+      "example": "Слово «обнимать» полезно."
+    },
+    {
+      "word": "levantar las manos",
+      "translation": "levantar las manos",
+      "example": "Слово «levantar las manos» полезно."
+    },
+    {
+      "word": "levantar los brazos",
+      "translation": "levantar los brazos",
+      "example": "Слово «levantar los brazos» полезно."
+    },
+    {
+      "word": "levantar la cabeza",
+      "translation": "levantar la cabeza",
+      "example": "Слово «levantar la cabeza» полезно."
+    },
+    {
+      "word": "bajar las manos",
+      "translation": "bajar las manos",
+      "example": "Слово «bajar las manos» полезно."
+    },
+    {
+      "word": "bajar los brazos",
+      "translation": "bajar los brazos",
+      "example": "Слово «bajar los brazos» полезно."
+    },
+    {
+      "word": "bajar la cabeza",
+      "translation": "bajar la cabeza",
+      "example": "Слово «bajar la cabeza» полезно."
+    },
+    {
+      "word": "mover las manos",
+      "translation": "mover las manos",
+      "example": "Слово «mover las manos» полезно."
+    },
+    {
+      "word": "mover los brazos",
+      "translation": "mover los brazos",
+      "example": "Слово «mover los brazos» полезно."
+    },
+    {
+      "word": "mover la cabeza",
+      "translation": "mover la cabeza",
+      "example": "Слово «mover la cabeza» полезно."
+    },
+    {
+      "word": "soltar",
+      "translation": "soltar",
+      "example": "Слово «soltar» полезно."
+    },
+    {
+      "word": "vida",
+      "translation": "vida",
+      "example": "Слово «vida» полезно."
+    },
+    {
+      "word": "muerte",
+      "translation": "muerte",
+      "example": "Слово «muerte» полезно."
+    },
+    {
+      "word": "estar embarazada",
+      "translation": "estar embarazada",
+      "example": "Слово «estar embarazada» полезно."
+    },
+    {
+      "word": "esperar un hijo",
+      "translation": "esperar un hijo",
+      "example": "Слово «esperar un hijo» полезно."
+    },
+    {
+      "word": "ser virgen",
+      "translation": "ser virgen",
+      "example": "Слово «ser virgen» полезно."
+    },
+    {
+      "word": "hacer el amor",
+      "translation": "hacer el amor",
+      "example": "Слово «hacer el amor» полезно."
+    },
+    {
+      "word": "tener relaciones sexuales",
+      "translation": "tener relaciones sexuales",
+      "example": "Слово «tener relaciones sexuales» полезно."
+    },
+    {
+      "word": "tomar la píldora",
+      "translation": "tomar la píldora",
+      "example": "Слово «tomar la píldora» полезно."
+    },
+    {
+      "word": "usar preservativos",
+      "translation": "usar preservativos",
+      "example": "Слово «usar preservativos» полезно."
+    },
+    {
+      "word": "tener la regla",
+      "translation": "tener la regla",
+      "example": "Слово «tener la regla» полезно."
+    }
+  ]
+}

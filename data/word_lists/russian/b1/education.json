@@ -1,0 +1,670 @@
+{
+  "topic": "Education",
+  "words": [
+    {
+      "word": "campus",
+      "translation": "campus",
+      "example": "Слово «campus» полезно."
+    },
+    {
+      "word": "secretaría",
+      "translation": "secretaría",
+      "example": "Слово «secretaría» полезно."
+    },
+    {
+      "word": "administración",
+      "translation": "administración",
+      "example": "Слово «administración» полезно."
+    },
+    {
+      "word": "centro de recursos",
+      "translation": "centro de recursos",
+      "example": "Слово «centro de recursos» полезно."
+    },
+    {
+      "word": "aula multimedia",
+      "translation": "aula multimedia",
+      "example": "Слово «aula multimedia» полезно."
+    },
+    {
+      "word": "colegio público",
+      "translation": "colegio público",
+      "example": "Слово «colegio público» полезно."
+    },
+    {
+      "word": "colegio privado",
+      "translation": "colegio privado",
+      "example": "Слово «colegio privado» полезно."
+    },
+    {
+      "word": "colegio concertado",
+      "translation": "colegio concertado",
+      "example": "Слово «colegio concertado» полезно."
+    },
+    {
+      "word": "guardería",
+      "translation": "guardería",
+      "example": "Слово «guardería» полезно."
+    },
+    {
+      "word": "jardín de infancia",
+      "translation": "jardín de infancia",
+      "example": "Слово «jardín de infancia» полезно."
+    },
+    {
+      "word": "asignatura teórica",
+      "translation": "asignatura teórica",
+      "example": "Слово «asignatura teórica» полезно."
+    },
+    {
+      "word": "asignatura práctica",
+      "translation": "asignatura práctica",
+      "example": "Слово «asignatura práctica» полезно."
+    },
+    {
+      "word": "clase teórica",
+      "translation": "clase teórica",
+      "example": "Слово «clase teórica» полезно."
+    },
+    {
+      "word": "clase práctica",
+      "translation": "clase práctica",
+      "example": "Слово «clase práctica» полезно."
+    },
+    {
+      "word": "matrícula",
+      "translation": "зачисление",
+      "example": "Слово «зачисление» полезно."
+    },
+    {
+      "word": "beca",
+      "translation": "стипендия",
+      "example": "Слово «стипендия» полезно."
+    },
+    {
+      "word": "conferencia",
+      "translation": "conferencia",
+      "example": "Слово «conferencia» полезно."
+    },
+    {
+      "word": "matricularse",
+      "translation": "matricularse",
+      "example": "Слово «matricularse» полезно."
+    },
+    {
+      "word": "devolver la matrícula",
+      "translation": "devolver la matrícula",
+      "example": "Слово «devolver la matrícula» полезно."
+    },
+    {
+      "word": "pedir una beca",
+      "translation": "pedir una beca",
+      "example": "Слово «pedir una beca» полезно."
+    },
+    {
+      "word": "dar una beca",
+      "translation": "dar una beca",
+      "example": "Слово «dar una beca» полезно."
+    },
+    {
+      "word": "ganar una beca",
+      "translation": "ganar una beca",
+      "example": "Слово «ganar una beca» полезно."
+    },
+    {
+      "word": "hacer un intercambio",
+      "translation": "hacer un intercambio",
+      "example": "Слово «hacer un intercambio» полезно."
+    },
+    {
+      "word": "hacer unas prácticas",
+      "translation": "hacer unas prácticas",
+      "example": "Слово «hacer unas prácticas» полезно."
+    },
+    {
+      "word": "saber de memoria",
+      "translation": "saber de memoria",
+      "example": "Слово «saber de memoria» полезно."
+    },
+    {
+      "word": "aprender de memoria",
+      "translation": "aprender de memoria",
+      "example": "Слово «aprender de memoria» полезно."
+    },
+    {
+      "word": "estudiar de memoria",
+      "translation": "estudiar de memoria",
+      "example": "Слово «estudiar de memoria» полезно."
+    },
+    {
+      "word": "pensar",
+      "translation": "pensar",
+      "example": "Слово «pensar» полезно."
+    },
+    {
+      "word": "recordar",
+      "translation": "recordar",
+      "example": "Слово «recordar» полезно."
+    },
+    {
+      "word": "olvidar",
+      "translation": "olvidar",
+      "example": "Слово «olvidar» полезно."
+    },
+    {
+      "word": "enseñar",
+      "translation": "преподавать",
+      "example": "Слово «преподавать» полезно."
+    },
+    {
+      "word": "test",
+      "translation": "test",
+      "example": "Слово «test» полезно."
+    },
+    {
+      "word": "control",
+      "translation": "control",
+      "example": "Слово «control» полезно."
+    },
+    {
+      "word": "hacer un examen oral",
+      "translation": "hacer un examen oral",
+      "example": "Слово «hacer un examen oral» полезно."
+    },
+    {
+      "word": "hacer un test escrito",
+      "translation": "hacer un test escrito",
+      "example": "Слово «hacer un test escrito» полезно."
+    },
+    {
+      "word": "hacer un control",
+      "translation": "hacer un control",
+      "example": "Слово «hacer un control» полезно."
+    },
+    {
+      "word": "tener un examen oral",
+      "translation": "tener un examen oral",
+      "example": "Слово «tener un examen oral» полезно."
+    },
+    {
+      "word": "tener un test escrito",
+      "translation": "tener un test escrito",
+      "example": "Слово «tener un test escrito» полезно."
+    },
+    {
+      "word": "tener un control",
+      "translation": "tener un control",
+      "example": "Слово «tener un control» полезно."
+    },
+    {
+      "word": "aprobar un examen oral",
+      "translation": "aprobar un examen oral",
+      "example": "Слово «aprobar un examen oral» полезно."
+    },
+    {
+      "word": "aprobar un test escrito",
+      "translation": "aprobar un test escrito",
+      "example": "Слово «aprobar un test escrito» полезно."
+    },
+    {
+      "word": "aprobar un control",
+      "translation": "aprobar un control",
+      "example": "Слово «aprobar un control» полезно."
+    },
+    {
+      "word": "suspender un examen oral",
+      "translation": "suspender un examen oral",
+      "example": "Слово «suspender un examen oral» полезно."
+    },
+    {
+      "word": "suspender un test escrito",
+      "translation": "suspender un test escrito",
+      "example": "Слово «suspender un test escrito» полезно."
+    },
+    {
+      "word": "suspender un control",
+      "translation": "suspender un control",
+      "example": "Слово «suspender un control» полезно."
+    },
+    {
+      "word": "corregir un examen",
+      "translation": "corregir un examen",
+      "example": "Слово «corregir un examen» полезно."
+    },
+    {
+      "word": "tener un notable",
+      "translation": "tener un notable",
+      "example": "Слово «tener un notable» полезно."
+    },
+    {
+      "word": "tener un sobresaliente",
+      "translation": "tener un sobresaliente",
+      "example": "Слово «tener un sobresaliente» полезно."
+    },
+    {
+      "word": "tener buena nota",
+      "translation": "tener buena nota",
+      "example": "Слово «tener buena nota» полезно."
+    },
+    {
+      "word": "tener mala nota",
+      "translation": "tener mala nota",
+      "example": "Слово «tener mala nota» полезно."
+    },
+    {
+      "word": "aprobar el curso",
+      "translation": "aprobar el curso",
+      "example": "Слово «aprobar el curso» полезно."
+    },
+    {
+      "word": "repetir el curso",
+      "translation": "repetir el curso",
+      "example": "Слово «repetir el curso» полезно."
+    },
+    {
+      "word": "bachillerato",
+      "translation": "bachillerato",
+      "example": "Слово «bachillerato» полезно."
+    },
+    {
+      "word": "carrera",
+      "translation": "carrera",
+      "example": "Слово «carrera» полезно."
+    },
+    {
+      "word": "máster",
+      "translation": "máster",
+      "example": "Слово «máster» полезно."
+    },
+    {
+      "word": "doctorado",
+      "translation": "doctorado",
+      "example": "Слово «doctorado» полезно."
+    },
+    {
+      "word": "licenciado",
+      "translation": "licenciado",
+      "example": "Слово «licenciado» полезно."
+    },
+    {
+      "word": "doctor",
+      "translation": "doctor",
+      "example": "Слово «doctor» полезно."
+    },
+    {
+      "word": "estudiar el bachillerato",
+      "translation": "estudiar el bachillerato",
+      "example": "Слово «estudiar el bachillerato» полезно."
+    },
+    {
+      "word": "estudiar una carrera",
+      "translation": "estudiar una carrera",
+      "example": "Слово «estudiar una carrera» полезно."
+    },
+    {
+      "word": "estudiar un máster",
+      "translation": "estudiar un máster",
+      "example": "Слово «estudiar un máster» полезно."
+    },
+    {
+      "word": "estudiar un doctorado",
+      "translation": "estudiar un doctorado",
+      "example": "Слово «estudiar un doctorado» полезно."
+    },
+    {
+      "word": "hacer el bachillerato",
+      "translation": "hacer el bachillerato",
+      "example": "Слово «hacer el bachillerato» полезно."
+    },
+    {
+      "word": "hacer una carrera",
+      "translation": "hacer una carrera",
+      "example": "Слово «hacer una carrera» полезно."
+    },
+    {
+      "word": "hacer un máster",
+      "translation": "hacer un máster",
+      "example": "Слово «hacer un máster» полезно."
+    },
+    {
+      "word": "hacer un doctorado",
+      "translation": "hacer un doctorado",
+      "example": "Слово «hacer un doctorado» полезно."
+    },
+    {
+      "word": "tener el bachillerato",
+      "translation": "tener el bachillerato",
+      "example": "Слово «tener el bachillerato» полезно."
+    },
+    {
+      "word": "tener una carrera",
+      "translation": "tener una carrera",
+      "example": "Слово «tener una carrera» полезно."
+    },
+    {
+      "word": "tener un máster",
+      "translation": "tener un máster",
+      "example": "Слово «tener un máster» полезно."
+    },
+    {
+      "word": "tener un doctorado",
+      "translation": "tener un doctorado",
+      "example": "Слово «tener un doctorado» полезно."
+    },
+    {
+      "word": "empezar el bachillerato",
+      "translation": "empezar el bachillerato",
+      "example": "Слово «empezar el bachillerato» полезно."
+    },
+    {
+      "word": "empezar una carrera",
+      "translation": "empezar una carrera",
+      "example": "Слово «empezar una carrera» полезно."
+    },
+    {
+      "word": "empezar un máster",
+      "translation": "empezar un máster",
+      "example": "Слово «empezar un máster» полезно."
+    },
+    {
+      "word": "empezar un doctorado",
+      "translation": "empezar un doctorado",
+      "example": "Слово «empezar un doctorado» полезно."
+    },
+    {
+      "word": "acabar el bachillerato",
+      "translation": "acabar el bachillerato",
+      "example": "Слово «acabar el bachillerato» полезно."
+    },
+    {
+      "word": "acabar una carrera",
+      "translation": "acabar una carrera",
+      "example": "Слово «acabar una carrera» полезно."
+    },
+    {
+      "word": "acabar un máster",
+      "translation": "acabar un máster",
+      "example": "Слово «acabar un máster» полезно."
+    },
+    {
+      "word": "acabar un doctorado",
+      "translation": "acabar un doctorado",
+      "example": "Слово «acabar un doctorado» полезно."
+    },
+    {
+      "word": "terminar el bachillerato",
+      "translation": "terminar el bachillerato",
+      "example": "Слово «terminar el bachillerato» полезно."
+    },
+    {
+      "word": "terminar una carrera",
+      "translation": "terminar una carrera",
+      "example": "Слово «terminar una carrera» полезно."
+    },
+    {
+      "word": "terminar un máster",
+      "translation": "terminar un máster",
+      "example": "Слово «terminar un máster» полезно."
+    },
+    {
+      "word": "terminar un doctorado",
+      "translation": "terminar un doctorado",
+      "example": "Слово «terminar un doctorado» полезно."
+    },
+    {
+      "word": "no tener estudios",
+      "translation": "no tener estudios",
+      "example": "Слово «no tener estudios» полезно."
+    },
+    {
+      "word": "tener estudios",
+      "translation": "tener estudios",
+      "example": "Слово «tener estudios» полезно."
+    },
+    {
+      "word": "tener una duda",
+      "translation": "tener una duda",
+      "example": "Слово «tener una duda» полезно."
+    },
+    {
+      "word": "equivocarse",
+      "translation": "equivocarse",
+      "example": "Слово «equivocarse» полезно."
+    },
+    {
+      "word": "hacer una actividad en parejas",
+      "translation": "hacer una actividad en parejas",
+      "example": "Слово «hacer una actividad en parejas» полезно."
+    },
+    {
+      "word": "hacer una actividad en grupos",
+      "translation": "hacer una actividad en grupos",
+      "example": "Слово «hacer una actividad en grupos» полезно."
+    },
+    {
+      "word": "hacer una actividad de forma individual",
+      "translation": "hacer una actividad de forma individual",
+      "example": "Слово «hacer una actividad de forma individual» полезно."
+    },
+    {
+      "word": "hacer un esquema",
+      "translation": "hacer un esquema",
+      "example": "Слово «hacer un esquema» полезно."
+    },
+    {
+      "word": "hacer un resumen",
+      "translation": "hacer un resumen",
+      "example": "Слово «hacer un resumen» полезно."
+    },
+    {
+      "word": "buscar en un libro",
+      "translation": "buscar en un libro",
+      "example": "Слово «buscar en un libro» полезно."
+    },
+    {
+      "word": "buscar en un diccionario",
+      "translation": "buscar en un diccionario",
+      "example": "Слово «buscar en un diccionario» полезно."
+    },
+    {
+      "word": "mirar en un libro",
+      "translation": "mirar en un libro",
+      "example": "Слово «mirar en un libro» полезно."
+    },
+    {
+      "word": "mirar en un diccionario",
+      "translation": "mirar en un diccionario",
+      "example": "Слово «mirar en un diccionario» полезно."
+    },
+    {
+      "word": "tomar notas",
+      "translation": "tomar notas",
+      "example": "Слово «tomar notas» полезно."
+    },
+    {
+      "word": "tomar apuntes",
+      "translation": "tomar apuntes",
+      "example": "Слово «tomar apuntes» полезно."
+    },
+    {
+      "word": "subrayar un libro",
+      "translation": "subrayar un libro",
+      "example": "Слово «subrayar un libro» полезно."
+    },
+    {
+      "word": "escoger un tema",
+      "translation": "escoger un tema",
+      "example": "Слово «escoger un tema» полезно."
+    },
+    {
+      "word": "escoger un compañero",
+      "translation": "escoger un compañero",
+      "example": "Слово «escoger un compañero» полезно."
+    },
+    {
+      "word": "escoger un libro",
+      "translation": "escoger un libro",
+      "example": "Слово «escoger un libro» полезно."
+    },
+    {
+      "word": "elegir un tema",
+      "translation": "elegir un tema",
+      "example": "Слово «elegir un tema» полезно."
+    },
+    {
+      "word": "elegir un compañero",
+      "translation": "elegir un compañero",
+      "example": "Слово «elegir un compañero» полезно."
+    },
+    {
+      "word": "elegir un libro",
+      "translation": "elegir un libro",
+      "example": "Слово «elegir un libro» полезно."
+    },
+    {
+      "word": "cambiar de libro",
+      "translation": "cambiar de libro",
+      "example": "Слово «cambiar de libro» полезно."
+    },
+    {
+      "word": "cambiar de tema",
+      "translation": "cambiar de tema",
+      "example": "Слово «cambiar de tema» полезно."
+    },
+    {
+      "word": "cambiar de compañero",
+      "translation": "cambiar de compañero",
+      "example": "Слово «cambiar de compañero» полезно."
+    },
+    {
+      "word": "levantar la mano",
+      "translation": "levantar la mano",
+      "example": "Слово «levantar la mano» полезно."
+    },
+    {
+      "word": "levantarse",
+      "translation": "levantarse",
+      "example": "Слово «levantarse» полезно."
+    },
+    {
+      "word": "cambiar de sitio",
+      "translation": "cambiar de sitio",
+      "example": "Слово «cambiar de sitio» полезно."
+    },
+    {
+      "word": "cambiarse de sitio",
+      "translation": "cambiarse de sitio",
+      "example": "Слово «cambiarse de sitio» полезно."
+    },
+    {
+      "word": "salir voluntario a la pizarra",
+      "translation": "salir voluntario a la pizarra",
+      "example": "Слово «salir voluntario a la pizarra» полезно."
+    },
+    {
+      "word": "salir voluntaria a la pizarra",
+      "translation": "salir voluntaria a la pizarra",
+      "example": "Слово «salir voluntaria a la pizarra» полезно."
+    },
+    {
+      "word": "explicar un tema",
+      "translation": "explicar un tema",
+      "example": "Слово «explicar un tema» полезно."
+    },
+    {
+      "word": "explicar una lección",
+      "translation": "explicar una lección",
+      "example": "Слово «explicar una lección» полезно."
+    },
+    {
+      "word": "hablar sobre un tema",
+      "translation": "hablar sobre un tema",
+      "example": "Слово «hablar sobre un tema» полезно."
+    },
+    {
+      "word": "charlar sobre un tema",
+      "translation": "charlar sobre un tema",
+      "example": "Слово «charlar sobre un tema» полезно."
+    },
+    {
+      "word": "relacionar",
+      "translation": "relacionar",
+      "example": "Слово «relacionar» полезно."
+    },
+    {
+      "word": "comparar",
+      "translation": "comparar",
+      "example": "Слово «comparar» полезно."
+    },
+    {
+      "word": "buscar diferencias",
+      "translation": "buscar diferencias",
+      "example": "Слово «buscar diferencias» полезно."
+    },
+    {
+      "word": "corregir una redacción",
+      "translation": "corregir una redacción",
+      "example": "Слово «corregir una redacción» полезно."
+    },
+    {
+      "word": "corregir un ejercicio",
+      "translation": "corregir un ejercicio",
+      "example": "Слово «corregir un ejercicio» полезно."
+    },
+    {
+      "word": "corregir los deberes",
+      "translation": "corregir los deberes",
+      "example": "Слово «corregir los deberes» полезно."
+    },
+    {
+      "word": "hacer un descanso",
+      "translation": "hacer un descanso",
+      "example": "Слово «hacer un descanso» полезно."
+    },
+    {
+      "word": "hacer una pausa",
+      "translation": "hacer una pausa",
+      "example": "Слово «hacer una pausa» полезно."
+    },
+    {
+      "word": "enciclopedia",
+      "translation": "enciclopedia",
+      "example": "Слово «enciclopedia» полезно."
+    },
+    {
+      "word": "apuntes",
+      "translation": "apuntes",
+      "example": "Слово «apuntes» полезно."
+    },
+    {
+      "word": "folio",
+      "translation": "folio",
+      "example": "Слово «folio» полезно."
+    },
+    {
+      "word": "papel reciclado",
+      "translation": "papel reciclado",
+      "example": "Слово «papel reciclado» полезно."
+    },
+    {
+      "word": "papel de impresora",
+      "translation": "papel de impresora",
+      "example": "Слово «papel de impresora» полезно."
+    },
+    {
+      "word": "carpeta",
+      "translation": "carpeta",
+      "example": "Слово «carpeta» полезно."
+    },
+    {
+      "word": "tinta para impresora",
+      "translation": "tinta para impresora",
+      "example": "Слово «tinta para impresora» полезно."
+    },
+    {
+      "word": "tinta de impresora",
+      "translation": "tinta de impresora",
+      "example": "Слово «tinta de impresora» полезно."
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "topic": "Health and Hygiene",
+  "words": [
+    {
+      "word": "diagnóstico",
+      "translation": "diagnóstico",
+      "example": "Слово «diagnóstico» полезно."
+    },
+    {
+      "word": "tratamiento",
+      "translation": "tratamiento",
+      "example": "Слово «tratamiento» полезно."
+    },
+    {
+      "word": "faringitis",
+      "translation": "faringitis",
+      "example": "Слово «faringitis» полезно."
+    },
+    {
+      "word": "diabetes",
+      "translation": "diabetes",
+      "example": "Слово «diabetes» полезно."
+    },
+    {
+      "word": "bronquitis",
+      "translation": "bronquitis",
+      "example": "Слово «bronquitis» полезно."
+    },
+    {
+      "word": "neumonía",
+      "translation": "neumonía",
+      "example": "Слово «neumonía» полезно."
+    },
+    {
+      "word": "depresión",
+      "translation": "depresión",
+      "example": "Слово «depresión» полезно."
+    },
+    {
+      "word": "tener la tensión alta",
+      "translation": "tener la tensión alta",
+      "example": "Слово «tener la tensión alta» полезно."
+    },
+    {
+      "word": "tener la tensión baja",
+      "translation": "tener la tensión baja",
+      "example": "Слово «tener la tensión baja» полезно."
+    },
+    {
+      "word": "tener el colesterol alto",
+      "translation": "tener el colesterol alto",
+      "example": "Слово «tener el colesterol alto» полезно."
+    },
+    {
+      "word": "tener azúcar",
+      "translation": "tener azúcar",
+      "example": "Слово «tener azúcar» полезно."
+    },
+    {
+      "word": "ataque al corazón",
+      "translation": "ataque al corazón",
+      "example": "Слово «ataque al corazón» полезно."
+    },
+    {
+      "word": "ataque epiléptico",
+      "translation": "ataque epiléptico",
+      "example": "Слово «ataque epiléptico» полезно."
+    },
+    {
+      "word": "ataque de ansiedad",
+      "translation": "ataque de ansiedad",
+      "example": "Слово «ataque de ansiedad» полезно."
+    },
+    {
+      "word": "enfermedad crónica",
+      "translation": "enfermedad crónica",
+      "example": "Слово «enfermedad crónica» полезно."
+    },
+    {
+      "word": "enfermedad leve",
+      "translation": "enfermedad leve",
+      "example": "Слово «enfermedad leve» полезно."
+    },
+    {
+      "word": "enfermedad grave",
+      "translation": "enfermedad grave",
+      "example": "Слово «enfermedad grave» полезно."
+    },
+    {
+      "word": "enfermedad terminal",
+      "translation": "enfermedad terminal",
+      "example": "Слово «enfermedad terminal» полезно."
+    },
+    {
+      "word": "enfermedad mental",
+      "translation": "enfermedad mental",
+      "example": "Слово «enfermedad mental» полезно."
+    },
+    {
+      "word": "enfermedad contagiosa",
+      "translation": "enfermedad contagiosa",
+      "example": "Слово «enfermedad contagiosa» полезно."
+    },
+    {
+      "word": "enfermedad hereditaria",
+      "translation": "enfermedad hereditaria",
+      "example": "Слово «enfermedad hereditaria» полезно."
+    },
+    {
+      "word": "atender a un enfermo",
+      "translation": "atender a un enfermo",
+      "example": "Слово «atender a un enfermo» полезно."
+    },
+    {
+      "word": "contagiar",
+      "translation": "contagiar",
+      "example": "Слово «contagiar» полезно."
+    },
+    {
+      "word": "contagiarse",
+      "translation": "contagiarse",
+      "example": "Слово «contagiarse» полезно."
+    },
+    {
+      "word": "transmitir",
+      "translation": "transmitir",
+      "example": "Слово «transmitir» полезно."
+    },
+    {
+      "word": "curativo",
+      "translation": "curativo",
+      "example": "Слово «curativo» полезно."
+    },
+    {
+      "word": "medicinal",
+      "translation": "medicinal",
+      "example": "Слово «medicinal» полезно."
+    },
+    {
+      "word": "terapéutico",
+      "translation": "terapéutico",
+      "example": "Слово «terapéutico» полезно."
+    },
+    {
+      "word": "perjudicial",
+      "translation": "perjudicial",
+      "example": "Слово «perjudicial» полезно."
+    },
+    {
+      "word": "beneficioso",
+      "translation": "beneficioso",
+      "example": "Слово «beneficioso» полезно."
+    },
+    {
+      "word": "diagnosticar",
+      "translation": "diagnosticar",
+      "example": "Слово «diagnosticar» полезно."
+    },
+    {
+      "word": "cuidarse",
+      "translation": "cuidarse",
+      "example": "Слово «cuidarse» полезно."
+    },
+    {
+      "word": "reponer fuerzas",
+      "translation": "reponer fuerzas",
+      "example": "Слово «reponer fuerzas» полезно."
+    },
+    {
+      "word": "padecer una enfermedad",
+      "translation": "padecer una enfermedad",
+      "example": "Слово «padecer una enfermedad» полезно."
+    },
+    {
+      "word": "sufrir una enfermedad",
+      "translation": "sufrir una enfermedad",
+      "example": "Слово «sufrir una enfermedad» полезно."
+    },
+    {
+      "word": "escayolar",
+      "translation": "escayolar",
+      "example": "Слово «escayolar» полезно."
+    },
+    {
+      "word": "vendar",
+      "translation": "vendar",
+      "example": "Слово «vendar» полезно."
+    },
+    {
+      "word": "herida grave",
+      "translation": "herida grave",
+      "example": "Слово «herida grave» полезно."
+    },
+    {
+      "word": "herida profunda",
+      "translation": "herida profunda",
+      "example": "Слово «herida profunda» полезно."
+    },
+    {
+      "word": "herida superficial",
+      "translation": "herida superficial",
+      "example": "Слово «herida superficial» полезно."
+    },
+    {
+      "word": "herida leve",
+      "translation": "herida leve",
+      "example": "Слово «herida leve» полезно."
+    },
+    {
+      "word": "tener una cicatriz",
+      "translation": "tener una cicatriz",
+      "example": "Слово «tener una cicatriz» полезно."
+    },
+    {
+      "word": "quedar una cicatriz",
+      "translation": "quedar una cicatriz",
+      "example": "Слово «quedar una cicatriz» полезно."
+    },
+    {
+      "word": "curar una herida",
+      "translation": "curar una herida",
+      "example": "Слово «curar una herida» полезно."
+    },
+    {
+      "word": "curarse una herida",
+      "translation": "curarse una herida",
+      "example": "Слово «curarse una herida» полезно."
+    },
+    {
+      "word": "tener un tirón",
+      "translation": "tener un tirón",
+      "example": "Слово «tener un tirón» полезно."
+    },
+    {
+      "word": "tener una contractura muscular",
+      "translation": "tener una contractura muscular",
+      "example": "Слово «tener una contractura muscular» полезно."
+    },
+    {
+      "word": "hacerse un esguince",
+      "translation": "hacerse un esguince",
+      "example": "Слово «hacerse un esguince» полезно."
+    },
+    {
+      "word": "torcerse un tobillo",
+      "translation": "torcerse un tobillo",
+      "example": "Слово «torcerse un tobillo» полезно."
+    },
+    {
+      "word": "dar puntos",
+      "translation": "dar puntos",
+      "example": "Слово «dar puntos» полезно."
+    },
+    {
+      "word": "poner una escayola",
+      "translation": "poner una escayola",
+      "example": "Слово «poner una escayola» полезно."
+    },
+    {
+      "word": "poner una venda",
+      "translation": "poner una venda",
+      "example": "Слово «poner una venda» полезно."
+    },
+    {
+      "word": "poner un esparadrapo",
+      "translation": "poner un esparadrapo",
+      "example": "Слово «poner un esparadrapo» полезно."
+    },
+    {
+      "word": "poner una gasa",
+      "translation": "poner una gasa",
+      "example": "Слово «poner una gasa» полезно."
+    },
+    {
+      "word": "ganar peso",
+      "translation": "ganar peso",
+      "example": "Слово «ganar peso» полезно."
+    },
+    {
+      "word": "perder peso",
+      "translation": "perder peso",
+      "example": "Слово «perder peso» полезно."
+    },
+    {
+      "word": "síntoma",
+      "translation": "síntoma",
+      "example": "Слово «síntoma» полезно."
+    },
+    {
+      "word": "cansancio",
+      "translation": "cansancio",
+      "example": "Слово «cansancio» полезно."
+    },
+    {
+      "word": "debilidad",
+      "translation": "debilidad",
+      "example": "Слово «debilidad» полезно."
+    },
+    {
+      "word": "mareos",
+      "translation": "mareos",
+      "example": "Слово «mareos» полезно."
+    },
+    {
+      "word": "náuseas",
+      "translation": "náuseas",
+      "example": "Слово «náuseas» полезно."
+    },
+    {
+      "word": "fiebre alta",
+      "translation": "fiebre alta",
+      "example": "Слово «fiebre alta» полезно."
+    },
+    {
+      "word": "fiebre baja",
+      "translation": "fiebre baja",
+      "example": "Слово «fiebre baja» полезно."
+    },
+    {
+      "word": "vomitar",
+      "translation": "vomitar",
+      "example": "Слово «vomitar» полезно."
+    },
+    {
+      "word": "marearse",
+      "translation": "marearse",
+      "example": "Слово «marearse» полезно."
+    },
+    {
+      "word": "sentir cansancio",
+      "translation": "sentir cansancio",
+      "example": "Слово «sentir cansancio» полезно."
+    },
+    {
+      "word": "sentir dolor",
+      "translation": "sentir dolor",
+      "example": "Слово «sentir dolor» полезно."
+    },
+    {
+      "word": "estar deprimido",
+      "translation": "estar deprimido",
+      "example": "Слово «estar deprimido» полезно."
+    },
+    {
+      "word": "estar decaído",
+      "translation": "estar decaído",
+      "example": "Слово «estar decaído» полезно."
+    },
+    {
+      "word": "tener ansiedad",
+      "translation": "tener ansiedad",
+      "example": "Слово «tener ansiedad» полезно."
+    },
+    {
+      "word": "tener escalofríos",
+      "translation": "tener escalofríos",
+      "example": "Слово «tener escalofríos» полезно."
+    },
+    {
+      "word": "tener mareos",
+      "translation": "tener mareos",
+      "example": "Слово «tener mareos» полезно."
+    },
+    {
+      "word": "tener náuseas",
+      "translation": "tener náuseas",
+      "example": "Слово «tener náuseas» полезно."
+    },
+    {
+      "word": "tener malestar",
+      "translation": "tener malestar",
+      "example": "Слово «tener malestar» полезно."
+    },
+    {
+      "word": "tener molestias",
+      "translation": "tener molestias",
+      "example": "Слово «tener molestias» полезно."
+    },
+    {
+      "word": "especialista",
+      "translation": "especialista",
+      "example": "Слово «especialista» полезно."
+    },
+    {
+      "word": "ambulatorio",
+      "translation": "ambulatorio",
+      "example": "Слово «ambulatorio» полезно."
+    },
+    {
+      "word": "consultorio",
+      "translation": "consultorio",
+      "example": "Слово «consultorio» полезно."
+    },
+    {
+      "word": "sanatorio",
+      "translation": "sanatorio",
+      "example": "Слово «sanatorio» полезно."
+    },
+    {
+      "word": "radiografía",
+      "translation": "radiografía",
+      "example": "Слово «radiografía» полезно."
+    },
+    {
+      "word": "escáner",
+      "translation": "escáner",
+      "example": "Слово «escáner» полезно."
+    },
+    {
+      "word": "TAC",
+      "translation": "TAC",
+      "example": "Слово «TAC» полезно."
+    },
+    {
+      "word": "transfusión de sangre",
+      "translation": "transfusión de sangre",
+      "example": "Слово «transfusión de sangre» полезно."
+    },
+    {
+      "word": "ecografía",
+      "translation": "ecografía",
+      "example": "Слово «ecografía» полезно."
+    },
+    {
+      "word": "chequeo",
+      "translation": "chequeo",
+      "example": "Слово «chequeo» полезно."
+    },
+    {
+      "word": "consulta del médico",
+      "translation": "consulta del médico",
+      "example": "Слово «consulta del médico» полезно."
+    },
+    {
+      "word": "consulta del dentista",
+      "translation": "consulta del dentista",
+      "example": "Слово «consulta del dentista» полезно."
+    },
+    {
+      "word": "consulta del ginecólogo",
+      "translation": "consulta del ginecólogo",
+      "example": "Слово «consulta del ginecólogo» полезно."
+    },
+    {
+      "word": "asistencia médica",
+      "translation": "asistencia médica",
+      "example": "Слово «asistencia médica» полезно."
+    },
+    {
+      "word": "asistencia domiciliaria",
+      "translation": "asistencia domiciliaria",
+      "example": "Слово «asistencia domiciliaria» полезно."
+    },
+    {
+      "word": "pediatra",
+      "translation": "pediatra",
+      "example": "Слово «pediatra» полезно."
+    },
+    {
+      "word": "otorrinolaringólogo",
+      "translation": "otorrinolaringólogo",
+      "example": "Слово «otorrinolaringólogo» полезно."
+    },
+    {
+      "word": "inyección",
+      "translation": "inyección",
+      "example": "Слово «inyección» полезно."
+    },
+    {
+      "word": "pomada",
+      "translation": "pomada",
+      "example": "Слово «pomada» полезно."
+    },
+    {
+      "word": "calmante",
+      "translation": "calmante",
+      "example": "Слово «calmante» полезно."
+    },
+    {
+      "word": "supositorio",
+      "translation": "supositorio",
+      "example": "Слово «supositorio» полезно."
+    },
+    {
+      "word": "analgésico",
+      "translation": "analgésico",
+      "example": "Слово «analgésico» полезно."
+    },
+    {
+      "word": "antiinflamatorio",
+      "translation": "antiinflamatorio",
+      "example": "Слово «antiinflamatorio» полезно."
+    },
+    {
+      "word": "prospecto",
+      "translation": "prospecto",
+      "example": "Слово «prospecto» полезно."
+    },
+    {
+      "word": "contraindicaciones",
+      "translation": "contraindicaciones",
+      "example": "Слово «contraindicaciones» полезно."
+    },
+    {
+      "word": "efectos secundarios",
+      "translation": "efectos secundarios",
+      "example": "Слово «efectos secundarios» полезно."
+    },
+    {
+      "word": "síntomas",
+      "translation": "síntomas",
+      "example": "Слово «síntomas» полезно."
+    },
+    {
+      "word": "gasa",
+      "translation": "gasa",
+      "example": "Слово «gasa» полезно."
+    },
+    {
+      "word": "venda",
+      "translation": "venda",
+      "example": "Слово «venda» полезно."
+    },
+    {
+      "word": "esparadrapo",
+      "translation": "esparadrapo",
+      "example": "Слово «esparadrapo» полезно."
+    },
+    {
+      "word": "medicamento genérico",
+      "translation": "medicamento genérico",
+      "example": "Слово «medicamento genérico» полезно."
+    },
+    {
+      "word": "medicamento homeopático",
+      "translation": "medicamento homeopático",
+      "example": "Слово «medicamento homeopático» полезно."
+    },
+    {
+      "word": "medicamento contraindicado",
+      "translation": "medicamento contraindicado",
+      "example": "Слово «medicamento contraindicado» полезно."
+    },
+    {
+      "word": "dosis mínima",
+      "translation": "dosis mínima",
+      "example": "Слово «dosis mínima» полезно."
+    },
+    {
+      "word": "dosis diaria",
+      "translation": "dosis diaria",
+      "example": "Слово «dosis diaria» полезно."
+    },
+    {
+      "word": "dosis recomendada",
+      "translation": "dosis recomendada",
+      "example": "Слово «dosis recomendada» полезно."
+    },
+    {
+      "word": "vacunarse",
+      "translation": "vacunarse",
+      "example": "Слово «vacunarse» полезно."
+    },
+    {
+      "word": "recetar",
+      "translation": "recetar",
+      "example": "Слово «recetar» полезно."
+    },
+    {
+      "word": "esencia",
+      "translation": "esencia",
+      "example": "Слово «esencia» полезно."
+    },
+    {
+      "word": "sales de baño",
+      "translation": "sales de baño",
+      "example": "Слово «sales de baño» полезно."
+    },
+    {
+      "word": "hilo dental",
+      "translation": "hilo dental",
+      "example": "Слово «hilo dental» полезно."
+    },
+    {
+      "word": "seda dental",
+      "translation": "seda dental",
+      "example": "Слово «seda dental» полезно."
+    },
+    {
+      "word": "suciedad",
+      "translation": "suciedad",
+      "example": "Слово «suciedad» полезно."
+    },
+    {
+      "word": "tijeras",
+      "translation": "tijeras",
+      "example": "Слово «tijeras» полезно."
+    },
+    {
+      "word": "lima",
+      "translation": "lima",
+      "example": "Слово «lima» полезно."
+    },
+    {
+      "word": "cortaúñas",
+      "translation": "cortaúñas",
+      "example": "Слово «cortaúñas» полезно."
+    },
+    {
+      "word": "bañera de hidromasaje",
+      "translation": "bañera de hidromasaje",
+      "example": "Слово «bañera de hidromasaje» полезно."
+    },
+    {
+      "word": "jacuzzi",
+      "translation": "jacuzzi",
+      "example": "Слово «jacuzzi» полезно."
+    },
+    {
+      "word": "cabina de ducha",
+      "translation": "cabina de ducha",
+      "example": "Слово «cabina de ducha» полезно."
+    },
+    {
+      "word": "pelo graso",
+      "translation": "pelo graso",
+      "example": "Слово «pelo graso» полезно."
+    },
+    {
+      "word": "pelo sano",
+      "translation": "pelo sano",
+      "example": "Слово «pelo sano» полезно."
+    },
+    {
+      "word": "pelo brillante",
+      "translation": "pelo brillante",
+      "example": "Слово «pelo brillante» полезно."
+    },
+    {
+      "word": "dientes blancos",
+      "translation": "dientes blancos",
+      "example": "Слово «dientes blancos» полезно."
+    },
+    {
+      "word": "dientes amarillentos",
+      "translation": "dientes amarillentos",
+      "example": "Слово «dientes amarillentos» полезно."
+    },
+    {
+      "word": "dientes sanos",
+      "translation": "dientes sanos",
+      "example": "Слово «dientes sanos» полезно."
+    },
+    {
+      "word": "darse una ducha caliente",
+      "translation": "darse una ducha caliente",
+      "example": "Слово «darse una ducha caliente» полезно."
+    },
+    {
+      "word": "darse una ducha fría",
+      "translation": "darse una ducha fría",
+      "example": "Слово «darse una ducha fría» полезно."
+    },
+    {
+      "word": "darse una ducha rápida",
+      "translation": "darse una ducha rápida",
+      "example": "Слово «darse una ducha rápida» полезно."
+    },
+    {
+      "word": "darse un baño caliente",
+      "translation": "darse un baño caliente",
+      "example": "Слово «darse un baño caliente» полезно."
+    },
+    {
+      "word": "darse un baño frío",
+      "translation": "darse un baño frío",
+      "example": "Слово «darse un baño frío» полезно."
+    },
+    {
+      "word": "darse un baño relajante",
+      "translation": "darse un baño relajante",
+      "example": "Слово «darse un baño relajante» полезно."
+    },
+    {
+      "word": "darse un baño de espuma",
+      "translation": "darse un baño de espuma",
+      "example": "Слово «darse un baño de espuma» полезно."
+    },
+    {
+      "word": "cortarse las uñas",
+      "translation": "cortarse las uñas",
+      "example": "Слово «cortarse las uñas» полезно."
+    },
+    {
+      "word": "limarse las uñas",
+      "translation": "limarse las uñas",
+      "example": "Слово «limarse las uñas» полезно."
+    },
+    {
+      "word": "cepillarse las uñas",
+      "translation": "cepillarse las uñas",
+      "example": "Слово «cepillarse las uñas» полезно."
+    },
+    {
+      "word": "desenredarse el pelo",
+      "translation": "desenredarse el pelo",
+      "example": "Слово «desenredarse el pelo» полезно."
+    },
+    {
+      "word": "enredarse el pelo",
+      "translation": "enredarse el pelo",
+      "example": "Слово «enredarse el pelo» полезно."
+    },
+    {
+      "word": "recogerse el pelo",
+      "translation": "recogerse el pelo",
+      "example": "Слово «recogerse el pelo» полезно."
+    },
+    {
+      "word": "cepillarse el pelo",
+      "translation": "cepillarse el pelo",
+      "example": "Слово «cepillarse el pelo» полезно."
+    },
+    {
+      "word": "melena",
+      "translation": "melena",
+      "example": "Слово «melena» полезно."
+    },
+    {
+      "word": "maquillaje",
+      "translation": "maquillaje",
+      "example": "Слово «maquillaje» полезно."
+    },
+    {
+      "word": "colorete",
+      "translation": "colorete",
+      "example": "Слово «colorete» полезно."
+    },
+    {
+      "word": "sombra de ojos",
+      "translation": "sombra de ojos",
+      "example": "Слово «sombra de ojos» полезно."
+    },
+    {
+      "word": "rímel",
+      "translation": "rímel",
+      "example": "Слово «rímel» полезно."
+    },
+    {
+      "word": "laca",
+      "translation": "laca",
+      "example": "Слово «laca» полезно."
+    },
+    {
+      "word": "gel fijador",
+      "translation": "gel fijador",
+      "example": "Слово «gel fijador» полезно."
+    },
+    {
+      "word": "gomina",
+      "translation": "gomina",
+      "example": "Слово «gomina» полезно."
+    },
+    {
+      "word": "hidromasaje",
+      "translation": "hidromasaje",
+      "example": "Слово «hidromasaje» полезно."
+    },
+    {
+      "word": "sauna",
+      "translation": "sauna",
+      "example": "Слово «sauna» полезно."
+    },
+    {
+      "word": "estética",
+      "translation": "estética",
+      "example": "Слово «estética» полезно."
+    },
+    {
+      "word": "cosmética natural",
+      "translation": "cosmética natural",
+      "example": "Слово «cosmética natural» полезно."
+    },
+    {
+      "word": "productos cosméticos",
+      "translation": "productos cosméticos",
+      "example": "Слово «productos cosméticos» полезно."
+    },
+    {
+      "word": "salón de belleza",
+      "translation": "salón de belleza",
+      "example": "Слово «salón de belleza» полезно."
+    },
+    {
+      "word": "centro de belleza",
+      "translation": "centro de belleza",
+      "example": "Слово «centro de belleza» полезно."
+    },
+    {
+      "word": "balneario",
+      "translation": "balneario",
+      "example": "Слово «balneario» полезно."
+    },
+    {
+      "word": "manchas",
+      "translation": "manchas",
+      "example": "Слово «manchas» полезно."
+    },
+    {
+      "word": "granos",
+      "translation": "granos",
+      "example": "Слово «granos» полезно."
+    },
+    {
+      "word": "crema hidratante",
+      "translation": "crema hidratante",
+      "example": "Слово «crema hidratante» полезно."
+    },
+    {
+      "word": "crema suavizante",
+      "translation": "crema suavizante",
+      "example": "Слово «crema suavizante» полезно."
+    },
+    {
+      "word": "crema limpiadora",
+      "translation": "crema limpiadora",
+      "example": "Слово «crema limpiadora» полезно."
+    },
+    {
+      "word": "crema nutritiva",
+      "translation": "crema nutritiva",
+      "example": "Слово «crema nutritiva» полезно."
+    },
+    {
+      "word": "crema solar",
+      "translation": "crema solar",
+      "example": "Слово «crema solar» полезно."
+    },
+    {
+      "word": "ponerse guapo",
+      "translation": "ponerse guapo",
+      "example": "Слово «ponerse guapo» полезно."
+    },
+    {
+      "word": "cambiar de peinado",
+      "translation": "cambiar de peinado",
+      "example": "Слово «cambiar de peinado» полезно."
+    },
+    {
+      "word": "cambiar de aspecto",
+      "translation": "cambiar de aspecto",
+      "example": "Слово «cambiar de aspecto» полезно."
+    },
+    {
+      "word": "mantenerse bien",
+      "translation": "mantenerse bien",
+      "example": "Слово «mantenerse bien» полезно."
+    },
+    {
+      "word": "mantenerse mal",
+      "translation": "mantenerse mal",
+      "example": "Слово «mantenerse mal» полезно."
+    },
+    {
+      "word": "mantenerse joven",
+      "translation": "mantenerse joven",
+      "example": "Слово «mantenerse joven» полезно."
+    },
+    {
+      "word": "conservarse bien",
+      "translation": "conservarse bien",
+      "example": "Слово «conservarse bien» полезно."
+    },
+    {
+      "word": "conservarse mal",
+      "translation": "conservarse mal",
+      "example": "Слово «conservarse mal» полезно."
+    },
+    {
+      "word": "conservarse joven",
+      "translation": "conservarse joven",
+      "example": "Слово «conservarse joven» полезно."
+    },
+    {
+      "word": "darse un masaje terapéutico",
+      "translation": "darse un masaje terapéutico",
+      "example": "Слово «darse un masaje terapéutico» полезно."
+    },
+    {
+      "word": "darse un masaje relajante",
+      "translation": "darse un masaje relajante",
+      "example": "Слово «darse un masaje relajante» полезно."
+    },
+    {
+      "word": "recortarse el bigote",
+      "translation": "recortarse el bigote",
+      "example": "Слово «recortarse el bigote» полезно."
+    },
+    {
+      "word": "recortarse la barba",
+      "translation": "recortarse la barba",
+      "example": "Слово «recortarse la barba» полезно."
+    }
+  ]
+}

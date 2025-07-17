@@ -1,0 +1,740 @@
+{
+  "topic": "Information and Media",
+  "words": [
+    {
+      "word": "medios de comunicación",
+      "translation": "medios de comunicación",
+      "example": "Слово «medios de comunicación» полезно."
+    },
+    {
+      "word": "medios de información",
+      "translation": "medios de información",
+      "example": "Слово «medios de información» полезно."
+    },
+    {
+      "word": "noticia",
+      "translation": "noticia",
+      "example": "Слово «noticia» полезно."
+    },
+    {
+      "word": "comentario",
+      "translation": "comentario",
+      "example": "Слово «comentario» полезно."
+    },
+    {
+      "word": "opinión",
+      "translation": "opinión",
+      "example": "Слово «opinión» полезно."
+    },
+    {
+      "word": "informar",
+      "translation": "informar",
+      "example": "Слово «informar» полезно."
+    },
+    {
+      "word": "dar información",
+      "translation": "dar información",
+      "example": "Слово «dar información» полезно."
+    },
+    {
+      "word": "tener información",
+      "translation": "tener información",
+      "example": "Слово «tener información» полезно."
+    },
+    {
+      "word": "dar una noticia",
+      "translation": "dar una noticia",
+      "example": "Слово «dar una noticia» полезно."
+    },
+    {
+      "word": "estar bien informado",
+      "translation": "estar bien informado",
+      "example": "Слово «estar bien informado» полезно."
+    },
+    {
+      "word": "estar mal informado",
+      "translation": "estar mal informado",
+      "example": "Слово «estar mal informado» полезно."
+    },
+    {
+      "word": "mantenerse bien informado",
+      "translation": "mantenerse bien informado",
+      "example": "Слово «mantenerse bien informado» полезно."
+    },
+    {
+      "word": "mantenerse mal informado",
+      "translation": "mantenerse mal informado",
+      "example": "Слово «mantenerse mal informado» полезно."
+    },
+    {
+      "word": "dejar un recado",
+      "translation": "dejar un recado",
+      "example": "Слово «dejar un recado» полезно."
+    },
+    {
+      "word": "dejar un mensaje",
+      "translation": "dejar un mensaje",
+      "example": "Слово «dejar un mensaje» полезно."
+    },
+    {
+      "word": "comunicarse con alguien por carta",
+      "translation": "comunicarse con alguien por carta",
+      "example": "Слово «comunicarse con alguien por carta» полезно."
+    },
+    {
+      "word": "comunicarse con alguien por correo electrónico",
+      "translation": "comunicarse con alguien por correo electrónico",
+      "example": "Слово «comunicarse con alguien por correo electrónico» полезно."
+    },
+    {
+      "word": "comunicarse con alguien por teléfono",
+      "translation": "comunicarse con alguien por teléfono",
+      "example": "Слово «comunicarse con alguien por teléfono» полезно."
+    },
+    {
+      "word": "comunicarse con alguien por correo",
+      "translation": "comunicarse con alguien por correo",
+      "example": "Слово «comunicarse con alguien por correo» полезно."
+    },
+    {
+      "word": "cortar la comunicación",
+      "translation": "cortar la comunicación",
+      "example": "Слово «cortar la comunicación» полезно."
+    },
+    {
+      "word": "cortarse la comunicación",
+      "translation": "cortarse la comunicación",
+      "example": "Слово «cortarse la comunicación» полезно."
+    },
+    {
+      "word": "buzón",
+      "translation": "buzón",
+      "example": "Слово «buzón» полезно."
+    },
+    {
+      "word": "remitente",
+      "translation": "remitente",
+      "example": "Слово «remitente» полезно."
+    },
+    {
+      "word": "destinatario",
+      "translation": "destinatario",
+      "example": "Слово «destinatario» полезно."
+    },
+    {
+      "word": "apartado de correos",
+      "translation": "apartado de correos",
+      "example": "Слово «apartado de correos» полезно."
+    },
+    {
+      "word": "posdata",
+      "translation": "posdata",
+      "example": "Слово «posdata» полезно."
+    },
+    {
+      "word": "firma",
+      "translation": "firma",
+      "example": "Слово «firma» полезно."
+    },
+    {
+      "word": "saludo",
+      "translation": "saludo",
+      "example": "Слово «saludo» полезно."
+    },
+    {
+      "word": "despedida",
+      "translation": "despedida",
+      "example": "Слово «despedida» полезно."
+    },
+    {
+      "word": "carta formal",
+      "translation": "carta formal",
+      "example": "Слово «carta formal» полезно."
+    },
+    {
+      "word": "carta personal",
+      "translation": "carta personal",
+      "example": "Слово «carta personal» полезно."
+    },
+    {
+      "word": "cerrar un sobre",
+      "translation": "cerrar un sobre",
+      "example": "Слово «cerrar un sobre» полезно."
+    },
+    {
+      "word": "echar una carta",
+      "translation": "echar una carta",
+      "example": "Слово «echar una carta» полезно."
+    },
+    {
+      "word": "mandar por correo",
+      "translation": "mandar por correo",
+      "example": "Слово «mandar por correo» полезно."
+    },
+    {
+      "word": "abrir el buzón",
+      "translation": "abrir el buzón",
+      "example": "Слово «abrir el buzón» полезно."
+    },
+    {
+      "word": "contestador automático",
+      "translation": "contestador automático",
+      "example": "Слово «contestador automático» полезно."
+    },
+    {
+      "word": "buzón de voz",
+      "translation": "buzón de voz",
+      "example": "Слово «buzón de voz» полезно."
+    },
+    {
+      "word": "llamada",
+      "translation": "llamada",
+      "example": "Слово «llamada» полезно."
+    },
+    {
+      "word": "línea ocupada",
+      "translation": "línea ocupada",
+      "example": "Слово «línea ocupada» полезно."
+    },
+    {
+      "word": "prefijo",
+      "translation": "prefijo",
+      "example": "Слово «prefijo» полезно."
+    },
+    {
+      "word": "extensión",
+      "translation": "extensión",
+      "example": "Слово «extensión» полезно."
+    },
+    {
+      "word": "batería de teléfono",
+      "translation": "batería de teléfono",
+      "example": "Слово «batería de teléfono» полезно."
+    },
+    {
+      "word": "tarjeta de teléfono",
+      "translation": "tarjeta de teléfono",
+      "example": "Слово «tarjeta de teléfono» полезно."
+    },
+    {
+      "word": "conversación telefónica",
+      "translation": "conversación telefónica",
+      "example": "Слово «conversación telefónica» полезно."
+    },
+    {
+      "word": "guía telefónica",
+      "translation": "guía telefónica",
+      "example": "Слово «guía telefónica» полезно."
+    },
+    {
+      "word": "páginas amarillas",
+      "translation": "páginas amarillas",
+      "example": "Слово «páginas amarillas» полезно."
+    },
+    {
+      "word": "marcar un número de teléfono",
+      "translation": "marcar un número de teléfono",
+      "example": "Слово «marcar un número de teléfono» полезно."
+    },
+    {
+      "word": "descolgar el teléfono",
+      "translation": "descolgar el teléfono",
+      "example": "Слово «descolgar el teléfono» полезно."
+    },
+    {
+      "word": "colgar el teléfono",
+      "translation": "colgar el teléfono",
+      "example": "Слово «colgar el teléfono» полезно."
+    },
+    {
+      "word": "coger el teléfono",
+      "translation": "coger el teléfono",
+      "example": "Слово «coger el teléfono» полезно."
+    },
+    {
+      "word": "contestar al teléfono",
+      "translation": "contestar al teléfono",
+      "example": "Слово «contestar al teléfono» полезно."
+    },
+    {
+      "word": "ponerse al teléfono",
+      "translation": "ponerse al teléfono",
+      "example": "Слово «ponerse al teléfono» полезно."
+    },
+    {
+      "word": "quedarse sin batería",
+      "translation": "quedarse sin batería",
+      "example": "Слово «quedarse sin batería» полезно."
+    },
+    {
+      "word": "quedarse sin saldo",
+      "translation": "quedarse sin saldo",
+      "example": "Слово «quedarse sin saldo» полезно."
+    },
+    {
+      "word": "hacer una llamada",
+      "translation": "hacer una llamada",
+      "example": "Слово «hacer una llamada» полезно."
+    },
+    {
+      "word": "pasar una llamada",
+      "translation": "pasar una llamada",
+      "example": "Слово «pasar una llamada» полезно."
+    },
+    {
+      "word": "devolver una llamada",
+      "translation": "devolver una llamada",
+      "example": "Слово «devolver una llamada» полезно."
+    },
+    {
+      "word": "atender una llamada",
+      "translation": "atender una llamada",
+      "example": "Слово «atender una llamada» полезно."
+    },
+    {
+      "word": "recibir una llamada",
+      "translation": "recibir una llamada",
+      "example": "Слово «recibir una llamada» полезно."
+    },
+    {
+      "word": "desviar una llamada",
+      "translation": "desviar una llamada",
+      "example": "Слово «desviar una llamada» полезно."
+    },
+    {
+      "word": "estar comunicando",
+      "translation": "estar comunicando",
+      "example": "Слово «estar comunicando» полезно."
+    },
+    {
+      "word": "periodismo",
+      "translation": "periodismo",
+      "example": "Слово «periodismo» полезно."
+    },
+    {
+      "word": "prensa",
+      "translation": "prensa",
+      "example": "Слово «prensa» полезно."
+    },
+    {
+      "word": "editorial",
+      "translation": "editorial",
+      "example": "Слово «editorial» полезно."
+    },
+    {
+      "word": "cartelera",
+      "translation": "cartelera",
+      "example": "Слово «cartelera» полезно."
+    },
+    {
+      "word": "sección de economía",
+      "translation": "sección de economía",
+      "example": "Слово «sección de economía» полезно."
+    },
+    {
+      "word": "sección de cultura",
+      "translation": "sección de cultura",
+      "example": "Слово «sección de cultura» полезно."
+    },
+    {
+      "word": "sección de deportes",
+      "translation": "sección de deportes",
+      "example": "Слово «sección de deportes» полезно."
+    },
+    {
+      "word": "agencia de prensa",
+      "translation": "agencia de prensa",
+      "example": "Слово «agencia de prensa» полезно."
+    },
+    {
+      "word": "agencia de fotografía",
+      "translation": "agencia de fotografía",
+      "example": "Слово «agencia de fotografía» полезно."
+    },
+    {
+      "word": "suplemento cultural",
+      "translation": "suplemento cultural",
+      "example": "Слово «suplemento cultural» полезно."
+    },
+    {
+      "word": "suplemento de economía",
+      "translation": "suplemento de economía",
+      "example": "Слово «suplemento de economía» полезно."
+    },
+    {
+      "word": "publicar una noticia",
+      "translation": "publicar una noticia",
+      "example": "Слово «publicar una noticia» полезно."
+    },
+    {
+      "word": "publicar un reportaje",
+      "translation": "publicar un reportaje",
+      "example": "Слово «publicar un reportaje» полезно."
+    },
+    {
+      "word": "publicar una entrevista",
+      "translation": "publicar una entrevista",
+      "example": "Слово «publicar una entrevista» полезно."
+    },
+    {
+      "word": "publicar un artículo",
+      "translation": "publicar un artículo",
+      "example": "Слово «publicar un artículo» полезно."
+    },
+    {
+      "word": "redactar una noticia",
+      "translation": "redactar una noticia",
+      "example": "Слово «redactar una noticia» полезно."
+    },
+    {
+      "word": "redactar un reportaje",
+      "translation": "redactar un reportaje",
+      "example": "Слово «redactar un reportaje» полезно."
+    },
+    {
+      "word": "redactar una entrevista",
+      "translation": "redactar una entrevista",
+      "example": "Слово «redactar una entrevista» полезно."
+    },
+    {
+      "word": "redactar un artículo",
+      "translation": "redactar un artículo",
+      "example": "Слово «redactar un artículo» полезно."
+    },
+    {
+      "word": "canal",
+      "translation": "canal",
+      "example": "Слово «canal» полезно."
+    },
+    {
+      "word": "emisora",
+      "translation": "emisora",
+      "example": "Слово «emisora» полезно."
+    },
+    {
+      "word": "locutor",
+      "translation": "locutor",
+      "example": "Слово «locutor» полезно."
+    },
+    {
+      "word": "cadena pública",
+      "translation": "cadena pública",
+      "example": "Слово «cadena pública» полезно."
+    },
+    {
+      "word": "cadena privada",
+      "translation": "cadena privada",
+      "example": "Слово «cadena privada» полезно."
+    },
+    {
+      "word": "cadena regional",
+      "translation": "cadena regional",
+      "example": "Слово «cadena regional» полезно."
+    },
+    {
+      "word": "cadena nacional",
+      "translation": "cadena nacional",
+      "example": "Слово «cadena nacional» полезно."
+    },
+    {
+      "word": "canal público",
+      "translation": "canal público",
+      "example": "Слово «canal público» полезно."
+    },
+    {
+      "word": "canal privado",
+      "translation": "canal privado",
+      "example": "Слово «canal privado» полезно."
+    },
+    {
+      "word": "canal regional",
+      "translation": "canal regional",
+      "example": "Слово «canal regional» полезно."
+    },
+    {
+      "word": "canal nacional",
+      "translation": "canal nacional",
+      "example": "Слово «canal nacional» полезно."
+    },
+    {
+      "word": "capítulo",
+      "translation": "capítulo",
+      "example": "Слово «capítulo» полезно."
+    },
+    {
+      "word": "episodio",
+      "translation": "episodio",
+      "example": "Слово «episodio» полезно."
+    },
+    {
+      "word": "serie",
+      "translation": "serie",
+      "example": "Слово «serie» полезно."
+    },
+    {
+      "word": "culebrón",
+      "translation": "culebrón",
+      "example": "Слово «culebrón» полезно."
+    },
+    {
+      "word": "telenovela",
+      "translation": "telenovela",
+      "example": "Слово «telenovela» полезно."
+    },
+    {
+      "word": "concurso",
+      "translation": "concurso",
+      "example": "Слово «concurso» полезно."
+    },
+    {
+      "word": "debate",
+      "translation": "debate",
+      "example": "Слово «debate» полезно."
+    },
+    {
+      "word": "documental",
+      "translation": "documental",
+      "example": "Слово «documental» полезно."
+    },
+    {
+      "word": "telebasura",
+      "translation": "telebasura",
+      "example": "Слово «telebasura» полезно."
+    },
+    {
+      "word": "programa de información general",
+      "translation": "programa de información general",
+      "example": "Слово «programa de información general» полезно."
+    },
+    {
+      "word": "programa de información deportiva",
+      "translation": "programa de información deportiva",
+      "example": "Слово «programa de información deportiva» полезно."
+    },
+    {
+      "word": "película en versión original",
+      "translation": "película en versión original",
+      "example": "Слово «película en versión original» полезно."
+    },
+    {
+      "word": "película con subtítulos",
+      "translation": "película con subtítulos",
+      "example": "Слово «película con subtítulos» полезно."
+    },
+    {
+      "word": "cambiar de canal",
+      "translation": "cambiar de canal",
+      "example": "Слово «cambiar de canal» полезно."
+    },
+    {
+      "word": "cambiar de cadena",
+      "translation": "cambiar de cadena",
+      "example": "Слово «cambiar de cadena» полезно."
+    },
+    {
+      "word": "cambiar de emisora",
+      "translation": "cambiar de emisora",
+      "example": "Слово «cambiar de emisora» полезно."
+    },
+    {
+      "word": "consultar la programación",
+      "translation": "consultar la programación",
+      "example": "Слово «consultar la programación» полезно."
+    },
+    {
+      "word": "contraseña",
+      "translation": "contraseña",
+      "example": "Слово «contraseña» полезно."
+    },
+    {
+      "word": "nombre de usuario",
+      "translation": "nombre de usuario",
+      "example": "Слово «nombre de usuario» полезно."
+    },
+    {
+      "word": "navegador",
+      "translation": "navegador",
+      "example": "Слово «navegador» полезно."
+    },
+    {
+      "word": "buscador",
+      "translation": "buscador",
+      "example": "Слово «buscador» полезно."
+    },
+    {
+      "word": "ratón",
+      "translation": "ratón",
+      "example": "Слово «ratón» полезно."
+    },
+    {
+      "word": "programa",
+      "translation": "programa",
+      "example": "Слово «programa» полезно."
+    },
+    {
+      "word": "antivirus",
+      "translation": "antivirus",
+      "example": "Слово «antivirus» полезно."
+    },
+    {
+      "word": "línea ADSL",
+      "translation": "línea ADSL",
+      "example": "Слово «línea ADSL» полезно."
+    },
+    {
+      "word": "buscar información",
+      "translation": "buscar información",
+      "example": "Слово «buscar información» полезно."
+    },
+    {
+      "word": "buscar datos",
+      "translation": "buscar datos",
+      "example": "Слово «buscar datos» полезно."
+    },
+    {
+      "word": "buscar imágenes",
+      "translation": "buscar imágenes",
+      "example": "Слово «buscar imágenes» полезно."
+    },
+    {
+      "word": "buscar documentos",
+      "translation": "buscar documentos",
+      "example": "Слово «buscar documentos» полезно."
+    },
+    {
+      "word": "intercambiar información",
+      "translation": "intercambiar información",
+      "example": "Слово «intercambiar información» полезно."
+    },
+    {
+      "word": "intercambiar datos",
+      "translation": "intercambiar datos",
+      "example": "Слово «intercambiar datos» полезно."
+    },
+    {
+      "word": "intercambiar imágenes",
+      "translation": "intercambiar imágenes",
+      "example": "Слово «intercambiar imágenes» полезно."
+    },
+    {
+      "word": "intercambiar documentos",
+      "translation": "intercambiar documentos",
+      "example": "Слово «intercambiar documentos» полезно."
+    },
+    {
+      "word": "colgar una fotografía en Internet",
+      "translation": "colgar una fotografía en Internet",
+      "example": "Слово «colgar una fotografía en Internet» полезно."
+    },
+    {
+      "word": "colgar un documento en Internet",
+      "translation": "colgar un documento en Internet",
+      "example": "Слово «colgar un documento en Internet» полезно."
+    },
+    {
+      "word": "colgar un texto en Internet",
+      "translation": "colgar un texto en Internet",
+      "example": "Слово «colgar un texto en Internet» полезно."
+    },
+    {
+      "word": "consultar una página web",
+      "translation": "consultar una página web",
+      "example": "Слово «consultar una página web» полезно."
+    },
+    {
+      "word": "consultar una página de Internet",
+      "translation": "consultar una página de Internet",
+      "example": "Слово «consultar una página de Internet» полезно."
+    },
+    {
+      "word": "entrar en una página web",
+      "translation": "entrar en una página web",
+      "example": "Слово «entrar en una página web» полезно."
+    },
+    {
+      "word": "entrar en una página de Internet",
+      "translation": "entrar en una página de Internet",
+      "example": "Слово «entrar en una página de Internet» полезно."
+    },
+    {
+      "word": "acceder a una página web",
+      "translation": "acceder a una página web",
+      "example": "Слово «acceder a una página web» полезно."
+    },
+    {
+      "word": "acceder a una página de Internet",
+      "translation": "acceder a una página de Internet",
+      "example": "Слово «acceder a una página de Internet» полезно."
+    },
+    {
+      "word": "descargarse un programa",
+      "translation": "descargarse un programa",
+      "example": "Слово «descargarse un programa» полезно."
+    },
+    {
+      "word": "descargarse un archivo",
+      "translation": "descargarse un archivo",
+      "example": "Слово «descargarse un archivo» полезно."
+    },
+    {
+      "word": "descargarse música",
+      "translation": "descargarse música",
+      "example": "Слово «descargarse música» полезно."
+    },
+    {
+      "word": "bajarse un programa",
+      "translation": "bajarse un programa",
+      "example": "Слово «bajarse un programa» полезно."
+    },
+    {
+      "word": "bajarse un archivo",
+      "translation": "bajarse un archivo",
+      "example": "Слово «bajarse un archivo» полезно."
+    },
+    {
+      "word": "bajarse música",
+      "translation": "bajarse música",
+      "example": "Слово «bajarse música» полезно."
+    },
+    {
+      "word": "conectarse a Internet",
+      "translation": "conectarse a Internet",
+      "example": "Слово «conectarse a Internet» полезно."
+    },
+    {
+      "word": "tener conexión a Internet",
+      "translation": "tener conexión a Internet",
+      "example": "Слово «tener conexión a Internet» полезно."
+    },
+    {
+      "word": "abrir una cuenta de correo electrónico",
+      "translation": "abrir una cuenta de correo electrónico",
+      "example": "Слово «abrir una cuenta de correo electrónico» полезно."
+    },
+    {
+      "word": "abrirse una cuenta de correo electrónico",
+      "translation": "abrirse una cuenta de correo electrónico",
+      "example": "Слово «abrirse una cuenta de correo electrónico» полезно."
+    },
+    {
+      "word": "adjuntar un documento",
+      "translation": "adjuntar un documento",
+      "example": "Слово «adjuntar un documento» полезно."
+    },
+    {
+      "word": "reenviar un documento",
+      "translation": "reenviar un documento",
+      "example": "Слово «reenviar un documento» полезно."
+    },
+    {
+      "word": "poner una copia a alguien",
+      "translation": "poner una copia a alguien",
+      "example": "Слово «poner una copia a alguien» полезно."
+    },
+    {
+      "word": "enviar una copia a alguien",
+      "translation": "enviar una copia a alguien",
+      "example": "Слово «enviar una copia a alguien» полезно."
+    }
+  ]
+}

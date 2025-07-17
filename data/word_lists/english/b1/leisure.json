@@ -1,0 +1,490 @@
+{
+  "topic": "Leisure",
+  "words": [
+    {
+      "word": "descanso",
+      "translation": "descanso",
+      "example": "The word \"descanso\" is useful."
+    },
+    {
+      "word": "vacación",
+      "translation": "vacación",
+      "example": "The word \"vacación\" is useful."
+    },
+    {
+      "word": "cocina",
+      "translation": "cocina",
+      "example": "The word \"cocina\" is useful."
+    },
+    {
+      "word": "jardinería",
+      "translation": "jardinería",
+      "example": "The word \"jardinería\" is useful."
+    },
+    {
+      "word": "bricolaje",
+      "translation": "bricolaje",
+      "example": "The word \"bricolaje\" is useful."
+    },
+    {
+      "word": "ir de camping",
+      "translation": "ir de camping",
+      "example": "The word \"ir de camping\" is useful."
+    },
+    {
+      "word": "hacer un picnic",
+      "translation": "hacer un picnic",
+      "example": "The word \"hacer un picnic\" is useful."
+    },
+    {
+      "word": "hacer turismo",
+      "translation": "hacer turismo",
+      "example": "The word \"hacer turismo\" is useful."
+    },
+    {
+      "word": "inscribirse en un club",
+      "translation": "inscribirse en un club",
+      "example": "The word \"inscribirse en un club\" is useful."
+    },
+    {
+      "word": "inscribirse en una asociación",
+      "translation": "inscribirse en una asociación",
+      "example": "The word \"inscribirse en una asociación\" is useful."
+    },
+    {
+      "word": "inscribirse en un grupo",
+      "translation": "inscribirse en un grupo",
+      "example": "The word \"inscribirse en un grupo\" is useful."
+    },
+    {
+      "word": "colaborar como voluntario",
+      "translation": "colaborar como voluntario",
+      "example": "The word \"colaborar como voluntario\" is useful."
+    },
+    {
+      "word": "tener tiempo libre",
+      "translation": "tener tiempo libre",
+      "example": "The word \"tener tiempo libre\" is useful."
+    },
+    {
+      "word": "estar ocupado",
+      "translation": "estar ocupado",
+      "example": "The word \"estar ocupado\" is useful."
+    },
+    {
+      "word": "estar libre",
+      "translation": "estar libre",
+      "example": "The word \"estar libre\" is useful."
+    },
+    {
+      "word": "tener un compromiso",
+      "translation": "tener un compromiso",
+      "example": "The word \"tener un compromiso\" is useful."
+    },
+    {
+      "word": "ir de copas",
+      "translation": "ir de copas",
+      "example": "The word \"ir de copas\" is useful."
+    },
+    {
+      "word": "ir de tapas",
+      "translation": "ir de tapas",
+      "example": "The word \"ir de tapas\" is useful."
+    },
+    {
+      "word": "ir de marcha",
+      "translation": "ir de marcha",
+      "example": "The word \"ir de marcha\" is useful."
+    },
+    {
+      "word": "salir de copas",
+      "translation": "salir de copas",
+      "example": "The word \"salir de copas\" is useful."
+    },
+    {
+      "word": "salir de tapas",
+      "translation": "salir de tapas",
+      "example": "The word \"salir de tapas\" is useful."
+    },
+    {
+      "word": "salir de marcha",
+      "translation": "salir de marcha",
+      "example": "The word \"salir de marcha\" is useful."
+    },
+    {
+      "word": "aburrirse",
+      "translation": "aburrirse",
+      "example": "The word \"aburrirse\" is useful."
+    },
+    {
+      "word": "pasarlo bien",
+      "translation": "pasarlo bien",
+      "example": "The word \"pasarlo bien\" is useful."
+    },
+    {
+      "word": "pasarlo mal",
+      "translation": "pasarlo mal",
+      "example": "The word \"pasarlo mal\" is useful."
+    },
+    {
+      "word": "divertirse",
+      "translation": "divertirse",
+      "example": "The word \"divertirse\" is useful."
+    },
+    {
+      "word": "hacer un curso de jardinería",
+      "translation": "hacer un curso de jardinería",
+      "example": "The word \"hacer un curso de jardinería\" is useful."
+    },
+    {
+      "word": "hacer un curso de cocina",
+      "translation": "hacer un curso de cocina",
+      "example": "The word \"hacer un curso de cocina\" is useful."
+    },
+    {
+      "word": "ser aficionado a hacer crucigramas",
+      "translation": "ser aficionado a hacer crucigramas",
+      "example": "The word \"ser aficionado a hacer crucigramas\" is useful."
+    },
+    {
+      "word": "coleccionar sellos",
+      "translation": "coleccionar sellos",
+      "example": "The word \"coleccionar sellos\" is useful."
+    },
+    {
+      "word": "coleccionar monedas",
+      "translation": "coleccionar monedas",
+      "example": "The word \"coleccionar monedas\" is useful."
+    },
+    {
+      "word": "asiento de un cine",
+      "translation": "asiento de un cine",
+      "example": "The word \"asiento de un cine\" is useful."
+    },
+    {
+      "word": "asiento de un teatro",
+      "translation": "asiento de un teatro",
+      "example": "The word \"asiento de un teatro\" is useful."
+    },
+    {
+      "word": "fila de un cine",
+      "translation": "fila de un cine",
+      "example": "The word \"fila de un cine\" is useful."
+    },
+    {
+      "word": "fila de un teatro",
+      "translation": "fila de un teatro",
+      "example": "The word \"fila de un teatro\" is useful."
+    },
+    {
+      "word": "espectador",
+      "translation": "espectador",
+      "example": "The word \"espectador\" is useful."
+    },
+    {
+      "word": "público",
+      "translation": "público",
+      "example": "The word \"público\" is useful."
+    },
+    {
+      "word": "escenario",
+      "translation": "escenario",
+      "example": "The word \"escenario\" is useful."
+    },
+    {
+      "word": "galería de arte",
+      "translation": "galería de arte",
+      "example": "The word \"galería de arte\" is useful."
+    },
+    {
+      "word": "plaza de toros",
+      "translation": "plaza de toros",
+      "example": "The word \"plaza de toros\" is useful."
+    },
+    {
+      "word": "poner una película",
+      "translation": "poner una película",
+      "example": "The word \"poner una película\" is useful."
+    },
+    {
+      "word": "hacer cola",
+      "translation": "hacer cola",
+      "example": "The word \"hacer cola\" is useful."
+    },
+    {
+      "word": "ser un éxito",
+      "translation": "ser un éxito",
+      "example": "The word \"ser un éxito\" is useful."
+    },
+    {
+      "word": "árbitro",
+      "translation": "árbitro",
+      "example": "The word \"árbitro\" is useful."
+    },
+    {
+      "word": "entrenador",
+      "translation": "entrenador",
+      "example": "The word \"entrenador\" is useful."
+    },
+    {
+      "word": "deportista",
+      "translation": "deportista",
+      "example": "The word \"deportista\" is useful."
+    },
+    {
+      "word": "jugador",
+      "translation": "jugador",
+      "example": "The word \"jugador\" is useful."
+    },
+    {
+      "word": "perdedor",
+      "translation": "perdedor",
+      "example": "The word \"perdedor\" is useful."
+    },
+    {
+      "word": "ganador",
+      "translation": "ganador",
+      "example": "The word \"ganador\" is useful."
+    },
+    {
+      "word": "balón de fútbol",
+      "translation": "balón de fútbol",
+      "example": "The word \"balón de fútbol\" is useful."
+    },
+    {
+      "word": "balón de baloncesto",
+      "translation": "balón de baloncesto",
+      "example": "The word \"balón de baloncesto\" is useful."
+    },
+    {
+      "word": "pelota de tenis",
+      "translation": "pelota de tenis",
+      "example": "The word \"pelota de tenis\" is useful."
+    },
+    {
+      "word": "pelota de golf",
+      "translation": "pelota de golf",
+      "example": "The word \"pelota de golf\" is useful."
+    },
+    {
+      "word": "raqueta",
+      "translation": "raqueta",
+      "example": "The word \"raqueta\" is useful."
+    },
+    {
+      "word": "esquíes",
+      "translation": "esquíes",
+      "example": "The word \"esquíes\" is useful."
+    },
+    {
+      "word": "partido de fútbol",
+      "translation": "partido de fútbol",
+      "example": "The word \"partido de fútbol\" is useful."
+    },
+    {
+      "word": "partido de baloncesto",
+      "translation": "partido de baloncesto",
+      "example": "The word \"partido de baloncesto\" is useful."
+    },
+    {
+      "word": "equipo de fútbol",
+      "translation": "equipo de fútbol",
+      "example": "The word \"equipo de fútbol\" is useful."
+    },
+    {
+      "word": "equipo de baloncesto",
+      "translation": "equipo de baloncesto",
+      "example": "The word \"equipo de baloncesto\" is useful."
+    },
+    {
+      "word": "carrera ciclista",
+      "translation": "carrera ciclista",
+      "example": "The word \"carrera ciclista\" is useful."
+    },
+    {
+      "word": "carrera de motos",
+      "translation": "carrera de motos",
+      "example": "The word \"carrera de motos\" is useful."
+    },
+    {
+      "word": "carrera de coches",
+      "translation": "carrera de coches",
+      "example": "The word \"carrera de coches\" is useful."
+    },
+    {
+      "word": "guantes de boxeo",
+      "translation": "guantes de boxeo",
+      "example": "The word \"guantes de boxeo\" is useful."
+    },
+    {
+      "word": "chándal",
+      "translation": "chándal",
+      "example": "The word \"chándal\" is useful."
+    },
+    {
+      "word": "zapatos deportivos",
+      "translation": "zapatos deportivos",
+      "example": "The word \"zapatos deportivos\" is useful."
+    },
+    {
+      "word": "ganar",
+      "translation": "ganar",
+      "example": "The word \"ganar\" is useful."
+    },
+    {
+      "word": "perder",
+      "translation": "perder",
+      "example": "The word \"perder\" is useful."
+    },
+    {
+      "word": "empatar",
+      "translation": "empatar",
+      "example": "The word \"empatar\" is useful."
+    },
+    {
+      "word": "jugar al balonmano",
+      "translation": "jugar al balonmano",
+      "example": "The word \"jugar al balonmano\" is useful."
+    },
+    {
+      "word": "jugar al voleibol",
+      "translation": "jugar al voleibol",
+      "example": "The word \"jugar al voleibol\" is useful."
+    },
+    {
+      "word": "jugar al béisbol",
+      "translation": "jugar al béisbol",
+      "example": "The word \"jugar al béisbol\" is useful."
+    },
+    {
+      "word": "hacer atletismo",
+      "translation": "hacer atletismo",
+      "example": "The word \"hacer atletismo\" is useful."
+    },
+    {
+      "word": "hacer ciclismo",
+      "translation": "hacer ciclismo",
+      "example": "The word \"hacer ciclismo\" is useful."
+    },
+    {
+      "word": "hacer natación",
+      "translation": "hacer natación",
+      "example": "The word \"hacer natación\" is useful."
+    },
+    {
+      "word": "campo de fútbol",
+      "translation": "campo de fútbol",
+      "example": "The word \"campo de fútbol\" is useful."
+    },
+    {
+      "word": "pista de tenis",
+      "translation": "pista de tenis",
+      "example": "The word \"pista de tenis\" is useful."
+    },
+    {
+      "word": "ficha",
+      "translation": "ficha",
+      "example": "The word \"ficha\" is useful."
+    },
+    {
+      "word": "dado",
+      "translation": "dado",
+      "example": "The word \"dado\" is useful."
+    },
+    {
+      "word": "tablero",
+      "translation": "tablero",
+      "example": "The word \"tablero\" is useful."
+    },
+    {
+      "word": "casilla",
+      "translation": "casilla",
+      "example": "The word \"casilla\" is useful."
+    },
+    {
+      "word": "concurso",
+      "translation": "concurso",
+      "example": "The word \"concurso\" is useful."
+    },
+    {
+      "word": "videojuego",
+      "translation": "videojuego",
+      "example": "The word \"videojuego\" is useful."
+    },
+    {
+      "word": "consola",
+      "translation": "consola",
+      "example": "The word \"consola\" is useful."
+    },
+    {
+      "word": "juego de mesa",
+      "translation": "juego de mesa",
+      "example": "The word \"juego de mesa\" is useful."
+    },
+    {
+      "word": "juego de cartas",
+      "translation": "juego de cartas",
+      "example": "The word \"juego de cartas\" is useful."
+    },
+    {
+      "word": "jugador",
+      "translation": "jugador",
+      "example": "The word \"jugador\" is useful."
+    },
+    {
+      "word": "ganar",
+      "translation": "ganar",
+      "example": "The word \"ganar\" is useful."
+    },
+    {
+      "word": "perder",
+      "translation": "perder",
+      "example": "The word \"perder\" is useful."
+    },
+    {
+      "word": "empatar",
+      "translation": "empatar",
+      "example": "The word \"empatar\" is useful."
+    },
+    {
+      "word": "jugar a los bolos",
+      "translation": "jugar a los bolos",
+      "example": "The word \"jugar a los bolos\" is useful."
+    },
+    {
+      "word": "jugar a los dardos",
+      "translation": "jugar a los dardos",
+      "example": "The word \"jugar a los dardos\" is useful."
+    },
+    {
+      "word": "jugar al billar",
+      "translation": "jugar al billar",
+      "example": "The word \"jugar al billar\" is useful."
+    },
+    {
+      "word": "jugar con los juguetes",
+      "translation": "jugar con los juguetes",
+      "example": "The word \"jugar con los juguetes\" is useful."
+    },
+    {
+      "word": "jugar con la pelota",
+      "translation": "jugar con la pelota",
+      "example": "The word \"jugar con la pelota\" is useful."
+    },
+    {
+      "word": "tocar un premio",
+      "translation": "tocar un premio",
+      "example": "The word \"tocar un premio\" is useful."
+    },
+    {
+      "word": "tocar el Gordo",
+      "translation": "tocar el Gordo",
+      "example": "The word \"tocar el Gordo\" is useful."
+    },
+    {
+      "word": "tocar la lotería",
+      "translation": "tocar la lotería",
+      "example": "The word \"tocar la lotería\" is useful."
+    }
+  ]
+}

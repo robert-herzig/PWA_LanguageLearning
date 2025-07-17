@@ -1,0 +1,330 @@
+{
+  "topic": "Economy and Industry",
+  "words": [
+    {
+      "word": "crisis económica",
+      "translation": "crisis económica",
+      "example": "Слово «crisis económica» полезно."
+    },
+    {
+      "word": "crecimiento económico",
+      "translation": "crecimiento económico",
+      "example": "Слово «crecimiento económico» полезно."
+    },
+    {
+      "word": "desarrollo económico",
+      "translation": "desarrollo económico",
+      "example": "Слово «desarrollo económico» полезно."
+    },
+    {
+      "word": "banca",
+      "translation": "banca",
+      "example": "Слово «banca» полезно."
+    },
+    {
+      "word": "bolsa",
+      "translation": "bolsa",
+      "example": "Слово «bolsa» полезно."
+    },
+    {
+      "word": "mercado de valores",
+      "translation": "mercado de valores",
+      "example": "Слово «mercado de valores» полезно."
+    },
+    {
+      "word": "inversión",
+      "translation": "inversión",
+      "example": "Слово «inversión» полезно."
+    },
+    {
+      "word": "capital",
+      "translation": "capital",
+      "example": "Слово «capital» полезно."
+    },
+    {
+      "word": "deuda",
+      "translation": "deuda",
+      "example": "Слово «deuda» полезно."
+    },
+    {
+      "word": "déficit",
+      "translation": "déficit",
+      "example": "Слово «déficit» полезно."
+    },
+    {
+      "word": "superávit",
+      "translation": "superávit",
+      "example": "Слово «superávit» полезно."
+    },
+    {
+      "word": "inflación",
+      "translation": "inflación",
+      "example": "Слово «inflación» полезно."
+    },
+    {
+      "word": "deflación",
+      "translation": "deflación",
+      "example": "Слово «deflación» полезно."
+    },
+    {
+      "word": "devaluación",
+      "translation": "devaluación",
+      "example": "Слово «devaluación» полезно."
+    },
+    {
+      "word": "PIB",
+      "translation": "PIB",
+      "example": "Слово «PIB» полезно."
+    },
+    {
+      "word": "Producto Interior Bruto",
+      "translation": "Producto Interior Bruto",
+      "example": "Слово «Producto Interior Bruto» полезно."
+    },
+    {
+      "word": "IVA",
+      "translation": "IVA",
+      "example": "Слово «IVA» полезно."
+    },
+    {
+      "word": "Impuesto sobre el Valor Añadido",
+      "translation": "Impuesto sobre el Valor Añadido",
+      "example": "Слово «Impuesto sobre el Valor Añadido» полезно."
+    },
+    {
+      "word": "tipo de interés",
+      "translation": "tipo de interés",
+      "example": "Слово «tipo de interés» полезно."
+    },
+    {
+      "word": "tipo de cambio",
+      "translation": "tipo de cambio",
+      "example": "Слово «tipo de cambio» полезно."
+    },
+    {
+      "word": "euro",
+      "translation": "euro",
+      "example": "Слово «euro» полезно."
+    },
+    {
+      "word": "dólar",
+      "translation": "dólar",
+      "example": "Слово «dólar» полезно."
+    },
+    {
+      "word": "libra",
+      "translation": "libra",
+      "example": "Слово «libra» полезно."
+    },
+    {
+      "word": "yen",
+      "translation": "yen",
+      "example": "Слово «yen» полезно."
+    },
+    {
+      "word": "mercado único",
+      "translation": "mercado único",
+      "example": "Слово «mercado único» полезно."
+    },
+    {
+      "word": "zona euro",
+      "translation": "zona euro",
+      "example": "Слово «zona euro» полезно."
+    },
+    {
+      "word": "libre comercio",
+      "translation": "libre comercio",
+      "example": "Слово «libre comercio» полезно."
+    },
+    {
+      "word": "globalización",
+      "translation": "globalización",
+      "example": "Слово «globalización» полезно."
+    },
+    {
+      "word": "privatización",
+      "translation": "privatización",
+      "example": "Слово «privatización» полезно."
+    },
+    {
+      "word": "nacionalización",
+      "translation": "nacionalización",
+      "example": "Слово «nacionalización» полезно."
+    },
+    {
+      "word": "Ministerio de Hacienda",
+      "translation": "Ministerio de Hacienda",
+      "example": "Слово «Ministerio de Hacienda» полезно."
+    },
+    {
+      "word": "hacer la declaración de la renta",
+      "translation": "hacer la declaración de la renta",
+      "example": "Слово «hacer la declaración de la renta» полезно."
+    },
+    {
+      "word": "presentar la declaración de la renta",
+      "translation": "presentar la declaración de la renta",
+      "example": "Слово «presentar la declaración de la renta» полезно."
+    },
+    {
+      "word": "inspector de hacienda",
+      "translation": "inspector de hacienda",
+      "example": "Слово «inspector de hacienda» полезно."
+    },
+    {
+      "word": "inspección",
+      "translation": "inspección",
+      "example": "Слово «inspección» полезно."
+    },
+    {
+      "word": "denunciar el delito fiscal",
+      "translation": "denunciar el delito fiscal",
+      "example": "Слово «denunciar el delito fiscal» полезно."
+    },
+    {
+      "word": "investigar el delito fiscal",
+      "translation": "investigar el delito fiscal",
+      "example": "Слово «investigar el delito fiscal» полезно."
+    },
+    {
+      "word": "luchar contra el delito fiscal",
+      "translation": "luchar contra el delito fiscal",
+      "example": "Слово «luchar contra el delito fiscal» полезно."
+    },
+    {
+      "word": "transacciones comerciales",
+      "translation": "transacciones comerciales",
+      "example": "Слово «transacciones comerciales» полезно."
+    },
+    {
+      "word": "mercados",
+      "translation": "mercados",
+      "example": "Слово «mercados» полезно."
+    },
+    {
+      "word": "comercio exterior",
+      "translation": "comercio exterior",
+      "example": "Слово «comercio exterior» полезно."
+    },
+    {
+      "word": "publicidad",
+      "translation": "publicidad",
+      "example": "Слово «publicidad» полезно."
+    },
+    {
+      "word": "mercadotecnia",
+      "translation": "mercadotecnia",
+      "example": "Слово «mercadotecnia» полезно."
+    },
+    {
+      "word": "márquetin",
+      "translation": "márquetin",
+      "example": "Слово «márquetin» полезно."
+    },
+    {
+      "word": "accionista",
+      "translation": "accionista",
+      "example": "Слово «accionista» полезно."
+    },
+    {
+      "word": "socio",
+      "translation": "socio",
+      "example": "Слово «socio» полезно."
+    },
+    {
+      "word": "acción",
+      "translation": "acción",
+      "example": "Слово «acción» полезно."
+    },
+    {
+      "word": "participación",
+      "translation": "participación",
+      "example": "Слово «participación» полезно."
+    },
+    {
+      "word": "asociación",
+      "translation": "asociación",
+      "example": "Слово «asociación» полезно."
+    },
+    {
+      "word": "gestión",
+      "translation": "gestión",
+      "example": "Слово «gestión» полезно."
+    },
+    {
+      "word": "dirección",
+      "translation": "dirección",
+      "example": "Слово «dirección» полезно."
+    },
+    {
+      "word": "empleo",
+      "translation": "работа",
+      "example": "Слово «работа» полезно."
+    },
+    {
+      "word": "cargo",
+      "translation": "cargo",
+      "example": "Слово «cargo» полезно."
+    },
+    {
+      "word": "ocupación",
+      "translation": "ocupación",
+      "example": "Слово «ocupación» полезно."
+    },
+    {
+      "word": "plantilla de trabajadores",
+      "translation": "plantilla de trabajadores",
+      "example": "Слово «plantilla de trabajadores» полезно."
+    },
+    {
+      "word": "jefe de personal",
+      "translation": "jefe de personal",
+      "example": "Слово «jefe de personal» полезно."
+    },
+    {
+      "word": "taller",
+      "translation": "taller",
+      "example": "Слово «taller» полезно."
+    },
+    {
+      "word": "nave industrial",
+      "translation": "nave industrial",
+      "example": "Слово «nave industrial» полезно."
+    },
+    {
+      "word": "estar de baja",
+      "translation": "estar de baja",
+      "example": "Слово «estar de baja» полезно."
+    },
+    {
+      "word": "situación económica",
+      "translation": "situación económica",
+      "example": "Слово «situación económica» полезно."
+    },
+    {
+      "word": "actividad industrial",
+      "translation": "actividad industrial",
+      "example": "Слово «actividad industrial» полезно."
+    },
+    {
+      "word": "desarrollo industrial",
+      "translation": "desarrollo industrial",
+      "example": "Слово «desarrollo industrial» полезно."
+    },
+    {
+      "word": "crecimiento industrial",
+      "translation": "crecimiento industrial",
+      "example": "Слово «crecimiento industrial» полезно."
+    },
+    {
+      "word": "carpintería",
+      "translation": "carpintería",
+      "example": "Слово «carpintería» полезно."
+    },
+    {
+      "word": "fontanería",
+      "translation": "fontanería",
+      "example": "Слово «fontanería» полезно."
+    }
+  ]
+}

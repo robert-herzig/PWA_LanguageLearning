@@ -1,0 +1,365 @@
+{
+  "topic": "Housing",
+  "words": [
+    {
+      "word": "construir una casa",
+      "translation": "construir una casa",
+      "example": "La palabra \"construir una casa\" es útil."
+    },
+    {
+      "word": "construir un edificio",
+      "translation": "construir un edificio",
+      "example": "La palabra \"construir un edificio\" es útil."
+    },
+    {
+      "word": "hacer una casa",
+      "translation": "hacer una casa",
+      "example": "La palabra \"hacer una casa\" es útil."
+    },
+    {
+      "word": "hacer un edificio",
+      "translation": "hacer un edificio",
+      "example": "La palabra \"hacer un edificio\" es útil."
+    },
+    {
+      "word": "casero",
+      "translation": "casero",
+      "example": "La palabra \"casero\" es útil."
+    },
+    {
+      "word": "propietario",
+      "translation": "propietario",
+      "example": "La palabra \"propietario\" es útil."
+    },
+    {
+      "word": "compra",
+      "translation": "compra",
+      "example": "La palabra \"compra\" es útil."
+    },
+    {
+      "word": "alquiler",
+      "translation": "alquiler",
+      "example": "La palabra \"alquiler\" es útil."
+    },
+    {
+      "word": "visitar un piso",
+      "translation": "visitar un piso",
+      "example": "La palabra \"visitar un piso\" es útil."
+    },
+    {
+      "word": "ir a ver un piso",
+      "translation": "ir a ver un piso",
+      "example": "La palabra \"ir a ver un piso\" es útil."
+    },
+    {
+      "word": "pagar el alquiler",
+      "translation": "pagar el alquiler",
+      "example": "La palabra \"pagar el alquiler\" es útil."
+    },
+    {
+      "word": "pagar la hipoteca",
+      "translation": "pagar la hipoteca",
+      "example": "La palabra \"pagar la hipoteca\" es útil."
+    },
+    {
+      "word": "pagar el piso",
+      "translation": "pagar el piso",
+      "example": "La palabra \"pagar el piso\" es útil."
+    },
+    {
+      "word": "pagar el recibo de la luz",
+      "translation": "pagar el recibo de la luz",
+      "example": "La palabra \"pagar el recibo de la luz\" es útil."
+    },
+    {
+      "word": "pagar la comunidad",
+      "translation": "pagar la comunidad",
+      "example": "La palabra \"pagar la comunidad\" es útil."
+    },
+    {
+      "word": "pagar el recibo del gas",
+      "translation": "pagar el recibo del gas",
+      "example": "La palabra \"pagar el recibo del gas\" es útil."
+    },
+    {
+      "word": "pagar el recibo del agua",
+      "translation": "pagar el recibo del agua",
+      "example": "La palabra \"pagar el recibo del agua\" es útil."
+    },
+    {
+      "word": "pagar el recibo del teléfono",
+      "translation": "pagar el recibo del teléfono",
+      "example": "La palabra \"pagar el recibo del teléfono\" es útil."
+    },
+    {
+      "word": "empresa de mudanzas",
+      "translation": "empresa de mudanzas",
+      "example": "La palabra \"empresa de mudanzas\" es útil."
+    },
+    {
+      "word": "camión de mudanzas",
+      "translation": "camión de mudanzas",
+      "example": "La palabra \"camión de mudanzas\" es útil."
+    },
+    {
+      "word": "hacer una mudanza",
+      "translation": "hacer una mudanza",
+      "example": "La palabra \"hacer una mudanza\" es útil."
+    },
+    {
+      "word": "hacer un traslado",
+      "translation": "hacer un traslado",
+      "example": "La palabra \"hacer un traslado\" es útil."
+    },
+    {
+      "word": "irse a vivir a",
+      "translation": "irse a vivir a",
+      "example": "La palabra \"irse a vivir a\" es útil."
+    },
+    {
+      "word": "bloque de pisos",
+      "translation": "bloque de pisos",
+      "example": "La palabra \"bloque de pisos\" es útil."
+    },
+    {
+      "word": "edificio de apartamentos",
+      "translation": "edificio de apartamentos",
+      "example": "La palabra \"edificio de apartamentos\" es útil."
+    },
+    {
+      "word": "portero",
+      "translation": "portero",
+      "example": "La palabra \"portero\" es útil."
+    },
+    {
+      "word": "dueño",
+      "translation": "dueño",
+      "example": "La palabra \"dueño\" es útil."
+    },
+    {
+      "word": "piso de segunda mano",
+      "translation": "piso de segunda mano",
+      "example": "La palabra \"piso de segunda mano\" es útil."
+    },
+    {
+      "word": "piso luminoso",
+      "translation": "piso luminoso",
+      "example": "La palabra \"piso luminoso\" es útil."
+    },
+    {
+      "word": "piso soleado",
+      "translation": "piso soleado",
+      "example": "La palabra \"piso soleado\" es útil."
+    },
+    {
+      "word": "fregar el suelo",
+      "translation": "fregar el suelo",
+      "example": "La palabra \"fregar el suelo\" es útil."
+    },
+    {
+      "word": "fregar los platos",
+      "translation": "fregar los platos",
+      "example": "La palabra \"fregar los platos\" es útil."
+    },
+    {
+      "word": "barrer",
+      "translation": "barrer",
+      "example": "La palabra \"barrer\" es útil."
+    },
+    {
+      "word": "hacer la cama",
+      "translation": "hacer la cama",
+      "example": "La palabra \"hacer la cama\" es útil."
+    },
+    {
+      "word": "hacer la compra",
+      "translation": "hacer la compra",
+      "example": "La palabra \"hacer la compra\" es útil."
+    },
+    {
+      "word": "pasar el aspirador",
+      "translation": "pasar el aspirador",
+      "example": "La palabra \"pasar el aspirador\" es útil."
+    },
+    {
+      "word": "sacar la basura",
+      "translation": "sacar la basura",
+      "example": "La palabra \"sacar la basura\" es útil."
+    },
+    {
+      "word": "planchar",
+      "translation": "planchar",
+      "example": "La palabra \"planchar\" es útil."
+    },
+    {
+      "word": "tender la ropa",
+      "translation": "tender la ropa",
+      "example": "La palabra \"tender la ropa\" es útil."
+    },
+    {
+      "word": "decoración",
+      "translation": "decoración",
+      "example": "La palabra \"decoración\" es útil."
+    },
+    {
+      "word": "ambiente moderno",
+      "translation": "ambiente moderno",
+      "example": "La palabra \"ambiente moderno\" es útil."
+    },
+    {
+      "word": "ambiente clásico",
+      "translation": "ambiente clásico",
+      "example": "La palabra \"ambiente clásico\" es útil."
+    },
+    {
+      "word": "estilo moderno",
+      "translation": "estilo moderno",
+      "example": "La palabra \"estilo moderno\" es útil."
+    },
+    {
+      "word": "estilo clásico",
+      "translation": "estilo clásico",
+      "example": "La palabra \"estilo clásico\" es útil."
+    },
+    {
+      "word": "decorar",
+      "translation": "decorar",
+      "example": "La palabra \"decorar\" es útil."
+    },
+    {
+      "word": "iluminar una habitación",
+      "translation": "iluminar una habitación",
+      "example": "La palabra \"iluminar una habitación\" es útil."
+    },
+    {
+      "word": "iluminar un espacio",
+      "translation": "iluminar un espacio",
+      "example": "La palabra \"iluminar un espacio\" es útil."
+    },
+    {
+      "word": "alfombra",
+      "translation": "alfombra",
+      "example": "La palabra \"alfombra\" es útil."
+    },
+    {
+      "word": "cortina",
+      "translation": "cortina",
+      "example": "La palabra \"cortina\" es útil."
+    },
+    {
+      "word": "florero",
+      "translation": "florero",
+      "example": "La palabra \"florero\" es útil."
+    },
+    {
+      "word": "póster",
+      "translation": "póster",
+      "example": "La palabra \"póster\" es útil."
+    },
+    {
+      "word": "espejo",
+      "translation": "espejo",
+      "example": "La palabra \"espejo\" es útil."
+    },
+    {
+      "word": "cómoda",
+      "translation": "cómoda",
+      "example": "La palabra \"cómoda\" es útil."
+    },
+    {
+      "word": "mesilla de noche",
+      "translation": "mesilla de noche",
+      "example": "La palabra \"mesilla de noche\" es útil."
+    },
+    {
+      "word": "pequeño electrodoméstico",
+      "translation": "pequeño electrodoméstico",
+      "example": "La palabra \"pequeño electrodoméstico\" es útil."
+    },
+    {
+      "word": "electrodoméstico",
+      "translation": "electrodoméstico",
+      "example": "La palabra \"electrodoméstico\" es útil."
+    },
+    {
+      "word": "frigorífico",
+      "translation": "frigorífico",
+      "example": "La palabra \"frigorífico\" es útil."
+    },
+    {
+      "word": "congelador",
+      "translation": "congelador",
+      "example": "La palabra \"congelador\" es útil."
+    },
+    {
+      "word": "horno",
+      "translation": "horno",
+      "example": "La palabra \"horno\" es útil."
+    },
+    {
+      "word": "cafetera",
+      "translation": "cafetera",
+      "example": "La palabra \"cafetera\" es útil."
+    },
+    {
+      "word": "equipo de música",
+      "translation": "equipo de música",
+      "example": "La palabra \"equipo de música\" es útil."
+    },
+    {
+      "word": "funcionar",
+      "translation": "funcionar",
+      "example": "La palabra \"funcionar\" es útil."
+    },
+    {
+      "word": "estar roto",
+      "translation": "estar roto",
+      "example": "La palabra \"estar roto\" es útil."
+    },
+    {
+      "word": "estar estropeado",
+      "translation": "estar estropeado",
+      "example": "La palabra \"estar estropeado\" es útil."
+    },
+    {
+      "word": "encender un electrodoméstico",
+      "translation": "encender un electrodoméstico",
+      "example": "La palabra \"encender un electrodoméstico\" es útil."
+    },
+    {
+      "word": "apagar un electrodoméstico",
+      "translation": "apagar un electrodoméstico",
+      "example": "La palabra \"apagar un electrodoméstico\" es útil."
+    },
+    {
+      "word": "poner un electrodoméstico",
+      "translation": "poner un electrodoméstico",
+      "example": "La palabra \"poner un electrodoméstico\" es útil."
+    },
+    {
+      "word": "quitar un electrodoméstico",
+      "translation": "quitar un electrodoméstico",
+      "example": "La palabra \"quitar un electrodoméstico\" es útil."
+    },
+    {
+      "word": "conectar un electrodoméstico",
+      "translation": "conectar un electrodoméstico",
+      "example": "La palabra \"conectar un electrodoméstico\" es útil."
+    },
+    {
+      "word": "programar un electrodoméstico",
+      "translation": "programar un electrodoméstico",
+      "example": "La palabra \"programar un electrodoméstico\" es útil."
+    },
+    {
+      "word": "enchufar un electrodoméstico",
+      "translation": "enchufar un electrodoméstico",
+      "example": "La palabra \"enchufar un electrodoméstico\" es útil."
+    },
+    {
+      "word": "desenchufar un electrodoméstico",
+      "translation": "desenchufar un electrodoméstico",
+      "example": "La palabra \"desenchufar un electrodoméstico\" es útil."
+    }
+  ]
+}

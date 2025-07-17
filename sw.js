@@ -5,6 +5,8 @@ const urlsToCache = [
   '/index.html',
   '/css/styles.css',
   '/js/app.js',
+  '/js/topical-vocabulary.js',
+  '/js/translations.js',
   '/manifest.json',
   '/icons/favicon-96x96.png',
   '/icons/web-app-manifest-192x192.png',
@@ -12,7 +14,25 @@ const urlsToCache = [
   '/icons/apple-touch-icon.png',
   '/icons/favicon.ico',
   '/icons/favicon.svg',
-  // Add other static assets here
+  // Cache vocabulary JSON files for offline topical vocabulary
+  '/data/word_lists/english/b1/food.json',
+  '/data/word_lists/english/b1/travel.json',
+  '/data/word_lists/english/b1/work.json',
+  '/data/word_lists/english/b2/environment.json',
+  '/data/word_lists/english/b2/health.json',
+  '/data/word_lists/english/b2/technology.json',
+  '/data/word_lists/spanish/b1/food.json',
+  '/data/word_lists/spanish/b1/travel.json',
+  '/data/word_lists/spanish/b1/work.json',
+  '/data/word_lists/spanish/b2/environment.json',
+  '/data/word_lists/spanish/b2/health.json',
+  '/data/word_lists/spanish/b2/technology.json',
+  '/data/word_lists/russian/b1/food.json',
+  '/data/word_lists/russian/b1/travel.json',
+  '/data/word_lists/russian/b1/work.json',
+  '/data/word_lists/russian/b2/environment.json',
+  '/data/word_lists/russian/b2/health.json',
+  '/data/word_lists/russian/b2/technology.json'
 ];
 
 // Install event - cache resources

@@ -1,0 +1,475 @@
+{
+  "topic": "Shopping and Stores",
+  "words": [
+    {
+      "word": "establecimiento",
+      "translation": "establecimiento",
+      "example": "Слово «establecimiento» полезно."
+    },
+    {
+      "word": "comercio",
+      "translation": "comercio",
+      "example": "Слово «comercio» полезно."
+    },
+    {
+      "word": "cadena",
+      "translation": "cadena",
+      "example": "Слово «cadena» полезно."
+    },
+    {
+      "word": "artículo",
+      "translation": "artículo",
+      "example": "Слово «artículo» полезно."
+    },
+    {
+      "word": "producto",
+      "translation": "producto",
+      "example": "Слово «producto» полезно."
+    },
+    {
+      "word": "mercancía",
+      "translation": "mercancía",
+      "example": "Слово «mercancía» полезно."
+    },
+    {
+      "word": "distribución",
+      "translation": "distribución",
+      "example": "Слово «distribución» полезно."
+    },
+    {
+      "word": "reparto",
+      "translation": "reparto",
+      "example": "Слово «reparto» полезно."
+    },
+    {
+      "word": "clientela",
+      "translation": "clientela",
+      "example": "Слово «clientela» полезно."
+    },
+    {
+      "word": "consumidor",
+      "translation": "consumidor",
+      "example": "Слово «consumidor» полезно."
+    },
+    {
+      "word": "comercial",
+      "translation": "comercial",
+      "example": "Слово «comercial» полезно."
+    },
+    {
+      "word": "etiqueta",
+      "translation": "etiqueta",
+      "example": "Слово «etiqueta» полезно."
+    },
+    {
+      "word": "alarma",
+      "translation": "alarma",
+      "example": "Слово «alarma» полезно."
+    },
+    {
+      "word": "horario comercial",
+      "translation": "horario comercial",
+      "example": "Слово «horario comercial» полезно."
+    },
+    {
+      "word": "horario continuo",
+      "translation": "horario continuo",
+      "example": "Слово «horario continuo» полезно."
+    },
+    {
+      "word": "dar la vez",
+      "translation": "dar la vez",
+      "example": "Слово «dar la vez» полезно."
+    },
+    {
+      "word": "pedir la vez",
+      "translation": "pedir la vez",
+      "example": "Слово «pedir la vez» полезно."
+    },
+    {
+      "word": "poner una reclamación",
+      "translation": "poner una reclamación",
+      "example": "Слово «poner una reclamación» полезно."
+    },
+    {
+      "word": "pedir el libro de reclamaciones",
+      "translation": "pedir el libro de reclamaciones",
+      "example": "Слово «pedir el libro de reclamaciones» полезно."
+    },
+    {
+      "word": "echar un vistazo",
+      "translation": "echar un vistazo",
+      "example": "Слово «echar un vistazo» полезно."
+    },
+    {
+      "word": "hacerse una idea",
+      "translation": "hacerse una idea",
+      "example": "Слово «hacerse una idea» полезно."
+    },
+    {
+      "word": "ver escaparates",
+      "translation": "ver escaparates",
+      "example": "Слово «ver escaparates» полезно."
+    },
+    {
+      "word": "perder clientes",
+      "translation": "perder clientes",
+      "example": "Слово «perder clientes» полезно."
+    },
+    {
+      "word": "ganar clientes",
+      "translation": "ganar clientes",
+      "example": "Слово «ganar clientes» полезно."
+    },
+    {
+      "word": "complementos",
+      "translation": "complementos",
+      "example": "Слово «complementos» полезно."
+    },
+    {
+      "word": "conjunto",
+      "translation": "conjunto",
+      "example": "Слово «conjunto» полезно."
+    },
+    {
+      "word": "albornoz",
+      "translation": "albornoz",
+      "example": "Слово «albornoz» полезно."
+    },
+    {
+      "word": "bata",
+      "translation": "bata",
+      "example": "Слово «bata» полезно."
+    },
+    {
+      "word": "camisón",
+      "translation": "camisón",
+      "example": "Слово «camisón» полезно."
+    },
+    {
+      "word": "delantal",
+      "translation": "delantal",
+      "example": "Слово «delantal» полезно."
+    },
+    {
+      "word": "calzador",
+      "translation": "calzador",
+      "example": "Слово «calzador» полезно."
+    },
+    {
+      "word": "aguja",
+      "translation": "aguja",
+      "example": "Слово «aguja» полезно."
+    },
+    {
+      "word": "alfiler",
+      "translation": "alfiler",
+      "example": "Слово «alfiler» полезно."
+    },
+    {
+      "word": "hilo",
+      "translation": "hilo",
+      "example": "Слово «hilo» полезно."
+    },
+    {
+      "word": "cremallera",
+      "translation": "cremallera",
+      "example": "Слово «cremallera» полезно."
+    },
+    {
+      "word": "percha",
+      "translation": "percha",
+      "example": "Слово «percha» полезно."
+    },
+    {
+      "word": "ropa de temporada",
+      "translation": "ropa de temporada",
+      "example": "Слово «ropa de temporada» полезно."
+    },
+    {
+      "word": "ropa de calle",
+      "translation": "ropa de calle",
+      "example": "Слово «ropa de calle» полезно."
+    },
+    {
+      "word": "ropa de cama",
+      "translation": "ropa de cama",
+      "example": "Слово «ropa de cama» полезно."
+    },
+    {
+      "word": "ropa de montaña",
+      "translation": "ropa de montaña",
+      "example": "Слово «ropa de montaña» полезно."
+    },
+    {
+      "word": "zapatos abiertos",
+      "translation": "zapatos abiertos",
+      "example": "Слово «zapatos abiertos» полезно."
+    },
+    {
+      "word": "zapatos cerrados",
+      "translation": "zapatos cerrados",
+      "example": "Слово «zapatos cerrados» полезно."
+    },
+    {
+      "word": "zapatos de fiesta",
+      "translation": "zapatos de fiesta",
+      "example": "Слово «zapatos de fiesta» полезно."
+    },
+    {
+      "word": "estampado",
+      "translation": "estampado",
+      "example": "Слово «estampado» полезно."
+    },
+    {
+      "word": "descosido",
+      "translation": "descosido",
+      "example": "Слово «descosido» полезно."
+    },
+    {
+      "word": "cosido",
+      "translation": "cosido",
+      "example": "Слово «cosido» полезно."
+    },
+    {
+      "word": "arrugado",
+      "translation": "arrugado",
+      "example": "Слово «arrugado» полезно."
+    },
+    {
+      "word": "doblado",
+      "translation": "doblado",
+      "example": "Слово «doblado» полезно."
+    },
+    {
+      "word": "encoger",
+      "translation": "encoger",
+      "example": "Слово «encoger» полезно."
+    },
+    {
+      "word": "darse de sí",
+      "translation": "darse de sí",
+      "example": "Слово «darse de sí» полезно."
+    },
+    {
+      "word": "producto natural",
+      "translation": "натуральный продукт",
+      "example": "Слово «натуральный продукт» полезно."
+    },
+    {
+      "word": "producto alimenticio",
+      "translation": "producto alimenticio",
+      "example": "Слово «producto alimenticio» полезно."
+    },
+    {
+      "word": "alimento básico",
+      "translation": "alimento básico",
+      "example": "Слово «alimento básico» полезно."
+    },
+    {
+      "word": "alimento nutritivo",
+      "translation": "alimento nutritivo",
+      "example": "Слово «alimento nutritivo» полезно."
+    },
+    {
+      "word": "alimento pesado",
+      "translation": "тяжёлая пища",
+      "example": "Слово «тяжёлая пища» полезно."
+    },
+    {
+      "word": "alimento ligero",
+      "translation": "лёгкая пища",
+      "example": "Слово «лёгкая пища» полезно."
+    },
+    {
+      "word": "comida pesada",
+      "translation": "comida pesada",
+      "example": "Слово «comida pesada» полезно."
+    },
+    {
+      "word": "comida ligera",
+      "translation": "comida ligera",
+      "example": "Слово «comida ligera» полезно."
+    },
+    {
+      "word": "comida sin conservantes",
+      "translation": "comida sin conservantes",
+      "example": "Слово «comida sin conservantes» полезно."
+    },
+    {
+      "word": "comida sin colorantes",
+      "translation": "comida sin colorantes",
+      "example": "Слово «comida sin colorantes» полезно."
+    },
+    {
+      "word": "bajo en calorías",
+      "translation": "bajo en calorías",
+      "example": "Слово «bajo en calorías» полезно."
+    },
+    {
+      "word": "bajo en sal",
+      "translation": "bajo en sal",
+      "example": "Слово «bajo en sal» полезно."
+    },
+    {
+      "word": "bajo en azúcar",
+      "translation": "bajo en azúcar",
+      "example": "Слово «bajo en azúcar» полезно."
+    },
+    {
+      "word": "rico en calorías",
+      "translation": "rico en calorías",
+      "example": "Слово «rico en calorías» полезно."
+    },
+    {
+      "word": "rico en vitaminas",
+      "translation": "rico en vitaminas",
+      "example": "Слово «rico en vitaminas» полезно."
+    },
+    {
+      "word": "rico en proteínas",
+      "translation": "rico en proteínas",
+      "example": "Слово «rico en proteínas» полезно."
+    },
+    {
+      "word": "rico en fibra",
+      "translation": "rico en fibra",
+      "example": "Слово «rico en fibra» полезно."
+    },
+    {
+      "word": "rico en calcio",
+      "translation": "rico en calcio",
+      "example": "Слово «rico en calcio» полезно."
+    },
+    {
+      "word": "llevar el pedido",
+      "translation": "llevar el pedido",
+      "example": "Слово «llevar el pedido» полезно."
+    },
+    {
+      "word": "hacer el pedido",
+      "translation": "hacer el pedido",
+      "example": "Слово «hacer el pedido» полезно."
+    },
+    {
+      "word": "estar en buenas condiciones",
+      "translation": "estar en buenas condiciones",
+      "example": "Слово «estar en buenas condiciones» полезно."
+    },
+    {
+      "word": "estar en malas condiciones",
+      "translation": "estar en malas condiciones",
+      "example": "Слово «estar en malas condiciones» полезно."
+    },
+    {
+      "word": "factura",
+      "translation": "factura",
+      "example": "Слово «factura» полезно."
+    },
+    {
+      "word": "cheque",
+      "translation": "cheque",
+      "example": "Слово «cheque» полезно."
+    },
+    {
+      "word": "recibo",
+      "translation": "recibo",
+      "example": "Слово «recibo» полезно."
+    },
+    {
+      "word": "presupuesto",
+      "translation": "presupuesto",
+      "example": "Слово «presupuesto» полезно."
+    },
+    {
+      "word": "condiciones de financiación",
+      "translation": "condiciones de financiación",
+      "example": "Слово «condiciones de financiación» полезно."
+    },
+    {
+      "word": "condiciones de pago",
+      "translation": "condiciones de pago",
+      "example": "Слово «condiciones de pago» полезно."
+    },
+    {
+      "word": "pagar a plazos",
+      "translation": "pagar a plazos",
+      "example": "Слово «pagar a plazos» полезно."
+    },
+    {
+      "word": "pagar al contado",
+      "translation": "pagar al contado",
+      "example": "Слово «pagar al contado» полезно."
+    },
+    {
+      "word": "dejar una señal",
+      "translation": "dejar una señal",
+      "example": "Слово «dejar una señal» полезно."
+    },
+    {
+      "word": "hacer una factura",
+      "translation": "hacer una factura",
+      "example": "Слово «hacer una factura» полезно."
+    },
+    {
+      "word": "hacer un recibo",
+      "translation": "hacer un recibo",
+      "example": "Слово «hacer un recibo» полезно."
+    },
+    {
+      "word": "hacer un presupuesto",
+      "translation": "hacer un presupuesto",
+      "example": "Слово «hacer un presupuesto» полезно."
+    },
+    {
+      "word": "pedir una factura",
+      "translation": "pedir una factura",
+      "example": "Слово «pedir una factura» полезно."
+    },
+    {
+      "word": "pedir un recibo",
+      "translation": "pedir un recibo",
+      "example": "Слово «pedir un recibo» полезно."
+    },
+    {
+      "word": "pedir un presupuesto",
+      "translation": "pedir un presupuesto",
+      "example": "Слово «pedir un presupuesto» полезно."
+    },
+    {
+      "word": "salir gratis",
+      "translation": "salir gratis",
+      "example": "Слово «salir gratis» полезно."
+    },
+    {
+      "word": "ser gratis",
+      "translation": "ser gratis",
+      "example": "Слово «ser gratis» полезно."
+    },
+    {
+      "word": "dos por el precio de uno",
+      "translation": "dos por el precio de uno",
+      "example": "Слово «dos por el precio de uno» полезно."
+    },
+    {
+      "word": "tener tarjeta de cliente",
+      "translation": "tener tarjeta de cliente",
+      "example": "Слово «tener tarjeta de cliente» полезно."
+    },
+    {
+      "word": "tener tarjeta de fidelidad",
+      "translation": "tener tarjeta de fidelidad",
+      "example": "Слово «tener tarjeta de fidelidad» полезно."
+    },
+    {
+      "word": "solicitar tarjeta de cliente",
+      "translation": "solicitar tarjeta de cliente",
+      "example": "Слово «solicitar tarjeta de cliente» полезно."
+    },
+    {
+      "word": "solicitar tarjeta de fidelidad",
+      "translation": "solicitar tarjeta de fidelidad",
+      "example": "Слово «solicitar tarjeta de fidelidad» полезно."
+    }
+  ]
+}

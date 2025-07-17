@@ -1,0 +1,430 @@
+{
+  "topic": "Personal Relationships",
+  "words": [
+    {
+      "word": "matrimonio homosexual",
+      "translation": "matrimonio homosexual",
+      "example": "La palabra \"matrimonio homosexual\" es útil."
+    },
+    {
+      "word": "matrimonio heterosexual",
+      "translation": "matrimonio heterosexual",
+      "example": "La palabra \"matrimonio heterosexual\" es útil."
+    },
+    {
+      "word": "pareja de hecho",
+      "translation": "pareja de hecho",
+      "example": "La palabra \"pareja de hecho\" es útil."
+    },
+    {
+      "word": "madre soltera",
+      "translation": "madre soltera",
+      "example": "La palabra \"madre soltera\" es útil."
+    },
+    {
+      "word": "niño adoptado",
+      "translation": "niño adoptado",
+      "example": "La palabra \"niño adoptado\" es útil."
+    },
+    {
+      "word": "adoptar un niño",
+      "translation": "adoptar un niño",
+      "example": "La palabra \"adoptar un niño\" es útil."
+    },
+    {
+      "word": "educar a un hijo",
+      "translation": "educar a un hijo",
+      "example": "La palabra \"educar a un hijo\" es útil."
+    },
+    {
+      "word": "convivir con la pareja",
+      "translation": "convivir con la pareja",
+      "example": "La palabra \"convivir con la pareja\" es útil."
+    },
+    {
+      "word": "convivir con el novio",
+      "translation": "convivir con el novio",
+      "example": "La palabra \"convivir con el novio\" es útil."
+    },
+    {
+      "word": "vivir con la pareja",
+      "translation": "vivir con la pareja",
+      "example": "La palabra \"vivir con la pareja\" es útil."
+    },
+    {
+      "word": "vivir con el novio",
+      "translation": "vivir con el novio",
+      "example": "La palabra \"vivir con el novio\" es útil."
+    },
+    {
+      "word": "llevar años juntos",
+      "translation": "llevar años juntos",
+      "example": "La palabra \"llevar años juntos\" es útil."
+    },
+    {
+      "word": "llevar años en pareja",
+      "translation": "llevar años en pareja",
+      "example": "La palabra \"llevar años en pareja\" es útil."
+    },
+    {
+      "word": "llevar años viviendo juntos",
+      "translation": "llevar años viviendo juntos",
+      "example": "La palabra \"llevar años viviendo juntos\" es útil."
+    },
+    {
+      "word": "llevar años conviviendo juntos",
+      "translation": "llevar años conviviendo juntos",
+      "example": "La palabra \"llevar años conviviendo juntos\" es útil."
+    },
+    {
+      "word": "obedecer a los padres",
+      "translation": "obedecer a los padres",
+      "example": "La palabra \"obedecer a los padres\" es útil."
+    },
+    {
+      "word": "desobedecer a los padres",
+      "translation": "desobedecer a los padres",
+      "example": "La palabra \"desobedecer a los padres\" es útil."
+    },
+    {
+      "word": "discutir con los padres",
+      "translation": "discutir con los padres",
+      "example": "La palabra \"discutir con los padres\" es útil."
+    },
+    {
+      "word": "discutir con los hermanos",
+      "translation": "discutir con los hermanos",
+      "example": "La palabra \"discutir con los hermanos\" es útil."
+    },
+    {
+      "word": "discutir con los hijos",
+      "translation": "discutir con los hijos",
+      "example": "La palabra \"discutir con los hijos\" es útil."
+    },
+    {
+      "word": "crecer feliz",
+      "translation": "crecer feliz",
+      "example": "La palabra \"crecer feliz\" es útil."
+    },
+    {
+      "word": "crecer fuerte",
+      "translation": "crecer fuerte",
+      "example": "La palabra \"crecer fuerte\" es útil."
+    },
+    {
+      "word": "crecer sano",
+      "translation": "crecer sano",
+      "example": "La palabra \"crecer sano\" es útil."
+    },
+    {
+      "word": "colega",
+      "translation": "colega",
+      "example": "La palabra \"colega\" es útil."
+    },
+    {
+      "word": "amigo de la infancia",
+      "translation": "amigo de la infancia",
+      "example": "La palabra \"amigo de la infancia\" es útil."
+    },
+    {
+      "word": "amigo de universidad",
+      "translation": "amigo de universidad",
+      "example": "La palabra \"amigo de universidad\" es útil."
+    },
+    {
+      "word": "buen amigo",
+      "translation": "buen amigo",
+      "example": "La palabra \"buen amigo\" es útil."
+    },
+    {
+      "word": "gran amigo",
+      "translation": "gran amigo",
+      "example": "La palabra \"gran amigo\" es útil."
+    },
+    {
+      "word": "tener novio",
+      "translation": "tener novio",
+      "example": "La palabra \"tener novio\" es útil."
+    },
+    {
+      "word": "tener pareja",
+      "translation": "tener pareja",
+      "example": "La palabra \"tener pareja\" es útil."
+    },
+    {
+      "word": "tener una aventura",
+      "translation": "tener una aventura",
+      "example": "La palabra \"tener una aventura\" es útil."
+    },
+    {
+      "word": "tener una relación",
+      "translation": "tener una relación",
+      "example": "La palabra \"tener una relación\" es útil."
+    },
+    {
+      "word": "tener una relación de amistad",
+      "translation": "tener una relación de amistad",
+      "example": "La palabra \"tener una relación de amistad\" es útil."
+    },
+    {
+      "word": "tener una relación de amor",
+      "translation": "tener una relación de amor",
+      "example": "La palabra \"tener una relación de amor\" es útil."
+    },
+    {
+      "word": "tener una relación de trabajo",
+      "translation": "tener una relación de trabajo",
+      "example": "La palabra \"tener una relación de trabajo\" es útil."
+    },
+    {
+      "word": "empezar una relación",
+      "translation": "empezar una relación",
+      "example": "La palabra \"empezar una relación\" es útil."
+    },
+    {
+      "word": "acabar una relación",
+      "translation": "acabar una relación",
+      "example": "La palabra \"acabar una relación\" es útil."
+    },
+    {
+      "word": "terminar una relación",
+      "translation": "terminar una relación",
+      "example": "La palabra \"terminar una relación\" es útil."
+    },
+    {
+      "word": "salir con alguien",
+      "translation": "salir con alguien",
+      "example": "La palabra \"salir con alguien\" es útil."
+    },
+    {
+      "word": "romper con alguien",
+      "translation": "romper con alguien",
+      "example": "La palabra \"romper con alguien\" es útil."
+    },
+    {
+      "word": "caer bien",
+      "translation": "caer bien",
+      "example": "La palabra \"caer bien\" es útil."
+    },
+    {
+      "word": "caer mal",
+      "translation": "caer mal",
+      "example": "La palabra \"caer mal\" es útil."
+    },
+    {
+      "word": "llevarse bien",
+      "translation": "llevarse bien",
+      "example": "La palabra \"llevarse bien\" es útil."
+    },
+    {
+      "word": "llevarse mal",
+      "translation": "llevarse mal",
+      "example": "La palabra \"llevarse mal\" es útil."
+    },
+    {
+      "word": "dar la mano",
+      "translation": "dar la mano",
+      "example": "La palabra \"dar la mano\" es útil."
+    },
+    {
+      "word": "dar un abrazo",
+      "translation": "dar un abrazo",
+      "example": "La palabra \"dar un abrazo\" es útil."
+    },
+    {
+      "word": "dar un beso",
+      "translation": "dar un beso",
+      "example": "La palabra \"dar un beso\" es útil."
+    },
+    {
+      "word": "abrazarse",
+      "translation": "abrazarse",
+      "example": "La palabra \"abrazarse\" es útil."
+    },
+    {
+      "word": "besarse",
+      "translation": "besarse",
+      "example": "La palabra \"besarse\" es útil."
+    },
+    {
+      "word": "ligar",
+      "translation": "ligar",
+      "example": "La palabra \"ligar\" es útil."
+    },
+    {
+      "word": "fiesta típica",
+      "translation": "fiesta típica",
+      "example": "La palabra \"fiesta típica\" es útil."
+    },
+    {
+      "word": "fiesta popular",
+      "translation": "fiesta popular",
+      "example": "La palabra \"fiesta popular\" es útil."
+    },
+    {
+      "word": "fiesta tradicional",
+      "translation": "fiesta tradicional",
+      "example": "La palabra \"fiesta tradicional\" es útil."
+    },
+    {
+      "word": "fiesta de disfraces",
+      "translation": "fiesta de disfraces",
+      "example": "La palabra \"fiesta de disfraces\" es útil."
+    },
+    {
+      "word": "comida de Navidad",
+      "translation": "comida de Navidad",
+      "example": "La palabra \"comida de Navidad\" es útil."
+    },
+    {
+      "word": "comida de familia",
+      "translation": "comida de familia",
+      "example": "La palabra \"comida de familia\" es útil."
+    },
+    {
+      "word": "comida de negocios",
+      "translation": "comida de negocios",
+      "example": "La palabra \"comida de negocios\" es útil."
+    },
+    {
+      "word": "fiesta formal",
+      "translation": "fiesta formal",
+      "example": "La palabra \"fiesta formal\" es útil."
+    },
+    {
+      "word": "fiesta informal",
+      "translation": "fiesta informal",
+      "example": "La palabra \"fiesta informal\" es útil."
+    },
+    {
+      "word": "reunión formal",
+      "translation": "reunión formal",
+      "example": "La palabra \"reunión formal\" es útil."
+    },
+    {
+      "word": "reunión informal",
+      "translation": "reunión informal",
+      "example": "La palabra \"reunión informal\" es útil."
+    },
+    {
+      "word": "despedida de soltero",
+      "translation": "despedida de soltero",
+      "example": "La palabra \"despedida de soltero\" es útil."
+    },
+    {
+      "word": "boda",
+      "translation": "boda",
+      "example": "La palabra \"boda\" es útil."
+    },
+    {
+      "word": "cumplir años",
+      "translation": "cumplir años",
+      "example": "La palabra \"cumplir años\" es útil."
+    },
+    {
+      "word": "hacer una despedida de soltero",
+      "translation": "hacer una despedida de soltero",
+      "example": "La palabra \"hacer una despedida de soltero\" es útil."
+    },
+    {
+      "word": "dar una despedida de soltero",
+      "translation": "dar una despedida de soltero",
+      "example": "La palabra \"dar una despedida de soltero\" es útil."
+    },
+    {
+      "word": "invitar a una despedida de soltero",
+      "translation": "invitar a una despedida de soltero",
+      "example": "La palabra \"invitar a una despedida de soltero\" es útil."
+    },
+    {
+      "word": "hacer una fiesta de fin de curso",
+      "translation": "hacer una fiesta de fin de curso",
+      "example": "La palabra \"hacer una fiesta de fin de curso\" es útil."
+    },
+    {
+      "word": "irse de viaje de novios",
+      "translation": "irse de viaje de novios",
+      "example": "La palabra \"irse de viaje de novios\" es útil."
+    },
+    {
+      "word": "irse de luna de miel",
+      "translation": "irse de luna de miel",
+      "example": "La palabra \"irse de luna de miel\" es útil."
+    },
+    {
+      "word": "estar de viaje de novios",
+      "translation": "estar de viaje de novios",
+      "example": "La palabra \"estar de viaje de novios\" es útil."
+    },
+    {
+      "word": "estar de luna de miel",
+      "translation": "estar de luna de miel",
+      "example": "La palabra \"estar de luna de miel\" es útil."
+    },
+    {
+      "word": "felicitar",
+      "translation": "felicitar",
+      "example": "La palabra \"felicitar\" es útil."
+    },
+    {
+      "word": "hacer un regalo",
+      "translation": "hacer un regalo",
+      "example": "La palabra \"hacer un regalo\" es útil."
+    },
+    {
+      "word": "envolver un regalo",
+      "translation": "envolver un regalo",
+      "example": "La palabra \"envolver un regalo\" es útil."
+    },
+    {
+      "word": "abrir un regalo",
+      "translation": "abrir un regalo",
+      "example": "La palabra \"abrir un regalo\" es útil."
+    },
+    {
+      "word": "actitud agradable",
+      "translation": "actitud agradable",
+      "example": "La palabra \"actitud agradable\" es útil."
+    },
+    {
+      "word": "actitud positiva",
+      "translation": "actitud positiva",
+      "example": "La palabra \"actitud positiva\" es útil."
+    },
+    {
+      "word": "actitud extraña",
+      "translation": "actitud extraña",
+      "example": "La palabra \"actitud extraña\" es útil."
+    },
+    {
+      "word": "portarse bien",
+      "translation": "portarse bien",
+      "example": "La palabra \"portarse bien\" es útil."
+    },
+    {
+      "word": "portarse mal",
+      "translation": "portarse mal",
+      "example": "La palabra \"portarse mal\" es útil."
+    },
+    {
+      "word": "tratar bien a alguien",
+      "translation": "tratar bien a alguien",
+      "example": "La palabra \"tratar bien a alguien\" es útil."
+    },
+    {
+      "word": "tratar mal a alguien",
+      "translation": "tratar mal a alguien",
+      "example": "La palabra \"tratar mal a alguien\" es útil."
+    },
+    {
+      "word": "tener una buena actitud",
+      "translation": "tener una buena actitud",
+      "example": "La palabra \"tener una buena actitud\" es útil."
+    },
+    {
+      "word": "tener una mala actitud",
+      "translation": "tener una mala actitud",
+      "example": "La palabra \"tener una mala actitud\" es útil."
+    }
+  ]
+}

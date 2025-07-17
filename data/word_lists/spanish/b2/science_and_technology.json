@@ -1,0 +1,510 @@
+{
+  "topic": "Science and Technology",
+  "words": [
+    {
+      "word": "físico",
+      "translation": "físico",
+      "example": "La palabra \"físico\" es útil."
+    },
+    {
+      "word": "químico",
+      "translation": "químico",
+      "example": "La palabra \"químico\" es útil."
+    },
+    {
+      "word": "matemático",
+      "translation": "matemático",
+      "example": "La palabra \"matemático\" es útil."
+    },
+    {
+      "word": "astrónomo",
+      "translation": "astrónomo",
+      "example": "La palabra \"astrónomo\" es útil."
+    },
+    {
+      "word": "investigación",
+      "translation": "investigación",
+      "example": "La palabra \"investigación\" es útil."
+    },
+    {
+      "word": "investigador",
+      "translation": "investigador",
+      "example": "La palabra \"investigador\" es útil."
+    },
+    {
+      "word": "ley",
+      "translation": "ley",
+      "example": "La palabra \"ley\" es útil."
+    },
+    {
+      "word": "principio",
+      "translation": "principio",
+      "example": "La palabra \"principio\" es útil."
+    },
+    {
+      "word": "fórmula",
+      "translation": "fórmula",
+      "example": "La palabra \"fórmula\" es útil."
+    },
+    {
+      "word": "símbolo",
+      "translation": "símbolo",
+      "example": "La palabra \"símbolo\" es útil."
+    },
+    {
+      "word": "teoría",
+      "translation": "teoría",
+      "example": "La palabra \"teoría\" es útil."
+    },
+    {
+      "word": "capacidad de análisis",
+      "translation": "capacidad de análisis",
+      "example": "La palabra \"capacidad de análisis\" es útil."
+    },
+    {
+      "word": "método de análisis",
+      "translation": "método de análisis",
+      "example": "La palabra \"método de análisis\" es útil."
+    },
+    {
+      "word": "técnica de análisis",
+      "translation": "técnica de análisis",
+      "example": "La palabra \"técnica de análisis\" es útil."
+    },
+    {
+      "word": "nuevas tecnologías",
+      "translation": "nuevas tecnologías",
+      "example": "La palabra \"nuevas tecnologías\" es útil."
+    },
+    {
+      "word": "avance científico",
+      "translation": "avance científico",
+      "example": "La palabra \"avance científico\" es útil."
+    },
+    {
+      "word": "avance tecnológico",
+      "translation": "avance tecnológico",
+      "example": "La palabra \"avance tecnológico\" es útil."
+    },
+    {
+      "word": "objeto de estudio",
+      "translation": "objeto de estudio",
+      "example": "La palabra \"objeto de estudio\" es útil."
+    },
+    {
+      "word": "objeto de análisis",
+      "translation": "objeto de análisis",
+      "example": "La palabra \"objeto de análisis\" es útil."
+    },
+    {
+      "word": "método de estudio",
+      "translation": "método de estudio",
+      "example": "La palabra \"método de estudio\" es útil."
+    },
+    {
+      "word": "método de análisis",
+      "translation": "método de análisis",
+      "example": "La palabra \"método de análisis\" es útil."
+    },
+    {
+      "word": "técnica de estudio",
+      "translation": "técnica de estudio",
+      "example": "La palabra \"técnica de estudio\" es útil."
+    },
+    {
+      "word": "técnica de análisis",
+      "translation": "técnica de análisis",
+      "example": "La palabra \"técnica de análisis\" es útil."
+    },
+    {
+      "word": "área de estudio",
+      "translation": "área de estudio",
+      "example": "La palabra \"área de estudio\" es útil."
+    },
+    {
+      "word": "área de conocimiento",
+      "translation": "área de conocimiento",
+      "example": "La palabra \"área de conocimiento\" es útil."
+    },
+    {
+      "word": "analizar",
+      "translation": "analizar",
+      "example": "La palabra \"analizar\" es útil."
+    },
+    {
+      "word": "investigar",
+      "translation": "investigar",
+      "example": "La palabra \"investigar\" es útil."
+    },
+    {
+      "word": "desarrollar una técnica",
+      "translation": "desarrollar una técnica",
+      "example": "La palabra \"desarrollar una técnica\" es útil."
+    },
+    {
+      "word": "introducir una técnica",
+      "translation": "introducir una técnica",
+      "example": "La palabra \"introducir una técnica\" es útil."
+    },
+    {
+      "word": "demostrar una hipótesis",
+      "translation": "demostrar una hipótesis",
+      "example": "La palabra \"demostrar una hipótesis\" es útil."
+    },
+    {
+      "word": "confirmar una hipótesis",
+      "translation": "confirmar una hipótesis",
+      "example": "La palabra \"confirmar una hipótesis\" es útil."
+    },
+    {
+      "word": "basarse en una investigación",
+      "translation": "basarse en una investigación",
+      "example": "La palabra \"basarse en una investigación\" es útil."
+    },
+    {
+      "word": "basarse en un estudio",
+      "translation": "basarse en un estudio",
+      "example": "La palabra \"basarse en un estudio\" es útil."
+    },
+    {
+      "word": "ser objeto de estudio",
+      "translation": "ser objeto de estudio",
+      "example": "La palabra \"ser objeto de estudio\" es útil."
+    },
+    {
+      "word": "ser objeto de análisis",
+      "translation": "ser objeto de análisis",
+      "example": "La palabra \"ser objeto de análisis\" es útil."
+    },
+    {
+      "word": "especie",
+      "translation": "especie",
+      "example": "La palabra \"especie\" es útil."
+    },
+    {
+      "word": "molécula",
+      "translation": "molécula",
+      "example": "La palabra \"molécula\" es útil."
+    },
+    {
+      "word": "neurona",
+      "translation": "neurona",
+      "example": "La palabra \"neurona\" es útil."
+    },
+    {
+      "word": "célula",
+      "translation": "célula",
+      "example": "La palabra \"célula\" es útil."
+    },
+    {
+      "word": "virus",
+      "translation": "virus",
+      "example": "La palabra \"virus\" es útil."
+    },
+    {
+      "word": "genético",
+      "translation": "genético",
+      "example": "La palabra \"genético\" es útil."
+    },
+    {
+      "word": "biológico",
+      "translation": "biológico",
+      "example": "La palabra \"biológico\" es útil."
+    },
+    {
+      "word": "cálculo",
+      "translation": "cálculo",
+      "example": "La palabra \"cálculo\" es útil."
+    },
+    {
+      "word": "álgebra",
+      "translation": "álgebra",
+      "example": "La palabra \"álgebra\" es útil."
+    },
+    {
+      "word": "estadística",
+      "translation": "estadística",
+      "example": "La palabra \"estadística\" es útil."
+    },
+    {
+      "word": "número par",
+      "translation": "número par",
+      "example": "La palabra \"número par\" es útil."
+    },
+    {
+      "word": "número impar",
+      "translation": "número impar",
+      "example": "La palabra \"número impar\" es útil."
+    },
+    {
+      "word": "número decimal",
+      "translation": "número decimal",
+      "example": "La palabra \"número decimal\" es útil."
+    },
+    {
+      "word": "cifra",
+      "translation": "cifra",
+      "example": "La palabra \"cifra\" es útil."
+    },
+    {
+      "word": "línea recta",
+      "translation": "línea recta",
+      "example": "La palabra \"línea recta\" es útil."
+    },
+    {
+      "word": "línea diagonal",
+      "translation": "línea diagonal",
+      "example": "La palabra \"línea diagonal\" es útil."
+    },
+    {
+      "word": "línea horizontal",
+      "translation": "línea horizontal",
+      "example": "La palabra \"línea horizontal\" es útil."
+    },
+    {
+      "word": "línea vertical",
+      "translation": "línea vertical",
+      "example": "La palabra \"línea vertical\" es útil."
+    },
+    {
+      "word": "fórmula matemática",
+      "translation": "fórmula matemática",
+      "example": "La palabra \"fórmula matemática\" es útil."
+    },
+    {
+      "word": "ángulo recto",
+      "translation": "ángulo recto",
+      "example": "La palabra \"ángulo recto\" es útil."
+    },
+    {
+      "word": "calcular una cantidad",
+      "translation": "calcular una cantidad",
+      "example": "La palabra \"calcular una cantidad\" es útil."
+    },
+    {
+      "word": "calcular un porcentaje",
+      "translation": "calcular un porcentaje",
+      "example": "La palabra \"calcular un porcentaje\" es útil."
+    },
+    {
+      "word": "calcular con precisión",
+      "translation": "calcular con precisión",
+      "example": "La palabra \"calcular con precisión\" es útil."
+    },
+    {
+      "word": "calcular mentalmente",
+      "translation": "calcular mentalmente",
+      "example": "La palabra \"calcular mentalmente\" es útil."
+    },
+    {
+      "word": "procesador de textos",
+      "translation": "procesador de textos",
+      "example": "La palabra \"procesador de textos\" es útil."
+    },
+    {
+      "word": "base de datos",
+      "translation": "base de datos",
+      "example": "La palabra \"base de datos\" es útil."
+    },
+    {
+      "word": "hoja de cálculo",
+      "translation": "hoja de cálculo",
+      "example": "La palabra \"hoja de cálculo\" es útil."
+    },
+    {
+      "word": "disco duro",
+      "translation": "disco duro",
+      "example": "La palabra \"disco duro\" es útil."
+    },
+    {
+      "word": "monitor",
+      "translation": "monitor",
+      "example": "La palabra \"monitor\" es útil."
+    },
+    {
+      "word": "altavoz",
+      "translation": "altavoz",
+      "example": "La palabra \"altavoz\" es útil."
+    },
+    {
+      "word": "escáner",
+      "translation": "escáner",
+      "example": "La palabra \"escáner\" es útil."
+    },
+    {
+      "word": "módem",
+      "translation": "módem",
+      "example": "La palabra \"módem\" es útil."
+    },
+    {
+      "word": "pantalla plana",
+      "translation": "pantalla plana",
+      "example": "La palabra \"pantalla plana\" es útil."
+    },
+    {
+      "word": "inteligencia artificial",
+      "translation": "inteligencia artificial",
+      "example": "La palabra \"inteligencia artificial\" es útil."
+    },
+    {
+      "word": "enlace",
+      "translation": "enlace",
+      "example": "La palabra \"enlace\" es útil."
+    },
+    {
+      "word": "escritorio",
+      "translation": "escritorio",
+      "example": "La palabra \"escritorio\" es útil."
+    },
+    {
+      "word": "cursor",
+      "translation": "cursor",
+      "example": "La palabra \"cursor\" es útil."
+    },
+    {
+      "word": "pinchar",
+      "translation": "pinchar",
+      "example": "La palabra \"pinchar\" es útil."
+    },
+    {
+      "word": "hacer doble clic",
+      "translation": "hacer doble clic",
+      "example": "La palabra \"hacer doble clic\" es útil."
+    },
+    {
+      "word": "arrastrar",
+      "translation": "arrastrar",
+      "example": "La palabra \"arrastrar\" es útil."
+    },
+    {
+      "word": "cambiar el tipo de letra",
+      "translation": "cambiar el tipo de letra",
+      "example": "La palabra \"cambiar el tipo de letra\" es útil."
+    },
+    {
+      "word": "cambiar el tamaño de letra",
+      "translation": "cambiar el tamaño de letra",
+      "example": "La palabra \"cambiar el tamaño de letra\" es útil."
+    },
+    {
+      "word": "grabar un archivo",
+      "translation": "grabar un archivo",
+      "example": "La palabra \"grabar un archivo\" es útil."
+    },
+    {
+      "word": "maximizar una ventana",
+      "translation": "maximizar una ventana",
+      "example": "La palabra \"maximizar una ventana\" es útil."
+    },
+    {
+      "word": "maximizar un documento",
+      "translation": "maximizar un documento",
+      "example": "La palabra \"maximizar un documento\" es útil."
+    },
+    {
+      "word": "minimizar una ventana",
+      "translation": "minimizar una ventana",
+      "example": "La palabra \"minimizar una ventana\" es útil."
+    },
+    {
+      "word": "minimizar un documento",
+      "translation": "minimizar un documento",
+      "example": "La palabra \"minimizar un documento\" es útil."
+    },
+    {
+      "word": "configurar",
+      "translation": "configurar",
+      "example": "La palabra \"configurar\" es útil."
+    },
+    {
+      "word": "cambiar la configuración",
+      "translation": "cambiar la configuración",
+      "example": "La palabra \"cambiar la configuración\" es útil."
+    },
+    {
+      "word": "reiniciar el ordenador",
+      "translation": "reiniciar el ordenador",
+      "example": "La palabra \"reiniciar el ordenador\" es útil."
+    },
+    {
+      "word": "iniciar el ordenador",
+      "translation": "iniciar el ordenador",
+      "example": "La palabra \"iniciar el ordenador\" es útil."
+    },
+    {
+      "word": "bloquear el ordenador",
+      "translation": "bloquear el ordenador",
+      "example": "La palabra \"bloquear el ordenador\" es útil."
+    },
+    {
+      "word": "bloquearse el ordenador",
+      "translation": "bloquearse el ordenador",
+      "example": "La palabra \"bloquearse el ordenador\" es útil."
+    },
+    {
+      "word": "átomo",
+      "translation": "átomo",
+      "example": "La palabra \"átomo\" es útil."
+    },
+    {
+      "word": "molécula",
+      "translation": "molécula",
+      "example": "La palabra \"molécula\" es útil."
+    },
+    {
+      "word": "célula",
+      "translation": "célula",
+      "example": "La palabra \"célula\" es útil."
+    },
+    {
+      "word": "aluminio",
+      "translation": "aluminio",
+      "example": "La palabra \"aluminio\" es útil."
+    },
+    {
+      "word": "oxígeno",
+      "translation": "oxígeno",
+      "example": "La palabra \"oxígeno\" es útil."
+    },
+    {
+      "word": "nitrógeno",
+      "translation": "nitrógeno",
+      "example": "La palabra \"nitrógeno\" es útil."
+    },
+    {
+      "word": "formulación",
+      "translation": "formulación",
+      "example": "La palabra \"formulación\" es útil."
+    },
+    {
+      "word": "fórmula química",
+      "translation": "fórmula química",
+      "example": "La palabra \"fórmula química\" es útil."
+    },
+    {
+      "word": "microscopio",
+      "translation": "microscopio",
+      "example": "La palabra \"microscopio\" es útil."
+    },
+    {
+      "word": "termómetro",
+      "translation": "termómetro",
+      "example": "La palabra \"termómetro\" es útil."
+    },
+    {
+      "word": "dureza",
+      "translation": "dureza",
+      "example": "La palabra \"dureza\" es útil."
+    },
+    {
+      "word": "elasticidad",
+      "translation": "elasticidad",
+      "example": "La palabra \"elasticidad\" es útil."
+    },
+    {
+      "word": "fragilidad",
+      "translation": "fragilidad",
+      "example": "La palabra \"fragilidad\" es útil."
+    }
+  ]
+}

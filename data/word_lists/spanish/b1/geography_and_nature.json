@@ -1,0 +1,770 @@
+{
+  "topic": "Geography and Nature",
+  "words": [
+    {
+      "word": "horóscopo",
+      "translation": "horóscopo",
+      "example": "La palabra \"horóscopo\" es útil."
+    },
+    {
+      "word": "universo",
+      "translation": "universo",
+      "example": "La palabra \"universo\" es útil."
+    },
+    {
+      "word": "espacio",
+      "translation": "espacio",
+      "example": "La palabra \"espacio\" es útil."
+    },
+    {
+      "word": "atmósfera",
+      "translation": "atmósfera",
+      "example": "La palabra \"atmósfera\" es útil."
+    },
+    {
+      "word": "astronauta",
+      "translation": "astronauta",
+      "example": "La palabra \"astronauta\" es útil."
+    },
+    {
+      "word": "cohete",
+      "translation": "cohete",
+      "example": "La palabra \"cohete\" es útil."
+    },
+    {
+      "word": "satélite",
+      "translation": "satélite",
+      "example": "La palabra \"satélite\" es útil."
+    },
+    {
+      "word": "viaje espacial",
+      "translation": "viaje espacial",
+      "example": "La palabra \"viaje espacial\" es útil."
+    },
+    {
+      "word": "universal",
+      "translation": "universal",
+      "example": "La palabra \"universal\" es útil."
+    },
+    {
+      "word": "mundial",
+      "translation": "mundial",
+      "example": "La palabra \"mundial\" es útil."
+    },
+    {
+      "word": "aterrizar",
+      "translation": "aterrizar",
+      "example": "La palabra \"aterrizar\" es útil."
+    },
+    {
+      "word": "cohete",
+      "translation": "cohete",
+      "example": "La palabra \"cohete\" es útil."
+    },
+    {
+      "word": "astronauta",
+      "translation": "astronauta",
+      "example": "La palabra \"astronauta\" es útil."
+    },
+    {
+      "word": "geografía",
+      "translation": "geografía",
+      "example": "La palabra \"geografía\" es útil."
+    },
+    {
+      "word": "sitio",
+      "translation": "sitio",
+      "example": "La palabra \"sitio\" es útil."
+    },
+    {
+      "word": "zona",
+      "translation": "zona",
+      "example": "La palabra \"zona\" es útil."
+    },
+    {
+      "word": "paisaje",
+      "translation": "paisaje",
+      "example": "La palabra \"paisaje\" es útil."
+    },
+    {
+      "word": "provincia",
+      "translation": "provincia",
+      "example": "La palabra \"provincia\" es útil."
+    },
+    {
+      "word": "comunidad autónoma",
+      "translation": "comunidad autónoma",
+      "example": "La palabra \"comunidad autónoma\" es útil."
+    },
+    {
+      "word": "estado",
+      "translation": "estado",
+      "example": "La palabra \"estado\" es útil."
+    },
+    {
+      "word": "nación",
+      "translation": "nación",
+      "example": "La palabra \"nación\" es útil."
+    },
+    {
+      "word": "población",
+      "translation": "población",
+      "example": "La palabra \"población\" es útil."
+    },
+    {
+      "word": "hemisferio norte",
+      "translation": "hemisferio norte",
+      "example": "La palabra \"hemisferio norte\" es útil."
+    },
+    {
+      "word": "hemisferio sur",
+      "translation": "hemisferio sur",
+      "example": "La palabra \"hemisferio sur\" es útil."
+    },
+    {
+      "word": "polo norte",
+      "translation": "polo norte",
+      "example": "La palabra \"polo norte\" es útil."
+    },
+    {
+      "word": "polo sur",
+      "translation": "polo sur",
+      "example": "La palabra \"polo sur\" es útil."
+    },
+    {
+      "word": "Oriente",
+      "translation": "Oriente",
+      "example": "La palabra \"Oriente\" es útil."
+    },
+    {
+      "word": "Occidente",
+      "translation": "Occidente",
+      "example": "La palabra \"Occidente\" es útil."
+    },
+    {
+      "word": "oriental",
+      "translation": "oriental",
+      "example": "La palabra \"oriental\" es útil."
+    },
+    {
+      "word": "occidental",
+      "translation": "occidental",
+      "example": "La palabra \"occidental\" es útil."
+    },
+    {
+      "word": "internacional",
+      "translation": "internacional",
+      "example": "La palabra \"internacional\" es útil."
+    },
+    {
+      "word": "nacional",
+      "translation": "nacional",
+      "example": "La palabra \"nacional\" es útil."
+    },
+    {
+      "word": "regional",
+      "translation": "regional",
+      "example": "La palabra \"regional\" es útil."
+    },
+    {
+      "word": "emigrante",
+      "translation": "emigrante",
+      "example": "La palabra \"emigrante\" es útil."
+    },
+    {
+      "word": "inmigrante",
+      "translation": "inmigrante",
+      "example": "La palabra \"inmigrante\" es útil."
+    },
+    {
+      "word": "geográfico",
+      "translation": "geográfico",
+      "example": "La palabra \"geográfico\" es útil."
+    },
+    {
+      "word": "paisaje",
+      "translation": "paisaje",
+      "example": "La palabra \"paisaje\" es útil."
+    },
+    {
+      "word": "vista",
+      "translation": "vista",
+      "example": "La palabra \"vista\" es útil."
+    },
+    {
+      "word": "continente",
+      "translation": "continente",
+      "example": "La palabra \"continente\" es útil."
+    },
+    {
+      "word": "península",
+      "translation": "península",
+      "example": "La palabra \"península\" es útil."
+    },
+    {
+      "word": "valle",
+      "translation": "valle",
+      "example": "La palabra \"valle\" es útil."
+    },
+    {
+      "word": "lago",
+      "translation": "lago",
+      "example": "La palabra \"lago\" es útil."
+    },
+    {
+      "word": "selva",
+      "translation": "selva",
+      "example": "La palabra \"selva\" es útil."
+    },
+    {
+      "word": "Europa",
+      "translation": "Europa",
+      "example": "La palabra \"Europa\" es útil."
+    },
+    {
+      "word": "Asia",
+      "translation": "Asia",
+      "example": "La palabra \"Asia\" es útil."
+    },
+    {
+      "word": "África",
+      "translation": "África",
+      "example": "La palabra \"África\" es útil."
+    },
+    {
+      "word": "América",
+      "translation": "América",
+      "example": "La palabra \"América\" es útil."
+    },
+    {
+      "word": "Oceanía",
+      "translation": "Oceanía",
+      "example": "La palabra \"Oceanía\" es útil."
+    },
+    {
+      "word": "océano Atlántico",
+      "translation": "océano Atlántico",
+      "example": "La palabra \"océano Atlántico\" es útil."
+    },
+    {
+      "word": "océano Pacífico",
+      "translation": "océano Pacífico",
+      "example": "La palabra \"océano Pacífico\" es útil."
+    },
+    {
+      "word": "océano Ártico",
+      "translation": "océano Ártico",
+      "example": "La palabra \"océano Ártico\" es útil."
+    },
+    {
+      "word": "mar Mediterráneo",
+      "translation": "mar Mediterráneo",
+      "example": "La palabra \"mar Mediterráneo\" es útil."
+    },
+    {
+      "word": "mar Báltico",
+      "translation": "mar Báltico",
+      "example": "La palabra \"mar Báltico\" es útil."
+    },
+    {
+      "word": "mar Rojo",
+      "translation": "mar Rojo",
+      "example": "La palabra \"mar Rojo\" es útil."
+    },
+    {
+      "word": "las afueras",
+      "translation": "las afueras",
+      "example": "La palabra \"las afueras\" es útil."
+    },
+    {
+      "word": "comisaría de policía",
+      "translation": "comisaría de policía",
+      "example": "La palabra \"comisaría de policía\" es útil."
+    },
+    {
+      "word": "parque de bomberos",
+      "translation": "parque de bomberos",
+      "example": "La palabra \"parque de bomberos\" es útil."
+    },
+    {
+      "word": "barrio comercial",
+      "translation": "barrio comercial",
+      "example": "La palabra \"barrio comercial\" es útil."
+    },
+    {
+      "word": "barrio residencial",
+      "translation": "barrio residencial",
+      "example": "La palabra \"barrio residencial\" es útil."
+    },
+    {
+      "word": "barrio industrial",
+      "translation": "barrio industrial",
+      "example": "La palabra \"barrio industrial\" es útil."
+    },
+    {
+      "word": "zona comercial",
+      "translation": "zona comercial",
+      "example": "La palabra \"zona comercial\" es útil."
+    },
+    {
+      "word": "zona residencial",
+      "translation": "zona residencial",
+      "example": "La palabra \"zona residencial\" es útil."
+    },
+    {
+      "word": "zona industrial",
+      "translation": "zona industrial",
+      "example": "La palabra \"zona industrial\" es útil."
+    },
+    {
+      "word": "casco histórico",
+      "translation": "casco histórico",
+      "example": "La palabra \"casco histórico\" es útil."
+    },
+    {
+      "word": "casco antiguo",
+      "translation": "casco antiguo",
+      "example": "La palabra \"casco antiguo\" es útil."
+    },
+    {
+      "word": "céntrico",
+      "translation": "céntrico",
+      "example": "La palabra \"céntrico\" es útil."
+    },
+    {
+      "word": "camino",
+      "translation": "camino",
+      "example": "La palabra \"camino\" es útil."
+    },
+    {
+      "word": "huerta",
+      "translation": "huerta",
+      "example": "La palabra \"huerta\" es útil."
+    },
+    {
+      "word": "prado",
+      "translation": "prado",
+      "example": "La palabra \"prado\" es útil."
+    },
+    {
+      "word": "tierra",
+      "translation": "tierra",
+      "example": "La palabra \"tierra\" es útil."
+    },
+    {
+      "word": "cultivo",
+      "translation": "cultivo",
+      "example": "La palabra \"cultivo\" es útil."
+    },
+    {
+      "word": "plantar",
+      "translation": "plantar",
+      "example": "La palabra \"plantar\" es útil."
+    },
+    {
+      "word": "cultivar",
+      "translation": "cultivar",
+      "example": "La palabra \"cultivar\" es útil."
+    },
+    {
+      "word": "regar",
+      "translation": "regar",
+      "example": "La palabra \"regar\" es útil."
+    },
+    {
+      "word": "estación del año",
+      "translation": "estación del año",
+      "example": "La palabra \"estación del año\" es útil."
+    },
+    {
+      "word": "granizo",
+      "translation": "granizo",
+      "example": "La palabra \"granizo\" es útil."
+    },
+    {
+      "word": "hielo",
+      "translation": "hielo",
+      "example": "La palabra \"hielo\" es útil."
+    },
+    {
+      "word": "huracán",
+      "translation": "huracán",
+      "example": "La palabra \"huracán\" es útil."
+    },
+    {
+      "word": "ola de frío",
+      "translation": "ola de frío",
+      "example": "La palabra \"ola de frío\" es útil."
+    },
+    {
+      "word": "ola de calor",
+      "translation": "ola de calor",
+      "example": "La palabra \"ola de calor\" es útil."
+    },
+    {
+      "word": "clima seco",
+      "translation": "clima seco",
+      "example": "La palabra \"clima seco\" es útil."
+    },
+    {
+      "word": "clima húmedo",
+      "translation": "clima húmedo",
+      "example": "La palabra \"clima húmedo\" es útil."
+    },
+    {
+      "word": "nublarse",
+      "translation": "nublarse",
+      "example": "La palabra \"nublarse\" es útil."
+    },
+    {
+      "word": "salir el sol",
+      "translation": "salir el sol",
+      "example": "La palabra \"salir el sol\" es útil."
+    },
+    {
+      "word": "estar el cielo despejado",
+      "translation": "estar el cielo despejado",
+      "example": "La palabra \"estar el cielo despejado\" es útil."
+    },
+    {
+      "word": "estar el cielo nublado",
+      "translation": "estar el cielo nublado",
+      "example": "La palabra \"estar el cielo nublado\" es útil."
+    },
+    {
+      "word": "mamífero",
+      "translation": "mamífero",
+      "example": "La palabra \"mamífero\" es útil."
+    },
+    {
+      "word": "insecto",
+      "translation": "insecto",
+      "example": "La palabra \"insecto\" es útil."
+    },
+    {
+      "word": "ave",
+      "translation": "ave",
+      "example": "La palabra \"ave\" es útil."
+    },
+    {
+      "word": "reptil",
+      "translation": "reptil",
+      "example": "La palabra \"reptil\" es útil."
+    },
+    {
+      "word": "animal doméstico",
+      "translation": "animal doméstico",
+      "example": "La palabra \"animal doméstico\" es útil."
+    },
+    {
+      "word": "animal salvaje",
+      "translation": "animal salvaje",
+      "example": "La palabra \"animal salvaje\" es útil."
+    },
+    {
+      "word": "animal de compañía",
+      "translation": "animal de compañía",
+      "example": "La palabra \"animal de compañía\" es útil."
+    },
+    {
+      "word": "conejo",
+      "translation": "conejo",
+      "example": "La palabra \"conejo\" es útil."
+    },
+    {
+      "word": "oveja",
+      "translation": "oveja",
+      "example": "La palabra \"oveja\" es útil."
+    },
+    {
+      "word": "cordero",
+      "translation": "cordero",
+      "example": "La palabra \"cordero\" es útil."
+    },
+    {
+      "word": "gallo",
+      "translation": "gallo",
+      "example": "La palabra \"gallo\" es útil."
+    },
+    {
+      "word": "gallina",
+      "translation": "gallina",
+      "example": "La palabra \"gallina\" es útil."
+    },
+    {
+      "word": "león",
+      "translation": "león",
+      "example": "La palabra \"león\" es útil."
+    },
+    {
+      "word": "tigre",
+      "translation": "tigre",
+      "example": "La palabra \"tigre\" es útil."
+    },
+    {
+      "word": "elefante",
+      "translation": "elefante",
+      "example": "La palabra \"elefante\" es útil."
+    },
+    {
+      "word": "serpiente",
+      "translation": "serpiente",
+      "example": "La palabra \"serpiente\" es útil."
+    },
+    {
+      "word": "cocodrilo",
+      "translation": "cocodrilo",
+      "example": "La palabra \"cocodrilo\" es útil."
+    },
+    {
+      "word": "selva",
+      "translation": "selva",
+      "example": "La palabra \"selva\" es útil."
+    },
+    {
+      "word": "parque natural",
+      "translation": "parque natural",
+      "example": "La palabra \"parque natural\" es útil."
+    },
+    {
+      "word": "hierba",
+      "translation": "hierba",
+      "example": "La palabra \"hierba\" es útil."
+    },
+    {
+      "word": "césped",
+      "translation": "césped",
+      "example": "La palabra \"césped\" es útil."
+    },
+    {
+      "word": "tronco",
+      "translation": "tronco",
+      "example": "La palabra \"tronco\" es útil."
+    },
+    {
+      "word": "hoja",
+      "translation": "hoja",
+      "example": "La palabra \"hoja\" es útil."
+    },
+    {
+      "word": "rama",
+      "translation": "rama",
+      "example": "La palabra \"rama\" es útil."
+    },
+    {
+      "word": "raíz",
+      "translation": "raíz",
+      "example": "La palabra \"raíz\" es útil."
+    },
+    {
+      "word": "planta de interior",
+      "translation": "planta de interior",
+      "example": "La palabra \"planta de interior\" es útil."
+    },
+    {
+      "word": "planta de exterior",
+      "translation": "planta de exterior",
+      "example": "La palabra \"planta de exterior\" es útil."
+    },
+    {
+      "word": "árbol frutal",
+      "translation": "árbol frutal",
+      "example": "La palabra \"árbol frutal\" es útil."
+    },
+    {
+      "word": "plantar un árbol",
+      "translation": "plantar un árbol",
+      "example": "La palabra \"plantar un árbol\" es útil."
+    },
+    {
+      "word": "regar las plantas",
+      "translation": "regar las plantas",
+      "example": "La palabra \"regar las plantas\" es útil."
+    },
+    {
+      "word": "regar el jardín",
+      "translation": "regar el jardín",
+      "example": "La palabra \"regar el jardín\" es útil."
+    },
+    {
+      "word": "caerse las hojas",
+      "translation": "caerse las hojas",
+      "example": "La palabra \"caerse las hojas\" es útil."
+    },
+    {
+      "word": "secarse las hojas",
+      "translation": "secarse las hojas",
+      "example": "La palabra \"secarse las hojas\" es útil."
+    },
+    {
+      "word": "cultivar",
+      "translation": "cultivar",
+      "example": "La palabra \"cultivar\" es útil."
+    },
+    {
+      "word": "cortar una flor",
+      "translation": "cortar una flor",
+      "example": "La palabra \"cortar una flor\" es útil."
+    },
+    {
+      "word": "contaminación",
+      "translation": "contaminación",
+      "example": "La palabra \"contaminación\" es útil."
+    },
+    {
+      "word": "polución",
+      "translation": "polución",
+      "example": "La palabra \"polución\" es útil."
+    },
+    {
+      "word": "terremoto",
+      "translation": "terremoto",
+      "example": "La palabra \"terremoto\" es útil."
+    },
+    {
+      "word": "huracán",
+      "translation": "huracán",
+      "example": "La palabra \"huracán\" es útil."
+    },
+    {
+      "word": "ecología",
+      "translation": "ecología",
+      "example": "La palabra \"ecología\" es útil."
+    },
+    {
+      "word": "ecologista",
+      "translation": "ecologista",
+      "example": "La palabra \"ecologista\" es útil."
+    },
+    {
+      "word": "reciclaje",
+      "translation": "reciclaje",
+      "example": "La palabra \"reciclaje\" es útil."
+    },
+    {
+      "word": "papel reciclado",
+      "translation": "papel reciclado",
+      "example": "La palabra \"papel reciclado\" es útil."
+    },
+    {
+      "word": "cartón reciclado",
+      "translation": "cartón reciclado",
+      "example": "La palabra \"cartón reciclado\" es útil."
+    },
+    {
+      "word": "vidrio reciclado",
+      "translation": "vidrio reciclado",
+      "example": "La palabra \"vidrio reciclado\" es útil."
+    },
+    {
+      "word": "contenedor de papel",
+      "translation": "contenedor de papel",
+      "example": "La palabra \"contenedor de papel\" es útil."
+    },
+    {
+      "word": "contenedor de vidrio",
+      "translation": "contenedor de vidrio",
+      "example": "La palabra \"contenedor de vidrio\" es útil."
+    },
+    {
+      "word": "cambio climático",
+      "translation": "cambio climático",
+      "example": "La palabra \"cambio climático\" es útil."
+    },
+    {
+      "word": "energía alternativa",
+      "translation": "energía alternativa",
+      "example": "La palabra \"energía alternativa\" es útil."
+    },
+    {
+      "word": "recursos naturales",
+      "translation": "recursos naturales",
+      "example": "La palabra \"recursos naturales\" es útil."
+    },
+    {
+      "word": "agujero de la capa de ozono",
+      "translation": "agujero de la capa de ozono",
+      "example": "La palabra \"agujero de la capa de ozono\" es útil."
+    },
+    {
+      "word": "contaminado",
+      "translation": "contaminado",
+      "example": "La palabra \"contaminado\" es útil."
+    },
+    {
+      "word": "contaminante",
+      "translation": "contaminante",
+      "example": "La palabra \"contaminante\" es útil."
+    },
+    {
+      "word": "tóxico",
+      "translation": "tóxico",
+      "example": "La palabra \"tóxico\" es útil."
+    },
+    {
+      "word": "cuidar el medio ambiente",
+      "translation": "cuidar el medio ambiente",
+      "example": "La palabra \"cuidar el medio ambiente\" es útil."
+    },
+    {
+      "word": "cuidar la naturaleza",
+      "translation": "cuidar la naturaleza",
+      "example": "La palabra \"cuidar la naturaleza\" es útil."
+    },
+    {
+      "word": "respetar el medio ambiente",
+      "translation": "respetar el medio ambiente",
+      "example": "La palabra \"respetar el medio ambiente\" es útil."
+    },
+    {
+      "word": "respetar la naturaleza",
+      "translation": "respetar la naturaleza",
+      "example": "La palabra \"respetar la naturaleza\" es útil."
+    },
+    {
+      "word": "proteger el medio ambiente",
+      "translation": "proteger el medio ambiente",
+      "example": "La palabra \"proteger el medio ambiente\" es útil."
+    },
+    {
+      "word": "proteger la naturaleza",
+      "translation": "proteger la naturaleza",
+      "example": "La palabra \"proteger la naturaleza\" es útil."
+    },
+    {
+      "word": "conservar el medio ambiente",
+      "translation": "conservar el medio ambiente",
+      "example": "La palabra \"conservar el medio ambiente\" es útil."
+    },
+    {
+      "word": "conservar la naturaleza",
+      "translation": "conservar la naturaleza",
+      "example": "La palabra \"conservar la naturaleza\" es útil."
+    },
+    {
+      "word": "reciclar vidrio",
+      "translation": "reciclar vidrio",
+      "example": "La palabra \"reciclar vidrio\" es útil."
+    },
+    {
+      "word": "reciclar pilas",
+      "translation": "reciclar pilas",
+      "example": "La palabra \"reciclar pilas\" es útil."
+    },
+    {
+      "word": "reciclar papel",
+      "translation": "reciclar papel",
+      "example": "La palabra \"reciclar papel\" es útil."
+    },
+    {
+      "word": "reciclar cartón",
+      "translation": "reciclar cartón",
+      "example": "La palabra \"reciclar cartón\" es útil."
+    },
+    {
+      "word": "reciclar latas",
+      "translation": "reciclar latas",
+      "example": "La palabra \"reciclar latas\" es útil."
+    }
+  ]
+}

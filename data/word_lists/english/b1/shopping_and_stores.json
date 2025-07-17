@@ -1,0 +1,400 @@
+{
+  "topic": "Shopping and Stores",
+  "words": [
+    {
+      "word": "salida de emergencia",
+      "translation": "salida de emergencia",
+      "example": "The word \"salida de emergencia\" is useful."
+    },
+    {
+      "word": "escaleras mecánicas",
+      "translation": "escaleras mecánicas",
+      "example": "The word \"escaleras mecánicas\" is useful."
+    },
+    {
+      "word": "aparcamiento",
+      "translation": "aparcamiento",
+      "example": "The word \"aparcamiento\" is useful."
+    },
+    {
+      "word": "oferta",
+      "translation": "oferta",
+      "example": "The word \"oferta\" is useful."
+    },
+    {
+      "word": "descuento",
+      "translation": "descuento",
+      "example": "The word \"descuento\" is useful."
+    },
+    {
+      "word": "garantía",
+      "translation": "garantía",
+      "example": "The word \"garantía\" is useful."
+    },
+    {
+      "word": "hacer una devolución",
+      "translation": "hacer una devolución",
+      "example": "The word \"hacer una devolución\" is useful."
+    },
+    {
+      "word": "hacer un cambio",
+      "translation": "hacer un cambio",
+      "example": "The word \"hacer un cambio\" is useful."
+    },
+    {
+      "word": "salir de rebajas",
+      "translation": "salir de rebajas",
+      "example": "The word \"salir de rebajas\" is useful."
+    },
+    {
+      "word": "ir de rebajas",
+      "translation": "ir de rebajas",
+      "example": "The word \"ir de rebajas\" is useful."
+    },
+    {
+      "word": "poner rebajas",
+      "translation": "poner rebajas",
+      "example": "The word \"poner rebajas\" is useful."
+    },
+    {
+      "word": "haber rebajas",
+      "translation": "haber rebajas",
+      "example": "The word \"haber rebajas\" is useful."
+    },
+    {
+      "word": "tener rebajas",
+      "translation": "tener rebajas",
+      "example": "The word \"tener rebajas\" is useful."
+    },
+    {
+      "word": "tener un descuento",
+      "translation": "tener un descuento",
+      "example": "The word \"tener un descuento\" is useful."
+    },
+    {
+      "word": "hacer un descuento",
+      "translation": "hacer un descuento",
+      "example": "The word \"hacer un descuento\" is useful."
+    },
+    {
+      "word": "subir el precio",
+      "translation": "subir el precio",
+      "example": "The word \"subir el precio\" is useful."
+    },
+    {
+      "word": "bajar el precio",
+      "translation": "bajar el precio",
+      "example": "The word \"bajar el precio\" is useful."
+    },
+    {
+      "word": "estar de oferta",
+      "translation": "estar de oferta",
+      "example": "The word \"estar de oferta\" is useful."
+    },
+    {
+      "word": "tener garantía",
+      "translation": "tener garantía",
+      "example": "The word \"tener garantía\" is useful."
+    },
+    {
+      "word": "tener precios especiales",
+      "translation": "tener precios especiales",
+      "example": "The word \"tener precios especiales\" is useful."
+    },
+    {
+      "word": "haber precios especiales",
+      "translation": "haber precios especiales",
+      "example": "The word \"haber precios especiales\" is useful."
+    },
+    {
+      "word": "comprar por catálogo",
+      "translation": "comprar por catálogo",
+      "example": "The word \"comprar por catálogo\" is useful."
+    },
+    {
+      "word": "comprar por Internet",
+      "translation": "comprar por Internet",
+      "example": "The word \"comprar por Internet\" is useful."
+    },
+    {
+      "word": "vender por catálogo",
+      "translation": "vender por catálogo",
+      "example": "The word \"vender por catálogo\" is useful."
+    },
+    {
+      "word": "vender por Internet",
+      "translation": "vender por Internet",
+      "example": "The word \"vender por Internet\" is useful."
+    },
+    {
+      "word": "ropa interior",
+      "translation": "ropa interior",
+      "example": "The word \"ropa interior\" is useful."
+    },
+    {
+      "word": "ropa de verano",
+      "translation": "ropa de verano",
+      "example": "The word \"ropa de verano\" is useful."
+    },
+    {
+      "word": "ropa de invierno",
+      "translation": "ropa de invierno",
+      "example": "The word \"ropa de invierno\" is useful."
+    },
+    {
+      "word": "ropa de deporte",
+      "translation": "ropa de deporte",
+      "example": "The word \"ropa de deporte\" is useful."
+    },
+    {
+      "word": "zapatos planos",
+      "translation": "zapatos planos",
+      "example": "The word \"zapatos planos\" is useful."
+    },
+    {
+      "word": "zapatos de tacón",
+      "translation": "zapatos de tacón",
+      "example": "The word \"zapatos de tacón\" is useful."
+    },
+    {
+      "word": "zapatillas de deporte",
+      "translation": "zapatillas de deporte",
+      "example": "The word \"zapatillas de deporte\" is useful."
+    },
+    {
+      "word": "vestido de fiesta",
+      "translation": "vestido de fiesta",
+      "example": "The word \"vestido de fiesta\" is useful."
+    },
+    {
+      "word": "vestido de noche",
+      "translation": "vestido de noche",
+      "example": "The word \"vestido de noche\" is useful."
+    },
+    {
+      "word": "vestido de novia",
+      "translation": "vestido de novia",
+      "example": "The word \"vestido de novia\" is useful."
+    },
+    {
+      "word": "traje de fiesta",
+      "translation": "traje de fiesta",
+      "example": "The word \"traje de fiesta\" is useful."
+    },
+    {
+      "word": "traje de noche",
+      "translation": "traje de noche",
+      "example": "The word \"traje de noche\" is useful."
+    },
+    {
+      "word": "traje de novia",
+      "translation": "traje de novia",
+      "example": "The word \"traje de novia\" is useful."
+    },
+    {
+      "word": "minifalda",
+      "translation": "minifalda",
+      "example": "The word \"minifalda\" is useful."
+    },
+    {
+      "word": "falda corta",
+      "translation": "falda corta",
+      "example": "The word \"falda corta\" is useful."
+    },
+    {
+      "word": "falda larga",
+      "translation": "falda larga",
+      "example": "The word \"falda larga\" is useful."
+    },
+    {
+      "word": "lana",
+      "translation": "lana",
+      "example": "The word \"lana\" is useful."
+    },
+    {
+      "word": "algodón",
+      "translation": "algodón",
+      "example": "The word \"algodón\" is useful."
+    },
+    {
+      "word": "lino",
+      "translation": "lino",
+      "example": "The word \"lino\" is useful."
+    },
+    {
+      "word": "liso",
+      "translation": "liso",
+      "example": "The word \"liso\" is useful."
+    },
+    {
+      "word": "de rayas",
+      "translation": "de rayas",
+      "example": "The word \"de rayas\" is useful."
+    },
+    {
+      "word": "de cuadros",
+      "translation": "de cuadros",
+      "example": "The word \"de cuadros\" is useful."
+    },
+    {
+      "word": "quedar bien",
+      "translation": "quedar bien",
+      "example": "The word \"quedar bien\" is useful."
+    },
+    {
+      "word": "quedar mal",
+      "translation": "quedar mal",
+      "example": "The word \"quedar mal\" is useful."
+    },
+    {
+      "word": "quedar ancho",
+      "translation": "quedar ancho",
+      "example": "The word \"quedar ancho\" is useful."
+    },
+    {
+      "word": "quedar estrecho",
+      "translation": "quedar estrecho",
+      "example": "The word \"quedar estrecho\" is useful."
+    },
+    {
+      "word": "quedar grande",
+      "translation": "quedar grande",
+      "example": "The word \"quedar grande\" is useful."
+    },
+    {
+      "word": "quedar pequeño",
+      "translation": "quedar pequeño",
+      "example": "The word \"quedar pequeño\" is useful."
+    },
+    {
+      "word": "quedar largo",
+      "translation": "quedar largo",
+      "example": "The word \"quedar largo\" is useful."
+    },
+    {
+      "word": "quedar corto",
+      "translation": "quedar corto",
+      "example": "The word \"quedar corto\" is useful."
+    },
+    {
+      "word": "coser",
+      "translation": "coser",
+      "example": "The word \"coser\" is useful."
+    },
+    {
+      "word": "carro de la compra",
+      "translation": "carro de la compra",
+      "example": "The word \"carro de la compra\" is useful."
+    },
+    {
+      "word": "carrito de la compra",
+      "translation": "carrito de la compra",
+      "example": "The word \"carrito de la compra\" is useful."
+    },
+    {
+      "word": "cesta de la compra",
+      "translation": "cesta de la compra",
+      "example": "The word \"cesta de la compra\" is useful."
+    },
+    {
+      "word": "bolsa de la compra",
+      "translation": "bolsa de la compra",
+      "example": "The word \"bolsa de la compra\" is useful."
+    },
+    {
+      "word": "sección de congelados",
+      "translation": "sección de congelados",
+      "example": "The word \"sección de congelados\" is useful."
+    },
+    {
+      "word": "sección de lácteos",
+      "translation": "sección de lácteos",
+      "example": "The word \"sección de lácteos\" is useful."
+    },
+    {
+      "word": "sección de bebidas",
+      "translation": "sección de bebidas",
+      "example": "The word \"sección de bebidas\" is useful."
+    },
+    {
+      "word": "loncha de jamón",
+      "translation": "loncha de jamón",
+      "example": "The word \"loncha de jamón\" is useful."
+    },
+    {
+      "word": "loncha de queso",
+      "translation": "loncha de queso",
+      "example": "The word \"loncha de queso\" is useful."
+    },
+    {
+      "word": "trozo de tarta",
+      "translation": "trozo de tarta",
+      "example": "The word \"trozo de tarta\" is useful."
+    },
+    {
+      "word": "trozo de pan",
+      "translation": "trozo de pan",
+      "example": "The word \"trozo de pan\" is useful."
+    },
+    {
+      "word": "estar malo",
+      "translation": "estar malo",
+      "example": "The word \"estar malo\" is useful."
+    },
+    {
+      "word": "estar caducado",
+      "translation": "estar caducado",
+      "example": "The word \"estar caducado\" is useful."
+    },
+    {
+      "word": "tener de oferta",
+      "translation": "tener de oferta",
+      "example": "The word \"tener de oferta\" is useful."
+    },
+    {
+      "word": "tener de promoción",
+      "translation": "tener de promoción",
+      "example": "The word \"tener de promoción\" is useful."
+    },
+    {
+      "word": "estar de oferta",
+      "translation": "estar de oferta",
+      "example": "The word \"estar de oferta\" is useful."
+    },
+    {
+      "word": "estar de promoción",
+      "translation": "estar de promoción",
+      "example": "The word \"estar de promoción\" is useful."
+    },
+    {
+      "word": "cambio",
+      "translation": "cambio",
+      "example": "The word \"cambio\" is useful."
+    },
+    {
+      "word": "vuelta",
+      "translation": "vuelta",
+      "example": "The word \"vuelta\" is useful."
+    },
+    {
+      "word": "pagar intereses",
+      "translation": "pagar intereses",
+      "example": "The word \"pagar intereses\" is useful."
+    },
+    {
+      "word": "cobrar intereses",
+      "translation": "cobrar intereses",
+      "example": "The word \"cobrar intereses\" is useful."
+    },
+    {
+      "word": "pasar por caja",
+      "translation": "pasar por caja",
+      "example": "The word \"pasar por caja\" is useful."
+    },
+    {
+      "word": "pasar por la caja",
+      "translation": "pasar por la caja",
+      "example": "The word \"pasar por la caja\" is useful."
+    }
+  ]
+}

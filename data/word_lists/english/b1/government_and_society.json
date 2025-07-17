@@ -1,0 +1,455 @@
+{
+  "topic": "Government and Society",
+  "words": [
+    {
+      "word": "sociología",
+      "translation": "sociología",
+      "example": "The word \"sociología\" is useful."
+    },
+    {
+      "word": "historia",
+      "translation": "historia",
+      "example": "The word \"historia\" is useful."
+    },
+    {
+      "word": "sociólogo",
+      "translation": "sociólogo",
+      "example": "The word \"sociólogo\" is useful."
+    },
+    {
+      "word": "historiador",
+      "translation": "historiador",
+      "example": "The word \"historiador\" is useful."
+    },
+    {
+      "word": "político",
+      "translation": "político",
+      "example": "The word \"político\" is useful."
+    },
+    {
+      "word": "ciudadano",
+      "translation": "ciudadano",
+      "example": "The word \"ciudadano\" is useful."
+    },
+    {
+      "word": "comunidad",
+      "translation": "comunidad",
+      "example": "The word \"comunidad\" is useful."
+    },
+    {
+      "word": "organización",
+      "translation": "organización",
+      "example": "The word \"organización\" is useful."
+    },
+    {
+      "word": "club",
+      "translation": "club",
+      "example": "The word \"club\" is useful."
+    },
+    {
+      "word": "historia antigua",
+      "translation": "historia antigua",
+      "example": "The word \"historia antigua\" is useful."
+    },
+    {
+      "word": "historia medieval",
+      "translation": "historia medieval",
+      "example": "The word \"historia medieval\" is useful."
+    },
+    {
+      "word": "historia universal",
+      "translation": "historia universal",
+      "example": "The word \"historia universal\" is useful."
+    },
+    {
+      "word": "historia contemporánea",
+      "translation": "historia contemporánea",
+      "example": "The word \"historia contemporánea\" is useful."
+    },
+    {
+      "word": "historia del arte",
+      "translation": "historia del arte",
+      "example": "The word \"historia del arte\" is useful."
+    },
+    {
+      "word": "derechos",
+      "translation": "derechos",
+      "example": "The word \"derechos\" is useful."
+    },
+    {
+      "word": "deberes",
+      "translation": "deberes",
+      "example": "The word \"deberes\" is useful."
+    },
+    {
+      "word": "crisis",
+      "translation": "crisis",
+      "example": "The word \"crisis\" is useful."
+    },
+    {
+      "word": "progreso",
+      "translation": "progreso",
+      "example": "The word \"progreso\" is useful."
+    },
+    {
+      "word": "público",
+      "translation": "público",
+      "example": "The word \"público\" is useful."
+    },
+    {
+      "word": "privado",
+      "translation": "privado",
+      "example": "The word \"privado\" is useful."
+    },
+    {
+      "word": "ayuda",
+      "translation": "ayuda",
+      "example": "The word \"ayuda\" is useful."
+    },
+    {
+      "word": "cortesía",
+      "translation": "cortesía",
+      "example": "The word \"cortesía\" is useful."
+    },
+    {
+      "word": "amabilidad",
+      "translation": "amabilidad",
+      "example": "The word \"amabilidad\" is useful."
+    },
+    {
+      "word": "educado",
+      "translation": "educado",
+      "example": "The word \"educado\" is useful."
+    },
+    {
+      "word": "buena persona",
+      "translation": "buena persona",
+      "example": "The word \"buena persona\" is useful."
+    },
+    {
+      "word": "respetar",
+      "translation": "respetar",
+      "example": "The word \"respetar\" is useful."
+    },
+    {
+      "word": "nación",
+      "translation": "nación",
+      "example": "The word \"nación\" is useful."
+    },
+    {
+      "word": "estado",
+      "translation": "estado",
+      "example": "The word \"estado\" is useful."
+    },
+    {
+      "word": "provincia",
+      "translation": "provincia",
+      "example": "The word \"provincia\" is useful."
+    },
+    {
+      "word": "distrito",
+      "translation": "distrito",
+      "example": "The word \"distrito\" is useful."
+    },
+    {
+      "word": "ministro de Interior",
+      "translation": "ministro de Interior",
+      "example": "The word \"ministro de Interior\" is useful."
+    },
+    {
+      "word": "ministro de Defensa",
+      "translation": "ministro de Defensa",
+      "example": "The word \"ministro de Defensa\" is useful."
+    },
+    {
+      "word": "ministro de Educación",
+      "translation": "ministro de Educación",
+      "example": "The word \"ministro de Educación\" is useful."
+    },
+    {
+      "word": "ministro de Asuntos Exteriores",
+      "translation": "ministro de Asuntos Exteriores",
+      "example": "The word \"ministro de Asuntos Exteriores\" is useful."
+    },
+    {
+      "word": "jefe de Estado",
+      "translation": "jefe de Estado",
+      "example": "The word \"jefe de Estado\" is useful."
+    },
+    {
+      "word": "vicepresidente",
+      "translation": "vicepresidente",
+      "example": "The word \"vicepresidente\" is useful."
+    },
+    {
+      "word": "alcalde",
+      "translation": "alcalde",
+      "example": "The word \"alcalde\" is useful."
+    },
+    {
+      "word": "senado",
+      "translation": "senado",
+      "example": "The word \"senado\" is useful."
+    },
+    {
+      "word": "congreso",
+      "translation": "congreso",
+      "example": "The word \"congreso\" is useful."
+    },
+    {
+      "word": "parlamento",
+      "translation": "parlamento",
+      "example": "The word \"parlamento\" is useful."
+    },
+    {
+      "word": "Ministerio",
+      "translation": "Ministerio",
+      "example": "The word \"Ministerio\" is useful."
+    },
+    {
+      "word": "Unión Europea",
+      "translation": "Unión Europea",
+      "example": "The word \"Unión Europea\" is useful."
+    },
+    {
+      "word": "UE",
+      "translation": "UE",
+      "example": "The word \"UE\" is useful."
+    },
+    {
+      "word": "Organización de las Naciones Unidas",
+      "translation": "Organización de las Naciones Unidas",
+      "example": "The word \"Organización de las Naciones Unidas\" is useful."
+    },
+    {
+      "word": "ONU",
+      "translation": "ONU",
+      "example": "The word \"ONU\" is useful."
+    },
+    {
+      "word": "embajador",
+      "translation": "embajador",
+      "example": "The word \"embajador\" is useful."
+    },
+    {
+      "word": "cónsul",
+      "translation": "cónsul",
+      "example": "The word \"cónsul\" is useful."
+    },
+    {
+      "word": "embajada",
+      "translation": "embajada",
+      "example": "The word \"embajada\" is useful."
+    },
+    {
+      "word": "consulado",
+      "translation": "consulado",
+      "example": "The word \"consulado\" is useful."
+    },
+    {
+      "word": "república",
+      "translation": "república",
+      "example": "The word \"república\" is useful."
+    },
+    {
+      "word": "monarquía",
+      "translation": "monarquía",
+      "example": "The word \"monarquía\" is useful."
+    },
+    {
+      "word": "democracia",
+      "translation": "democracia",
+      "example": "The word \"democracia\" is useful."
+    },
+    {
+      "word": "dictadura",
+      "translation": "dictadura",
+      "example": "The word \"dictadura\" is useful."
+    },
+    {
+      "word": "sindicato",
+      "translation": "sindicato",
+      "example": "The word \"sindicato\" is useful."
+    },
+    {
+      "word": "partido de izquierdas",
+      "translation": "partido de izquierdas",
+      "example": "The word \"partido de izquierdas\" is useful."
+    },
+    {
+      "word": "partido de derechas",
+      "translation": "partido de derechas",
+      "example": "The word \"partido de derechas\" is useful."
+    },
+    {
+      "word": "partido de centro",
+      "translation": "partido de centro",
+      "example": "The word \"partido de centro\" is useful."
+    },
+    {
+      "word": "partido de la oposición",
+      "translation": "partido de la oposición",
+      "example": "The word \"partido de la oposición\" is useful."
+    },
+    {
+      "word": "comunista",
+      "translation": "comunista",
+      "example": "The word \"comunista\" is useful."
+    },
+    {
+      "word": "socialista",
+      "translation": "socialista",
+      "example": "The word \"socialista\" is useful."
+    },
+    {
+      "word": "conservador",
+      "translation": "conservador",
+      "example": "The word \"conservador\" is useful."
+    },
+    {
+      "word": "demócrata",
+      "translation": "demócrata",
+      "example": "The word \"demócrata\" is useful."
+    },
+    {
+      "word": "liberal",
+      "translation": "liberal",
+      "example": "The word \"liberal\" is useful."
+    },
+    {
+      "word": "republicano",
+      "translation": "republicano",
+      "example": "The word \"republicano\" is useful."
+    },
+    {
+      "word": "gobernar",
+      "translation": "gobernar",
+      "example": "The word \"gobernar\" is useful."
+    },
+    {
+      "word": "constitución",
+      "translation": "constitución",
+      "example": "The word \"constitución\" is useful."
+    },
+    {
+      "word": "ley",
+      "translation": "ley",
+      "example": "The word \"ley\" is useful."
+    },
+    {
+      "word": "ladrón",
+      "translation": "ladrón",
+      "example": "The word \"ladrón\" is useful."
+    },
+    {
+      "word": "terrorista",
+      "translation": "terrorista",
+      "example": "The word \"terrorista\" is useful."
+    },
+    {
+      "word": "asesino",
+      "translation": "asesino",
+      "example": "The word \"asesino\" is useful."
+    },
+    {
+      "word": "robo",
+      "translation": "robo",
+      "example": "The word \"robo\" is useful."
+    },
+    {
+      "word": "muerte",
+      "translation": "muerte",
+      "example": "The word \"muerte\" is useful."
+    },
+    {
+      "word": "terrorismo",
+      "translation": "terrorismo",
+      "example": "The word \"terrorismo\" is useful."
+    },
+    {
+      "word": "grupo terrorista",
+      "translation": "grupo terrorista",
+      "example": "The word \"grupo terrorista\" is useful."
+    },
+    {
+      "word": "atentado terrorista",
+      "translation": "atentado terrorista",
+      "example": "The word \"atentado terrorista\" is useful."
+    },
+    {
+      "word": "robar",
+      "translation": "robar",
+      "example": "The word \"robar\" is useful."
+    },
+    {
+      "word": "matar",
+      "translation": "matar",
+      "example": "The word \"matar\" is useful."
+    },
+    {
+      "word": "ser legal",
+      "translation": "ser legal",
+      "example": "The word \"ser legal\" is useful."
+    },
+    {
+      "word": "ser ilegal",
+      "translation": "ser ilegal",
+      "example": "The word \"ser ilegal\" is useful."
+    },
+    {
+      "word": "ir a la cárcel",
+      "translation": "ir a la cárcel",
+      "example": "The word \"ir a la cárcel\" is useful."
+    },
+    {
+      "word": "capitán",
+      "translation": "capitán",
+      "example": "The word \"capitán\" is useful."
+    },
+    {
+      "word": "general",
+      "translation": "general",
+      "example": "The word \"general\" is useful."
+    },
+    {
+      "word": "militar",
+      "translation": "militar",
+      "example": "The word \"militar\" is useful."
+    },
+    {
+      "word": "soldado",
+      "translation": "soldado",
+      "example": "The word \"soldado\" is useful."
+    },
+    {
+      "word": "guerra civil",
+      "translation": "guerra civil",
+      "example": "The word \"guerra civil\" is useful."
+    },
+    {
+      "word": "guerra mundial",
+      "translation": "guerra mundial",
+      "example": "The word \"guerra mundial\" is useful."
+    },
+    {
+      "word": "guerra de independencia",
+      "translation": "guerra de independencia",
+      "example": "The word \"guerra de independencia\" is useful."
+    },
+    {
+      "word": "pistola",
+      "translation": "pistola",
+      "example": "The word \"pistola\" is useful."
+    },
+    {
+      "word": "bomba",
+      "translation": "bomba",
+      "example": "The word \"bomba\" is useful."
+    },
+    {
+      "word": "estar en guerra",
+      "translation": "estar en guerra",
+      "example": "The word \"estar en guerra\" is useful."
+    }
+  ]
+}

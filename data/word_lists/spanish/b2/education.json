@@ -1,0 +1,865 @@
+{
+  "topic": "Education",
+  "words": [
+    {
+      "word": "colegio bilingüe",
+      "translation": "colegio bilingüe",
+      "example": "La palabra \"colegio bilingüe\" es útil."
+    },
+    {
+      "word": "colegio religioso",
+      "translation": "colegio religioso",
+      "example": "La palabra \"colegio religioso\" es útil."
+    },
+    {
+      "word": "colegio laico",
+      "translation": "colegio laico",
+      "example": "La palabra \"colegio laico\" es útil."
+    },
+    {
+      "word": "escuela superior",
+      "translation": "escuela superior",
+      "example": "La palabra \"escuela superior\" es útil."
+    },
+    {
+      "word": "alumnado",
+      "translation": "alumnado",
+      "example": "La palabra \"alumnado\" es útil."
+    },
+    {
+      "word": "profesorado",
+      "translation": "profesorado",
+      "example": "La palabra \"profesorado\" es útil."
+    },
+    {
+      "word": "catedrático",
+      "translation": "catedrático",
+      "example": "La palabra \"catedrático\" es útil."
+    },
+    {
+      "word": "rector",
+      "translation": "rector",
+      "example": "La palabra \"rector\" es útil."
+    },
+    {
+      "word": "jefe de estudios",
+      "translation": "jefe de estudios",
+      "example": "La palabra \"jefe de estudios\" es útil."
+    },
+    {
+      "word": "maestro",
+      "translation": "maestro",
+      "example": "La palabra \"maestro\" es útil."
+    },
+    {
+      "word": "tutor",
+      "translation": "tutor",
+      "example": "La palabra \"tutor\" es útil."
+    },
+    {
+      "word": "director de tesis",
+      "translation": "director de tesis",
+      "example": "La palabra \"director de tesis\" es útil."
+    },
+    {
+      "word": "delegado de curso",
+      "translation": "delegado de curso",
+      "example": "La palabra \"delegado de curso\" es útil."
+    },
+    {
+      "word": "conferenciante",
+      "translation": "conferenciante",
+      "example": "La palabra \"conferenciante\" es útil."
+    },
+    {
+      "word": "universitario",
+      "translation": "universitario",
+      "example": "La palabra \"universitario\" es útil."
+    },
+    {
+      "word": "asociación de profesores",
+      "translation": "asociación de profesores",
+      "example": "La palabra \"asociación de profesores\" es útil."
+    },
+    {
+      "word": "asociación de antiguos alumnos",
+      "translation": "asociación de antiguos alumnos",
+      "example": "La palabra \"asociación de antiguos alumnos\" es útil."
+    },
+    {
+      "word": "asignatura obligatoria",
+      "translation": "asignatura obligatoria",
+      "example": "La palabra \"asignatura obligatoria\" es útil."
+    },
+    {
+      "word": "asignatura común",
+      "translation": "asignatura común",
+      "example": "La palabra \"asignatura común\" es útil."
+    },
+    {
+      "word": "materia trimestral",
+      "translation": "materia trimestral",
+      "example": "La palabra \"materia trimestral\" es útil."
+    },
+    {
+      "word": "materia anual",
+      "translation": "materia anual",
+      "example": "La palabra \"materia anual\" es útil."
+    },
+    {
+      "word": "curso elemental",
+      "translation": "curso elemental",
+      "example": "La palabra \"curso elemental\" es útil."
+    },
+    {
+      "word": "curso obligatorio",
+      "translation": "curso obligatorio",
+      "example": "La palabra \"curso obligatorio\" es útil."
+    },
+    {
+      "word": "curso optativo",
+      "translation": "curso optativo",
+      "example": "La palabra \"curso optativo\" es útil."
+    },
+    {
+      "word": "formación continua",
+      "translation": "formación continua",
+      "example": "La palabra \"formación continua\" es útil."
+    },
+    {
+      "word": "formación permanente",
+      "translation": "formación permanente",
+      "example": "La palabra \"formación permanente\" es útil."
+    },
+    {
+      "word": "educación primaria",
+      "translation": "educación primaria",
+      "example": "La palabra \"educación primaria\" es útil."
+    },
+    {
+      "word": "educación secundaria",
+      "translation": "educación secundaria",
+      "example": "La palabra \"educación secundaria\" es útil."
+    },
+    {
+      "word": "educación universitaria",
+      "translation": "educación universitaria",
+      "example": "La palabra \"educación universitaria\" es útil."
+    },
+    {
+      "word": "educación superior",
+      "translation": "educación superior",
+      "example": "La palabra \"educación superior\" es útil."
+    },
+    {
+      "word": "educación a adultos",
+      "translation": "educación a adultos",
+      "example": "La palabra \"educación a adultos\" es útil."
+    },
+    {
+      "word": "estudios primarios",
+      "translation": "estudios primarios",
+      "example": "La palabra \"estudios primarios\" es útil."
+    },
+    {
+      "word": "estudios secundarios",
+      "translation": "estudios secundarios",
+      "example": "La palabra \"estudios secundarios\" es útil."
+    },
+    {
+      "word": "estudios superiores",
+      "translation": "estudios superiores",
+      "example": "La palabra \"estudios superiores\" es útil."
+    },
+    {
+      "word": "estudios universitarios",
+      "translation": "estudios universitarios",
+      "example": "La palabra \"estudios universitarios\" es útil."
+    },
+    {
+      "word": "educación pública",
+      "translation": "educación pública",
+      "example": "La palabra \"educación pública\" es útil."
+    },
+    {
+      "word": "educación privada",
+      "translation": "educación privada",
+      "example": "La palabra \"educación privada\" es útil."
+    },
+    {
+      "word": "educación religiosa",
+      "translation": "educación religiosa",
+      "example": "La palabra \"educación religiosa\" es útil."
+    },
+    {
+      "word": "educación laica",
+      "translation": "educación laica",
+      "example": "La palabra \"educación laica\" es útil."
+    },
+    {
+      "word": "enseñanza primaria",
+      "translation": "enseñanza primaria",
+      "example": "La palabra \"enseñanza primaria\" es útil."
+    },
+    {
+      "word": "enseñanza secundaria",
+      "translation": "enseñanza secundaria",
+      "example": "La palabra \"enseñanza secundaria\" es útil."
+    },
+    {
+      "word": "enseñanza universitaria",
+      "translation": "enseñanza universitaria",
+      "example": "La palabra \"enseñanza universitaria\" es útil."
+    },
+    {
+      "word": "enseñanza superior",
+      "translation": "enseñanza superior",
+      "example": "La palabra \"enseñanza superior\" es útil."
+    },
+    {
+      "word": "enseñanza a adultos",
+      "translation": "enseñanza a adultos",
+      "example": "La palabra \"enseñanza a adultos\" es útil."
+    },
+    {
+      "word": "enseñanza pública",
+      "translation": "enseñanza pública",
+      "example": "La palabra \"enseñanza pública\" es útil."
+    },
+    {
+      "word": "enseñanza privada",
+      "translation": "enseñanza privada",
+      "example": "La palabra \"enseñanza privada\" es útil."
+    },
+    {
+      "word": "enseñanza religiosa",
+      "translation": "enseñanza religiosa",
+      "example": "La palabra \"enseñanza religiosa\" es útil."
+    },
+    {
+      "word": "enseñanza laica",
+      "translation": "enseñanza laica",
+      "example": "La palabra \"enseñanza laica\" es útil."
+    },
+    {
+      "word": "enseñanza presencial",
+      "translation": "enseñanza presencial",
+      "example": "La palabra \"enseñanza presencial\" es útil."
+    },
+    {
+      "word": "enseñanza virtual",
+      "translation": "enseñanza virtual",
+      "example": "La palabra \"enseñanza virtual\" es útil."
+    },
+    {
+      "word": "enseñanza a distancia",
+      "translation": "enseñanza a distancia",
+      "example": "La palabra \"enseñanza a distancia\" es útil."
+    },
+    {
+      "word": "curso presencial",
+      "translation": "curso presencial",
+      "example": "La palabra \"curso presencial\" es útil."
+    },
+    {
+      "word": "curso virtual",
+      "translation": "curso virtual",
+      "example": "La palabra \"curso virtual\" es útil."
+    },
+    {
+      "word": "curso a distancia",
+      "translation": "curso a distancia",
+      "example": "La palabra \"curso a distancia\" es útil."
+    },
+    {
+      "word": "curso intensivo",
+      "translation": "curso intensivo",
+      "example": "La palabra \"curso intensivo\" es útil."
+    },
+    {
+      "word": "curso de iniciación",
+      "translation": "curso de iniciación",
+      "example": "La palabra \"curso de iniciación\" es útil."
+    },
+    {
+      "word": "curso de perfeccionamiento",
+      "translation": "curso de perfeccionamiento",
+      "example": "La palabra \"curso de perfeccionamiento\" es útil."
+    },
+    {
+      "word": "seminario",
+      "translation": "seminario",
+      "example": "La palabra \"seminario\" es útil."
+    },
+    {
+      "word": "congreso",
+      "translation": "congreso",
+      "example": "La palabra \"congreso\" es útil."
+    },
+    {
+      "word": "ofrecer educación superior",
+      "translation": "ofrecer educación superior",
+      "example": "La palabra \"ofrecer educación superior\" es útil."
+    },
+    {
+      "word": "ofrecer educación universitaria",
+      "translation": "ofrecer educación universitaria",
+      "example": "La palabra \"ofrecer educación universitaria\" es útil."
+    },
+    {
+      "word": "recibir educación superior",
+      "translation": "recibir educación superior",
+      "example": "La palabra \"recibir educación superior\" es útil."
+    },
+    {
+      "word": "recibir educación universitaria",
+      "translation": "recibir educación universitaria",
+      "example": "La palabra \"recibir educación universitaria\" es útil."
+    },
+    {
+      "word": "solicitar una beca",
+      "translation": "solicitar una beca",
+      "example": "La palabra \"solicitar una beca\" es útil."
+    },
+    {
+      "word": "solicitar una plaza",
+      "translation": "solicitar una plaza",
+      "example": "La palabra \"solicitar una plaza\" es útil."
+    },
+    {
+      "word": "conceder una beca",
+      "translation": "conceder una beca",
+      "example": "La palabra \"conceder una beca\" es útil."
+    },
+    {
+      "word": "conceder una plaza",
+      "translation": "conceder una plaza",
+      "example": "La palabra \"conceder una plaza\" es útil."
+    },
+    {
+      "word": "disfrutar de una beca",
+      "translation": "disfrutar de una beca",
+      "example": "La palabra \"disfrutar de una beca\" es útil."
+    },
+    {
+      "word": "educación",
+      "translation": "educación",
+      "example": "La palabra \"educación\" es útil."
+    },
+    {
+      "word": "enseñanza",
+      "translation": "enseñanza",
+      "example": "La palabra \"enseñanza\" es útil."
+    },
+    {
+      "word": "aprendizaje",
+      "translation": "aprendizaje",
+      "example": "La palabra \"aprendizaje\" es útil."
+    },
+    {
+      "word": "alumno brillante",
+      "translation": "alumno brillante",
+      "example": "La palabra \"alumno brillante\" es útil."
+    },
+    {
+      "word": "alumno estudioso",
+      "translation": "alumno estudioso",
+      "example": "La palabra \"alumno estudioso\" es útil."
+    },
+    {
+      "word": "alumno conflictivo",
+      "translation": "alumno conflictivo",
+      "example": "La palabra \"alumno conflictivo\" es útil."
+    },
+    {
+      "word": "didáctico",
+      "translation": "didáctico",
+      "example": "La palabra \"didáctico\" es útil."
+    },
+    {
+      "word": "educativo",
+      "translation": "educativo",
+      "example": "La palabra \"educativo\" es útil."
+    },
+    {
+      "word": "memorizar",
+      "translation": "memorizar",
+      "example": "La palabra \"memorizar\" es útil."
+    },
+    {
+      "word": "reflexionar",
+      "translation": "reflexionar",
+      "example": "La palabra \"reflexionar\" es útil."
+    },
+    {
+      "word": "deducir",
+      "translation": "deducir",
+      "example": "La palabra \"deducir\" es útil."
+    },
+    {
+      "word": "sacar conclusiones",
+      "translation": "sacar conclusiones",
+      "example": "La palabra \"sacar conclusiones\" es útil."
+    },
+    {
+      "word": "quedarse en blanco",
+      "translation": "quedarse en blanco",
+      "example": "La palabra \"quedarse en blanco\" es útil."
+    },
+    {
+      "word": "formarse",
+      "translation": "formarse",
+      "example": "La palabra \"formarse\" es útil."
+    },
+    {
+      "word": "educarse",
+      "translation": "educarse",
+      "example": "La palabra \"educarse\" es útil."
+    },
+    {
+      "word": "recibir clases",
+      "translation": "recibir clases",
+      "example": "La palabra \"recibir clases\" es útil."
+    },
+    {
+      "word": "tomar clases",
+      "translation": "tomar clases",
+      "example": "La palabra \"tomar clases\" es útil."
+    },
+    {
+      "word": "examen parcial",
+      "translation": "examen parcial",
+      "example": "La palabra \"examen parcial\" es útil."
+    },
+    {
+      "word": "examen final",
+      "translation": "examen final",
+      "example": "La palabra \"examen final\" es útil."
+    },
+    {
+      "word": "examen cuatrimestral",
+      "translation": "examen cuatrimestral",
+      "example": "La palabra \"examen cuatrimestral\" es útil."
+    },
+    {
+      "word": "examen anual",
+      "translation": "examen anual",
+      "example": "La palabra \"examen anual\" es útil."
+    },
+    {
+      "word": "prueba parcial",
+      "translation": "prueba parcial",
+      "example": "La palabra \"prueba parcial\" es útil."
+    },
+    {
+      "word": "prueba final",
+      "translation": "prueba final",
+      "example": "La palabra \"prueba final\" es útil."
+    },
+    {
+      "word": "prueba cuatrimestral",
+      "translation": "prueba cuatrimestral",
+      "example": "La palabra \"prueba cuatrimestral\" es útil."
+    },
+    {
+      "word": "prueba anual",
+      "translation": "prueba anual",
+      "example": "La palabra \"prueba anual\" es útil."
+    },
+    {
+      "word": "control parcial",
+      "translation": "control parcial",
+      "example": "La palabra \"control parcial\" es útil."
+    },
+    {
+      "word": "control final",
+      "translation": "control final",
+      "example": "La palabra \"control final\" es útil."
+    },
+    {
+      "word": "control cuatrimestral",
+      "translation": "control cuatrimestral",
+      "example": "La palabra \"control cuatrimestral\" es útil."
+    },
+    {
+      "word": "control anual",
+      "translation": "control anual",
+      "example": "La palabra \"control anual\" es útil."
+    },
+    {
+      "word": "nota media",
+      "translation": "nota media",
+      "example": "La palabra \"nota media\" es útil."
+    },
+    {
+      "word": "nota final",
+      "translation": "nota final",
+      "example": "La palabra \"nota final\" es útil."
+    },
+    {
+      "word": "nota justa",
+      "translation": "nota justa",
+      "example": "La palabra \"nota justa\" es útil."
+    },
+    {
+      "word": "nota injusta",
+      "translation": "nota injusta",
+      "example": "La palabra \"nota injusta\" es útil."
+    },
+    {
+      "word": "nota alta",
+      "translation": "nota alta",
+      "example": "La palabra \"nota alta\" es útil."
+    },
+    {
+      "word": "nota baja",
+      "translation": "nota baja",
+      "example": "La palabra \"nota baja\" es útil."
+    },
+    {
+      "word": "evaluación parcial",
+      "translation": "evaluación parcial",
+      "example": "La palabra \"evaluación parcial\" es útil."
+    },
+    {
+      "word": "evaluación final",
+      "translation": "evaluación final",
+      "example": "La palabra \"evaluación final\" es útil."
+    },
+    {
+      "word": "autoevaluación",
+      "translation": "autoevaluación",
+      "example": "La palabra \"autoevaluación\" es útil."
+    },
+    {
+      "word": "prepararse para un examen",
+      "translation": "prepararse para un examen",
+      "example": "La palabra \"prepararse para un examen\" es útil."
+    },
+    {
+      "word": "pasar un examen",
+      "translation": "pasar un examen",
+      "example": "La palabra \"pasar un examen\" es útil."
+    },
+    {
+      "word": "presentarse a un examen",
+      "translation": "presentarse a un examen",
+      "example": "La palabra \"presentarse a un examen\" es útil."
+    },
+    {
+      "word": "examinarse",
+      "translation": "examinarse",
+      "example": "La palabra \"examinarse\" es útil."
+    },
+    {
+      "word": "hacer una prueba de nivel",
+      "translation": "hacer una prueba de nivel",
+      "example": "La palabra \"hacer una prueba de nivel\" es útil."
+    },
+    {
+      "word": "sacar buenas notas",
+      "translation": "sacar buenas notas",
+      "example": "La palabra \"sacar buenas notas\" es útil."
+    },
+    {
+      "word": "sacar malas notas",
+      "translation": "sacar malas notas",
+      "example": "La palabra \"sacar malas notas\" es útil."
+    },
+    {
+      "word": "sacar un sobresaliente",
+      "translation": "sacar un sobresaliente",
+      "example": "La palabra \"sacar un sobresaliente\" es útil."
+    },
+    {
+      "word": "sacar un notable",
+      "translation": "sacar un notable",
+      "example": "La palabra \"sacar un notable\" es útil."
+    },
+    {
+      "word": "sacar un cinco",
+      "translation": "sacar un cinco",
+      "example": "La palabra \"sacar un cinco\" es útil."
+    },
+    {
+      "word": "poner notas",
+      "translation": "poner notas",
+      "example": "La palabra \"poner notas\" es útil."
+    },
+    {
+      "word": "pasar de curso",
+      "translation": "pasar de curso",
+      "example": "La palabra \"pasar de curso\" es útil."
+    },
+    {
+      "word": "tener una asignatura pendiente",
+      "translation": "tener una asignatura pendiente",
+      "example": "La palabra \"tener una asignatura pendiente\" es útil."
+    },
+    {
+      "word": "quedar una asignatura pendiente",
+      "translation": "quedar una asignatura pendiente",
+      "example": "La palabra \"quedar una asignatura pendiente\" es útil."
+    },
+    {
+      "word": "pedir revisión de examen",
+      "translation": "pedir revisión de examen",
+      "example": "La palabra \"pedir revisión de examen\" es útil."
+    },
+    {
+      "word": "graduado escolar",
+      "translation": "graduado escolar",
+      "example": "La palabra \"graduado escolar\" es útil."
+    },
+    {
+      "word": "formación profesional",
+      "translation": "formación profesional",
+      "example": "La palabra \"formación profesional\" es útil."
+    },
+    {
+      "word": "hacer estudios primarios",
+      "translation": "hacer estudios primarios",
+      "example": "La palabra \"hacer estudios primarios\" es útil."
+    },
+    {
+      "word": "hacer estudios secundarios",
+      "translation": "hacer estudios secundarios",
+      "example": "La palabra \"hacer estudios secundarios\" es útil."
+    },
+    {
+      "word": "hacer estudios universitarios",
+      "translation": "hacer estudios universitarios",
+      "example": "La palabra \"hacer estudios universitarios\" es útil."
+    },
+    {
+      "word": "tener estudios primarios",
+      "translation": "tener estudios primarios",
+      "example": "La palabra \"tener estudios primarios\" es útil."
+    },
+    {
+      "word": "tener estudios secundarios",
+      "translation": "tener estudios secundarios",
+      "example": "La palabra \"tener estudios secundarios\" es útil."
+    },
+    {
+      "word": "tener estudios universitarios",
+      "translation": "tener estudios universitarios",
+      "example": "La palabra \"tener estudios universitarios\" es útil."
+    },
+    {
+      "word": "licenciarse",
+      "translation": "licenciarse",
+      "example": "La palabra \"licenciarse\" es útil."
+    },
+    {
+      "word": "titularse",
+      "translation": "titularse",
+      "example": "La palabra \"titularse\" es útil."
+    },
+    {
+      "word": "doctorarse",
+      "translation": "doctorarse",
+      "example": "La palabra \"doctorarse\" es útil."
+    },
+    {
+      "word": "hacer la tesis doctoral",
+      "translation": "hacer la tesis doctoral",
+      "example": "La palabra \"hacer la tesis doctoral\" es útil."
+    },
+    {
+      "word": "tener una licenciatura",
+      "translation": "tener una licenciatura",
+      "example": "La palabra \"tener una licenciatura\" es útil."
+    },
+    {
+      "word": "tener una diplomatura",
+      "translation": "tener una diplomatura",
+      "example": "La palabra \"tener una diplomatura\" es útil."
+    },
+    {
+      "word": "tener un doctorado",
+      "translation": "tener un doctorado",
+      "example": "La palabra \"tener un doctorado\" es útil."
+    },
+    {
+      "word": "tener la especialidad en",
+      "translation": "tener la especialidad en",
+      "example": "La palabra \"tener la especialidad en\" es útil."
+    },
+    {
+      "word": "ser licenciado en Empresariales",
+      "translation": "ser licenciado en Empresariales",
+      "example": "La palabra \"ser licenciado en Empresariales\" es útil."
+    },
+    {
+      "word": "ser licenciado en Filología",
+      "translation": "ser licenciado en Filología",
+      "example": "La palabra \"ser licenciado en Filología\" es útil."
+    },
+    {
+      "word": "ser doctor en Empresariales",
+      "translation": "ser doctor en Empresariales",
+      "example": "La palabra \"ser doctor en Empresariales\" es útil."
+    },
+    {
+      "word": "ser doctor en Filología",
+      "translation": "ser doctor en Filología",
+      "example": "La palabra \"ser doctor en Filología\" es útil."
+    },
+    {
+      "word": "abandonar los estudios",
+      "translation": "abandonar los estudios",
+      "example": "La palabra \"abandonar los estudios\" es útil."
+    },
+    {
+      "word": "dejar los estudios",
+      "translation": "dejar los estudios",
+      "example": "La palabra \"dejar los estudios\" es útil."
+    },
+    {
+      "word": "continuar los estudios",
+      "translation": "continuar los estudios",
+      "example": "La palabra \"continuar los estudios\" es útil."
+    },
+    {
+      "word": "completar los estudios",
+      "translation": "completar los estudios",
+      "example": "La palabra \"completar los estudios\" es útil."
+    },
+    {
+      "word": "plantear una duda",
+      "translation": "plantear una duda",
+      "example": "La palabra \"plantear una duda\" es útil."
+    },
+    {
+      "word": "resolver una duda",
+      "translation": "resolver una duda",
+      "example": "La palabra \"resolver una duda\" es útil."
+    },
+    {
+      "word": "aplicar una fórmula",
+      "translation": "aplicar una fórmula",
+      "example": "La palabra \"aplicar una fórmula\" es útil."
+    },
+    {
+      "word": "deducir una regla",
+      "translation": "deducir una regla",
+      "example": "La palabra \"deducir una regla\" es útil."
+    },
+    {
+      "word": "seguir una regla",
+      "translation": "seguir una regla",
+      "example": "La palabra \"seguir una regla\" es útil."
+    },
+    {
+      "word": "analizar un tema",
+      "translation": "analizar un tema",
+      "example": "La palabra \"analizar un tema\" es útil."
+    },
+    {
+      "word": "debatir un tema",
+      "translation": "debatir un tema",
+      "example": "La palabra \"debatir un tema\" es útil."
+    },
+    {
+      "word": "discutir un tema",
+      "translation": "discutir un tema",
+      "example": "La palabra \"discutir un tema\" es útil."
+    },
+    {
+      "word": "consultar",
+      "translation": "consultar",
+      "example": "La palabra \"consultar\" es útil."
+    },
+    {
+      "word": "cartucho de tinta",
+      "translation": "cartucho de tinta",
+      "example": "La palabra \"cartucho de tinta\" es útil."
+    },
+    {
+      "word": "grapadora",
+      "translation": "grapadora",
+      "example": "La palabra \"grapadora\" es útil."
+    },
+    {
+      "word": "grapa",
+      "translation": "grapa",
+      "example": "La palabra \"grapa\" es útil."
+    },
+    {
+      "word": "clip",
+      "translation": "clip",
+      "example": "La palabra \"clip\" es útil."
+    },
+    {
+      "word": "celo",
+      "translation": "celo",
+      "example": "La palabra \"celo\" es útil."
+    },
+    {
+      "word": "borrador",
+      "translation": "borrador",
+      "example": "La palabra \"borrador\" es útil."
+    },
+    {
+      "word": "retroproyector",
+      "translation": "retroproyector",
+      "example": "La palabra \"retroproyector\" es útil."
+    },
+    {
+      "word": "transparencia",
+      "translation": "transparencia",
+      "example": "La palabra \"transparencia\" es útil."
+    },
+    {
+      "word": "diapositiva",
+      "translation": "diapositiva",
+      "example": "La palabra \"diapositiva\" es útil."
+    },
+    {
+      "word": "papel cuadriculado",
+      "translation": "papel cuadriculado",
+      "example": "La palabra \"papel cuadriculado\" es útil."
+    },
+    {
+      "word": "cartulina",
+      "translation": "cartulina",
+      "example": "La palabra \"cartulina\" es útil."
+    },
+    {
+      "word": "rotulador fluorescente",
+      "translation": "rotulador fluorescente",
+      "example": "La palabra \"rotulador fluorescente\" es útil."
+    },
+    {
+      "word": "rotulador de punta fina",
+      "translation": "rotulador de punta fina",
+      "example": "La palabra \"rotulador de punta fina\" es útil."
+    },
+    {
+      "word": "rotulador de punta gruesa",
+      "translation": "rotulador de punta gruesa",
+      "example": "La palabra \"rotulador de punta gruesa\" es útil."
+    },
+    {
+      "word": "poner una transparencia",
+      "translation": "poner una transparencia",
+      "example": "La palabra \"poner una transparencia\" es útil."
+    },
+    {
+      "word": "poner una diapositiva",
+      "translation": "poner una diapositiva",
+      "example": "La palabra \"poner una diapositiva\" es útil."
+    },
+    {
+      "word": "proyectar una transparencia",
+      "translation": "proyectar una transparencia",
+      "example": "La palabra \"proyectar una transparencia\" es útil."
+    },
+    {
+      "word": "proyectar una diapositiva",
+      "translation": "proyectar una diapositiva",
+      "example": "La palabra \"proyectar una diapositiva\" es útil."
+    }
+  ]
+}

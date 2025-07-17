@@ -1,0 +1,750 @@
+{
+  "topic": "Work",
+  "words": [
+    {
+      "word": "contratado",
+      "translation": "contratado",
+      "example": "The word \"contratado\" is useful."
+    },
+    {
+      "word": "interino",
+      "translation": "interino",
+      "example": "The word \"interino\" is useful."
+    },
+    {
+      "word": "trabajador en prácticas",
+      "translation": "trabajador en prácticas",
+      "example": "The word \"trabajador en prácticas\" is useful."
+    },
+    {
+      "word": "tener un empleo en la Administración",
+      "translation": "tener un empleo en la Administración",
+      "example": "The word \"tener un empleo en la Administración\" is useful."
+    },
+    {
+      "word": "tener un empleo en una multinacional",
+      "translation": "tener un empleo en una multinacional",
+      "example": "The word \"tener un empleo en una multinacional\" is useful."
+    },
+    {
+      "word": "tener un cargo público",
+      "translation": "tener un cargo público",
+      "example": "The word \"tener un cargo público\" is useful."
+    },
+    {
+      "word": "tener un cargo directivo",
+      "translation": "tener un cargo directivo",
+      "example": "The word \"tener un cargo directivo\" is useful."
+    },
+    {
+      "word": "tener un cargo de responsabilidad",
+      "translation": "tener un cargo de responsabilidad",
+      "example": "The word \"tener un cargo de responsabilidad\" is useful."
+    },
+    {
+      "word": "ocupar un cargo público",
+      "translation": "ocupar un cargo público",
+      "example": "The word \"ocupar un cargo público\" is useful."
+    },
+    {
+      "word": "ocupar un cargo directivo",
+      "translation": "ocupar un cargo directivo",
+      "example": "The word \"ocupar un cargo directivo\" is useful."
+    },
+    {
+      "word": "ocupar un cargo de responsabilidad",
+      "translation": "ocupar un cargo de responsabilidad",
+      "example": "The word \"ocupar un cargo de responsabilidad\" is useful."
+    },
+    {
+      "word": "ejercer de abogado",
+      "translation": "ejercer de abogado",
+      "example": "The word \"ejercer de abogado\" is useful."
+    },
+    {
+      "word": "ejercer de veterinario",
+      "translation": "ejercer de veterinario",
+      "example": "The word \"ejercer de veterinario\" is useful."
+    },
+    {
+      "word": "ejercer como abogado",
+      "translation": "ejercer como abogado",
+      "example": "The word \"ejercer como abogado\" is useful."
+    },
+    {
+      "word": "ejercer como veterinario",
+      "translation": "ejercer como veterinario",
+      "example": "The word \"ejercer como veterinario\" is useful."
+    },
+    {
+      "word": "trabajar como autónomo",
+      "translation": "trabajar como autónomo",
+      "example": "The word \"trabajar como autónomo\" is useful."
+    },
+    {
+      "word": "almacén",
+      "translation": "almacén",
+      "example": "The word \"almacén\" is useful."
+    },
+    {
+      "word": "granja",
+      "translation": "granja",
+      "example": "The word \"granja\" is useful."
+    },
+    {
+      "word": "quirófano",
+      "translation": "quirófano",
+      "example": "The word \"quirófano\" is useful."
+    },
+    {
+      "word": "lugar bien acondicionado",
+      "translation": "lugar bien acondicionado",
+      "example": "The word \"lugar bien acondicionado\" is useful."
+    },
+    {
+      "word": "lugar mal acondicionado",
+      "translation": "lugar mal acondicionado",
+      "example": "The word \"lugar mal acondicionado\" is useful."
+    },
+    {
+      "word": "lugar bien iluminado",
+      "translation": "lugar bien iluminado",
+      "example": "The word \"lugar bien iluminado\" is useful."
+    },
+    {
+      "word": "lugar mal iluminado",
+      "translation": "lugar mal iluminado",
+      "example": "The word \"lugar mal iluminado\" is useful."
+    },
+    {
+      "word": "destornillador",
+      "translation": "destornillador",
+      "example": "The word \"destornillador\" is useful."
+    },
+    {
+      "word": "cable",
+      "translation": "cable",
+      "example": "The word \"cable\" is useful."
+    },
+    {
+      "word": "enchufe",
+      "translation": "enchufe",
+      "example": "The word \"enchufe\" is useful."
+    },
+    {
+      "word": "mono",
+      "translation": "mono",
+      "example": "The word \"mono\" is useful."
+    },
+    {
+      "word": "delantal",
+      "translation": "delantal",
+      "example": "The word \"delantal\" is useful."
+    },
+    {
+      "word": "gafas de protección",
+      "translation": "gafas de protección",
+      "example": "The word \"gafas de protección\" is useful."
+    },
+    {
+      "word": "ir de traje",
+      "translation": "ir de traje",
+      "example": "The word \"ir de traje\" is useful."
+    },
+    {
+      "word": "ir de corbata",
+      "translation": "ir de corbata",
+      "example": "The word \"ir de corbata\" is useful."
+    },
+    {
+      "word": "ir de uniforme",
+      "translation": "ir de uniforme",
+      "example": "The word \"ir de uniforme\" is useful."
+    },
+    {
+      "word": "empleo",
+      "translation": "job",
+      "example": "The word \"job\" is useful."
+    },
+    {
+      "word": "ocupación",
+      "translation": "ocupación",
+      "example": "The word \"ocupación\" is useful."
+    },
+    {
+      "word": "contrato indefinido",
+      "translation": "contrato indefinido",
+      "example": "The word \"contrato indefinido\" is useful."
+    },
+    {
+      "word": "contrato fijo",
+      "translation": "contrato fijo",
+      "example": "The word \"contrato fijo\" is useful."
+    },
+    {
+      "word": "contrato temporal",
+      "translation": "contrato temporal",
+      "example": "The word \"contrato temporal\" is useful."
+    },
+    {
+      "word": "contrato basura",
+      "translation": "contrato basura",
+      "example": "The word \"contrato basura\" is useful."
+    },
+    {
+      "word": "contrato de prácticas",
+      "translation": "contrato de prácticas",
+      "example": "The word \"contrato de prácticas\" is useful."
+    },
+    {
+      "word": "trabajo físico",
+      "translation": "trabajo físico",
+      "example": "The word \"trabajo físico\" is useful."
+    },
+    {
+      "word": "trabajo manual",
+      "translation": "trabajo manual",
+      "example": "The word \"trabajo manual\" is useful."
+    },
+    {
+      "word": "trabajo intelectual",
+      "translation": "trabajo intelectual",
+      "example": "The word \"trabajo intelectual\" is useful."
+    },
+    {
+      "word": "trabajo cualificado",
+      "translation": "trabajo cualificado",
+      "example": "The word \"trabajo cualificado\" is useful."
+    },
+    {
+      "word": "trabajo especializado",
+      "translation": "trabajo especializado",
+      "example": "The word \"trabajo especializado\" is useful."
+    },
+    {
+      "word": "trabajo creativo",
+      "translation": "trabajo creativo",
+      "example": "The word \"trabajo creativo\" is useful."
+    },
+    {
+      "word": "trabajo en equipo",
+      "translation": "trabajo en equipo",
+      "example": "The word \"trabajo en equipo\" is useful."
+    },
+    {
+      "word": "trabajo en cadena",
+      "translation": "trabajo en cadena",
+      "example": "The word \"trabajo en cadena\" is useful."
+    },
+    {
+      "word": "trabajo en serie",
+      "translation": "trabajo en serie",
+      "example": "The word \"trabajo en serie\" is useful."
+    },
+    {
+      "word": "trabajar por cuenta propia",
+      "translation": "trabajar por cuenta propia",
+      "example": "The word \"trabajar por cuenta propia\" is useful."
+    },
+    {
+      "word": "trabajar por cuenta ajena",
+      "translation": "trabajar por cuenta ajena",
+      "example": "The word \"trabajar por cuenta ajena\" is useful."
+    },
+    {
+      "word": "trabajar a tiempo completo",
+      "translation": "trabajar a tiempo completo",
+      "example": "The word \"trabajar a tiempo completo\" is useful."
+    },
+    {
+      "word": "trabajar a tiempo parcial",
+      "translation": "trabajar a tiempo parcial",
+      "example": "The word \"trabajar a tiempo parcial\" is useful."
+    },
+    {
+      "word": "ejercer una profesión",
+      "translation": "ejercer una profesión",
+      "example": "The word \"ejercer una profesión\" is useful."
+    },
+    {
+      "word": "ejercer un oficio",
+      "translation": "ejercer un oficio",
+      "example": "The word \"ejercer un oficio\" is useful."
+    },
+    {
+      "word": "ejercer una función",
+      "translation": "ejercer una función",
+      "example": "The word \"ejercer una función\" is useful."
+    },
+    {
+      "word": "desarrollar un trabajo",
+      "translation": "desarrollar un trabajo",
+      "example": "The word \"desarrollar un trabajo\" is useful."
+    },
+    {
+      "word": "desarrollar una función",
+      "translation": "desarrollar una función",
+      "example": "The word \"desarrollar una función\" is useful."
+    },
+    {
+      "word": "desarrollar una tarea",
+      "translation": "desarrollar una tarea",
+      "example": "The word \"desarrollar una tarea\" is useful."
+    },
+    {
+      "word": "desarrollar un servicio",
+      "translation": "desarrollar un servicio",
+      "example": "The word \"desarrollar un servicio\" is useful."
+    },
+    {
+      "word": "llevar a cabo un trabajo",
+      "translation": "llevar a cabo un trabajo",
+      "example": "The word \"llevar a cabo un trabajo\" is useful."
+    },
+    {
+      "word": "llevar a cabo una función",
+      "translation": "llevar a cabo una función",
+      "example": "The word \"llevar a cabo una función\" is useful."
+    },
+    {
+      "word": "llevar a cabo una tarea",
+      "translation": "llevar a cabo una tarea",
+      "example": "The word \"llevar a cabo una tarea\" is useful."
+    },
+    {
+      "word": "llevar a cabo un servicio",
+      "translation": "llevar a cabo un servicio",
+      "example": "The word \"llevar a cabo un servicio\" is useful."
+    },
+    {
+      "word": "ocupar un puesto",
+      "translation": "ocupar un puesto",
+      "example": "The word \"ocupar un puesto\" is useful."
+    },
+    {
+      "word": "ocupar una plaza",
+      "translation": "ocupar una plaza",
+      "example": "The word \"ocupar una plaza\" is useful."
+    },
+    {
+      "word": "ocupar un cargo",
+      "translation": "ocupar un cargo",
+      "example": "The word \"ocupar un cargo\" is useful."
+    },
+    {
+      "word": "ascender a subdirector",
+      "translation": "ascender a subdirector",
+      "example": "The word \"ascender a subdirector\" is useful."
+    },
+    {
+      "word": "ascender a jefe de sección",
+      "translation": "ascender a jefe de sección",
+      "example": "The word \"ascender a jefe de sección\" is useful."
+    },
+    {
+      "word": "ascender a responsable de unidad",
+      "translation": "ascender a responsable de unidad",
+      "example": "The word \"ascender a responsable de unidad\" is useful."
+    },
+    {
+      "word": "realizar un trabajo",
+      "translation": "realizar un trabajo",
+      "example": "The word \"realizar un trabajo\" is useful."
+    },
+    {
+      "word": "realizar una función",
+      "translation": "realizar una función",
+      "example": "The word \"realizar una función\" is useful."
+    },
+    {
+      "word": "realizar una tarea",
+      "translation": "realizar una tarea",
+      "example": "The word \"realizar una tarea\" is useful."
+    },
+    {
+      "word": "realizar un servicio",
+      "translation": "realizar un servicio",
+      "example": "The word \"realizar un servicio\" is useful."
+    },
+    {
+      "word": "preparar un trabajo",
+      "translation": "preparar un trabajo",
+      "example": "The word \"preparar un trabajo\" is useful."
+    },
+    {
+      "word": "preparar una función",
+      "translation": "preparar una función",
+      "example": "The word \"preparar una función\" is useful."
+    },
+    {
+      "word": "preparar una tarea",
+      "translation": "preparar una tarea",
+      "example": "The word \"preparar una tarea\" is useful."
+    },
+    {
+      "word": "preparar un servicio",
+      "translation": "preparar un servicio",
+      "example": "The word \"preparar un servicio\" is useful."
+    },
+    {
+      "word": "presentar un trabajo",
+      "translation": "presentar un trabajo",
+      "example": "The word \"presentar un trabajo\" is useful."
+    },
+    {
+      "word": "presentar una función",
+      "translation": "presentar una función",
+      "example": "The word \"presentar una función\" is useful."
+    },
+    {
+      "word": "presentar una tarea",
+      "translation": "presentar una tarea",
+      "example": "The word \"presentar una tarea\" is useful."
+    },
+    {
+      "word": "presentar un servicio",
+      "translation": "presentar un servicio",
+      "example": "The word \"presentar un servicio\" is useful."
+    },
+    {
+      "word": "desempleo",
+      "translation": "desempleo",
+      "example": "The word \"desempleo\" is useful."
+    },
+    {
+      "word": "ocupación",
+      "translation": "ocupación",
+      "example": "The word \"ocupación\" is useful."
+    },
+    {
+      "word": "despido",
+      "translation": "despido",
+      "example": "The word \"despido\" is useful."
+    },
+    {
+      "word": "oferta pública de empleo",
+      "translation": "oferta pública de empleo",
+      "example": "The word \"oferta pública de empleo\" is useful."
+    },
+    {
+      "word": "Instituto Nacional de Empleo",
+      "translation": "Instituto Nacional de Empleo",
+      "example": "The word \"Instituto Nacional de Empleo\" is useful."
+    },
+    {
+      "word": "INEM",
+      "translation": "INEM",
+      "example": "The word \"INEM\" is useful."
+    },
+    {
+      "word": "Empresa de Trabajo Temporal",
+      "translation": "Empresa de Trabajo Temporal",
+      "example": "The word \"Empresa de Trabajo Temporal\" is useful."
+    },
+    {
+      "word": "ETT",
+      "translation": "ETT",
+      "example": "The word \"ETT\" is useful."
+    },
+    {
+      "word": "carta de recomendación",
+      "translation": "carta de recomendación",
+      "example": "The word \"carta de recomendación\" is useful."
+    },
+    {
+      "word": "carta de despido",
+      "translation": "carta de despido",
+      "example": "The word \"carta de despido\" is useful."
+    },
+    {
+      "word": "subir el paro",
+      "translation": "subir el paro",
+      "example": "The word \"subir el paro\" is useful."
+    },
+    {
+      "word": "subir el desempleo",
+      "translation": "subir el desempleo",
+      "example": "The word \"subir el desempleo\" is useful."
+    },
+    {
+      "word": "bajar el paro",
+      "translation": "bajar el paro",
+      "example": "The word \"bajar el paro\" is useful."
+    },
+    {
+      "word": "bajar el desempleo",
+      "translation": "bajar el desempleo",
+      "example": "The word \"bajar el desempleo\" is useful."
+    },
+    {
+      "word": "crecer el número de desempleados",
+      "translation": "crecer el número de desempleados",
+      "example": "The word \"crecer el número de desempleados\" is useful."
+    },
+    {
+      "word": "aumentar el número de desempleados",
+      "translation": "aumentar el número de desempleados",
+      "example": "The word \"aumentar el número de desempleados\" is useful."
+    },
+    {
+      "word": "disminuir el número de desempleados",
+      "translation": "disminuir el número de desempleados",
+      "example": "The word \"disminuir el número de desempleados\" is useful."
+    },
+    {
+      "word": "estar en un proceso de selección de personal",
+      "translation": "estar en un proceso de selección de personal",
+      "example": "The word \"estar en un proceso de selección de personal\" is useful."
+    },
+    {
+      "word": "participar en un proceso de selección de personal",
+      "translation": "participar en un proceso de selección de personal",
+      "example": "The word \"participar en un proceso de selección de personal\" is useful."
+    },
+    {
+      "word": "llamar a alguien para una entrevista de trabajo",
+      "translation": "llamar a alguien para una entrevista de trabajo",
+      "example": "The word \"llamar a alguien para una entrevista de trabajo\" is useful."
+    },
+    {
+      "word": "citar a alguien para una entrevista de trabajo",
+      "translation": "citar a alguien para una entrevista de trabajo",
+      "example": "The word \"citar a alguien para una entrevista de trabajo\" is useful."
+    },
+    {
+      "word": "contratar a alguien",
+      "translation": "contratar a alguien",
+      "example": "The word \"contratar a alguien\" is useful."
+    },
+    {
+      "word": "conseguir un trabajo",
+      "translation": "conseguir un trabajo",
+      "example": "The word \"conseguir un trabajo\" is useful."
+    },
+    {
+      "word": "conseguir un puesto",
+      "translation": "conseguir un puesto",
+      "example": "The word \"conseguir un puesto\" is useful."
+    },
+    {
+      "word": "conseguir un empleo",
+      "translation": "conseguir un empleo",
+      "example": "The word \"conseguir un empleo\" is useful."
+    },
+    {
+      "word": "renovar un contrato",
+      "translation": "renovar un contrato",
+      "example": "The word \"renovar un contrato\" is useful."
+    },
+    {
+      "word": "anticipo",
+      "translation": "anticipo",
+      "example": "The word \"anticipo\" is useful."
+    },
+    {
+      "word": "comisión",
+      "translation": "comisión",
+      "example": "The word \"comisión\" is useful."
+    },
+    {
+      "word": "dietas",
+      "translation": "dietas",
+      "example": "The word \"dietas\" is useful."
+    },
+    {
+      "word": "flexibilidad de horario",
+      "translation": "flexibilidad de horario",
+      "example": "The word \"flexibilidad de horario\" is useful."
+    },
+    {
+      "word": "jornada laboral",
+      "translation": "jornada laboral",
+      "example": "The word \"jornada laboral\" is useful."
+    },
+    {
+      "word": "jornada de trabajo",
+      "translation": "jornada de trabajo",
+      "example": "The word \"jornada de trabajo\" is useful."
+    },
+    {
+      "word": "día laborable",
+      "translation": "día laborable",
+      "example": "The word \"día laborable\" is useful."
+    },
+    {
+      "word": "día festivo",
+      "translation": "día festivo",
+      "example": "The word \"día festivo\" is useful."
+    },
+    {
+      "word": "comité de empresa",
+      "translation": "comité de empresa",
+      "example": "The word \"comité de empresa\" is useful."
+    },
+    {
+      "word": "representante de empresa",
+      "translation": "representante de empresa",
+      "example": "The word \"representante de empresa\" is useful."
+    },
+    {
+      "word": "cláusula del contrato",
+      "translation": "cláusula del contrato",
+      "example": "The word \"cláusula del contrato\" is useful."
+    },
+    {
+      "word": "cláusula del convenio colectivo",
+      "translation": "cláusula del convenio colectivo",
+      "example": "The word \"cláusula del convenio colectivo\" is useful."
+    },
+    {
+      "word": "cotización a la Seguridad Social",
+      "translation": "cotización a la Seguridad Social",
+      "example": "The word \"cotización a la Seguridad Social\" is useful."
+    },
+    {
+      "word": "contratar",
+      "translation": "contratar",
+      "example": "The word \"contratar\" is useful."
+    },
+    {
+      "word": "ser contratado",
+      "translation": "ser contratado",
+      "example": "The word \"ser contratado\" is useful."
+    },
+    {
+      "word": "estar en el periodo de prueba",
+      "translation": "estar en el periodo de prueba",
+      "example": "The word \"estar en el periodo de prueba\" is useful."
+    },
+    {
+      "word": "superar el periodo de prueba",
+      "translation": "superar el periodo de prueba",
+      "example": "The word \"superar el periodo de prueba\" is useful."
+    },
+    {
+      "word": "cobrar un sueldo",
+      "translation": "cobrar un sueldo",
+      "example": "The word \"cobrar un sueldo\" is useful."
+    },
+    {
+      "word": "cobrar un salario fijo",
+      "translation": "cobrar un salario fijo",
+      "example": "The word \"cobrar un salario fijo\" is useful."
+    },
+    {
+      "word": "cobrar una nómina",
+      "translation": "cobrar una nómina",
+      "example": "The word \"cobrar una nómina\" is useful."
+    },
+    {
+      "word": "cobrar una paga extra",
+      "translation": "cobrar una paga extra",
+      "example": "The word \"cobrar una paga extra\" is useful."
+    },
+    {
+      "word": "cobrar una hora extra",
+      "translation": "cobrar una hora extra",
+      "example": "The word \"cobrar una hora extra\" is useful."
+    },
+    {
+      "word": "cobrar un anticipo",
+      "translation": "cobrar un anticipo",
+      "example": "The word \"cobrar un anticipo\" is useful."
+    },
+    {
+      "word": "cobrar comisiones",
+      "translation": "cobrar comisiones",
+      "example": "The word \"cobrar comisiones\" is useful."
+    },
+    {
+      "word": "cobrar dietas",
+      "translation": "cobrar dietas",
+      "example": "The word \"cobrar dietas\" is useful."
+    },
+    {
+      "word": "cobrar un sueldo razonable",
+      "translation": "cobrar un sueldo razonable",
+      "example": "The word \"cobrar un sueldo razonable\" is useful."
+    },
+    {
+      "word": "cobrar un sueldo ridículo",
+      "translation": "cobrar un sueldo ridículo",
+      "example": "The word \"cobrar un sueldo ridículo\" is useful."
+    },
+    {
+      "word": "cotizar a la Seguridad Social",
+      "translation": "cotizar a la Seguridad Social",
+      "example": "The word \"cotizar a la Seguridad Social\" is useful."
+    },
+    {
+      "word": "habilidad",
+      "translation": "habilidad",
+      "example": "The word \"habilidad\" is useful."
+    },
+    {
+      "word": "capacidad",
+      "translation": "capacidad",
+      "example": "The word \"capacidad\" is useful."
+    },
+    {
+      "word": "profesionalidad",
+      "translation": "profesionalidad",
+      "example": "The word \"profesionalidad\" is useful."
+    },
+    {
+      "word": "experiencia",
+      "translation": "experiencia",
+      "example": "The word \"experiencia\" is useful."
+    },
+    {
+      "word": "cualificado",
+      "translation": "cualificado",
+      "example": "The word \"cualificado\" is useful."
+    },
+    {
+      "word": "incompetente",
+      "translation": "incompetente",
+      "example": "The word \"incompetente\" is useful."
+    },
+    {
+      "word": "competente",
+      "translation": "competente",
+      "example": "The word \"competente\" is useful."
+    },
+    {
+      "word": "ambicioso",
+      "translation": "ambicioso",
+      "example": "The word \"ambicioso\" is useful."
+    },
+    {
+      "word": "profesional",
+      "translation": "profesional",
+      "example": "The word \"profesional\" is useful."
+    },
+    {
+      "word": "inexperto",
+      "translation": "inexperto",
+      "example": "The word \"inexperto\" is useful."
+    },
+    {
+      "word": "experto",
+      "translation": "experto",
+      "example": "The word \"experto\" is useful."
+    },
+    {
+      "word": "incapaz",
+      "translation": "incapaz",
+      "example": "The word \"incapaz\" is useful."
+    },
+    {
+      "word": "capaz",
+      "translation": "capaz",
+      "example": "The word \"capaz\" is useful."
+    },
+    {
+      "word": "perezoso",
+      "translation": "perezoso",
+      "example": "The word \"perezoso\" is useful."
+    }
+  ]
+}

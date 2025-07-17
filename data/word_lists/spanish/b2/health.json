@@ -1,0 +1,15 @@
+{
+  "topic": "Health",
+  "words": [
+    {
+      "word": "enfermedad",
+      "translation": "illness",
+      "example": "Esa enfermedad se contagia fácilmente."
+    },
+    {
+      "word": "tratamiento",
+      "translation": "treatment",
+      "example": "El tratamiento durará tres semanas."
+    }
+  ]
+}

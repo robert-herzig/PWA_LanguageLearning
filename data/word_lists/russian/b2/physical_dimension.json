@@ -1,0 +1,425 @@
+{
+  "topic": "Physical Dimension",
+  "words": [
+    {
+      "word": "frente",
+      "translation": "frente",
+      "example": "Слово «frente» полезно."
+    },
+    {
+      "word": "mejilla",
+      "translation": "mejilla",
+      "example": "Слово «mejilla» полезно."
+    },
+    {
+      "word": "barbilla",
+      "translation": "barbilla",
+      "example": "Слово «barbilla» полезно."
+    },
+    {
+      "word": "ceja",
+      "translation": "ceja",
+      "example": "Слово «ceja» полезно."
+    },
+    {
+      "word": "pestaña",
+      "translation": "pestaña",
+      "example": "Слово «pestaña» полезно."
+    },
+    {
+      "word": "cana",
+      "translation": "cana",
+      "example": "Слово «cana» полезно."
+    },
+    {
+      "word": "uña",
+      "translation": "uña",
+      "example": "Слово «uña» полезно."
+    },
+    {
+      "word": "cerebro",
+      "translation": "cerebro",
+      "example": "Слово «cerebro» полезно."
+    },
+    {
+      "word": "hígado",
+      "translation": "hígado",
+      "example": "Слово «hígado» полезно."
+    },
+    {
+      "word": "riñón",
+      "translation": "riñón",
+      "example": "Слово «riñón» полезно."
+    },
+    {
+      "word": "intestino",
+      "translation": "intestino",
+      "example": "Слово «intestino» полезно."
+    },
+    {
+      "word": "esqueleto",
+      "translation": "esqueleto",
+      "example": "Слово «esqueleto» полезно."
+    },
+    {
+      "word": "columna",
+      "translation": "columna",
+      "example": "Слово «columna» полезно."
+    },
+    {
+      "word": "costilla",
+      "translation": "costilla",
+      "example": "Слово «costilla» полезно."
+    },
+    {
+      "word": "nervio",
+      "translation": "nervio",
+      "example": "Слово «nervio» полезно."
+    },
+    {
+      "word": "articulación",
+      "translation": "articulación",
+      "example": "Слово «articulación» полезно."
+    },
+    {
+      "word": "arteria",
+      "translation": "arteria",
+      "example": "Слово «arteria» полезно."
+    },
+    {
+      "word": "tendón",
+      "translation": "tendón",
+      "example": "Слово «tendón» полезно."
+    },
+    {
+      "word": "ciego",
+      "translation": "ciego",
+      "example": "Слово «ciego» полезно."
+    },
+    {
+      "word": "sordo",
+      "translation": "sordo",
+      "example": "Слово «sordo» полезно."
+    },
+    {
+      "word": "mudo",
+      "translation": "mudo",
+      "example": "Слово «mudo» полезно."
+    },
+    {
+      "word": "saliva",
+      "translation": "saliva",
+      "example": "Слово «saliva» полезно."
+    },
+    {
+      "word": "lágrima",
+      "translation": "lágrima",
+      "example": "Слово «lágrima» полезно."
+    },
+    {
+      "word": "sudor",
+      "translation": "sudor",
+      "example": "Слово «sudor» полезно."
+    },
+    {
+      "word": "gesto",
+      "translation": "gesto",
+      "example": "Слово «gesto» полезно."
+    },
+    {
+      "word": "expresión",
+      "translation": "expresión",
+      "example": "Слово «expresión» полезно."
+    },
+    {
+      "word": "ser de estatura normal",
+      "translation": "ser de estatura normal",
+      "example": "Слово «ser de estatura normal» полезно."
+    },
+    {
+      "word": "ser de estatura media",
+      "translation": "ser de estatura media",
+      "example": "Слово «ser de estatura media» полезно."
+    },
+    {
+      "word": "ser de estatura mediana",
+      "translation": "ser de estatura mediana",
+      "example": "Слово «ser de estatura mediana» полезно."
+    },
+    {
+      "word": "ser de altura normal",
+      "translation": "ser de altura normal",
+      "example": "Слово «ser de altura normal» полезно."
+    },
+    {
+      "word": "ser de altura media",
+      "translation": "ser de altura media",
+      "example": "Слово «ser de altura media» полезно."
+    },
+    {
+      "word": "ser de altura mediana",
+      "translation": "ser de altura mediana",
+      "example": "Слово «ser de altura mediana» полезно."
+    },
+    {
+      "word": "tener arrugas",
+      "translation": "tener arrugas",
+      "example": "Слово «tener arrugas» полезно."
+    },
+    {
+      "word": "tener una cicatriz",
+      "translation": "tener una cicatriz",
+      "example": "Слово «tener una cicatriz» полезно."
+    },
+    {
+      "word": "tener buen color",
+      "translation": "tener buen color",
+      "example": "Слово «tener buen color» полезно."
+    },
+    {
+      "word": "tener mal color",
+      "translation": "tener mal color",
+      "example": "Слово «tener mal color» полезно."
+    },
+    {
+      "word": "tener buen aspecto",
+      "translation": "tener buen aspecto",
+      "example": "Слово «tener buen aspecto» полезно."
+    },
+    {
+      "word": "tener mal aspecto",
+      "translation": "tener mal aspecto",
+      "example": "Слово «tener mal aspecto» полезно."
+    },
+    {
+      "word": "ser clavados",
+      "translation": "ser clavados",
+      "example": "Слово «ser clavados» полезно."
+    },
+    {
+      "word": "ser idénticos",
+      "translation": "ser idénticos",
+      "example": "Слово «ser idénticos» полезно."
+    },
+    {
+      "word": "ser como dos gotas de agua",
+      "translation": "ser como dos gotas de agua",
+      "example": "Слово «ser como dos gotas de agua» полезно."
+    },
+    {
+      "word": "tumbarse",
+      "translation": "tumbarse",
+      "example": "Слово «tumbarse» полезно."
+    },
+    {
+      "word": "tirarse",
+      "translation": "tirarse",
+      "example": "Слово «tirarse» полезно."
+    },
+    {
+      "word": "incorporarse",
+      "translation": "incorporarse",
+      "example": "Слово «incorporarse» полезно."
+    },
+    {
+      "word": "alzarse",
+      "translation": "alzarse",
+      "example": "Слово «alzarse» полезно."
+    },
+    {
+      "word": "agacharse",
+      "translation": "agacharse",
+      "example": "Слово «agacharse» полезно."
+    },
+    {
+      "word": "cruzar los brazos",
+      "translation": "cruzar los brazos",
+      "example": "Слово «cruzar los brazos» полезно."
+    },
+    {
+      "word": "cruzar las piernas",
+      "translation": "cruzar las piernas",
+      "example": "Слово «cruzar las piernas» полезно."
+    },
+    {
+      "word": "estar agachado",
+      "translation": "estar agachado",
+      "example": "Слово «estar agachado» полезно."
+    },
+    {
+      "word": "estar derecho",
+      "translation": "estar derecho",
+      "example": "Слово «estar derecho» полезно."
+    },
+    {
+      "word": "ponerse de pie",
+      "translation": "ponerse de pie",
+      "example": "Слово «ponerse de pie» полезно."
+    },
+    {
+      "word": "ponerse de espaldas",
+      "translation": "ponerse de espaldas",
+      "example": "Слово «ponerse de espaldas» полезно."
+    },
+    {
+      "word": "ponerse de perfil",
+      "translation": "ponerse de perfil",
+      "example": "Слово «ponerse de perfil» полезно."
+    },
+    {
+      "word": "ponerse de frente",
+      "translation": "ponerse de frente",
+      "example": "Слово «ponerse de frente» полезно."
+    },
+    {
+      "word": "ponerse de rodillas",
+      "translation": "ponerse de rodillas",
+      "example": "Слово «ponerse de rodillas» полезно."
+    },
+    {
+      "word": "quedarse quieto",
+      "translation": "quedarse quieto",
+      "example": "Слово «quedarse quieto» полезно."
+    },
+    {
+      "word": "quedarse dormido",
+      "translation": "quedarse dormido",
+      "example": "Слово «quedarse dormido» полезно."
+    },
+    {
+      "word": "quedarse agachado",
+      "translation": "quedarse agachado",
+      "example": "Слово «quedarse agachado» полезно."
+    },
+    {
+      "word": "quedarse de espaldas",
+      "translation": "quedarse de espaldas",
+      "example": "Слово «quedarse de espaldas» полезно."
+    },
+    {
+      "word": "quedarse de rodillas",
+      "translation": "quedarse de rodillas",
+      "example": "Слово «quedarse de rodillas» полезно."
+    },
+    {
+      "word": "rascarse",
+      "translation": "rascarse",
+      "example": "Слово «rascarse» полезно."
+    },
+    {
+      "word": "arañar",
+      "translation": "arañar",
+      "example": "Слово «arañar» полезно."
+    },
+    {
+      "word": "acariciar",
+      "translation": "acariciar",
+      "example": "Слово «acariciar» полезно."
+    },
+    {
+      "word": "dar una patada",
+      "translation": "dar una patada",
+      "example": "Слово «dar una patada» полезно."
+    },
+    {
+      "word": "dar una torta",
+      "translation": "dar una torta",
+      "example": "Слово «dar una torta» полезно."
+    },
+    {
+      "word": "dar un puñetazo",
+      "translation": "dar un puñetazo",
+      "example": "Слово «dar un puñetazo» полезно."
+    },
+    {
+      "word": "estornudar",
+      "translation": "estornudar",
+      "example": "Слово «estornudar» полезно."
+    },
+    {
+      "word": "bostezar",
+      "translation": "bostezar",
+      "example": "Слово «bostezar» полезно."
+    },
+    {
+      "word": "sudar",
+      "translation": "sudar",
+      "example": "Слово «sudar» полезно."
+    },
+    {
+      "word": "masticar",
+      "translation": "masticar",
+      "example": "Слово «masticar» полезно."
+    },
+    {
+      "word": "escupir",
+      "translation": "escupir",
+      "example": "Слово «escupir» полезно."
+    },
+    {
+      "word": "aguantar",
+      "translation": "aguantar",
+      "example": "Слово «aguantar» полезно."
+    },
+    {
+      "word": "sujetar",
+      "translation": "sujetar",
+      "example": "Слово «sujetar» полезно."
+    },
+    {
+      "word": "aplaudir",
+      "translation": "aplaudir",
+      "example": "Слово «aplaudir» полезно."
+    },
+    {
+      "word": "señalar",
+      "translation": "señalar",
+      "example": "Слово «señalar» полезно."
+    },
+    {
+      "word": "indicar",
+      "translation": "indicar",
+      "example": "Слово «indicar» полезно."
+    },
+    {
+      "word": "maternidad",
+      "translation": "maternidad",
+      "example": "Слово «maternidad» полезно."
+    },
+    {
+      "word": "paternidad",
+      "translation": "paternidad",
+      "example": "Слово «paternidad» полезно."
+    },
+    {
+      "word": "cadáver",
+      "translation": "cadáver",
+      "example": "Слово «cadáver» полезно."
+    },
+    {
+      "word": "tumba",
+      "translation": "tumba",
+      "example": "Слово «tumba» полезно."
+    },
+    {
+      "word": "dar a luz",
+      "translation": "dar a luz",
+      "example": "Слово «dar a luz» полезно."
+    },
+    {
+      "word": "fallecer",
+      "translation": "fallecer",
+      "example": "Слово «fallecer» полезно."
+    },
+    {
+      "word": "enterrar",
+      "translation": "enterrar",
+      "example": "Слово «enterrar» полезно."
+    },
+    {
+      "word": "incinerar",
+      "translation": "incinerar",
+      "example": "Слово «incinerar» полезно."
+    }
+  ]
+}

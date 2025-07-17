@@ -1,0 +1,405 @@
+{
+  "topic": "Perception and Emotions",
+  "words": [
+    {
+      "word": "optimismo",
+      "translation": "optimismo",
+      "example": "The word \"optimismo\" is useful."
+    },
+    {
+      "word": "pesimismo",
+      "translation": "pesimismo",
+      "example": "The word \"pesimismo\" is useful."
+    },
+    {
+      "word": "tranquilidad",
+      "translation": "tranquilidad",
+      "example": "The word \"tranquilidad\" is useful."
+    },
+    {
+      "word": "intranquilidad",
+      "translation": "intranquilidad",
+      "example": "The word \"intranquilidad\" is useful."
+    },
+    {
+      "word": "paciencia",
+      "translation": "paciencia",
+      "example": "The word \"paciencia\" is useful."
+    },
+    {
+      "word": "impaciencia",
+      "translation": "impaciencia",
+      "example": "The word \"impaciencia\" is useful."
+    },
+    {
+      "word": "sincero",
+      "translation": "sincero",
+      "example": "The word \"sincero\" is useful."
+    },
+    {
+      "word": "paciente",
+      "translation": "paciente",
+      "example": "The word \"paciente\" is useful."
+    },
+    {
+      "word": "impaciente",
+      "translation": "impaciente",
+      "example": "The word \"impaciente\" is useful."
+    },
+    {
+      "word": "introvertido",
+      "translation": "introvertido",
+      "example": "The word \"introvertido\" is useful."
+    },
+    {
+      "word": "vago",
+      "translation": "vago",
+      "example": "The word \"vago\" is useful."
+    },
+    {
+      "word": "travieso",
+      "translation": "travieso",
+      "example": "The word \"travieso\" is useful."
+    },
+    {
+      "word": "seguro",
+      "translation": "seguro",
+      "example": "The word \"seguro\" is useful."
+    },
+    {
+      "word": "inseguro",
+      "translation": "inseguro",
+      "example": "The word \"inseguro\" is useful."
+    },
+    {
+      "word": "conservador",
+      "translation": "conservador",
+      "example": "The word \"conservador\" is useful."
+    },
+    {
+      "word": "hablador",
+      "translation": "hablador",
+      "example": "The word \"hablador\" is useful."
+    },
+    {
+      "word": "arrogante",
+      "translation": "arrogante",
+      "example": "The word \"arrogante\" is useful."
+    },
+    {
+      "word": "tener sentido del humor",
+      "translation": "tener sentido del humor",
+      "example": "The word \"tener sentido del humor\" is useful."
+    },
+    {
+      "word": "tener mucho carácter",
+      "translation": "tener mucho carácter",
+      "example": "The word \"tener mucho carácter\" is useful."
+    },
+    {
+      "word": "tener poco carácter",
+      "translation": "tener poco carácter",
+      "example": "The word \"tener poco carácter\" is useful."
+    },
+    {
+      "word": "tener mal carácter",
+      "translation": "tener mal carácter",
+      "example": "The word \"tener mal carácter\" is useful."
+    },
+    {
+      "word": "tener carácter fuerte",
+      "translation": "tener carácter fuerte",
+      "example": "The word \"tener carácter fuerte\" is useful."
+    },
+    {
+      "word": "tener carácter débil",
+      "translation": "tener carácter débil",
+      "example": "The word \"tener carácter débil\" is useful."
+    },
+    {
+      "word": "tener carácter fácil",
+      "translation": "tener carácter fácil",
+      "example": "The word \"tener carácter fácil\" is useful."
+    },
+    {
+      "word": "tener carácter difícil",
+      "translation": "tener carácter difícil",
+      "example": "The word \"tener carácter difícil\" is useful."
+    },
+    {
+      "word": "ser de carácter fuerte",
+      "translation": "ser de carácter fuerte",
+      "example": "The word \"ser de carácter fuerte\" is useful."
+    },
+    {
+      "word": "ser de carácter débil",
+      "translation": "ser de carácter débil",
+      "example": "The word \"ser de carácter débil\" is useful."
+    },
+    {
+      "word": "ser de carácter fácil",
+      "translation": "ser de carácter fácil",
+      "example": "The word \"ser de carácter fácil\" is useful."
+    },
+    {
+      "word": "ser de carácter difícil",
+      "translation": "ser de carácter difícil",
+      "example": "The word \"ser de carácter difícil\" is useful."
+    },
+    {
+      "word": "sentimiento",
+      "translation": "sentimiento",
+      "example": "The word \"sentimiento\" is useful."
+    },
+    {
+      "word": "amor",
+      "translation": "amor",
+      "example": "The word \"amor\" is useful."
+    },
+    {
+      "word": "amistad",
+      "translation": "amistad",
+      "example": "The word \"amistad\" is useful."
+    },
+    {
+      "word": "estar aburrido",
+      "translation": "estar aburrido",
+      "example": "The word \"estar aburrido\" is useful."
+    },
+    {
+      "word": "estar asustado",
+      "translation": "estar asustado",
+      "example": "The word \"estar asustado\" is useful."
+    },
+    {
+      "word": "estar estresado",
+      "translation": "estar estresado",
+      "example": "The word \"estar estresado\" is useful."
+    },
+    {
+      "word": "estar deprimido",
+      "translation": "estar deprimido",
+      "example": "The word \"estar deprimido\" is useful."
+    },
+    {
+      "word": "estar enamorado",
+      "translation": "estar enamorado",
+      "example": "The word \"estar enamorado\" is useful."
+    },
+    {
+      "word": "alegrarse",
+      "translation": "alegrarse",
+      "example": "The word \"alegrarse\" is useful."
+    },
+    {
+      "word": "divertirse",
+      "translation": "divertirse",
+      "example": "The word \"divertirse\" is useful."
+    },
+    {
+      "word": "enamorarse",
+      "translation": "enamorarse",
+      "example": "The word \"enamorarse\" is useful."
+    },
+    {
+      "word": "aburrirse",
+      "translation": "aburrirse",
+      "example": "The word \"aburrirse\" is useful."
+    },
+    {
+      "word": "deprimirse",
+      "translation": "deprimirse",
+      "example": "The word \"deprimirse\" is useful."
+    },
+    {
+      "word": "enfadarse",
+      "translation": "enfadarse",
+      "example": "The word \"enfadarse\" is useful."
+    },
+    {
+      "word": "dar pena",
+      "translation": "dar pena",
+      "example": "The word \"dar pena\" is useful."
+    },
+    {
+      "word": "dar lástima",
+      "translation": "dar lástima",
+      "example": "The word \"dar lástima\" is useful."
+    },
+    {
+      "word": "dar miedo",
+      "translation": "dar miedo",
+      "example": "The word \"dar miedo\" is useful."
+    },
+    {
+      "word": "ponerse triste",
+      "translation": "ponerse triste",
+      "example": "The word \"ponerse triste\" is useful."
+    },
+    {
+      "word": "ponerse contento",
+      "translation": "ponerse contento",
+      "example": "The word \"ponerse contento\" is useful."
+    },
+    {
+      "word": "ponerse de mal humor",
+      "translation": "ponerse de mal humor",
+      "example": "The word \"ponerse de mal humor\" is useful."
+    },
+    {
+      "word": "encontrarse bien",
+      "translation": "encontrarse bien",
+      "example": "The word \"encontrarse bien\" is useful."
+    },
+    {
+      "word": "encontrarse mal",
+      "translation": "encontrarse mal",
+      "example": "The word \"encontrarse mal\" is useful."
+    },
+    {
+      "word": "encontrarse fatal",
+      "translation": "encontrarse fatal",
+      "example": "The word \"encontrarse fatal\" is useful."
+    },
+    {
+      "word": "no soportar",
+      "translation": "no soportar",
+      "example": "The word \"no soportar\" is useful."
+    },
+    {
+      "word": "tocar calor",
+      "translation": "tocar calor",
+      "example": "The word \"tocar calor\" is useful."
+    },
+    {
+      "word": "sentir calor",
+      "translation": "sentir calor",
+      "example": "The word \"sentir calor\" is useful."
+    },
+    {
+      "word": "tocar frío",
+      "translation": "tocar frío",
+      "example": "The word \"tocar frío\" is useful."
+    },
+    {
+      "word": "sentir frío",
+      "translation": "sentir frío",
+      "example": "The word \"sentir frío\" is useful."
+    },
+    {
+      "word": "tocar sueño",
+      "translation": "tocar sueño",
+      "example": "The word \"tocar sueño\" is useful."
+    },
+    {
+      "word": "sentir sueño",
+      "translation": "sentir sueño",
+      "example": "The word \"sentir sueño\" is useful."
+    },
+    {
+      "word": "tocar sed",
+      "translation": "tocar sed",
+      "example": "The word \"tocar sed\" is useful."
+    },
+    {
+      "word": "sentir sed",
+      "translation": "sentir sed",
+      "example": "The word \"sentir sed\" is useful."
+    },
+    {
+      "word": "tocar hambre",
+      "translation": "tocar hambre",
+      "example": "The word \"tocar hambre\" is useful."
+    },
+    {
+      "word": "sentir hambre",
+      "translation": "sentir hambre",
+      "example": "The word \"sentir hambre\" is useful."
+    },
+    {
+      "word": "estar bien",
+      "translation": "estar bien",
+      "example": "The word \"estar bien\" is useful."
+    },
+    {
+      "word": "estar mal",
+      "translation": "estar mal",
+      "example": "The word \"estar mal\" is useful."
+    },
+    {
+      "word": "estar regular",
+      "translation": "estar regular",
+      "example": "The word \"estar regular\" is useful."
+    },
+    {
+      "word": "sentirse bien",
+      "translation": "sentirse bien",
+      "example": "The word \"sentirse bien\" is useful."
+    },
+    {
+      "word": "sentirse mal",
+      "translation": "sentirse mal",
+      "example": "The word \"sentirse mal\" is useful."
+    },
+    {
+      "word": "encontrarse bien",
+      "translation": "encontrarse bien",
+      "example": "The word \"encontrarse bien\" is useful."
+    },
+    {
+      "word": "encontrarse mal",
+      "translation": "encontrarse mal",
+      "example": "The word \"encontrarse mal\" is useful."
+    },
+    {
+      "word": "cansarse",
+      "translation": "cansarse",
+      "example": "The word \"cansarse\" is useful."
+    },
+    {
+      "word": "portarse bien",
+      "translation": "to behave well",
+      "example": "The word \"to behave well\" is useful."
+    },
+    {
+      "word": "portarse mal",
+      "translation": "to behave badly",
+      "example": "The word \"to behave badly\" is useful."
+    },
+    {
+      "word": "ser educado",
+      "translation": "ser educado",
+      "example": "The word \"ser educado\" is useful."
+    },
+    {
+      "word": "ser maleducado",
+      "translation": "ser maleducado",
+      "example": "The word \"ser maleducado\" is useful."
+    },
+    {
+      "word": "sincero",
+      "translation": "sincero",
+      "example": "The word \"sincero\" is useful."
+    },
+    {
+      "word": "conservador",
+      "translation": "conservador",
+      "example": "The word \"conservador\" is useful."
+    },
+    {
+      "word": "tener suerte",
+      "translation": "tener suerte",
+      "example": "The word \"tener suerte\" is useful."
+    },
+    {
+      "word": "tener buena suerte",
+      "translation": "tener buena suerte",
+      "example": "The word \"tener buena suerte\" is useful."
+    },
+    {
+      "word": "tener mala suerte",
+      "translation": "tener mala suerte",
+      "example": "The word \"tener mala suerte\" is useful."
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "topic": "Economy and Industry",
+  "words": [
+    {
+      "word": "economía",
+      "translation": "economía",
+      "example": "La palabra \"economía\" es útil."
+    },
+    {
+      "word": "economista",
+      "translation": "economista",
+      "example": "La palabra \"economista\" es útil."
+    },
+    {
+      "word": "hipoteca",
+      "translation": "hipoteca",
+      "example": "La palabra \"hipoteca\" es útil."
+    },
+    {
+      "word": "pobreza",
+      "translation": "pobreza",
+      "example": "La palabra \"pobreza\" es útil."
+    },
+    {
+      "word": "riqueza",
+      "translation": "riqueza",
+      "example": "La palabra \"riqueza\" es útil."
+    },
+    {
+      "word": "Tercer Mundo",
+      "translation": "Tercer Mundo",
+      "example": "La palabra \"Tercer Mundo\" es útil."
+    },
+    {
+      "word": "países ricos",
+      "translation": "países ricos",
+      "example": "La palabra \"países ricos\" es útil."
+    },
+    {
+      "word": "países pobres",
+      "translation": "países pobres",
+      "example": "La palabra \"países pobres\" es útil."
+    },
+    {
+      "word": "países en vías de desarrollo",
+      "translation": "países en vías de desarrollo",
+      "example": "La palabra \"países en vías de desarrollo\" es útil."
+    },
+    {
+      "word": "tener cambio",
+      "translation": "tener cambio",
+      "example": "La palabra \"tener cambio\" es útil."
+    },
+    {
+      "word": "tener suelto",
+      "translation": "tener suelto",
+      "example": "La palabra \"tener suelto\" es útil."
+    },
+    {
+      "word": "llevar cambio",
+      "translation": "llevar cambio",
+      "example": "La palabra \"llevar cambio\" es útil."
+    },
+    {
+      "word": "llevar suelto",
+      "translation": "llevar suelto",
+      "example": "La palabra \"llevar suelto\" es útil."
+    },
+    {
+      "word": "pagar en metálico",
+      "translation": "pagar en metálico",
+      "example": "La palabra \"pagar en metálico\" es útil."
+    },
+    {
+      "word": "pagar en efectivo",
+      "translation": "pagar en efectivo",
+      "example": "La palabra \"pagar en efectivo\" es útil."
+    },
+    {
+      "word": "gastar",
+      "translation": "gastar",
+      "example": "La palabra \"gastar\" es útil."
+    },
+    {
+      "word": "pagar impuestos",
+      "translation": "pagar impuestos",
+      "example": "La palabra \"pagar impuestos\" es útil."
+    },
+    {
+      "word": "compra",
+      "translation": "compra",
+      "example": "La palabra \"compra\" es útil."
+    },
+    {
+      "word": "venta",
+      "translation": "venta",
+      "example": "La palabra \"venta\" es útil."
+    },
+    {
+      "word": "comercio",
+      "translation": "comercio",
+      "example": "La palabra \"comercio\" es útil."
+    },
+    {
+      "word": "importación",
+      "translation": "importación",
+      "example": "La palabra \"importación\" es útil."
+    },
+    {
+      "word": "exportación",
+      "translation": "exportación",
+      "example": "La palabra \"exportación\" es útil."
+    },
+    {
+      "word": "deber dinero",
+      "translation": "deber dinero",
+      "example": "La palabra \"deber dinero\" es útil."
+    },
+    {
+      "word": "pagar impuestos",
+      "translation": "pagar impuestos",
+      "example": "La palabra \"pagar impuestos\" es útil."
+    },
+    {
+      "word": "pagar en metálico",
+      "translation": "pagar en metálico",
+      "example": "La palabra \"pagar en metálico\" es útil."
+    },
+    {
+      "word": "pagar con cheque",
+      "translation": "pagar con cheque",
+      "example": "La palabra \"pagar con cheque\" es útil."
+    },
+    {
+      "word": "tener un descuento",
+      "translation": "tener un descuento",
+      "example": "La palabra \"tener un descuento\" es útil."
+    },
+    {
+      "word": "tener descuento",
+      "translation": "tener descuento",
+      "example": "La palabra \"tener descuento\" es útil."
+    },
+    {
+      "word": "hacer un descuento",
+      "translation": "hacer un descuento",
+      "example": "La palabra \"hacer un descuento\" es útil."
+    },
+    {
+      "word": "hacer descuento",
+      "translation": "hacer descuento",
+      "example": "La palabra \"hacer descuento\" es útil."
+    },
+    {
+      "word": "subir el precio",
+      "translation": "subir el precio",
+      "example": "La palabra \"subir el precio\" es útil."
+    },
+    {
+      "word": "bajar el precio",
+      "translation": "bajar el precio",
+      "example": "La palabra \"bajar el precio\" es útil."
+    },
+    {
+      "word": "aumentar el precio",
+      "translation": "aumentar el precio",
+      "example": "La palabra \"aumentar el precio\" es útil."
+    },
+    {
+      "word": "disminuir el precio",
+      "translation": "disminuir el precio",
+      "example": "La palabra \"disminuir el precio\" es útil."
+    },
+    {
+      "word": "márquetin",
+      "translation": "márquetin",
+      "example": "La palabra \"márquetin\" es útil."
+    },
+    {
+      "word": "cartel",
+      "translation": "cartel",
+      "example": "La palabra \"cartel\" es útil."
+    },
+    {
+      "word": "folleto",
+      "translation": "folleto",
+      "example": "La palabra \"folleto\" es útil."
+    },
+    {
+      "word": "catálogo",
+      "translation": "catálogo",
+      "example": "La palabra \"catálogo\" es útil."
+    },
+    {
+      "word": "exhibición",
+      "translation": "exhibición",
+      "example": "La palabra \"exhibición\" es útil."
+    },
+    {
+      "word": "publicitario",
+      "translation": "publicitario",
+      "example": "La palabra \"publicitario\" es útil."
+    },
+    {
+      "word": "organización",
+      "translation": "organización",
+      "example": "La palabra \"organización\" es útil."
+    },
+    {
+      "word": "compañía",
+      "translation": "compañía",
+      "example": "La palabra \"compañía\" es útil."
+    },
+    {
+      "word": "agencia",
+      "translation": "agencia",
+      "example": "La palabra \"agencia\" es útil."
+    },
+    {
+      "word": "laboratorio",
+      "translation": "laboratorio",
+      "example": "La palabra \"laboratorio\" es útil."
+    },
+    {
+      "word": "empleado",
+      "translation": "empleado",
+      "example": "La palabra \"empleado\" es útil."
+    },
+    {
+      "word": "actividad",
+      "translation": "actividad",
+      "example": "La palabra \"actividad\" es útil."
+    },
+    {
+      "word": "producción",
+      "translation": "producción",
+      "example": "La palabra \"producción\" es útil."
+    },
+    {
+      "word": "fabricación",
+      "translation": "fabricación",
+      "example": "La palabra \"fabricación\" es útil."
+    },
+    {
+      "word": "puesto de trabajo",
+      "translation": "puesto de trabajo",
+      "example": "La palabra \"puesto de trabajo\" es útil."
+    },
+    {
+      "word": "huelga",
+      "translation": "huelga",
+      "example": "La palabra \"huelga\" es útil."
+    },
+    {
+      "word": "trabajador",
+      "translation": "trabajador",
+      "example": "La palabra \"trabajador\" es útil."
+    },
+    {
+      "word": "producir",
+      "translation": "producir",
+      "example": "La palabra \"producir\" es útil."
+    },
+    {
+      "word": "fabricar",
+      "translation": "fabricar",
+      "example": "La palabra \"fabricar\" es útil."
+    },
+    {
+      "word": "industria",
+      "translation": "industria",
+      "example": "La palabra \"industria\" es útil."
+    },
+    {
+      "word": "agricultura",
+      "translation": "agricultura",
+      "example": "La palabra \"agricultura\" es útil."
+    },
+    {
+      "word": "ganadería",
+      "translation": "ganadería",
+      "example": "La palabra \"ganadería\" es útil."
+    },
+    {
+      "word": "pesca",
+      "translation": "pesca",
+      "example": "La palabra \"pesca\" es útil."
+    },
+    {
+      "word": "construcción",
+      "translation": "construcción",
+      "example": "La palabra \"construcción\" es útil."
+    },
+    {
+      "word": "comercio",
+      "translation": "comercio",
+      "example": "La palabra \"comercio\" es útil."
+    },
+    {
+      "word": "transportes",
+      "translation": "transportes",
+      "example": "La palabra \"transportes\" es útil."
+    },
+    {
+      "word": "materia prima",
+      "translation": "materia prima",
+      "example": "La palabra \"materia prima\" es útil."
+    },
+    {
+      "word": "energía",
+      "translation": "energía",
+      "example": "La palabra \"energía\" es útil."
+    },
+    {
+      "word": "producción",
+      "translation": "producción",
+      "example": "La palabra \"producción\" es útil."
+    },
+    {
+      "word": "fabricación",
+      "translation": "fabricación",
+      "example": "La palabra \"fabricación\" es útil."
+    },
+    {
+      "word": "fabricar",
+      "translation": "fabricar",
+      "example": "La palabra \"fabricar\" es útil."
+    },
+    {
+      "word": "producir",
+      "translation": "producir",
+      "example": "La palabra \"producir\" es útil."
+    },
+    {
+      "word": "pescador",
+      "translation": "pescador",
+      "example": "La palabra \"pescador\" es útil."
+    },
+    {
+      "word": "barco de pesca",
+      "translation": "barco de pesca",
+      "example": "La palabra \"barco de pesca\" es útil."
+    },
+    {
+      "word": "marisco",
+      "translation": "marisco",
+      "example": "La palabra \"marisco\" es útil."
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "topic": "Geography and Nature",
+  "words": [
+    {
+      "word": "horóscopo",
+      "translation": "horóscopo",
+      "example": "Слово «horóscopo» полезно."
+    },
+    {
+      "word": "universo",
+      "translation": "universo",
+      "example": "Слово «universo» полезно."
+    },
+    {
+      "word": "espacio",
+      "translation": "espacio",
+      "example": "Слово «espacio» полезно."
+    },
+    {
+      "word": "atmósfera",
+      "translation": "atmósfera",
+      "example": "Слово «atmósfera» полезно."
+    },
+    {
+      "word": "astronauta",
+      "translation": "astronauta",
+      "example": "Слово «astronauta» полезно."
+    },
+    {
+      "word": "cohete",
+      "translation": "cohete",
+      "example": "Слово «cohete» полезно."
+    },
+    {
+      "word": "satélite",
+      "translation": "satélite",
+      "example": "Слово «satélite» полезно."
+    },
+    {
+      "word": "viaje espacial",
+      "translation": "viaje espacial",
+      "example": "Слово «viaje espacial» полезно."
+    },
+    {
+      "word": "universal",
+      "translation": "universal",
+      "example": "Слово «universal» полезно."
+    },
+    {
+      "word": "mundial",
+      "translation": "mundial",
+      "example": "Слово «mundial» полезно."
+    },
+    {
+      "word": "aterrizar",
+      "translation": "aterrizar",
+      "example": "Слово «aterrizar» полезно."
+    },
+    {
+      "word": "cohete",
+      "translation": "cohete",
+      "example": "Слово «cohete» полезно."
+    },
+    {
+      "word": "astronauta",
+      "translation": "astronauta",
+      "example": "Слово «astronauta» полезно."
+    },
+    {
+      "word": "geografía",
+      "translation": "geografía",
+      "example": "Слово «geografía» полезно."
+    },
+    {
+      "word": "sitio",
+      "translation": "sitio",
+      "example": "Слово «sitio» полезно."
+    },
+    {
+      "word": "zona",
+      "translation": "zona",
+      "example": "Слово «zona» полезно."
+    },
+    {
+      "word": "paisaje",
+      "translation": "paisaje",
+      "example": "Слово «paisaje» полезно."
+    },
+    {
+      "word": "provincia",
+      "translation": "provincia",
+      "example": "Слово «provincia» полезно."
+    },
+    {
+      "word": "comunidad autónoma",
+      "translation": "comunidad autónoma",
+      "example": "Слово «comunidad autónoma» полезно."
+    },
+    {
+      "word": "estado",
+      "translation": "estado",
+      "example": "Слово «estado» полезно."
+    },
+    {
+      "word": "nación",
+      "translation": "nación",
+      "example": "Слово «nación» полезно."
+    },
+    {
+      "word": "población",
+      "translation": "población",
+      "example": "Слово «población» полезно."
+    },
+    {
+      "word": "hemisferio norte",
+      "translation": "hemisferio norte",
+      "example": "Слово «hemisferio norte» полезно."
+    },
+    {
+      "word": "hemisferio sur",
+      "translation": "hemisferio sur",
+      "example": "Слово «hemisferio sur» полезно."
+    },
+    {
+      "word": "polo norte",
+      "translation": "polo norte",
+      "example": "Слово «polo norte» полезно."
+    },
+    {
+      "word": "polo sur",
+      "translation": "polo sur",
+      "example": "Слово «polo sur» полезно."
+    },
+    {
+      "word": "Oriente",
+      "translation": "Oriente",
+      "example": "Слово «Oriente» полезно."
+    },
+    {
+      "word": "Occidente",
+      "translation": "Occidente",
+      "example": "Слово «Occidente» полезно."
+    },
+    {
+      "word": "oriental",
+      "translation": "oriental",
+      "example": "Слово «oriental» полезно."
+    },
+    {
+      "word": "occidental",
+      "translation": "occidental",
+      "example": "Слово «occidental» полезно."
+    },
+    {
+      "word": "internacional",
+      "translation": "internacional",
+      "example": "Слово «internacional» полезно."
+    },
+    {
+      "word": "nacional",
+      "translation": "nacional",
+      "example": "Слово «nacional» полезно."
+    },
+    {
+      "word": "regional",
+      "translation": "regional",
+      "example": "Слово «regional» полезно."
+    },
+    {
+      "word": "emigrante",
+      "translation": "emigrante",
+      "example": "Слово «emigrante» полезно."
+    },
+    {
+      "word": "inmigrante",
+      "translation": "inmigrante",
+      "example": "Слово «inmigrante» полезно."
+    },
+    {
+      "word": "geográfico",
+      "translation": "geográfico",
+      "example": "Слово «geográfico» полезно."
+    },
+    {
+      "word": "paisaje",
+      "translation": "paisaje",
+      "example": "Слово «paisaje» полезно."
+    },
+    {
+      "word": "vista",
+      "translation": "vista",
+      "example": "Слово «vista» полезно."
+    },
+    {
+      "word": "continente",
+      "translation": "continente",
+      "example": "Слово «continente» полезно."
+    },
+    {
+      "word": "península",
+      "translation": "península",
+      "example": "Слово «península» полезно."
+    },
+    {
+      "word": "valle",
+      "translation": "valle",
+      "example": "Слово «valle» полезно."
+    },
+    {
+      "word": "lago",
+      "translation": "lago",
+      "example": "Слово «lago» полезно."
+    },
+    {
+      "word": "selva",
+      "translation": "selva",
+      "example": "Слово «selva» полезно."
+    },
+    {
+      "word": "Europa",
+      "translation": "Europa",
+      "example": "Слово «Europa» полезно."
+    },
+    {
+      "word": "Asia",
+      "translation": "Asia",
+      "example": "Слово «Asia» полезно."
+    },
+    {
+      "word": "África",
+      "translation": "África",
+      "example": "Слово «África» полезно."
+    },
+    {
+      "word": "América",
+      "translation": "América",
+      "example": "Слово «América» полезно."
+    },
+    {
+      "word": "Oceanía",
+      "translation": "Oceanía",
+      "example": "Слово «Oceanía» полезно."
+    },
+    {
+      "word": "océano Atlántico",
+      "translation": "océano Atlántico",
+      "example": "Слово «océano Atlántico» полезно."
+    },
+    {
+      "word": "océano Pacífico",
+      "translation": "océano Pacífico",
+      "example": "Слово «océano Pacífico» полезно."
+    },
+    {
+      "word": "océano Ártico",
+      "translation": "océano Ártico",
+      "example": "Слово «océano Ártico» полезно."
+    },
+    {
+      "word": "mar Mediterráneo",
+      "translation": "mar Mediterráneo",
+      "example": "Слово «mar Mediterráneo» полезно."
+    },
+    {
+      "word": "mar Báltico",
+      "translation": "mar Báltico",
+      "example": "Слово «mar Báltico» полезно."
+    },
+    {
+      "word": "mar Rojo",
+      "translation": "mar Rojo",
+      "example": "Слово «mar Rojo» полезно."
+    },
+    {
+      "word": "las afueras",
+      "translation": "las afueras",
+      "example": "Слово «las afueras» полезно."
+    },
+    {
+      "word": "comisaría de policía",
+      "translation": "comisaría de policía",
+      "example": "Слово «comisaría de policía» полезно."
+    },
+    {
+      "word": "parque de bomberos",
+      "translation": "parque de bomberos",
+      "example": "Слово «parque de bomberos» полезно."
+    },
+    {
+      "word": "barrio comercial",
+      "translation": "barrio comercial",
+      "example": "Слово «barrio comercial» полезно."
+    },
+    {
+      "word": "barrio residencial",
+      "translation": "barrio residencial",
+      "example": "Слово «barrio residencial» полезно."
+    },
+    {
+      "word": "barrio industrial",
+      "translation": "barrio industrial",
+      "example": "Слово «barrio industrial» полезно."
+    },
+    {
+      "word": "zona comercial",
+      "translation": "zona comercial",
+      "example": "Слово «zona comercial» полезно."
+    },
+    {
+      "word": "zona residencial",
+      "translation": "zona residencial",
+      "example": "Слово «zona residencial» полезно."
+    },
+    {
+      "word": "zona industrial",
+      "translation": "zona industrial",
+      "example": "Слово «zona industrial» полезно."
+    },
+    {
+      "word": "casco histórico",
+      "translation": "casco histórico",
+      "example": "Слово «casco histórico» полезно."
+    },
+    {
+      "word": "casco antiguo",
+      "translation": "casco antiguo",
+      "example": "Слово «casco antiguo» полезно."
+    },
+    {
+      "word": "céntrico",
+      "translation": "céntrico",
+      "example": "Слово «céntrico» полезно."
+    },
+    {
+      "word": "camino",
+      "translation": "camino",
+      "example": "Слово «camino» полезно."
+    },
+    {
+      "word": "huerta",
+      "translation": "huerta",
+      "example": "Слово «huerta» полезно."
+    },
+    {
+      "word": "prado",
+      "translation": "prado",
+      "example": "Слово «prado» полезно."
+    },
+    {
+      "word": "tierra",
+      "translation": "tierra",
+      "example": "Слово «tierra» полезно."
+    },
+    {
+      "word": "cultivo",
+      "translation": "cultivo",
+      "example": "Слово «cultivo» полезно."
+    },
+    {
+      "word": "plantar",
+      "translation": "plantar",
+      "example": "Слово «plantar» полезно."
+    },
+    {
+      "word": "cultivar",
+      "translation": "cultivar",
+      "example": "Слово «cultivar» полезно."
+    },
+    {
+      "word": "regar",
+      "translation": "regar",
+      "example": "Слово «regar» полезно."
+    },
+    {
+      "word": "estación del año",
+      "translation": "estación del año",
+      "example": "Слово «estación del año» полезно."
+    },
+    {
+      "word": "granizo",
+      "translation": "granizo",
+      "example": "Слово «granizo» полезно."
+    },
+    {
+      "word": "hielo",
+      "translation": "hielo",
+      "example": "Слово «hielo» полезно."
+    },
+    {
+      "word": "huracán",
+      "translation": "huracán",
+      "example": "Слово «huracán» полезно."
+    },
+    {
+      "word": "ola de frío",
+      "translation": "ola de frío",
+      "example": "Слово «ola de frío» полезно."
+    },
+    {
+      "word": "ola de calor",
+      "translation": "ola de calor",
+      "example": "Слово «ola de calor» полезно."
+    },
+    {
+      "word": "clima seco",
+      "translation": "clima seco",
+      "example": "Слово «clima seco» полезно."
+    },
+    {
+      "word": "clima húmedo",
+      "translation": "clima húmedo",
+      "example": "Слово «clima húmedo» полезно."
+    },
+    {
+      "word": "nublarse",
+      "translation": "nublarse",
+      "example": "Слово «nublarse» полезно."
+    },
+    {
+      "word": "salir el sol",
+      "translation": "salir el sol",
+      "example": "Слово «salir el sol» полезно."
+    },
+    {
+      "word": "estar el cielo despejado",
+      "translation": "estar el cielo despejado",
+      "example": "Слово «estar el cielo despejado» полезно."
+    },
+    {
+      "word": "estar el cielo nublado",
+      "translation": "estar el cielo nublado",
+      "example": "Слово «estar el cielo nublado» полезно."
+    },
+    {
+      "word": "mamífero",
+      "translation": "mamífero",
+      "example": "Слово «mamífero» полезно."
+    },
+    {
+      "word": "insecto",
+      "translation": "insecto",
+      "example": "Слово «insecto» полезно."
+    },
+    {
+      "word": "ave",
+      "translation": "ave",
+      "example": "Слово «ave» полезно."
+    },
+    {
+      "word": "reptil",
+      "translation": "reptil",
+      "example": "Слово «reptil» полезно."
+    },
+    {
+      "word": "animal doméstico",
+      "translation": "animal doméstico",
+      "example": "Слово «animal doméstico» полезно."
+    },
+    {
+      "word": "animal salvaje",
+      "translation": "animal salvaje",
+      "example": "Слово «animal salvaje» полезно."
+    },
+    {
+      "word": "animal de compañía",
+      "translation": "animal de compañía",
+      "example": "Слово «animal de compañía» полезно."
+    },
+    {
+      "word": "conejo",
+      "translation": "conejo",
+      "example": "Слово «conejo» полезно."
+    },
+    {
+      "word": "oveja",
+      "translation": "oveja",
+      "example": "Слово «oveja» полезно."
+    },
+    {
+      "word": "cordero",
+      "translation": "cordero",
+      "example": "Слово «cordero» полезно."
+    },
+    {
+      "word": "gallo",
+      "translation": "gallo",
+      "example": "Слово «gallo» полезно."
+    },
+    {
+      "word": "gallina",
+      "translation": "gallina",
+      "example": "Слово «gallina» полезно."
+    },
+    {
+      "word": "león",
+      "translation": "león",
+      "example": "Слово «león» полезно."
+    },
+    {
+      "word": "tigre",
+      "translation": "tigre",
+      "example": "Слово «tigre» полезно."
+    },
+    {
+      "word": "elefante",
+      "translation": "elefante",
+      "example": "Слово «elefante» полезно."
+    },
+    {
+      "word": "serpiente",
+      "translation": "serpiente",
+      "example": "Слово «serpiente» полезно."
+    },
+    {
+      "word": "cocodrilo",
+      "translation": "cocodrilo",
+      "example": "Слово «cocodrilo» полезно."
+    },
+    {
+      "word": "selva",
+      "translation": "selva",
+      "example": "Слово «selva» полезно."
+    },
+    {
+      "word": "parque natural",
+      "translation": "parque natural",
+      "example": "Слово «parque natural» полезно."
+    },
+    {
+      "word": "hierba",
+      "translation": "hierba",
+      "example": "Слово «hierba» полезно."
+    },
+    {
+      "word": "césped",
+      "translation": "césped",
+      "example": "Слово «césped» полезно."
+    },
+    {
+      "word": "tronco",
+      "translation": "tronco",
+      "example": "Слово «tronco» полезно."
+    },
+    {
+      "word": "hoja",
+      "translation": "hoja",
+      "example": "Слово «hoja» полезно."
+    },
+    {
+      "word": "rama",
+      "translation": "rama",
+      "example": "Слово «rama» полезно."
+    },
+    {
+      "word": "raíz",
+      "translation": "raíz",
+      "example": "Слово «raíz» полезно."
+    },
+    {
+      "word": "planta de interior",
+      "translation": "planta de interior",
+      "example": "Слово «planta de interior» полезно."
+    },
+    {
+      "word": "planta de exterior",
+      "translation": "planta de exterior",
+      "example": "Слово «planta de exterior» полезно."
+    },
+    {
+      "word": "árbol frutal",
+      "translation": "árbol frutal",
+      "example": "Слово «árbol frutal» полезно."
+    },
+    {
+      "word": "plantar un árbol",
+      "translation": "plantar un árbol",
+      "example": "Слово «plantar un árbol» полезно."
+    },
+    {
+      "word": "regar las plantas",
+      "translation": "regar las plantas",
+      "example": "Слово «regar las plantas» полезно."
+    },
+    {
+      "word": "regar el jardín",
+      "translation": "regar el jardín",
+      "example": "Слово «regar el jardín» полезно."
+    },
+    {
+      "word": "caerse las hojas",
+      "translation": "caerse las hojas",
+      "example": "Слово «caerse las hojas» полезно."
+    },
+    {
+      "word": "secarse las hojas",
+      "translation": "secarse las hojas",
+      "example": "Слово «secarse las hojas» полезно."
+    },
+    {
+      "word": "cultivar",
+      "translation": "cultivar",
+      "example": "Слово «cultivar» полезно."
+    },
+    {
+      "word": "cortar una flor",
+      "translation": "cortar una flor",
+      "example": "Слово «cortar una flor» полезно."
+    },
+    {
+      "word": "contaminación",
+      "translation": "contaminación",
+      "example": "Слово «contaminación» полезно."
+    },
+    {
+      "word": "polución",
+      "translation": "polución",
+      "example": "Слово «polución» полезно."
+    },
+    {
+      "word": "terremoto",
+      "translation": "terremoto",
+      "example": "Слово «terremoto» полезно."
+    },
+    {
+      "word": "huracán",
+      "translation": "huracán",
+      "example": "Слово «huracán» полезно."
+    },
+    {
+      "word": "ecología",
+      "translation": "ecología",
+      "example": "Слово «ecología» полезно."
+    },
+    {
+      "word": "ecologista",
+      "translation": "ecologista",
+      "example": "Слово «ecologista» полезно."
+    },
+    {
+      "word": "reciclaje",
+      "translation": "reciclaje",
+      "example": "Слово «reciclaje» полезно."
+    },
+    {
+      "word": "papel reciclado",
+      "translation": "papel reciclado",
+      "example": "Слово «papel reciclado» полезно."
+    },
+    {
+      "word": "cartón reciclado",
+      "translation": "cartón reciclado",
+      "example": "Слово «cartón reciclado» полезно."
+    },
+    {
+      "word": "vidrio reciclado",
+      "translation": "vidrio reciclado",
+      "example": "Слово «vidrio reciclado» полезно."
+    },
+    {
+      "word": "contenedor de papel",
+      "translation": "contenedor de papel",
+      "example": "Слово «contenedor de papel» полезно."
+    },
+    {
+      "word": "contenedor de vidrio",
+      "translation": "contenedor de vidrio",
+      "example": "Слово «contenedor de vidrio» полезно."
+    },
+    {
+      "word": "cambio climático",
+      "translation": "cambio climático",
+      "example": "Слово «cambio climático» полезно."
+    },
+    {
+      "word": "energía alternativa",
+      "translation": "energía alternativa",
+      "example": "Слово «energía alternativa» полезно."
+    },
+    {
+      "word": "recursos naturales",
+      "translation": "recursos naturales",
+      "example": "Слово «recursos naturales» полезно."
+    },
+    {
+      "word": "agujero de la capa de ozono",
+      "translation": "agujero de la capa de ozono",
+      "example": "Слово «agujero de la capa de ozono» полезно."
+    },
+    {
+      "word": "contaminado",
+      "translation": "contaminado",
+      "example": "Слово «contaminado» полезно."
+    },
+    {
+      "word": "contaminante",
+      "translation": "contaminante",
+      "example": "Слово «contaminante» полезно."
+    },
+    {
+      "word": "tóxico",
+      "translation": "tóxico",
+      "example": "Слово «tóxico» полезно."
+    },
+    {
+      "word": "cuidar el medio ambiente",
+      "translation": "cuidar el medio ambiente",
+      "example": "Слово «cuidar el medio ambiente» полезно."
+    },
+    {
+      "word": "cuidar la naturaleza",
+      "translation": "cuidar la naturaleza",
+      "example": "Слово «cuidar la naturaleza» полезно."
+    },
+    {
+      "word": "respetar el medio ambiente",
+      "translation": "respetar el medio ambiente",
+      "example": "Слово «respetar el medio ambiente» полезно."
+    },
+    {
+      "word": "respetar la naturaleza",
+      "translation": "respetar la naturaleza",
+      "example": "Слово «respetar la naturaleza» полезно."
+    },
+    {
+      "word": "proteger el medio ambiente",
+      "translation": "proteger el medio ambiente",
+      "example": "Слово «proteger el medio ambiente» полезно."
+    },
+    {
+      "word": "proteger la naturaleza",
+      "translation": "proteger la naturaleza",
+      "example": "Слово «proteger la naturaleza» полезно."
+    },
+    {
+      "word": "conservar el medio ambiente",
+      "translation": "conservar el medio ambiente",
+      "example": "Слово «conservar el medio ambiente» полезно."
+    },
+    {
+      "word": "conservar la naturaleza",
+      "translation": "conservar la naturaleza",
+      "example": "Слово «conservar la naturaleza» полезно."
+    },
+    {
+      "word": "reciclar vidrio",
+      "translation": "reciclar vidrio",
+      "example": "Слово «reciclar vidrio» полезно."
+    },
+    {
+      "word": "reciclar pilas",
+      "translation": "reciclar pilas",
+      "example": "Слово «reciclar pilas» полезно."
+    },
+    {
+      "word": "reciclar papel",
+      "translation": "reciclar papel",
+      "example": "Слово «reciclar papel» полезно."
+    },
+    {
+      "word": "reciclar cartón",
+      "translation": "reciclar cartón",
+      "example": "Слово «reciclar cartón» полезно."
+    },
+    {
+      "word": "reciclar latas",
+      "translation": "reciclar latas",
+      "example": "Слово «reciclar latas» полезно."
+    }
+  ]
+}

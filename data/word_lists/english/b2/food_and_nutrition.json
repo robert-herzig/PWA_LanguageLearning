@@ -1,0 +1,605 @@
+{
+  "topic": "Food and Nutrition",
+  "words": [
+    {
+      "word": "alimento sin conservantes",
+      "translation": "alimento sin conservantes",
+      "example": "The word \"alimento sin conservantes\" is useful."
+    },
+    {
+      "word": "alimento sin colorantes",
+      "translation": "alimento sin colorantes",
+      "example": "The word \"alimento sin colorantes\" is useful."
+    },
+    {
+      "word": "alimento bajo en calorías",
+      "translation": "alimento bajo en calorías",
+      "example": "The word \"alimento bajo en calorías\" is useful."
+    },
+    {
+      "word": "alimento bajo en sal",
+      "translation": "alimento bajo en sal",
+      "example": "The word \"alimento bajo en sal\" is useful."
+    },
+    {
+      "word": "alimento bajo en azúcar",
+      "translation": "alimento bajo en azúcar",
+      "example": "The word \"alimento bajo en azúcar\" is useful."
+    },
+    {
+      "word": "alimento rico en calorías",
+      "translation": "alimento rico en calorías",
+      "example": "The word \"alimento rico en calorías\" is useful."
+    },
+    {
+      "word": "alimento rico en vitaminas",
+      "translation": "alimento rico en vitaminas",
+      "example": "The word \"alimento rico en vitaminas\" is useful."
+    },
+    {
+      "word": "alimento rico en proteínas",
+      "translation": "alimento rico en proteínas",
+      "example": "The word \"alimento rico en proteínas\" is useful."
+    },
+    {
+      "word": "alimento rico en fibra",
+      "translation": "alimento rico en fibra",
+      "example": "The word \"alimento rico en fibra\" is useful."
+    },
+    {
+      "word": "alimento rico en hierro",
+      "translation": "alimento rico en hierro",
+      "example": "The word \"alimento rico en hierro\" is useful."
+    },
+    {
+      "word": "alimento rico en calcio",
+      "translation": "alimento rico en calcio",
+      "example": "The word \"alimento rico en calcio\" is useful."
+    },
+    {
+      "word": "alimento fresco",
+      "translation": "alimento fresco",
+      "example": "The word \"alimento fresco\" is useful."
+    },
+    {
+      "word": "alimento congelado",
+      "translation": "alimento congelado",
+      "example": "The word \"alimento congelado\" is useful."
+    },
+    {
+      "word": "alimento orgánico",
+      "translation": "alimento orgánico",
+      "example": "The word \"alimento orgánico\" is useful."
+    },
+    {
+      "word": "alimento dietético",
+      "translation": "alimento dietético",
+      "example": "The word \"alimento dietético\" is useful."
+    },
+    {
+      "word": "producto alimenticio",
+      "translation": "producto alimenticio",
+      "example": "The word \"producto alimenticio\" is useful."
+    },
+    {
+      "word": "comida escasa",
+      "translation": "comida escasa",
+      "example": "The word \"comida escasa\" is useful."
+    },
+    {
+      "word": "comida abundante",
+      "translation": "comida abundante",
+      "example": "The word \"comida abundante\" is useful."
+    },
+    {
+      "word": "estar en buenas condiciones",
+      "translation": "estar en buenas condiciones",
+      "example": "The word \"estar en buenas condiciones\" is useful."
+    },
+    {
+      "word": "estar en malas condiciones",
+      "translation": "estar en malas condiciones",
+      "example": "The word \"estar en malas condiciones\" is useful."
+    },
+    {
+      "word": "estar malo",
+      "translation": "estar malo",
+      "example": "The word \"estar malo\" is useful."
+    },
+    {
+      "word": "estar podrido",
+      "translation": "estar podrido",
+      "example": "The word \"estar podrido\" is useful."
+    },
+    {
+      "word": "estar caducado",
+      "translation": "estar caducado",
+      "example": "The word \"estar caducado\" is useful."
+    },
+    {
+      "word": "ponerse malo",
+      "translation": "ponerse malo",
+      "example": "The word \"ponerse malo\" is useful."
+    },
+    {
+      "word": "pudrirse",
+      "translation": "pudrirse",
+      "example": "The word \"pudrirse\" is useful."
+    },
+    {
+      "word": "ayunar",
+      "translation": "ayunar",
+      "example": "The word \"ayunar\" is useful."
+    },
+    {
+      "word": "tener apetito",
+      "translation": "tener apetito",
+      "example": "The word \"tener apetito\" is useful."
+    },
+    {
+      "word": "devorar",
+      "translation": "devorar",
+      "example": "The word \"devorar\" is useful."
+    },
+    {
+      "word": "comer moderadamente",
+      "translation": "comer moderadamente",
+      "example": "The word \"comer moderadamente\" is useful."
+    },
+    {
+      "word": "comer excesivamente",
+      "translation": "comer excesivamente",
+      "example": "The word \"comer excesivamente\" is useful."
+    },
+    {
+      "word": "hacer la digestión",
+      "translation": "hacer la digestión",
+      "example": "The word \"hacer la digestión\" is useful."
+    },
+    {
+      "word": "cortarse la digestión",
+      "translation": "cortarse la digestión",
+      "example": "The word \"cortarse la digestión\" is useful."
+    },
+    {
+      "word": "digerir",
+      "translation": "digerir",
+      "example": "The word \"digerir\" is useful."
+    },
+    {
+      "word": "ser indigesto",
+      "translation": "ser indigesto",
+      "example": "The word \"ser indigesto\" is useful."
+    },
+    {
+      "word": "refresco",
+      "translation": "refresco",
+      "example": "The word \"refresco\" is useful."
+    },
+    {
+      "word": "licor",
+      "translation": "licor",
+      "example": "The word \"licor\" is useful."
+    },
+    {
+      "word": "cóctel",
+      "translation": "cóctel",
+      "example": "The word \"cóctel\" is useful."
+    },
+    {
+      "word": "vino seco",
+      "translation": "vino seco",
+      "example": "The word \"vino seco\" is useful."
+    },
+    {
+      "word": "vino dulce",
+      "translation": "vino dulce",
+      "example": "The word \"vino dulce\" is useful."
+    },
+    {
+      "word": "agua potable",
+      "translation": "agua potable",
+      "example": "The word \"agua potable\" is useful."
+    },
+    {
+      "word": "agua del grifo",
+      "translation": "agua del grifo",
+      "example": "The word \"agua del grifo\" is useful."
+    },
+    {
+      "word": "cerveza de barril",
+      "translation": "cerveza de barril",
+      "example": "The word \"cerveza de barril\" is useful."
+    },
+    {
+      "word": "abrebotellas",
+      "translation": "abrebotellas",
+      "example": "The word \"abrebotellas\" is useful."
+    },
+    {
+      "word": "sacacorchos",
+      "translation": "sacacorchos",
+      "example": "The word \"sacacorchos\" is useful."
+    },
+    {
+      "word": "corcho de la botella",
+      "translation": "corcho de la botella",
+      "example": "The word \"corcho de la botella\" is useful."
+    },
+    {
+      "word": "tapón de la botella",
+      "translation": "tapón de la botella",
+      "example": "The word \"tapón de la botella\" is useful."
+    },
+    {
+      "word": "dar sed",
+      "translation": "dar sed",
+      "example": "The word \"dar sed\" is useful."
+    },
+    {
+      "word": "quitar la sed",
+      "translation": "quitar la sed",
+      "example": "The word \"quitar la sed\" is useful."
+    },
+    {
+      "word": "chupar",
+      "translation": "chupar",
+      "example": "The word \"chupar\" is useful."
+    },
+    {
+      "word": "tragar",
+      "translation": "tragar",
+      "example": "The word \"tragar\" is useful."
+    },
+    {
+      "word": "mamar",
+      "translation": "mamar",
+      "example": "The word \"mamar\" is useful."
+    },
+    {
+      "word": "emborracharse",
+      "translation": "emborracharse",
+      "example": "The word \"emborracharse\" is useful."
+    },
+    {
+      "word": "merengue",
+      "translation": "merengue",
+      "example": "The word \"merengue\" is useful."
+    },
+    {
+      "word": "crema pastelera",
+      "translation": "crema pastelera",
+      "example": "The word \"crema pastelera\" is useful."
+    },
+    {
+      "word": "bollería",
+      "translation": "bollería",
+      "example": "The word \"bollería\" is useful."
+    },
+    {
+      "word": "ensaimada",
+      "translation": "ensaimada",
+      "example": "The word \"ensaimada\" is useful."
+    },
+    {
+      "word": "palmera",
+      "translation": "palmera",
+      "example": "The word \"palmera\" is useful."
+    },
+    {
+      "word": "dulces",
+      "translation": "dulces",
+      "example": "The word \"dulces\" is useful."
+    },
+    {
+      "word": "caramelo",
+      "translation": "caramelo",
+      "example": "The word \"caramelo\" is useful."
+    },
+    {
+      "word": "lenguado",
+      "translation": "lenguado",
+      "example": "The word \"lenguado\" is useful."
+    },
+    {
+      "word": "dorada",
+      "translation": "dorada",
+      "example": "The word \"dorada\" is useful."
+    },
+    {
+      "word": "sal",
+      "translation": "sal",
+      "example": "The word \"sal\" is useful."
+    },
+    {
+      "word": "carne a la brasa",
+      "translation": "carne a la brasa",
+      "example": "The word \"carne a la brasa\" is useful."
+    },
+    {
+      "word": "carne asada",
+      "translation": "carne asada",
+      "example": "The word \"carne asada\" is useful."
+    },
+    {
+      "word": "carne guisada",
+      "translation": "carne guisada",
+      "example": "The word \"carne guisada\" is useful."
+    },
+    {
+      "word": "preparar una comida",
+      "translation": "preparar una comida",
+      "example": "The word \"preparar una comida\" is useful."
+    },
+    {
+      "word": "servir una comida",
+      "translation": "servir una comida",
+      "example": "The word \"servir una comida\" is useful."
+    },
+    {
+      "word": "cocinar un plato",
+      "translation": "cocinar un plato",
+      "example": "The word \"cocinar un plato\" is useful."
+    },
+    {
+      "word": "cocinar un alimento",
+      "translation": "cocinar un alimento",
+      "example": "The word \"cocinar un alimento\" is useful."
+    },
+    {
+      "word": "exprimir un limón",
+      "translation": "exprimir un limón",
+      "example": "The word \"exprimir un limón\" is useful."
+    },
+    {
+      "word": "rallar queso",
+      "translation": "rallar queso",
+      "example": "The word \"rallar queso\" is useful."
+    },
+    {
+      "word": "picar carne",
+      "translation": "picar carne",
+      "example": "The word \"picar carne\" is useful."
+    },
+    {
+      "word": "trocear una manzana",
+      "translation": "trocear una manzana",
+      "example": "The word \"trocear una manzana\" is useful."
+    },
+    {
+      "word": "cocer al vapor",
+      "translation": "cocer al vapor",
+      "example": "The word \"cocer al vapor\" is useful."
+    },
+    {
+      "word": "bacalao al pilpil",
+      "translation": "bacalao al pilpil",
+      "example": "The word \"bacalao al pilpil\" is useful."
+    },
+    {
+      "word": "fabada",
+      "translation": "fabada",
+      "example": "The word \"fabada\" is useful."
+    },
+    {
+      "word": "arroz con leche",
+      "translation": "arroz con leche",
+      "example": "The word \"arroz con leche\" is useful."
+    },
+    {
+      "word": "macedonia de frutas",
+      "translation": "macedonia de frutas",
+      "example": "The word \"macedonia de frutas\" is useful."
+    },
+    {
+      "word": "sorbete al cava",
+      "translation": "sorbete al cava",
+      "example": "The word \"sorbete al cava\" is useful."
+    },
+    {
+      "word": "pincho",
+      "translation": "pincho",
+      "example": "The word \"pincho\" is useful."
+    },
+    {
+      "word": "ración",
+      "translation": "ración",
+      "example": "The word \"ración\" is useful."
+    },
+    {
+      "word": "sabroso",
+      "translation": "sabroso",
+      "example": "The word \"sabroso\" is useful."
+    },
+    {
+      "word": "delicioso",
+      "translation": "delicioso",
+      "example": "The word \"delicioso\" is useful."
+    },
+    {
+      "word": "exquisito",
+      "translation": "exquisito",
+      "example": "The word \"exquisito\" is useful."
+    },
+    {
+      "word": "incomestible",
+      "translation": "incomestible",
+      "example": "The word \"incomestible\" is useful."
+    },
+    {
+      "word": "incompible",
+      "translation": "incompible",
+      "example": "The word \"incompible\" is useful."
+    },
+    {
+      "word": "disfrutar de una comida",
+      "translation": "disfrutar de una comida",
+      "example": "The word \"disfrutar de una comida\" is useful."
+    },
+    {
+      "word": "fuente",
+      "translation": "fuente",
+      "example": "The word \"fuente\" is useful."
+    },
+    {
+      "word": "bol",
+      "translation": "bol",
+      "example": "The word \"bol\" is useful."
+    },
+    {
+      "word": "tazón",
+      "translation": "tazón",
+      "example": "The word \"tazón\" is useful."
+    },
+    {
+      "word": "olla a presión",
+      "translation": "olla a presión",
+      "example": "The word \"olla a presión\" is useful."
+    },
+    {
+      "word": "cacharro",
+      "translation": "cacharro",
+      "example": "The word \"cacharro\" is useful."
+    },
+    {
+      "word": "cazuela de barro",
+      "translation": "cazuela de barro",
+      "example": "The word \"cazuela de barro\" is useful."
+    },
+    {
+      "word": "recipiente",
+      "translation": "recipiente",
+      "example": "The word \"recipiente\" is useful."
+    },
+    {
+      "word": "cuenco",
+      "translation": "cuenco",
+      "example": "The word \"cuenco\" is useful."
+    },
+    {
+      "word": "ensaladera",
+      "translation": "ensaladera",
+      "example": "The word \"ensaladera\" is useful."
+    },
+    {
+      "word": "sopera",
+      "translation": "sopera",
+      "example": "The word \"sopera\" is useful."
+    },
+    {
+      "word": "sacacorchos",
+      "translation": "sacacorchos",
+      "example": "The word \"sacacorchos\" is useful."
+    },
+    {
+      "word": "abrelatas",
+      "translation": "abrelatas",
+      "example": "The word \"abrelatas\" is useful."
+    },
+    {
+      "word": "autoservicio",
+      "translation": "autoservicio",
+      "example": "The word \"autoservicio\" is useful."
+    },
+    {
+      "word": "hamburguesería",
+      "translation": "hamburguesería",
+      "example": "The word \"hamburguesería\" is useful."
+    },
+    {
+      "word": "restaurante de fama internacional",
+      "translation": "restaurante de fama internacional",
+      "example": "The word \"restaurante de fama internacional\" is useful."
+    },
+    {
+      "word": "restaurante de cuatro tenedores",
+      "translation": "restaurante de cuatro tenedores",
+      "example": "The word \"restaurante de cuatro tenedores\" is useful."
+    },
+    {
+      "word": "banquete",
+      "translation": "banquete",
+      "example": "The word \"banquete\" is useful."
+    },
+    {
+      "word": "bufé",
+      "translation": "bufé",
+      "example": "The word \"bufé\" is useful."
+    },
+    {
+      "word": "barra",
+      "translation": "barra",
+      "example": "The word \"barra\" is useful."
+    },
+    {
+      "word": "barman",
+      "translation": "barman",
+      "example": "The word \"barman\" is useful."
+    },
+    {
+      "word": "comedor",
+      "translation": "comedor",
+      "example": "The word \"comedor\" is useful."
+    },
+    {
+      "word": "salón",
+      "translation": "salón",
+      "example": "The word \"salón\" is useful."
+    },
+    {
+      "word": "poner un restaurante",
+      "translation": "poner un restaurante",
+      "example": "The word \"poner un restaurante\" is useful."
+    },
+    {
+      "word": "llevar un restaurante",
+      "translation": "llevar un restaurante",
+      "example": "The word \"llevar un restaurante\" is useful."
+    },
+    {
+      "word": "montar un restaurante",
+      "translation": "montar un restaurante",
+      "example": "The word \"montar un restaurante\" is useful."
+    },
+    {
+      "word": "comer de menú",
+      "translation": "comer de menú",
+      "example": "The word \"comer de menú\" is useful."
+    },
+    {
+      "word": "comer a la carta",
+      "translation": "comer a la carta",
+      "example": "The word \"comer a la carta\" is useful."
+    },
+    {
+      "word": "tapear",
+      "translation": "tapear",
+      "example": "The word \"tapear\" is useful."
+    },
+    {
+      "word": "atender una mesa",
+      "translation": "atender una mesa",
+      "example": "The word \"atender una mesa\" is useful."
+    },
+    {
+      "word": "servir una mesa",
+      "translation": "servir una mesa",
+      "example": "The word \"servir una mesa\" is useful."
+    },
+    {
+      "word": "sentarse a la mesa",
+      "translation": "sentarse a la mesa",
+      "example": "The word \"sentarse a la mesa\" is useful."
+    },
+    {
+      "word": "retirar el primer plato",
+      "translation": "retirar el primer plato",
+      "example": "The word \"retirar el primer plato\" is useful."
+    },
+    {
+      "word": "retirar el segundo plato",
+      "translation": "retirar el segundo plato",
+      "example": "The word \"retirar el segundo plato\" is useful."
+    }
+  ]
+}

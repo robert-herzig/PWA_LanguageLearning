@@ -1,0 +1,330 @@
+{
+  "topic": "Economy and Industry",
+  "words": [
+    {
+      "word": "crisis económica",
+      "translation": "crisis económica",
+      "example": "The word \"crisis económica\" is useful."
+    },
+    {
+      "word": "crecimiento económico",
+      "translation": "crecimiento económico",
+      "example": "The word \"crecimiento económico\" is useful."
+    },
+    {
+      "word": "desarrollo económico",
+      "translation": "desarrollo económico",
+      "example": "The word \"desarrollo económico\" is useful."
+    },
+    {
+      "word": "banca",
+      "translation": "banca",
+      "example": "The word \"banca\" is useful."
+    },
+    {
+      "word": "bolsa",
+      "translation": "bolsa",
+      "example": "The word \"bolsa\" is useful."
+    },
+    {
+      "word": "mercado de valores",
+      "translation": "mercado de valores",
+      "example": "The word \"mercado de valores\" is useful."
+    },
+    {
+      "word": "inversión",
+      "translation": "inversión",
+      "example": "The word \"inversión\" is useful."
+    },
+    {
+      "word": "capital",
+      "translation": "capital",
+      "example": "The word \"capital\" is useful."
+    },
+    {
+      "word": "deuda",
+      "translation": "deuda",
+      "example": "The word \"deuda\" is useful."
+    },
+    {
+      "word": "déficit",
+      "translation": "déficit",
+      "example": "The word \"déficit\" is useful."
+    },
+    {
+      "word": "superávit",
+      "translation": "superávit",
+      "example": "The word \"superávit\" is useful."
+    },
+    {
+      "word": "inflación",
+      "translation": "inflación",
+      "example": "The word \"inflación\" is useful."
+    },
+    {
+      "word": "deflación",
+      "translation": "deflación",
+      "example": "The word \"deflación\" is useful."
+    },
+    {
+      "word": "devaluación",
+      "translation": "devaluación",
+      "example": "The word \"devaluación\" is useful."
+    },
+    {
+      "word": "PIB",
+      "translation": "PIB",
+      "example": "The word \"PIB\" is useful."
+    },
+    {
+      "word": "Producto Interior Bruto",
+      "translation": "Producto Interior Bruto",
+      "example": "The word \"Producto Interior Bruto\" is useful."
+    },
+    {
+      "word": "IVA",
+      "translation": "IVA",
+      "example": "The word \"IVA\" is useful."
+    },
+    {
+      "word": "Impuesto sobre el Valor Añadido",
+      "translation": "Impuesto sobre el Valor Añadido",
+      "example": "The word \"Impuesto sobre el Valor Añadido\" is useful."
+    },
+    {
+      "word": "tipo de interés",
+      "translation": "tipo de interés",
+      "example": "The word \"tipo de interés\" is useful."
+    },
+    {
+      "word": "tipo de cambio",
+      "translation": "tipo de cambio",
+      "example": "The word \"tipo de cambio\" is useful."
+    },
+    {
+      "word": "euro",
+      "translation": "euro",
+      "example": "The word \"euro\" is useful."
+    },
+    {
+      "word": "dólar",
+      "translation": "dólar",
+      "example": "The word \"dólar\" is useful."
+    },
+    {
+      "word": "libra",
+      "translation": "libra",
+      "example": "The word \"libra\" is useful."
+    },
+    {
+      "word": "yen",
+      "translation": "yen",
+      "example": "The word \"yen\" is useful."
+    },
+    {
+      "word": "mercado único",
+      "translation": "mercado único",
+      "example": "The word \"mercado único\" is useful."
+    },
+    {
+      "word": "zona euro",
+      "translation": "zona euro",
+      "example": "The word \"zona euro\" is useful."
+    },
+    {
+      "word": "libre comercio",
+      "translation": "libre comercio",
+      "example": "The word \"libre comercio\" is useful."
+    },
+    {
+      "word": "globalización",
+      "translation": "globalización",
+      "example": "The word \"globalización\" is useful."
+    },
+    {
+      "word": "privatización",
+      "translation": "privatización",
+      "example": "The word \"privatización\" is useful."
+    },
+    {
+      "word": "nacionalización",
+      "translation": "nacionalización",
+      "example": "The word \"nacionalización\" is useful."
+    },
+    {
+      "word": "Ministerio de Hacienda",
+      "translation": "Ministerio de Hacienda",
+      "example": "The word \"Ministerio de Hacienda\" is useful."
+    },
+    {
+      "word": "hacer la declaración de la renta",
+      "translation": "hacer la declaración de la renta",
+      "example": "The word \"hacer la declaración de la renta\" is useful."
+    },
+    {
+      "word": "presentar la declaración de la renta",
+      "translation": "presentar la declaración de la renta",
+      "example": "The word \"presentar la declaración de la renta\" is useful."
+    },
+    {
+      "word": "inspector de hacienda",
+      "translation": "inspector de hacienda",
+      "example": "The word \"inspector de hacienda\" is useful."
+    },
+    {
+      "word": "inspección",
+      "translation": "inspección",
+      "example": "The word \"inspección\" is useful."
+    },
+    {
+      "word": "denunciar el delito fiscal",
+      "translation": "denunciar el delito fiscal",
+      "example": "The word \"denunciar el delito fiscal\" is useful."
+    },
+    {
+      "word": "investigar el delito fiscal",
+      "translation": "investigar el delito fiscal",
+      "example": "The word \"investigar el delito fiscal\" is useful."
+    },
+    {
+      "word": "luchar contra el delito fiscal",
+      "translation": "luchar contra el delito fiscal",
+      "example": "The word \"luchar contra el delito fiscal\" is useful."
+    },
+    {
+      "word": "transacciones comerciales",
+      "translation": "transacciones comerciales",
+      "example": "The word \"transacciones comerciales\" is useful."
+    },
+    {
+      "word": "mercados",
+      "translation": "mercados",
+      "example": "The word \"mercados\" is useful."
+    },
+    {
+      "word": "comercio exterior",
+      "translation": "comercio exterior",
+      "example": "The word \"comercio exterior\" is useful."
+    },
+    {
+      "word": "publicidad",
+      "translation": "publicidad",
+      "example": "The word \"publicidad\" is useful."
+    },
+    {
+      "word": "mercadotecnia",
+      "translation": "mercadotecnia",
+      "example": "The word \"mercadotecnia\" is useful."
+    },
+    {
+      "word": "márquetin",
+      "translation": "márquetin",
+      "example": "The word \"márquetin\" is useful."
+    },
+    {
+      "word": "accionista",
+      "translation": "accionista",
+      "example": "The word \"accionista\" is useful."
+    },
+    {
+      "word": "socio",
+      "translation": "socio",
+      "example": "The word \"socio\" is useful."
+    },
+    {
+      "word": "acción",
+      "translation": "acción",
+      "example": "The word \"acción\" is useful."
+    },
+    {
+      "word": "participación",
+      "translation": "participación",
+      "example": "The word \"participación\" is useful."
+    },
+    {
+      "word": "asociación",
+      "translation": "asociación",
+      "example": "The word \"asociación\" is useful."
+    },
+    {
+      "word": "gestión",
+      "translation": "gestión",
+      "example": "The word \"gestión\" is useful."
+    },
+    {
+      "word": "dirección",
+      "translation": "dirección",
+      "example": "The word \"dirección\" is useful."
+    },
+    {
+      "word": "empleo",
+      "translation": "job",
+      "example": "The word \"job\" is useful."
+    },
+    {
+      "word": "cargo",
+      "translation": "cargo",
+      "example": "The word \"cargo\" is useful."
+    },
+    {
+      "word": "ocupación",
+      "translation": "ocupación",
+      "example": "The word \"ocupación\" is useful."
+    },
+    {
+      "word": "plantilla de trabajadores",
+      "translation": "plantilla de trabajadores",
+      "example": "The word \"plantilla de trabajadores\" is useful."
+    },
+    {
+      "word": "jefe de personal",
+      "translation": "jefe de personal",
+      "example": "The word \"jefe de personal\" is useful."
+    },
+    {
+      "word": "taller",
+      "translation": "taller",
+      "example": "The word \"taller\" is useful."
+    },
+    {
+      "word": "nave industrial",
+      "translation": "nave industrial",
+      "example": "The word \"nave industrial\" is useful."
+    },
+    {
+      "word": "estar de baja",
+      "translation": "estar de baja",
+      "example": "The word \"estar de baja\" is useful."
+    },
+    {
+      "word": "situación económica",
+      "translation": "situación económica",
+      "example": "The word \"situación económica\" is useful."
+    },
+    {
+      "word": "actividad industrial",
+      "translation": "actividad industrial",
+      "example": "The word \"actividad industrial\" is useful."
+    },
+    {
+      "word": "desarrollo industrial",
+      "translation": "desarrollo industrial",
+      "example": "The word \"desarrollo industrial\" is useful."
+    },
+    {
+      "word": "crecimiento industrial",
+      "translation": "crecimiento industrial",
+      "example": "The word \"crecimiento industrial\" is useful."
+    },
+    {
+      "word": "carpintería",
+      "translation": "carpintería",
+      "example": "The word \"carpintería\" is useful."
+    },
+    {
+      "word": "fontanería",
+      "translation": "fontanería",
+      "example": "The word \"fontanería\" is useful."
+    }
+  ]
+}

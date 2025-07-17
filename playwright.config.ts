@@ -32,41 +32,50 @@ export default defineConfig({
     trace: 'on-first-retry',
   },
 
-  /* Configure projects for major browsers */
+  /* Configure projects for target browsers and devices */
   projects: [
+    // Primary target: Desktop Chrome (main development)
     {
-      name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      name: 'chrome-desktop',
+      use: { 
+        ...devices['Desktop Chrome'], 
+        channel: 'chrome' // Use actual Chrome browser
+      },
     },
 
+    // Primary target: Mobile Chrome Android (main mobile platform)
     {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
+      name: 'chrome-mobile',
+      use: { 
+        ...devices['Pixel 5'],
+        // Android Chrome settings for PWA testing
+      },
     },
 
+    // Secondary: Mobile Chrome Android landscape (tablet-like usage)
     {
-      name: 'webkit',
-      use: { ...devices['Desktop Safari'] },
+      name: 'chrome-mobile-landscape',
+      use: { 
+        ...devices['Pixel 5 landscape'],
+      },
     },
 
-    /* Test against mobile viewports. */
-    // {
-    //   name: 'Mobile Chrome',
-    //   use: { ...devices['Pixel 5'] },
-    // },
-    // {
-    //   name: 'Mobile Safari',
-    //   use: { ...devices['iPhone 12'] },
-    // },
+    // PWA testing: Chrome with offline capabilities
+    {
+      name: 'chrome-pwa',
+      use: { 
+        ...devices['Desktop Chrome'],
+        channel: 'chrome',
+        // Enable PWA features
+        permissions: ['notifications'],
+        serviceWorkers: 'allow',
+      },
+    },
 
-    /* Test against branded browsers. */
+    // Optional: Firefox for compatibility check (reduced priority)
     // {
-    //   name: 'Microsoft Edge',
-    //   use: { ...devices['Desktop Edge'], channel: 'msedge' },
-    // },
-    // {
-    //   name: 'Google Chrome',
-    //   use: { ...devices['Desktop Chrome'], channel: 'chrome' },
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'] },
     // },
   ],
 

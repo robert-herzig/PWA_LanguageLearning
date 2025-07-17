@@ -875,8 +875,8 @@ class LanguageLearningPWA {
           b2: { available: true, title: 'B2 Mittelstufe', description: 'Erweiterte Vokabeln für selbstständige Sprachverwendung' },
           c1: { available: true, title: 'C1 Fortgeschritten', description: 'Komplexe Vokabeln für fachkundige Sprachverwendung' }
         },
-        topicalAvailable: false,
-        topicalLevels: []
+        topicalAvailable: true,
+        topicalLevels: ['b1', 'b2']
       },
       russian: {
         title: '🇷🇺 Russisch Lernen',
@@ -888,8 +888,8 @@ class LanguageLearningPWA {
           b2: { available: false, title: 'B2 Mittelstufe', description: 'Bald verfügbar' },
           c1: { available: false, title: 'C1 Fortgeschritten', description: 'Bald verfügbar' }
         },
-        topicalAvailable: false,
-        topicalLevels: []
+        topicalAvailable: true,
+        topicalLevels: ['b1', 'b2']
       }
     };
 

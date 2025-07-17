@@ -1,0 +1,350 @@
+{
+  "topic": "Economy and Industry",
+  "words": [
+    {
+      "word": "economía",
+      "translation": "economía",
+      "example": "Слово «economía» полезно."
+    },
+    {
+      "word": "economista",
+      "translation": "economista",
+      "example": "Слово «economista» полезно."
+    },
+    {
+      "word": "hipoteca",
+      "translation": "hipoteca",
+      "example": "Слово «hipoteca» полезно."
+    },
+    {
+      "word": "pobreza",
+      "translation": "pobreza",
+      "example": "Слово «pobreza» полезно."
+    },
+    {
+      "word": "riqueza",
+      "translation": "riqueza",
+      "example": "Слово «riqueza» полезно."
+    },
+    {
+      "word": "Tercer Mundo",
+      "translation": "Tercer Mundo",
+      "example": "Слово «Tercer Mundo» полезно."
+    },
+    {
+      "word": "países ricos",
+      "translation": "países ricos",
+      "example": "Слово «países ricos» полезно."
+    },
+    {
+      "word": "países pobres",
+      "translation": "países pobres",
+      "example": "Слово «países pobres» полезно."
+    },
+    {
+      "word": "países en vías de desarrollo",
+      "translation": "países en vías de desarrollo",
+      "example": "Слово «países en vías de desarrollo» полезно."
+    },
+    {
+      "word": "tener cambio",
+      "translation": "tener cambio",
+      "example": "Слово «tener cambio» полезно."
+    },
+    {
+      "word": "tener suelto",
+      "translation": "tener suelto",
+      "example": "Слово «tener suelto» полезно."
+    },
+    {
+      "word": "llevar cambio",
+      "translation": "llevar cambio",
+      "example": "Слово «llevar cambio» полезно."
+    },
+    {
+      "word": "llevar suelto",
+      "translation": "llevar suelto",
+      "example": "Слово «llevar suelto» полезно."
+    },
+    {
+      "word": "pagar en metálico",
+      "translation": "pagar en metálico",
+      "example": "Слово «pagar en metálico» полезно."
+    },
+    {
+      "word": "pagar en efectivo",
+      "translation": "pagar en efectivo",
+      "example": "Слово «pagar en efectivo» полезно."
+    },
+    {
+      "word": "gastar",
+      "translation": "gastar",
+      "example": "Слово «gastar» полезно."
+    },
+    {
+      "word": "pagar impuestos",
+      "translation": "pagar impuestos",
+      "example": "Слово «pagar impuestos» полезно."
+    },
+    {
+      "word": "compra",
+      "translation": "compra",
+      "example": "Слово «compra» полезно."
+    },
+    {
+      "word": "venta",
+      "translation": "venta",
+      "example": "Слово «venta» полезно."
+    },
+    {
+      "word": "comercio",
+      "translation": "comercio",
+      "example": "Слово «comercio» полезно."
+    },
+    {
+      "word": "importación",
+      "translation": "importación",
+      "example": "Слово «importación» полезно."
+    },
+    {
+      "word": "exportación",
+      "translation": "exportación",
+      "example": "Слово «exportación» полезно."
+    },
+    {
+      "word": "deber dinero",
+      "translation": "deber dinero",
+      "example": "Слово «deber dinero» полезно."
+    },
+    {
+      "word": "pagar impuestos",
+      "translation": "pagar impuestos",
+      "example": "Слово «pagar impuestos» полезно."
+    },
+    {
+      "word": "pagar en metálico",
+      "translation": "pagar en metálico",
+      "example": "Слово «pagar en metálico» полезно."
+    },
+    {
+      "word": "pagar con cheque",
+      "translation": "pagar con cheque",
+      "example": "Слово «pagar con cheque» полезно."
+    },
+    {
+      "word": "tener un descuento",
+      "translation": "tener un descuento",
+      "example": "Слово «tener un descuento» полезно."
+    },
+    {
+      "word": "tener descuento",
+      "translation": "tener descuento",
+      "example": "Слово «tener descuento» полезно."
+    },
+    {
+      "word": "hacer un descuento",
+      "translation": "hacer un descuento",
+      "example": "Слово «hacer un descuento» полезно."
+    },
+    {
+      "word": "hacer descuento",
+      "translation": "hacer descuento",
+      "example": "Слово «hacer descuento» полезно."
+    },
+    {
+      "word": "subir el precio",
+      "translation": "subir el precio",
+      "example": "Слово «subir el precio» полезно."
+    },
+    {
+      "word": "bajar el precio",
+      "translation": "bajar el precio",
+      "example": "Слово «bajar el precio» полезно."
+    },
+    {
+      "word": "aumentar el precio",
+      "translation": "aumentar el precio",
+      "example": "Слово «aumentar el precio» полезно."
+    },
+    {
+      "word": "disminuir el precio",
+      "translation": "disminuir el precio",
+      "example": "Слово «disminuir el precio» полезно."
+    },
+    {
+      "word": "márquetin",
+      "translation": "márquetin",
+      "example": "Слово «márquetin» полезно."
+    },
+    {
+      "word": "cartel",
+      "translation": "cartel",
+      "example": "Слово «cartel» полезно."
+    },
+    {
+      "word": "folleto",
+      "translation": "folleto",
+      "example": "Слово «folleto» полезно."
+    },
+    {
+      "word": "catálogo",
+      "translation": "catálogo",
+      "example": "Слово «catálogo» полезно."
+    },
+    {
+      "word": "exhibición",
+      "translation": "exhibición",
+      "example": "Слово «exhibición» полезно."
+    },
+    {
+      "word": "publicitario",
+      "translation": "publicitario",
+      "example": "Слово «publicitario» полезно."
+    },
+    {
+      "word": "organización",
+      "translation": "organización",
+      "example": "Слово «organización» полезно."
+    },
+    {
+      "word": "compañía",
+      "translation": "compañía",
+      "example": "Слово «compañía» полезно."
+    },
+    {
+      "word": "agencia",
+      "translation": "agencia",
+      "example": "Слово «agencia» полезно."
+    },
+    {
+      "word": "laboratorio",
+      "translation": "laboratorio",
+      "example": "Слово «laboratorio» полезно."
+    },
+    {
+      "word": "empleado",
+      "translation": "сотрудник",
+      "example": "Слово «сотрудник» полезно."
+    },
+    {
+      "word": "actividad",
+      "translation": "actividad",
+      "example": "Слово «actividad» полезно."
+    },
+    {
+      "word": "producción",
+      "translation": "producción",
+      "example": "Слово «producción» полезно."
+    },
+    {
+      "word": "fabricación",
+      "translation": "fabricación",
+      "example": "Слово «fabricación» полезно."
+    },
+    {
+      "word": "puesto de trabajo",
+      "translation": "puesto de trabajo",
+      "example": "Слово «puesto de trabajo» полезно."
+    },
+    {
+      "word": "huelga",
+      "translation": "huelga",
+      "example": "Слово «huelga» полезно."
+    },
+    {
+      "word": "trabajador",
+      "translation": "trabajador",
+      "example": "Слово «trabajador» полезно."
+    },
+    {
+      "word": "producir",
+      "translation": "producir",
+      "example": "Слово «producir» полезно."
+    },
+    {
+      "word": "fabricar",
+      "translation": "fabricar",
+      "example": "Слово «fabricar» полезно."
+    },
+    {
+      "word": "industria",
+      "translation": "industria",
+      "example": "Слово «industria» полезно."
+    },
+    {
+      "word": "agricultura",
+      "translation": "agricultura",
+      "example": "Слово «agricultura» полезно."
+    },
+    {
+      "word": "ganadería",
+      "translation": "ganadería",
+      "example": "Слово «ganadería» полезно."
+    },
+    {
+      "word": "pesca",
+      "translation": "pesca",
+      "example": "Слово «pesca» полезно."
+    },
+    {
+      "word": "construcción",
+      "translation": "construcción",
+      "example": "Слово «construcción» полезно."
+    },
+    {
+      "word": "comercio",
+      "translation": "comercio",
+      "example": "Слово «comercio» полезно."
+    },
+    {
+      "word": "transportes",
+      "translation": "transportes",
+      "example": "Слово «transportes» полезно."
+    },
+    {
+      "word": "materia prima",
+      "translation": "materia prima",
+      "example": "Слово «materia prima» полезно."
+    },
+    {
+      "word": "energía",
+      "translation": "energía",
+      "example": "Слово «energía» полезно."
+    },
+    {
+      "word": "producción",
+      "translation": "producción",
+      "example": "Слово «producción» полезно."
+    },
+    {
+      "word": "fabricación",
+      "translation": "fabricación",
+      "example": "Слово «fabricación» полезно."
+    },
+    {
+      "word": "fabricar",
+      "translation": "fabricar",
+      "example": "Слово «fabricar» полезно."
+    },
+    {
+      "word": "producir",
+      "translation": "producir",
+      "example": "Слово «producir» полезно."
+    },
+    {
+      "word": "pescador",
+      "translation": "pescador",
+      "example": "Слово «pescador» полезно."
+    },
+    {
+      "word": "barco de pesca",
+      "translation": "barco de pesca",
+      "example": "Слово «barco de pesca» полезно."
+    },
+    {
+      "word": "marisco",
+      "translation": "морепродукты",
+      "example": "Слово «морепродукты» полезно."
+    }
+  ]
+}

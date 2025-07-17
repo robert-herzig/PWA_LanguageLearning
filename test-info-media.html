@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Information and Media Topic</title>
+</head>
+<body>
+    <h1>Test Information and Media Translations</h1>
+    <div id="results"></div>
+    
+    <script src="js/translations.js"></script>
+    <script>
+        console.log('Testing Information and Media translations...');
+        
+        // Test if the translations are loaded
+        if (window.SPANISH_GERMAN_TRANSLATIONS) {
+            console.log('✅ Translations loaded');
+            console.log('Available topics:', Object.keys(window.SPANISH_GERMAN_TRANSLATIONS));
+            
+            // Test Information and Media topic
+            const infoMediaTopic = window.SPANISH_GERMAN_TRANSLATIONS['Information and Media'];
+            if (infoMediaTopic) {
+                console.log('✅ Information and Media topic found');
+                console.log('Available words:', Object.keys(infoMediaTopic));
+                
+                // Test specific words
+                const testWords = ['medios de comunicación', 'noticia', 'opinión'];
+                testWords.forEach(word => {
+                    if (infoMediaTopic[word]) {
+                        console.log(`✅ ${word} -> ${infoMediaTopic[word].german}`);
+                        document.getElementById('results').innerHTML += 
+                            `<p><strong>${word}</strong> → ${infoMediaTopic[word].german}<br>
+                            <em>"${infoMediaTopic[word].example}"</em></p>`;
+                    } else {
+                        console.log(`❌ ${word} not found`);
+                        document.getElementById('results').innerHTML += 
+                            `<p style="color:red;"><strong>${word}</strong> → NOT FOUND</p>`;
+                    }
+                });
+            } else {
+                console.log('❌ Information and Media topic not found');
+                document.getElementById('results').innerHTML = 
+                    '<p style="color:red;">Information and Media topic not found in translations</p>';
+            }
+        } else {
+            console.log('❌ Translations not loaded');
+            document.getElementById('results').innerHTML = 
+                '<p style="color:red;">Translations not loaded</p>';
+        }
+    </script>
+</body>
+</html>

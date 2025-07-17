@@ -1,0 +1,525 @@
+{
+  "topic": "Personal Relationships",
+  "words": [
+    {
+      "word": "cónyuge",
+      "translation": "cónyuge",
+      "example": "The word \"cónyuge\" is useful."
+    },
+    {
+      "word": "cuñado",
+      "translation": "cuñado",
+      "example": "The word \"cuñado\" is useful."
+    },
+    {
+      "word": "suegro",
+      "translation": "suegro",
+      "example": "The word \"suegro\" is useful."
+    },
+    {
+      "word": "yerno",
+      "translation": "yerno",
+      "example": "The word \"yerno\" is useful."
+    },
+    {
+      "word": "nuera",
+      "translation": "nuera",
+      "example": "The word \"nuera\" is useful."
+    },
+    {
+      "word": "bisabuelo",
+      "translation": "bisabuelo",
+      "example": "The word \"bisabuelo\" is useful."
+    },
+    {
+      "word": "tatarabuelo",
+      "translation": "tatarabuelo",
+      "example": "The word \"tatarabuelo\" is useful."
+    },
+    {
+      "word": "mellizos",
+      "translation": "mellizos",
+      "example": "The word \"mellizos\" is useful."
+    },
+    {
+      "word": "trillizos",
+      "translation": "trillizos",
+      "example": "The word \"trillizos\" is useful."
+    },
+    {
+      "word": "madre de alquiler",
+      "translation": "madre de alquiler",
+      "example": "The word \"madre de alquiler\" is useful."
+    },
+    {
+      "word": "niño probeta",
+      "translation": "niño probeta",
+      "example": "The word \"niño probeta\" is useful."
+    },
+    {
+      "word": "familiar cercano",
+      "translation": "familiar cercano",
+      "example": "The word \"familiar cercano\" is useful."
+    },
+    {
+      "word": "familiar lejano",
+      "translation": "familiar lejano",
+      "example": "The word \"familiar lejano\" is useful."
+    },
+    {
+      "word": "familia numerosa",
+      "translation": "familia numerosa",
+      "example": "The word \"familia numerosa\" is useful."
+    },
+    {
+      "word": "familia adoptiva",
+      "translation": "familia adoptiva",
+      "example": "The word \"familia adoptiva\" is useful."
+    },
+    {
+      "word": "padre adoptivo",
+      "translation": "padre adoptivo",
+      "example": "The word \"padre adoptivo\" is useful."
+    },
+    {
+      "word": "hijo adoptivo",
+      "translation": "hijo adoptivo",
+      "example": "The word \"hijo adoptivo\" is useful."
+    },
+    {
+      "word": "niño huérfano",
+      "translation": "niño huérfano",
+      "example": "The word \"niño huérfano\" is useful."
+    },
+    {
+      "word": "maternidad",
+      "translation": "maternidad",
+      "example": "The word \"maternidad\" is useful."
+    },
+    {
+      "word": "paternidad",
+      "translation": "paternidad",
+      "example": "The word \"paternidad\" is useful."
+    },
+    {
+      "word": "ser de familia",
+      "translation": "ser de familia",
+      "example": "The word \"ser de familia\" is useful."
+    },
+    {
+      "word": "amigo íntimo",
+      "translation": "amigo íntimo",
+      "example": "The word \"amigo íntimo\" is useful."
+    },
+    {
+      "word": "amigo de toda la vida",
+      "translation": "amigo de toda la vida",
+      "example": "The word \"amigo de toda la vida\" is useful."
+    },
+    {
+      "word": "antiguo amigo",
+      "translation": "antiguo amigo",
+      "example": "The word \"antiguo amigo\" is useful."
+    },
+    {
+      "word": "viejo amigo",
+      "translation": "viejo amigo",
+      "example": "The word \"viejo amigo\" is useful."
+    },
+    {
+      "word": "íntimo amigo",
+      "translation": "íntimo amigo",
+      "example": "The word \"íntimo amigo\" is useful."
+    },
+    {
+      "word": "miembro",
+      "translation": "miembro",
+      "example": "The word \"miembro\" is useful."
+    },
+    {
+      "word": "invitado",
+      "translation": "invitado",
+      "example": "The word \"invitado\" is useful."
+    },
+    {
+      "word": "enemigo",
+      "translation": "enemigo",
+      "example": "The word \"enemigo\" is useful."
+    },
+    {
+      "word": "relación amorosa",
+      "translation": "relación amorosa",
+      "example": "The word \"relación amorosa\" is useful."
+    },
+    {
+      "word": "relación amistosa",
+      "translation": "relación amistosa",
+      "example": "The word \"relación amistosa\" is useful."
+    },
+    {
+      "word": "relación laboral",
+      "translation": "relación laboral",
+      "example": "The word \"relación laboral\" is useful."
+    },
+    {
+      "word": "relación personal",
+      "translation": "relación personal",
+      "example": "The word \"relación personal\" is useful."
+    },
+    {
+      "word": "relación profesional",
+      "translation": "relación profesional",
+      "example": "The word \"relación profesional\" is useful."
+    },
+    {
+      "word": "relación sentimental",
+      "translation": "relación sentimental",
+      "example": "The word \"relación sentimental\" is useful."
+    },
+    {
+      "word": "reunión de vecinos",
+      "translation": "reunión de vecinos",
+      "example": "The word \"reunión de vecinos\" is useful."
+    },
+    {
+      "word": "reunión de socios",
+      "translation": "reunión de socios",
+      "example": "The word \"reunión de socios\" is useful."
+    },
+    {
+      "word": "reunión de antiguos alumnos",
+      "translation": "reunión de antiguos alumnos",
+      "example": "The word \"reunión de antiguos alumnos\" is useful."
+    },
+    {
+      "word": "tener un lío",
+      "translation": "tener un lío",
+      "example": "The word \"tener un lío\" is useful."
+    },
+    {
+      "word": "tener un romance",
+      "translation": "tener un romance",
+      "example": "The word \"tener un romance\" is useful."
+    },
+    {
+      "word": "tener un amante",
+      "translation": "tener un amante",
+      "example": "The word \"tener un amante\" is useful."
+    },
+    {
+      "word": "tener un ligue",
+      "translation": "tener un ligue",
+      "example": "The word \"tener un ligue\" is useful."
+    },
+    {
+      "word": "conocerse de vista",
+      "translation": "conocerse de vista",
+      "example": "The word \"conocerse de vista\" is useful."
+    },
+    {
+      "word": "conocerse bien",
+      "translation": "conocerse bien",
+      "example": "The word \"conocerse bien\" is useful."
+    },
+    {
+      "word": "conocerse por casualidad",
+      "translation": "conocerse por casualidad",
+      "example": "The word \"conocerse por casualidad\" is useful."
+    },
+    {
+      "word": "relacionarse con",
+      "translation": "relacionarse con",
+      "example": "The word \"relacionarse con\" is useful."
+    },
+    {
+      "word": "tratar con",
+      "translation": "tratar con",
+      "example": "The word \"tratar con\" is useful."
+    },
+    {
+      "word": "nacimiento",
+      "translation": "nacimiento",
+      "example": "The word \"nacimiento\" is useful."
+    },
+    {
+      "word": "bautizo",
+      "translation": "bautizo",
+      "example": "The word \"bautizo\" is useful."
+    },
+    {
+      "word": "primera comunión",
+      "translation": "primera comunión",
+      "example": "The word \"primera comunión\" is useful."
+    },
+    {
+      "word": "santo",
+      "translation": "santo",
+      "example": "The word \"santo\" is useful."
+    },
+    {
+      "word": "aniversario",
+      "translation": "aniversario",
+      "example": "The word \"aniversario\" is useful."
+    },
+    {
+      "word": "bodas de oro",
+      "translation": "bodas de oro",
+      "example": "The word \"bodas de oro\" is useful."
+    },
+    {
+      "word": "bodas de plata",
+      "translation": "bodas de plata",
+      "example": "The word \"bodas de plata\" is useful."
+    },
+    {
+      "word": "ceremonia",
+      "translation": "ceremonia",
+      "example": "The word \"ceremonia\" is useful."
+    },
+    {
+      "word": "banquete",
+      "translation": "banquete",
+      "example": "The word \"banquete\" is useful."
+    },
+    {
+      "word": "marcha nupcial",
+      "translation": "marcha nupcial",
+      "example": "The word \"marcha nupcial\" is useful."
+    },
+    {
+      "word": "tarta nupcial",
+      "translation": "tarta nupcial",
+      "example": "The word \"tarta nupcial\" is useful."
+    },
+    {
+      "word": "suite nupcial",
+      "translation": "suite nupcial",
+      "example": "The word \"suite nupcial\" is useful."
+    },
+    {
+      "word": "fiesta nacional",
+      "translation": "fiesta nacional",
+      "example": "The word \"fiesta nacional\" is useful."
+    },
+    {
+      "word": "fiesta local",
+      "translation": "fiesta local",
+      "example": "The word \"fiesta local\" is useful."
+    },
+    {
+      "word": "fiesta religiosa",
+      "translation": "fiesta religiosa",
+      "example": "The word \"fiesta religiosa\" is useful."
+    },
+    {
+      "word": "fiesta oficial",
+      "translation": "fiesta oficial",
+      "example": "The word \"fiesta oficial\" is useful."
+    },
+    {
+      "word": "celebración",
+      "translation": "celebración",
+      "example": "The word \"celebración\" is useful."
+    },
+    {
+      "word": "acto oficial",
+      "translation": "acto oficial",
+      "example": "The word \"acto oficial\" is useful."
+    },
+    {
+      "word": "acto religioso",
+      "translation": "acto religioso",
+      "example": "The word \"acto religioso\" is useful."
+    },
+    {
+      "word": "acto solemne",
+      "translation": "acto solemne",
+      "example": "The word \"acto solemne\" is useful."
+    },
+    {
+      "word": "acto académico",
+      "translation": "acto académico",
+      "example": "The word \"acto académico\" is useful."
+    },
+    {
+      "word": "ceremonia sencilla",
+      "translation": "ceremonia sencilla",
+      "example": "The word \"ceremonia sencilla\" is useful."
+    },
+    {
+      "word": "acto sencillo",
+      "translation": "acto sencillo",
+      "example": "The word \"acto sencillo\" is useful."
+    },
+    {
+      "word": "conducta prudente",
+      "translation": "conducta prudente",
+      "example": "The word \"conducta prudente\" is useful."
+    },
+    {
+      "word": "conducta discriminatoria",
+      "translation": "conducta discriminatoria",
+      "example": "The word \"conducta discriminatoria\" is useful."
+    },
+    {
+      "word": "comportamiento prudente",
+      "translation": "comportamiento prudente",
+      "example": "The word \"comportamiento prudente\" is useful."
+    },
+    {
+      "word": "comportamiento discriminatorio",
+      "translation": "comportamiento discriminatorio",
+      "example": "The word \"comportamiento discriminatorio\" is useful."
+    },
+    {
+      "word": "habilidad",
+      "translation": "habilidad",
+      "example": "The word \"habilidad\" is useful."
+    },
+    {
+      "word": "cuidado",
+      "translation": "cuidado",
+      "example": "The word \"cuidado\" is useful."
+    },
+    {
+      "word": "imprudencia",
+      "translation": "imprudencia",
+      "example": "The word \"imprudencia\" is useful."
+    },
+    {
+      "word": "hablar bien de alguien",
+      "translation": "hablar bien de alguien",
+      "example": "The word \"hablar bien de alguien\" is useful."
+    },
+    {
+      "word": "hablar mal de alguien",
+      "translation": "hablar mal de alguien",
+      "example": "The word \"hablar mal de alguien\" is useful."
+    },
+    {
+      "word": "mostrar una actitud adecuada",
+      "translation": "mostrar una actitud adecuada",
+      "example": "The word \"mostrar una actitud adecuada\" is useful."
+    },
+    {
+      "word": "mostrar una actitud injusta",
+      "translation": "mostrar una actitud injusta",
+      "example": "The word \"mostrar una actitud injusta\" is useful."
+    },
+    {
+      "word": "mostrar un comportamiento adecuado",
+      "translation": "mostrar un comportamiento adecuado",
+      "example": "The word \"mostrar un comportamiento adecuado\" is useful."
+    },
+    {
+      "word": "mostrar un comportamiento injusto",
+      "translation": "mostrar un comportamiento injusto",
+      "example": "The word \"mostrar un comportamiento injusto\" is useful."
+    },
+    {
+      "word": "tener una actitud adecuada",
+      "translation": "tener una actitud adecuada",
+      "example": "The word \"tener una actitud adecuada\" is useful."
+    },
+    {
+      "word": "tener una actitud injusta",
+      "translation": "tener una actitud injusta",
+      "example": "The word \"tener una actitud injusta\" is useful."
+    },
+    {
+      "word": "tener un comportamiento adecuado",
+      "translation": "tener un comportamiento adecuado",
+      "example": "The word \"tener un comportamiento adecuado\" is useful."
+    },
+    {
+      "word": "tener un comportamiento injusto",
+      "translation": "tener un comportamiento injusto",
+      "example": "The word \"tener un comportamiento injusto\" is useful."
+    },
+    {
+      "word": "comportarse bien",
+      "translation": "comportarse bien",
+      "example": "The word \"comportarse bien\" is useful."
+    },
+    {
+      "word": "comportarse mal",
+      "translation": "comportarse mal",
+      "example": "The word \"comportarse mal\" is useful."
+    },
+    {
+      "word": "comportarse fatal",
+      "translation": "comportarse fatal",
+      "example": "The word \"comportarse fatal\" is useful."
+    },
+    {
+      "word": "dar apoyo",
+      "translation": "dar apoyo",
+      "example": "The word \"dar apoyo\" is useful."
+    },
+    {
+      "word": "dar amistad",
+      "translation": "dar amistad",
+      "example": "The word \"dar amistad\" is useful."
+    },
+    {
+      "word": "dar cariño",
+      "translation": "dar cariño",
+      "example": "The word \"dar cariño\" is useful."
+    },
+    {
+      "word": "dar comprensión",
+      "translation": "dar comprensión",
+      "example": "The word \"dar comprensión\" is useful."
+    },
+    {
+      "word": "mostrar apoyo",
+      "translation": "mostrar apoyo",
+      "example": "The word \"mostrar apoyo\" is useful."
+    },
+    {
+      "word": "mostrar amistad",
+      "translation": "mostrar amistad",
+      "example": "The word \"mostrar amistad\" is useful."
+    },
+    {
+      "word": "mostrar cariño",
+      "translation": "mostrar cariño",
+      "example": "The word \"mostrar cariño\" is useful."
+    },
+    {
+      "word": "mostrar comprensión",
+      "translation": "mostrar comprensión",
+      "example": "The word \"mostrar comprensión\" is useful."
+    },
+    {
+      "word": "mostrar confianza",
+      "translation": "mostrar confianza",
+      "example": "The word \"mostrar confianza\" is useful."
+    },
+    {
+      "word": "mostrar respeto",
+      "translation": "mostrar respeto",
+      "example": "The word \"mostrar respeto\" is useful."
+    },
+    {
+      "word": "sentir confianza",
+      "translation": "sentir confianza",
+      "example": "The word \"sentir confianza\" is useful."
+    },
+    {
+      "word": "sentir respeto",
+      "translation": "sentir respeto",
+      "example": "The word \"sentir respeto\" is useful."
+    },
+    {
+      "word": "tener confianza",
+      "translation": "tener confianza",
+      "example": "The word \"tener confianza\" is useful."
+    },
+    {
+      "word": "tener respeto",
+      "translation": "tener respeto",
+      "example": "The word \"tener respeto\" is useful."
+    }
+  ]
+}

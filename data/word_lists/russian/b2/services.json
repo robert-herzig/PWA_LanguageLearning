@@ -1,0 +1,750 @@
+{
+  "topic": "Services",
+  "words": [
+    {
+      "word": "repartidor",
+      "translation": "repartidor",
+      "example": "Слово «repartidor» полезно."
+    },
+    {
+      "word": "cartero comercial",
+      "translation": "cartero comercial",
+      "example": "Слово «cartero comercial» полезно."
+    },
+    {
+      "word": "envío",
+      "translation": "envío",
+      "example": "Слово «envío» полезно."
+    },
+    {
+      "word": "entrega",
+      "translation": "entrega",
+      "example": "Слово «entrega» полезно."
+    },
+    {
+      "word": "gastos de envío",
+      "translation": "gastos de envío",
+      "example": "Слово «gastos de envío» полезно."
+    },
+    {
+      "word": "empresa de mensajería",
+      "translation": "empresa de mensajería",
+      "example": "Слово «empresa de mensajería» полезно."
+    },
+    {
+      "word": "correo ordinario",
+      "translation": "correo ordinario",
+      "example": "Слово «correo ordinario» полезно."
+    },
+    {
+      "word": "correo postal",
+      "translation": "correo postal",
+      "example": "Слово «correo postal» полезно."
+    },
+    {
+      "word": "correo aéreo",
+      "translation": "correo aéreo",
+      "example": "Слово «correo aéreo» полезно."
+    },
+    {
+      "word": "carta certificada",
+      "translation": "carta certificada",
+      "example": "Слово «carta certificada» полезно."
+    },
+    {
+      "word": "carta urgente",
+      "translation": "carta urgente",
+      "example": "Слово «carta urgente» полезно."
+    },
+    {
+      "word": "giro postal",
+      "translation": "giro postal",
+      "example": "Слово «giro postal» полезно."
+    },
+    {
+      "word": "giro telegráfico",
+      "translation": "giro telegráfico",
+      "example": "Слово «giro telegráfico» полезно."
+    },
+    {
+      "word": "cheque postal",
+      "translation": "cheque postal",
+      "example": "Слово «cheque postal» полезно."
+    },
+    {
+      "word": "paquete postal",
+      "translation": "paquete postal",
+      "example": "Слово «paquete postal» полезно."
+    },
+    {
+      "word": "enviar contra reembolso",
+      "translation": "enviar contra reembolso",
+      "example": "Слово «enviar contra reembolso» полезно."
+    },
+    {
+      "word": "enviar con acuse de recibo",
+      "translation": "enviar con acuse de recibo",
+      "example": "Слово «enviar con acuse de recibo» полезно."
+    },
+    {
+      "word": "caja fuerte",
+      "translation": "caja fuerte",
+      "example": "Слово «caja fuerte» полезно."
+    },
+    {
+      "word": "ahorro",
+      "translation": "ahorro",
+      "example": "Слово «ahorro» полезно."
+    },
+    {
+      "word": "cobro",
+      "translation": "cobro",
+      "example": "Слово «cobro» полезно."
+    },
+    {
+      "word": "ingreso",
+      "translation": "ingreso",
+      "example": "Слово «ingreso» полезно."
+    },
+    {
+      "word": "pago",
+      "translation": "pago",
+      "example": "Слово «pago» полезно."
+    },
+    {
+      "word": "hipoteca",
+      "translation": "hipoteca",
+      "example": "Слово «hipoteca» полезно."
+    },
+    {
+      "word": "crédito",
+      "translation": "crédito",
+      "example": "Слово «crédito» полезно."
+    },
+    {
+      "word": "préstamo",
+      "translation": "préstamo",
+      "example": "Слово «préstamo» полезно."
+    },
+    {
+      "word": "talonario de cheques",
+      "translation": "talonario de cheques",
+      "example": "Слово «talonario de cheques» полезно."
+    },
+    {
+      "word": "accionista",
+      "translation": "accionista",
+      "example": "Слово «accionista» полезно."
+    },
+    {
+      "word": "inversor",
+      "translation": "inversor",
+      "example": "Слово «inversor» полезно."
+    },
+    {
+      "word": "ingresos periódicos",
+      "translation": "ingresos periódicos",
+      "example": "Слово «ingresos periódicos» полезно."
+    },
+    {
+      "word": "ingresos extra",
+      "translation": "ingresos extra",
+      "example": "Слово «ingresos extra» полезно."
+    },
+    {
+      "word": "ingresos elevados",
+      "translation": "ingresos elevados",
+      "example": "Слово «ingresos elevados» полезно."
+    },
+    {
+      "word": "cuenta corriente",
+      "translation": "cuenta corriente",
+      "example": "Слово «cuenta corriente» полезно."
+    },
+    {
+      "word": "ahorrar dinero",
+      "translation": "ahorrar dinero",
+      "example": "Слово «ahorrar dinero» полезно."
+    },
+    {
+      "word": "cobrar dinero",
+      "translation": "cobrar dinero",
+      "example": "Слово «cobrar dinero» полезно."
+    },
+    {
+      "word": "invertir dinero",
+      "translation": "invertir dinero",
+      "example": "Слово «invertir dinero» полезно."
+    },
+    {
+      "word": "pedir una hipoteca",
+      "translation": "pedir una hipoteca",
+      "example": "Слово «pedir una hipoteca» полезно."
+    },
+    {
+      "word": "pedir un crédito",
+      "translation": "pedir un crédito",
+      "example": "Слово «pedir un crédito» полезно."
+    },
+    {
+      "word": "pedir un préstamo",
+      "translation": "pedir un préstamo",
+      "example": "Слово «pedir un préstamo» полезно."
+    },
+    {
+      "word": "solicitar una hipoteca",
+      "translation": "solicitar una hipoteca",
+      "example": "Слово «solicitar una hipoteca» полезно."
+    },
+    {
+      "word": "solicitar un crédito",
+      "translation": "solicitar un crédito",
+      "example": "Слово «solicitar un crédito» полезно."
+    },
+    {
+      "word": "solicitar un préstamo",
+      "translation": "solicitar un préstamo",
+      "example": "Слово «solicitar un préstamo» полезно."
+    },
+    {
+      "word": "conceder una hipoteca",
+      "translation": "conceder una hipoteca",
+      "example": "Слово «conceder una hipoteca» полезно."
+    },
+    {
+      "word": "conceder un crédito",
+      "translation": "conceder un crédito",
+      "example": "Слово «conceder un crédito» полезно."
+    },
+    {
+      "word": "conceder un préstamo",
+      "translation": "conceder un préstamo",
+      "example": "Слово «conceder un préstamo» полезно."
+    },
+    {
+      "word": "pagar una hipoteca",
+      "translation": "pagar una hipoteca",
+      "example": "Слово «pagar una hipoteca» полезно."
+    },
+    {
+      "word": "pagar un crédito",
+      "translation": "pagar un crédito",
+      "example": "Слово «pagar un crédito» полезно."
+    },
+    {
+      "word": "pagar un préstamo",
+      "translation": "pagar un préstamo",
+      "example": "Слово «pagar un préstamo» полезно."
+    },
+    {
+      "word": "domiciliar un recibo",
+      "translation": "domiciliar un recibo",
+      "example": "Слово «domiciliar un recibo» полезно."
+    },
+    {
+      "word": "domiciliar un pago",
+      "translation": "domiciliar un pago",
+      "example": "Слово «domiciliar un pago» полезно."
+    },
+    {
+      "word": "hacer un ingreso",
+      "translation": "hacer un ingreso",
+      "example": "Слово «hacer un ingreso» полезно."
+    },
+    {
+      "word": "hacer una transferencia bancaria",
+      "translation": "hacer una transferencia bancaria",
+      "example": "Слово «hacer una transferencia bancaria» полезно."
+    },
+    {
+      "word": "ingresar dinero",
+      "translation": "ingresar dinero",
+      "example": "Слово «ingresar dinero» полезно."
+    },
+    {
+      "word": "retirar dinero",
+      "translation": "retirar dinero",
+      "example": "Слово «retirar dinero» полезно."
+    },
+    {
+      "word": "cobrar un cheque",
+      "translation": "cobrar un cheque",
+      "example": "Слово «cobrar un cheque» полезно."
+    },
+    {
+      "word": "firmar un cheque",
+      "translation": "firmar un cheque",
+      "example": "Слово «firmar un cheque» полезно."
+    },
+    {
+      "word": "compañía de seguros",
+      "translation": "compañía de seguros",
+      "example": "Слово «compañía de seguros» полезно."
+    },
+    {
+      "word": "cubrir un accidente",
+      "translation": "cubrir un accidente",
+      "example": "Слово «cubrir un accidente» полезно."
+    },
+    {
+      "word": "cubrir una prestación",
+      "translation": "cubrir una prestación",
+      "example": "Слово «cubrir una prestación» полезно."
+    },
+    {
+      "word": "policía municipal",
+      "translation": "policía municipal",
+      "example": "Слово «policía municipal» полезно."
+    },
+    {
+      "word": "policía de tráfico",
+      "translation": "policía de tráfico",
+      "example": "Слово «policía de tráfico» полезно."
+    },
+    {
+      "word": "inspector de policía",
+      "translation": "inspector de policía",
+      "example": "Слово «inspector de policía» полезно."
+    },
+    {
+      "word": "agente de policía",
+      "translation": "agente de policía",
+      "example": "Слово «agente de policía» полезно."
+    },
+    {
+      "word": "comisario",
+      "translation": "comisario",
+      "example": "Слово «comisario» полезно."
+    },
+    {
+      "word": "servicio de seguridad",
+      "translation": "servicio de seguridad",
+      "example": "Слово «servicio de seguridad» полезно."
+    },
+    {
+      "word": "sospechoso",
+      "translation": "sospechoso",
+      "example": "Слово «sospechoso» полезно."
+    },
+    {
+      "word": "secuestrador",
+      "translation": "secuestrador",
+      "example": "Слово «secuestrador» полезно."
+    },
+    {
+      "word": "banda de delincuentes",
+      "translation": "banda de delincuentes",
+      "example": "Слово «banda de delincuentes» полезно."
+    },
+    {
+      "word": "banda de criminales",
+      "translation": "banda de criminales",
+      "example": "Слово «banda de criminales» полезно."
+    },
+    {
+      "word": "vigilancia",
+      "translation": "vigilancia",
+      "example": "Слово «vigilancia» полезно."
+    },
+    {
+      "word": "protección",
+      "translation": "protección",
+      "example": "Слово «protección» полезно."
+    },
+    {
+      "word": "seguridad ciudadana",
+      "translation": "seguridad ciudadana",
+      "example": "Слово «seguridad ciudadana» полезно."
+    },
+    {
+      "word": "delito",
+      "translation": "delito",
+      "example": "Слово «delito» полезно."
+    },
+    {
+      "word": "violación",
+      "translation": "violación",
+      "example": "Слово «violación» полезно."
+    },
+    {
+      "word": "atraco",
+      "translation": "atraco",
+      "example": "Слово «atraco» полезно."
+    },
+    {
+      "word": "asesinato",
+      "translation": "asesinato",
+      "example": "Слово «asesinato» полезно."
+    },
+    {
+      "word": "secuestro",
+      "translation": "secuestro",
+      "example": "Слово «secuestro» полезно."
+    },
+    {
+      "word": "pista",
+      "translation": "pista",
+      "example": "Слово «pista» полезно."
+    },
+    {
+      "word": "coartada",
+      "translation": "coartada",
+      "example": "Слово «coartada» полезно."
+    },
+    {
+      "word": "huella",
+      "translation": "huella",
+      "example": "Слово «huella» полезно."
+    },
+    {
+      "word": "prueba",
+      "translation": "prueba",
+      "example": "Слово «prueba» полезно."
+    },
+    {
+      "word": "medida de seguridad",
+      "translation": "medida de seguridad",
+      "example": "Слово «medida de seguridad» полезно."
+    },
+    {
+      "word": "retrato robot",
+      "translation": "retrato robot",
+      "example": "Слово «retrato robot» полезно."
+    },
+    {
+      "word": "poner una denuncia",
+      "translation": "poner una denuncia",
+      "example": "Слово «poner una denuncia» полезно."
+    },
+    {
+      "word": "denunciar",
+      "translation": "denunciar",
+      "example": "Слово «denunciar» полезно."
+    },
+    {
+      "word": "seguir una pista",
+      "translation": "seguir una pista",
+      "example": "Слово «seguir una pista» полезно."
+    },
+    {
+      "word": "encontrar una pista",
+      "translation": "encontrar una pista",
+      "example": "Слово «encontrar una pista» полезно."
+    },
+    {
+      "word": "detener a un sospechoso",
+      "translation": "detener a un sospechoso",
+      "example": "Слово «detener a un sospechoso» полезно."
+    },
+    {
+      "word": "detener a un delincuente",
+      "translation": "detener a un delincuente",
+      "example": "Слово «detener a un delincuente» полезно."
+    },
+    {
+      "word": "interrogar a un sospechoso",
+      "translation": "interrogar a un sospechoso",
+      "example": "Слово «interrogar a un sospechoso» полезно."
+    },
+    {
+      "word": "interrogar a un delincuente",
+      "translation": "interrogar a un delincuente",
+      "example": "Слово «interrogar a un delincuente» полезно."
+    },
+    {
+      "word": "confesar",
+      "translation": "confesar",
+      "example": "Слово «confesar» полезно."
+    },
+    {
+      "word": "asistente social",
+      "translation": "asistente social",
+      "example": "Слово «asistente social» полезно."
+    },
+    {
+      "word": "trabajador social",
+      "translation": "trabajador social",
+      "example": "Слово «trabajador social» полезно."
+    },
+    {
+      "word": "monitor de actividades",
+      "translation": "monitor de actividades",
+      "example": "Слово «monitor de actividades» полезно."
+    },
+    {
+      "word": "adaptación",
+      "translation": "adaptación",
+      "example": "Слово «adaptación» полезно."
+    },
+    {
+      "word": "integración",
+      "translation": "integración",
+      "example": "Слово «integración» полезно."
+    },
+    {
+      "word": "marginación",
+      "translation": "marginación",
+      "example": "Слово «marginación» полезно."
+    },
+    {
+      "word": "menores",
+      "translation": "menores",
+      "example": "Слово «menores» полезно."
+    },
+    {
+      "word": "inmigrantes",
+      "translation": "inmigrantes",
+      "example": "Слово «inmigrantes» полезно."
+    },
+    {
+      "word": "personas mayores",
+      "translation": "personas mayores",
+      "example": "Слово «personas mayores» полезно."
+    },
+    {
+      "word": "personas discapacitadas",
+      "translation": "personas discapacitadas",
+      "example": "Слово «personas discapacitadas» полезно."
+    },
+    {
+      "word": "personas sin recursos económicos",
+      "translation": "personas sin recursos económicos",
+      "example": "Слово «personas sin recursos económicos» полезно."
+    },
+    {
+      "word": "personas sin trabajo",
+      "translation": "personas sin trabajo",
+      "example": "Слово «personas sin trabajo» полезно."
+    },
+    {
+      "word": "personas sin hogar",
+      "translation": "personas sin hogar",
+      "example": "Слово «personas sin hogar» полезно."
+    },
+    {
+      "word": "personas en paro",
+      "translation": "personas en paro",
+      "example": "Слово «personas en paro» полезно."
+    },
+    {
+      "word": "marginación",
+      "translation": "marginación",
+      "example": "Слово «marginación» полезно."
+    },
+    {
+      "word": "desempleo",
+      "translation": "desempleo",
+      "example": "Слово «desempleo» полезно."
+    },
+    {
+      "word": "vejez",
+      "translation": "vejez",
+      "example": "Слово «vejez» полезно."
+    },
+    {
+      "word": "inmigración",
+      "translation": "inmigración",
+      "example": "Слово «inmigración» полезно."
+    },
+    {
+      "word": "tercera edad",
+      "translation": "tercera edad",
+      "example": "Слово «tercera edad» полезно."
+    },
+    {
+      "word": "oficina del INEM",
+      "translation": "oficina del INEM",
+      "example": "Слово «oficina del INEM» полезно."
+    },
+    {
+      "word": "apoyar",
+      "translation": "apoyar",
+      "example": "Слово «apoyar» полезно."
+    },
+    {
+      "word": "cooperar",
+      "translation": "cooperar",
+      "example": "Слово «cooperar» полезно."
+    },
+    {
+      "word": "colaborar",
+      "translation": "colaborar",
+      "example": "Слово «colaborar» полезно."
+    },
+    {
+      "word": "perder el empleo de forma temporal",
+      "translation": "perder el empleo de forma temporal",
+      "example": "Слово «perder el empleo de forma temporal» полезно."
+    },
+    {
+      "word": "perder el empleo de forma indefinida",
+      "translation": "perder el empleo de forma indefinida",
+      "example": "Слово «perder el empleo de forma indefinida» полезно."
+    },
+    {
+      "word": "cotizar a la Seguridad Social",
+      "translation": "cotizar a la Seguridad Social",
+      "example": "Слово «cotizar a la Seguridad Social» полезно."
+    },
+    {
+      "word": "cobrar el subsidio de desempleo",
+      "translation": "cobrar el subsidio de desempleo",
+      "example": "Слово «cobrar el subsidio de desempleo» полезно."
+    },
+    {
+      "word": "farola",
+      "translation": "farola",
+      "example": "Слово «farola» полезно."
+    },
+    {
+      "word": "contenedor de basuras",
+      "translation": "contenedor de basuras",
+      "example": "Слово «contenedor de basuras» полезно."
+    },
+    {
+      "word": "contenedor de vidrio",
+      "translation": "contenedor de vidrio",
+      "example": "Слово «contenedor de vidrio» полезно."
+    },
+    {
+      "word": "contenedor de papel",
+      "translation": "contenedor de papel",
+      "example": "Слово «contenedor de papel» полезно."
+    },
+    {
+      "word": "contenedor de plástico",
+      "translation": "contenedor de plástico",
+      "example": "Слово «contenedor de plástico» полезно."
+    },
+    {
+      "word": "compañía eléctrica",
+      "translation": "compañía eléctrica",
+      "example": "Слово «compañía eléctrica» полезно."
+    },
+    {
+      "word": "compañía telefónica",
+      "translation": "compañía telefónica",
+      "example": "Слово «compañía telefónica» полезно."
+    },
+    {
+      "word": "compañía de gas",
+      "translation": "compañía de gas",
+      "example": "Слово «compañía de gas» полезно."
+    },
+    {
+      "word": "compañía de agua",
+      "translation": "compañía de agua",
+      "example": "Слово «compañía de agua» полезно."
+    },
+    {
+      "word": "servicio de limpieza",
+      "translation": "servicio de limpieza",
+      "example": "Слово «servicio de limpieza» полезно."
+    },
+    {
+      "word": "servicio de recogida de basura",
+      "translation": "servicio de recogida de basura",
+      "example": "Слово «servicio de recogida de basura» полезно."
+    },
+    {
+      "word": "recoger la basura",
+      "translation": "recoger la basura",
+      "example": "Слово «recoger la basura» полезно."
+    },
+    {
+      "word": "barrer las calles",
+      "translation": "barrer las calles",
+      "example": "Слово «barrer las calles» полезно."
+    },
+    {
+      "word": "regar los jardines",
+      "translation": "regar los jardines",
+      "example": "Слово «regar los jardines» полезно."
+    },
+    {
+      "word": "regar las zonas verdes",
+      "translation": "regar las zonas verdes",
+      "example": "Слово «regar las zonas verdes» полезно."
+    },
+    {
+      "word": "llegar la factura del agua",
+      "translation": "llegar la factura del agua",
+      "example": "Слово «llegar la factura del agua» полезно."
+    },
+    {
+      "word": "llegar la factura de la luz",
+      "translation": "llegar la factura de la luz",
+      "example": "Слово «llegar la factura de la luz» полезно."
+    },
+    {
+      "word": "llegar el recibo del agua",
+      "translation": "llegar el recibo del agua",
+      "example": "Слово «llegar el recibo del agua» полезно."
+    },
+    {
+      "word": "llegar el recibo de la luz",
+      "translation": "llegar el recibo de la luz",
+      "example": "Слово «llegar el recibo de la luz» полезно."
+    },
+    {
+      "word": "pagar la factura del agua",
+      "translation": "pagar la factura del agua",
+      "example": "Слово «pagar la factura del agua» полезно."
+    },
+    {
+      "word": "pagar la factura de la luz",
+      "translation": "pagar la factura de la luz",
+      "example": "Слово «pagar la factura de la luz» полезно."
+    },
+    {
+      "word": "pagar el recibo del agua",
+      "translation": "pagar el recibo del agua",
+      "example": "Слово «pagar el recibo del agua» полезно."
+    },
+    {
+      "word": "pagar el recibo de la luz",
+      "translation": "pagar el recibo de la luz",
+      "example": "Слово «pagar el recibo de la luz» полезно."
+    },
+    {
+      "word": "deber la factura del agua",
+      "translation": "deber la factura del agua",
+      "example": "Слово «deber la factura del agua» полезно."
+    },
+    {
+      "word": "deber la factura de la luz",
+      "translation": "deber la factura de la luz",
+      "example": "Слово «deber la factura de la luz» полезно."
+    },
+    {
+      "word": "deber el recibo del agua",
+      "translation": "deber el recibo del agua",
+      "example": "Слово «deber el recibo del agua» полезно."
+    },
+    {
+      "word": "deber el recibo de la luz",
+      "translation": "deber el recibo de la luz",
+      "example": "Слово «deber el recibo de la luz» полезно."
+    },
+    {
+      "word": "cobrar la factura del agua",
+      "translation": "cobrar la factura del agua",
+      "example": "Слово «cobrar la factura del agua» полезно."
+    },
+    {
+      "word": "cobrar la factura de la luz",
+      "translation": "cobrar la factura de la luz",
+      "example": "Слово «cobrar la factura de la luz» полезно."
+    },
+    {
+      "word": "cobrar el recibo del agua",
+      "translation": "cobrar el recibo del agua",
+      "example": "Слово «cobrar el recibo del agua» полезно."
+    },
+    {
+      "word": "cobrar el recibo de la luz",
+      "translation": "cobrar el recibo de la luz",
+      "example": "Слово «cobrar el recibo de la luz» полезно."
+    }
+  ]
+}

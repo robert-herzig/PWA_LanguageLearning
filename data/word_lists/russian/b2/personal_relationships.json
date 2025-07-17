@@ -1,0 +1,525 @@
+{
+  "topic": "Personal Relationships",
+  "words": [
+    {
+      "word": "cónyuge",
+      "translation": "cónyuge",
+      "example": "Слово «cónyuge» полезно."
+    },
+    {
+      "word": "cuñado",
+      "translation": "cuñado",
+      "example": "Слово «cuñado» полезно."
+    },
+    {
+      "word": "suegro",
+      "translation": "suegro",
+      "example": "Слово «suegro» полезно."
+    },
+    {
+      "word": "yerno",
+      "translation": "yerno",
+      "example": "Слово «yerno» полезно."
+    },
+    {
+      "word": "nuera",
+      "translation": "nuera",
+      "example": "Слово «nuera» полезно."
+    },
+    {
+      "word": "bisabuelo",
+      "translation": "bisabuelo",
+      "example": "Слово «bisabuelo» полезно."
+    },
+    {
+      "word": "tatarabuelo",
+      "translation": "tatarabuelo",
+      "example": "Слово «tatarabuelo» полезно."
+    },
+    {
+      "word": "mellizos",
+      "translation": "mellizos",
+      "example": "Слово «mellizos» полезно."
+    },
+    {
+      "word": "trillizos",
+      "translation": "trillizos",
+      "example": "Слово «trillizos» полезно."
+    },
+    {
+      "word": "madre de alquiler",
+      "translation": "madre de alquiler",
+      "example": "Слово «madre de alquiler» полезно."
+    },
+    {
+      "word": "niño probeta",
+      "translation": "niño probeta",
+      "example": "Слово «niño probeta» полезно."
+    },
+    {
+      "word": "familiar cercano",
+      "translation": "familiar cercano",
+      "example": "Слово «familiar cercano» полезно."
+    },
+    {
+      "word": "familiar lejano",
+      "translation": "familiar lejano",
+      "example": "Слово «familiar lejano» полезно."
+    },
+    {
+      "word": "familia numerosa",
+      "translation": "familia numerosa",
+      "example": "Слово «familia numerosa» полезно."
+    },
+    {
+      "word": "familia adoptiva",
+      "translation": "familia adoptiva",
+      "example": "Слово «familia adoptiva» полезно."
+    },
+    {
+      "word": "padre adoptivo",
+      "translation": "padre adoptivo",
+      "example": "Слово «padre adoptivo» полезно."
+    },
+    {
+      "word": "hijo adoptivo",
+      "translation": "hijo adoptivo",
+      "example": "Слово «hijo adoptivo» полезно."
+    },
+    {
+      "word": "niño huérfano",
+      "translation": "niño huérfano",
+      "example": "Слово «niño huérfano» полезно."
+    },
+    {
+      "word": "maternidad",
+      "translation": "maternidad",
+      "example": "Слово «maternidad» полезно."
+    },
+    {
+      "word": "paternidad",
+      "translation": "paternidad",
+      "example": "Слово «paternidad» полезно."
+    },
+    {
+      "word": "ser de familia",
+      "translation": "ser de familia",
+      "example": "Слово «ser de familia» полезно."
+    },
+    {
+      "word": "amigo íntimo",
+      "translation": "amigo íntimo",
+      "example": "Слово «amigo íntimo» полезно."
+    },
+    {
+      "word": "amigo de toda la vida",
+      "translation": "amigo de toda la vida",
+      "example": "Слово «amigo de toda la vida» полезно."
+    },
+    {
+      "word": "antiguo amigo",
+      "translation": "antiguo amigo",
+      "example": "Слово «antiguo amigo» полезно."
+    },
+    {
+      "word": "viejo amigo",
+      "translation": "viejo amigo",
+      "example": "Слово «viejo amigo» полезно."
+    },
+    {
+      "word": "íntimo amigo",
+      "translation": "íntimo amigo",
+      "example": "Слово «íntimo amigo» полезно."
+    },
+    {
+      "word": "miembro",
+      "translation": "miembro",
+      "example": "Слово «miembro» полезно."
+    },
+    {
+      "word": "invitado",
+      "translation": "invitado",
+      "example": "Слово «invitado» полезно."
+    },
+    {
+      "word": "enemigo",
+      "translation": "enemigo",
+      "example": "Слово «enemigo» полезно."
+    },
+    {
+      "word": "relación amorosa",
+      "translation": "relación amorosa",
+      "example": "Слово «relación amorosa» полезно."
+    },
+    {
+      "word": "relación amistosa",
+      "translation": "relación amistosa",
+      "example": "Слово «relación amistosa» полезно."
+    },
+    {
+      "word": "relación laboral",
+      "translation": "relación laboral",
+      "example": "Слово «relación laboral» полезно."
+    },
+    {
+      "word": "relación personal",
+      "translation": "relación personal",
+      "example": "Слово «relación personal» полезно."
+    },
+    {
+      "word": "relación profesional",
+      "translation": "relación profesional",
+      "example": "Слово «relación profesional» полезно."
+    },
+    {
+      "word": "relación sentimental",
+      "translation": "relación sentimental",
+      "example": "Слово «relación sentimental» полезно."
+    },
+    {
+      "word": "reunión de vecinos",
+      "translation": "reunión de vecinos",
+      "example": "Слово «reunión de vecinos» полезно."
+    },
+    {
+      "word": "reunión de socios",
+      "translation": "reunión de socios",
+      "example": "Слово «reunión de socios» полезно."
+    },
+    {
+      "word": "reunión de antiguos alumnos",
+      "translation": "reunión de antiguos alumnos",
+      "example": "Слово «reunión de antiguos alumnos» полезно."
+    },
+    {
+      "word": "tener un lío",
+      "translation": "tener un lío",
+      "example": "Слово «tener un lío» полезно."
+    },
+    {
+      "word": "tener un romance",
+      "translation": "tener un romance",
+      "example": "Слово «tener un romance» полезно."
+    },
+    {
+      "word": "tener un amante",
+      "translation": "tener un amante",
+      "example": "Слово «tener un amante» полезно."
+    },
+    {
+      "word": "tener un ligue",
+      "translation": "tener un ligue",
+      "example": "Слово «tener un ligue» полезно."
+    },
+    {
+      "word": "conocerse de vista",
+      "translation": "conocerse de vista",
+      "example": "Слово «conocerse de vista» полезно."
+    },
+    {
+      "word": "conocerse bien",
+      "translation": "conocerse bien",
+      "example": "Слово «conocerse bien» полезно."
+    },
+    {
+      "word": "conocerse por casualidad",
+      "translation": "conocerse por casualidad",
+      "example": "Слово «conocerse por casualidad» полезно."
+    },
+    {
+      "word": "relacionarse con",
+      "translation": "relacionarse con",
+      "example": "Слово «relacionarse con» полезно."
+    },
+    {
+      "word": "tratar con",
+      "translation": "tratar con",
+      "example": "Слово «tratar con» полезно."
+    },
+    {
+      "word": "nacimiento",
+      "translation": "nacimiento",
+      "example": "Слово «nacimiento» полезно."
+    },
+    {
+      "word": "bautizo",
+      "translation": "bautizo",
+      "example": "Слово «bautizo» полезно."
+    },
+    {
+      "word": "primera comunión",
+      "translation": "primera comunión",
+      "example": "Слово «primera comunión» полезно."
+    },
+    {
+      "word": "santo",
+      "translation": "santo",
+      "example": "Слово «santo» полезно."
+    },
+    {
+      "word": "aniversario",
+      "translation": "aniversario",
+      "example": "Слово «aniversario» полезно."
+    },
+    {
+      "word": "bodas de oro",
+      "translation": "bodas de oro",
+      "example": "Слово «bodas de oro» полезно."
+    },
+    {
+      "word": "bodas de plata",
+      "translation": "bodas de plata",
+      "example": "Слово «bodas de plata» полезно."
+    },
+    {
+      "word": "ceremonia",
+      "translation": "ceremonia",
+      "example": "Слово «ceremonia» полезно."
+    },
+    {
+      "word": "banquete",
+      "translation": "banquete",
+      "example": "Слово «banquete» полезно."
+    },
+    {
+      "word": "marcha nupcial",
+      "translation": "marcha nupcial",
+      "example": "Слово «marcha nupcial» полезно."
+    },
+    {
+      "word": "tarta nupcial",
+      "translation": "tarta nupcial",
+      "example": "Слово «tarta nupcial» полезно."
+    },
+    {
+      "word": "suite nupcial",
+      "translation": "suite nupcial",
+      "example": "Слово «suite nupcial» полезно."
+    },
+    {
+      "word": "fiesta nacional",
+      "translation": "fiesta nacional",
+      "example": "Слово «fiesta nacional» полезно."
+    },
+    {
+      "word": "fiesta local",
+      "translation": "fiesta local",
+      "example": "Слово «fiesta local» полезно."
+    },
+    {
+      "word": "fiesta religiosa",
+      "translation": "fiesta religiosa",
+      "example": "Слово «fiesta religiosa» полезно."
+    },
+    {
+      "word": "fiesta oficial",
+      "translation": "fiesta oficial",
+      "example": "Слово «fiesta oficial» полезно."
+    },
+    {
+      "word": "celebración",
+      "translation": "celebración",
+      "example": "Слово «celebración» полезно."
+    },
+    {
+      "word": "acto oficial",
+      "translation": "acto oficial",
+      "example": "Слово «acto oficial» полезно."
+    },
+    {
+      "word": "acto religioso",
+      "translation": "acto religioso",
+      "example": "Слово «acto religioso» полезно."
+    },
+    {
+      "word": "acto solemne",
+      "translation": "acto solemne",
+      "example": "Слово «acto solemne» полезно."
+    },
+    {
+      "word": "acto académico",
+      "translation": "acto académico",
+      "example": "Слово «acto académico» полезно."
+    },
+    {
+      "word": "ceremonia sencilla",
+      "translation": "ceremonia sencilla",
+      "example": "Слово «ceremonia sencilla» полезно."
+    },
+    {
+      "word": "acto sencillo",
+      "translation": "acto sencillo",
+      "example": "Слово «acto sencillo» полезно."
+    },
+    {
+      "word": "conducta prudente",
+      "translation": "conducta prudente",
+      "example": "Слово «conducta prudente» полезно."
+    },
+    {
+      "word": "conducta discriminatoria",
+      "translation": "conducta discriminatoria",
+      "example": "Слово «conducta discriminatoria» полезно."
+    },
+    {
+      "word": "comportamiento prudente",
+      "translation": "comportamiento prudente",
+      "example": "Слово «comportamiento prudente» полезно."
+    },
+    {
+      "word": "comportamiento discriminatorio",
+      "translation": "comportamiento discriminatorio",
+      "example": "Слово «comportamiento discriminatorio» полезно."
+    },
+    {
+      "word": "habilidad",
+      "translation": "habilidad",
+      "example": "Слово «habilidad» полезно."
+    },
+    {
+      "word": "cuidado",
+      "translation": "cuidado",
+      "example": "Слово «cuidado» полезно."
+    },
+    {
+      "word": "imprudencia",
+      "translation": "imprudencia",
+      "example": "Слово «imprudencia» полезно."
+    },
+    {
+      "word": "hablar bien de alguien",
+      "translation": "hablar bien de alguien",
+      "example": "Слово «hablar bien de alguien» полезно."
+    },
+    {
+      "word": "hablar mal de alguien",
+      "translation": "hablar mal de alguien",
+      "example": "Слово «hablar mal de alguien» полезно."
+    },
+    {
+      "word": "mostrar una actitud adecuada",
+      "translation": "mostrar una actitud adecuada",
+      "example": "Слово «mostrar una actitud adecuada» полезно."
+    },
+    {
+      "word": "mostrar una actitud injusta",
+      "translation": "mostrar una actitud injusta",
+      "example": "Слово «mostrar una actitud injusta» полезно."
+    },
+    {
+      "word": "mostrar un comportamiento adecuado",
+      "translation": "mostrar un comportamiento adecuado",
+      "example": "Слово «mostrar un comportamiento adecuado» полезно."
+    },
+    {
+      "word": "mostrar un comportamiento injusto",
+      "translation": "mostrar un comportamiento injusto",
+      "example": "Слово «mostrar un comportamiento injusto» полезно."
+    },
+    {
+      "word": "tener una actitud adecuada",
+      "translation": "tener una actitud adecuada",
+      "example": "Слово «tener una actitud adecuada» полезно."
+    },
+    {
+      "word": "tener una actitud injusta",
+      "translation": "tener una actitud injusta",
+      "example": "Слово «tener una actitud injusta» полезно."
+    },
+    {
+      "word": "tener un comportamiento adecuado",
+      "translation": "tener un comportamiento adecuado",
+      "example": "Слово «tener un comportamiento adecuado» полезно."
+    },
+    {
+      "word": "tener un comportamiento injusto",
+      "translation": "tener un comportamiento injusto",
+      "example": "Слово «tener un comportamiento injusto» полезно."
+    },
+    {
+      "word": "comportarse bien",
+      "translation": "comportarse bien",
+      "example": "Слово «comportarse bien» полезно."
+    },
+    {
+      "word": "comportarse mal",
+      "translation": "comportarse mal",
+      "example": "Слово «comportarse mal» полезно."
+    },
+    {
+      "word": "comportarse fatal",
+      "translation": "comportarse fatal",
+      "example": "Слово «comportarse fatal» полезно."
+    },
+    {
+      "word": "dar apoyo",
+      "translation": "dar apoyo",
+      "example": "Слово «dar apoyo» полезно."
+    },
+    {
+      "word": "dar amistad",
+      "translation": "dar amistad",
+      "example": "Слово «dar amistad» полезно."
+    },
+    {
+      "word": "dar cariño",
+      "translation": "dar cariño",
+      "example": "Слово «dar cariño» полезно."
+    },
+    {
+      "word": "dar comprensión",
+      "translation": "dar comprensión",
+      "example": "Слово «dar comprensión» полезно."
+    },
+    {
+      "word": "mostrar apoyo",
+      "translation": "mostrar apoyo",
+      "example": "Слово «mostrar apoyo» полезно."
+    },
+    {
+      "word": "mostrar amistad",
+      "translation": "mostrar amistad",
+      "example": "Слово «mostrar amistad» полезно."
+    },
+    {
+      "word": "mostrar cariño",
+      "translation": "mostrar cariño",
+      "example": "Слово «mostrar cariño» полезно."
+    },
+    {
+      "word": "mostrar comprensión",
+      "translation": "mostrar comprensión",
+      "example": "Слово «mostrar comprensión» полезно."
+    },
+    {
+      "word": "mostrar confianza",
+      "translation": "mostrar confianza",
+      "example": "Слово «mostrar confianza» полезно."
+    },
+    {
+      "word": "mostrar respeto",
+      "translation": "mostrar respeto",
+      "example": "Слово «mostrar respeto» полезно."
+    },
+    {
+      "word": "sentir confianza",
+      "translation": "sentir confianza",
+      "example": "Слово «sentir confianza» полезно."
+    },
+    {
+      "word": "sentir respeto",
+      "translation": "sentir respeto",
+      "example": "Слово «sentir respeto» полезно."
+    },
+    {
+      "word": "tener confianza",
+      "translation": "tener confianza",
+      "example": "Слово «tener confianza» полезно."
+    },
+    {
+      "word": "tener respeto",
+      "translation": "tener respeto",
+      "example": "Слово «tener respeto» полезно."
+    }
+  ]
+}

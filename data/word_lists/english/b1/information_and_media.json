@@ -1,0 +1,740 @@
+{
+  "topic": "Information and Media",
+  "words": [
+    {
+      "word": "medios de comunicación",
+      "translation": "medios de comunicación",
+      "example": "The word \"medios de comunicación\" is useful."
+    },
+    {
+      "word": "medios de información",
+      "translation": "medios de información",
+      "example": "The word \"medios de información\" is useful."
+    },
+    {
+      "word": "noticia",
+      "translation": "noticia",
+      "example": "The word \"noticia\" is useful."
+    },
+    {
+      "word": "comentario",
+      "translation": "comentario",
+      "example": "The word \"comentario\" is useful."
+    },
+    {
+      "word": "opinión",
+      "translation": "opinión",
+      "example": "The word \"opinión\" is useful."
+    },
+    {
+      "word": "informar",
+      "translation": "informar",
+      "example": "The word \"informar\" is useful."
+    },
+    {
+      "word": "dar información",
+      "translation": "dar información",
+      "example": "The word \"dar información\" is useful."
+    },
+    {
+      "word": "tener información",
+      "translation": "tener información",
+      "example": "The word \"tener información\" is useful."
+    },
+    {
+      "word": "dar una noticia",
+      "translation": "dar una noticia",
+      "example": "The word \"dar una noticia\" is useful."
+    },
+    {
+      "word": "estar bien informado",
+      "translation": "estar bien informado",
+      "example": "The word \"estar bien informado\" is useful."
+    },
+    {
+      "word": "estar mal informado",
+      "translation": "estar mal informado",
+      "example": "The word \"estar mal informado\" is useful."
+    },
+    {
+      "word": "mantenerse bien informado",
+      "translation": "mantenerse bien informado",
+      "example": "The word \"mantenerse bien informado\" is useful."
+    },
+    {
+      "word": "mantenerse mal informado",
+      "translation": "mantenerse mal informado",
+      "example": "The word \"mantenerse mal informado\" is useful."
+    },
+    {
+      "word": "dejar un recado",
+      "translation": "dejar un recado",
+      "example": "The word \"dejar un recado\" is useful."
+    },
+    {
+      "word": "dejar un mensaje",
+      "translation": "dejar un mensaje",
+      "example": "The word \"dejar un mensaje\" is useful."
+    },
+    {
+      "word": "comunicarse con alguien por carta",
+      "translation": "comunicarse con alguien por carta",
+      "example": "The word \"comunicarse con alguien por carta\" is useful."
+    },
+    {
+      "word": "comunicarse con alguien por correo electrónico",
+      "translation": "comunicarse con alguien por correo electrónico",
+      "example": "The word \"comunicarse con alguien por correo electrónico\" is useful."
+    },
+    {
+      "word": "comunicarse con alguien por teléfono",
+      "translation": "comunicarse con alguien por teléfono",
+      "example": "The word \"comunicarse con alguien por teléfono\" is useful."
+    },
+    {
+      "word": "comunicarse con alguien por correo",
+      "translation": "comunicarse con alguien por correo",
+      "example": "The word \"comunicarse con alguien por correo\" is useful."
+    },
+    {
+      "word": "cortar la comunicación",
+      "translation": "cortar la comunicación",
+      "example": "The word \"cortar la comunicación\" is useful."
+    },
+    {
+      "word": "cortarse la comunicación",
+      "translation": "cortarse la comunicación",
+      "example": "The word \"cortarse la comunicación\" is useful."
+    },
+    {
+      "word": "buzón",
+      "translation": "buzón",
+      "example": "The word \"buzón\" is useful."
+    },
+    {
+      "word": "remitente",
+      "translation": "remitente",
+      "example": "The word \"remitente\" is useful."
+    },
+    {
+      "word": "destinatario",
+      "translation": "destinatario",
+      "example": "The word \"destinatario\" is useful."
+    },
+    {
+      "word": "apartado de correos",
+      "translation": "apartado de correos",
+      "example": "The word \"apartado de correos\" is useful."
+    },
+    {
+      "word": "posdata",
+      "translation": "posdata",
+      "example": "The word \"posdata\" is useful."
+    },
+    {
+      "word": "firma",
+      "translation": "firma",
+      "example": "The word \"firma\" is useful."
+    },
+    {
+      "word": "saludo",
+      "translation": "saludo",
+      "example": "The word \"saludo\" is useful."
+    },
+    {
+      "word": "despedida",
+      "translation": "despedida",
+      "example": "The word \"despedida\" is useful."
+    },
+    {
+      "word": "carta formal",
+      "translation": "carta formal",
+      "example": "The word \"carta formal\" is useful."
+    },
+    {
+      "word": "carta personal",
+      "translation": "carta personal",
+      "example": "The word \"carta personal\" is useful."
+    },
+    {
+      "word": "cerrar un sobre",
+      "translation": "cerrar un sobre",
+      "example": "The word \"cerrar un sobre\" is useful."
+    },
+    {
+      "word": "echar una carta",
+      "translation": "echar una carta",
+      "example": "The word \"echar una carta\" is useful."
+    },
+    {
+      "word": "mandar por correo",
+      "translation": "mandar por correo",
+      "example": "The word \"mandar por correo\" is useful."
+    },
+    {
+      "word": "abrir el buzón",
+      "translation": "abrir el buzón",
+      "example": "The word \"abrir el buzón\" is useful."
+    },
+    {
+      "word": "contestador automático",
+      "translation": "contestador automático",
+      "example": "The word \"contestador automático\" is useful."
+    },
+    {
+      "word": "buzón de voz",
+      "translation": "buzón de voz",
+      "example": "The word \"buzón de voz\" is useful."
+    },
+    {
+      "word": "llamada",
+      "translation": "llamada",
+      "example": "The word \"llamada\" is useful."
+    },
+    {
+      "word": "línea ocupada",
+      "translation": "línea ocupada",
+      "example": "The word \"línea ocupada\" is useful."
+    },
+    {
+      "word": "prefijo",
+      "translation": "prefijo",
+      "example": "The word \"prefijo\" is useful."
+    },
+    {
+      "word": "extensión",
+      "translation": "extensión",
+      "example": "The word \"extensión\" is useful."
+    },
+    {
+      "word": "batería de teléfono",
+      "translation": "batería de teléfono",
+      "example": "The word \"batería de teléfono\" is useful."
+    },
+    {
+      "word": "tarjeta de teléfono",
+      "translation": "tarjeta de teléfono",
+      "example": "The word \"tarjeta de teléfono\" is useful."
+    },
+    {
+      "word": "conversación telefónica",
+      "translation": "conversación telefónica",
+      "example": "The word \"conversación telefónica\" is useful."
+    },
+    {
+      "word": "guía telefónica",
+      "translation": "guía telefónica",
+      "example": "The word \"guía telefónica\" is useful."
+    },
+    {
+      "word": "páginas amarillas",
+      "translation": "páginas amarillas",
+      "example": "The word \"páginas amarillas\" is useful."
+    },
+    {
+      "word": "marcar un número de teléfono",
+      "translation": "marcar un número de teléfono",
+      "example": "The word \"marcar un número de teléfono\" is useful."
+    },
+    {
+      "word": "descolgar el teléfono",
+      "translation": "descolgar el teléfono",
+      "example": "The word \"descolgar el teléfono\" is useful."
+    },
+    {
+      "word": "colgar el teléfono",
+      "translation": "colgar el teléfono",
+      "example": "The word \"colgar el teléfono\" is useful."
+    },
+    {
+      "word": "coger el teléfono",
+      "translation": "coger el teléfono",
+      "example": "The word \"coger el teléfono\" is useful."
+    },
+    {
+      "word": "contestar al teléfono",
+      "translation": "contestar al teléfono",
+      "example": "The word \"contestar al teléfono\" is useful."
+    },
+    {
+      "word": "ponerse al teléfono",
+      "translation": "ponerse al teléfono",
+      "example": "The word \"ponerse al teléfono\" is useful."
+    },
+    {
+      "word": "quedarse sin batería",
+      "translation": "quedarse sin batería",
+      "example": "The word \"quedarse sin batería\" is useful."
+    },
+    {
+      "word": "quedarse sin saldo",
+      "translation": "quedarse sin saldo",
+      "example": "The word \"quedarse sin saldo\" is useful."
+    },
+    {
+      "word": "hacer una llamada",
+      "translation": "hacer una llamada",
+      "example": "The word \"hacer una llamada\" is useful."
+    },
+    {
+      "word": "pasar una llamada",
+      "translation": "pasar una llamada",
+      "example": "The word \"pasar una llamada\" is useful."
+    },
+    {
+      "word": "devolver una llamada",
+      "translation": "devolver una llamada",
+      "example": "The word \"devolver una llamada\" is useful."
+    },
+    {
+      "word": "atender una llamada",
+      "translation": "atender una llamada",
+      "example": "The word \"atender una llamada\" is useful."
+    },
+    {
+      "word": "recibir una llamada",
+      "translation": "recibir una llamada",
+      "example": "The word \"recibir una llamada\" is useful."
+    },
+    {
+      "word": "desviar una llamada",
+      "translation": "desviar una llamada",
+      "example": "The word \"desviar una llamada\" is useful."
+    },
+    {
+      "word": "estar comunicando",
+      "translation": "estar comunicando",
+      "example": "The word \"estar comunicando\" is useful."
+    },
+    {
+      "word": "periodismo",
+      "translation": "periodismo",
+      "example": "The word \"periodismo\" is useful."
+    },
+    {
+      "word": "prensa",
+      "translation": "prensa",
+      "example": "The word \"prensa\" is useful."
+    },
+    {
+      "word": "editorial",
+      "translation": "editorial",
+      "example": "The word \"editorial\" is useful."
+    },
+    {
+      "word": "cartelera",
+      "translation": "cartelera",
+      "example": "The word \"cartelera\" is useful."
+    },
+    {
+      "word": "sección de economía",
+      "translation": "sección de economía",
+      "example": "The word \"sección de economía\" is useful."
+    },
+    {
+      "word": "sección de cultura",
+      "translation": "sección de cultura",
+      "example": "The word \"sección de cultura\" is useful."
+    },
+    {
+      "word": "sección de deportes",
+      "translation": "sección de deportes",
+      "example": "The word \"sección de deportes\" is useful."
+    },
+    {
+      "word": "agencia de prensa",
+      "translation": "agencia de prensa",
+      "example": "The word \"agencia de prensa\" is useful."
+    },
+    {
+      "word": "agencia de fotografía",
+      "translation": "agencia de fotografía",
+      "example": "The word \"agencia de fotografía\" is useful."
+    },
+    {
+      "word": "suplemento cultural",
+      "translation": "suplemento cultural",
+      "example": "The word \"suplemento cultural\" is useful."
+    },
+    {
+      "word": "suplemento de economía",
+      "translation": "suplemento de economía",
+      "example": "The word \"suplemento de economía\" is useful."
+    },
+    {
+      "word": "publicar una noticia",
+      "translation": "publicar una noticia",
+      "example": "The word \"publicar una noticia\" is useful."
+    },
+    {
+      "word": "publicar un reportaje",
+      "translation": "publicar un reportaje",
+      "example": "The word \"publicar un reportaje\" is useful."
+    },
+    {
+      "word": "publicar una entrevista",
+      "translation": "publicar una entrevista",
+      "example": "The word \"publicar una entrevista\" is useful."
+    },
+    {
+      "word": "publicar un artículo",
+      "translation": "publicar un artículo",
+      "example": "The word \"publicar un artículo\" is useful."
+    },
+    {
+      "word": "redactar una noticia",
+      "translation": "redactar una noticia",
+      "example": "The word \"redactar una noticia\" is useful."
+    },
+    {
+      "word": "redactar un reportaje",
+      "translation": "redactar un reportaje",
+      "example": "The word \"redactar un reportaje\" is useful."
+    },
+    {
+      "word": "redactar una entrevista",
+      "translation": "redactar una entrevista",
+      "example": "The word \"redactar una entrevista\" is useful."
+    },
+    {
+      "word": "redactar un artículo",
+      "translation": "redactar un artículo",
+      "example": "The word \"redactar un artículo\" is useful."
+    },
+    {
+      "word": "canal",
+      "translation": "canal",
+      "example": "The word \"canal\" is useful."
+    },
+    {
+      "word": "emisora",
+      "translation": "emisora",
+      "example": "The word \"emisora\" is useful."
+    },
+    {
+      "word": "locutor",
+      "translation": "locutor",
+      "example": "The word \"locutor\" is useful."
+    },
+    {
+      "word": "cadena pública",
+      "translation": "cadena pública",
+      "example": "The word \"cadena pública\" is useful."
+    },
+    {
+      "word": "cadena privada",
+      "translation": "cadena privada",
+      "example": "The word \"cadena privada\" is useful."
+    },
+    {
+      "word": "cadena regional",
+      "translation": "cadena regional",
+      "example": "The word \"cadena regional\" is useful."
+    },
+    {
+      "word": "cadena nacional",
+      "translation": "cadena nacional",
+      "example": "The word \"cadena nacional\" is useful."
+    },
+    {
+      "word": "canal público",
+      "translation": "canal público",
+      "example": "The word \"canal público\" is useful."
+    },
+    {
+      "word": "canal privado",
+      "translation": "canal privado",
+      "example": "The word \"canal privado\" is useful."
+    },
+    {
+      "word": "canal regional",
+      "translation": "canal regional",
+      "example": "The word \"canal regional\" is useful."
+    },
+    {
+      "word": "canal nacional",
+      "translation": "canal nacional",
+      "example": "The word \"canal nacional\" is useful."
+    },
+    {
+      "word": "capítulo",
+      "translation": "capítulo",
+      "example": "The word \"capítulo\" is useful."
+    },
+    {
+      "word": "episodio",
+      "translation": "episodio",
+      "example": "The word \"episodio\" is useful."
+    },
+    {
+      "word": "serie",
+      "translation": "serie",
+      "example": "The word \"serie\" is useful."
+    },
+    {
+      "word": "culebrón",
+      "translation": "culebrón",
+      "example": "The word \"culebrón\" is useful."
+    },
+    {
+      "word": "telenovela",
+      "translation": "telenovela",
+      "example": "The word \"telenovela\" is useful."
+    },
+    {
+      "word": "concurso",
+      "translation": "concurso",
+      "example": "The word \"concurso\" is useful."
+    },
+    {
+      "word": "debate",
+      "translation": "debate",
+      "example": "The word \"debate\" is useful."
+    },
+    {
+      "word": "documental",
+      "translation": "documental",
+      "example": "The word \"documental\" is useful."
+    },
+    {
+      "word": "telebasura",
+      "translation": "telebasura",
+      "example": "The word \"telebasura\" is useful."
+    },
+    {
+      "word": "programa de información general",
+      "translation": "programa de información general",
+      "example": "The word \"programa de información general\" is useful."
+    },
+    {
+      "word": "programa de información deportiva",
+      "translation": "programa de información deportiva",
+      "example": "The word \"programa de información deportiva\" is useful."
+    },
+    {
+      "word": "película en versión original",
+      "translation": "película en versión original",
+      "example": "The word \"película en versión original\" is useful."
+    },
+    {
+      "word": "película con subtítulos",
+      "translation": "película con subtítulos",
+      "example": "The word \"película con subtítulos\" is useful."
+    },
+    {
+      "word": "cambiar de canal",
+      "translation": "cambiar de canal",
+      "example": "The word \"cambiar de canal\" is useful."
+    },
+    {
+      "word": "cambiar de cadena",
+      "translation": "cambiar de cadena",
+      "example": "The word \"cambiar de cadena\" is useful."
+    },
+    {
+      "word": "cambiar de emisora",
+      "translation": "cambiar de emisora",
+      "example": "The word \"cambiar de emisora\" is useful."
+    },
+    {
+      "word": "consultar la programación",
+      "translation": "consultar la programación",
+      "example": "The word \"consultar la programación\" is useful."
+    },
+    {
+      "word": "contraseña",
+      "translation": "contraseña",
+      "example": "The word \"contraseña\" is useful."
+    },
+    {
+      "word": "nombre de usuario",
+      "translation": "nombre de usuario",
+      "example": "The word \"nombre de usuario\" is useful."
+    },
+    {
+      "word": "navegador",
+      "translation": "navegador",
+      "example": "The word \"navegador\" is useful."
+    },
+    {
+      "word": "buscador",
+      "translation": "buscador",
+      "example": "The word \"buscador\" is useful."
+    },
+    {
+      "word": "ratón",
+      "translation": "ratón",
+      "example": "The word \"ratón\" is useful."
+    },
+    {
+      "word": "programa",
+      "translation": "programa",
+      "example": "The word \"programa\" is useful."
+    },
+    {
+      "word": "antivirus",
+      "translation": "antivirus",
+      "example": "The word \"antivirus\" is useful."
+    },
+    {
+      "word": "línea ADSL",
+      "translation": "línea ADSL",
+      "example": "The word \"línea ADSL\" is useful."
+    },
+    {
+      "word": "buscar información",
+      "translation": "buscar información",
+      "example": "The word \"buscar información\" is useful."
+    },
+    {
+      "word": "buscar datos",
+      "translation": "buscar datos",
+      "example": "The word \"buscar datos\" is useful."
+    },
+    {
+      "word": "buscar imágenes",
+      "translation": "buscar imágenes",
+      "example": "The word \"buscar imágenes\" is useful."
+    },
+    {
+      "word": "buscar documentos",
+      "translation": "buscar documentos",
+      "example": "The word \"buscar documentos\" is useful."
+    },
+    {
+      "word": "intercambiar información",
+      "translation": "intercambiar información",
+      "example": "The word \"intercambiar información\" is useful."
+    },
+    {
+      "word": "intercambiar datos",
+      "translation": "intercambiar datos",
+      "example": "The word \"intercambiar datos\" is useful."
+    },
+    {
+      "word": "intercambiar imágenes",
+      "translation": "intercambiar imágenes",
+      "example": "The word \"intercambiar imágenes\" is useful."
+    },
+    {
+      "word": "intercambiar documentos",
+      "translation": "intercambiar documentos",
+      "example": "The word \"intercambiar documentos\" is useful."
+    },
+    {
+      "word": "colgar una fotografía en Internet",
+      "translation": "colgar una fotografía en Internet",
+      "example": "The word \"colgar una fotografía en Internet\" is useful."
+    },
+    {
+      "word": "colgar un documento en Internet",
+      "translation": "colgar un documento en Internet",
+      "example": "The word \"colgar un documento en Internet\" is useful."
+    },
+    {
+      "word": "colgar un texto en Internet",
+      "translation": "colgar un texto en Internet",
+      "example": "The word \"colgar un texto en Internet\" is useful."
+    },
+    {
+      "word": "consultar una página web",
+      "translation": "consultar una página web",
+      "example": "The word \"consultar una página web\" is useful."
+    },
+    {
+      "word": "consultar una página de Internet",
+      "translation": "consultar una página de Internet",
+      "example": "The word \"consultar una página de Internet\" is useful."
+    },
+    {
+      "word": "entrar en una página web",
+      "translation": "entrar en una página web",
+      "example": "The word \"entrar en una página web\" is useful."
+    },
+    {
+      "word": "entrar en una página de Internet",
+      "translation": "entrar en una página de Internet",
+      "example": "The word \"entrar en una página de Internet\" is useful."
+    },
+    {
+      "word": "acceder a una página web",
+      "translation": "acceder a una página web",
+      "example": "The word \"acceder a una página web\" is useful."
+    },
+    {
+      "word": "acceder a una página de Internet",
+      "translation": "acceder a una página de Internet",
+      "example": "The word \"acceder a una página de Internet\" is useful."
+    },
+    {
+      "word": "descargarse un programa",
+      "translation": "descargarse un programa",
+      "example": "The word \"descargarse un programa\" is useful."
+    },
+    {
+      "word": "descargarse un archivo",
+      "translation": "descargarse un archivo",
+      "example": "The word \"descargarse un archivo\" is useful."
+    },
+    {
+      "word": "descargarse música",
+      "translation": "descargarse música",
+      "example": "The word \"descargarse música\" is useful."
+    },
+    {
+      "word": "bajarse un programa",
+      "translation": "bajarse un programa",
+      "example": "The word \"bajarse un programa\" is useful."
+    },
+    {
+      "word": "bajarse un archivo",
+      "translation": "bajarse un archivo",
+      "example": "The word \"bajarse un archivo\" is useful."
+    },
+    {
+      "word": "bajarse música",
+      "translation": "bajarse música",
+      "example": "The word \"bajarse música\" is useful."
+    },
+    {
+      "word": "conectarse a Internet",
+      "translation": "conectarse a Internet",
+      "example": "The word \"conectarse a Internet\" is useful."
+    },
+    {
+      "word": "tener conexión a Internet",
+      "translation": "tener conexión a Internet",
+      "example": "The word \"tener conexión a Internet\" is useful."
+    },
+    {
+      "word": "abrir una cuenta de correo electrónico",
+      "translation": "abrir una cuenta de correo electrónico",
+      "example": "The word \"abrir una cuenta de correo electrónico\" is useful."
+    },
+    {
+      "word": "abrirse una cuenta de correo electrónico",
+      "translation": "abrirse una cuenta de correo electrónico",
+      "example": "The word \"abrirse una cuenta de correo electrónico\" is useful."
+    },
+    {
+      "word": "adjuntar un documento",
+      "translation": "adjuntar un documento",
+      "example": "The word \"adjuntar un documento\" is useful."
+    },
+    {
+      "word": "reenviar un documento",
+      "translation": "reenviar un documento",
+      "example": "The word \"reenviar un documento\" is useful."
+    },
+    {
+      "word": "poner una copia a alguien",
+      "translation": "poner una copia a alguien",
+      "example": "The word \"poner una copia a alguien\" is useful."
+    },
+    {
+      "word": "enviar una copia a alguien",
+      "translation": "enviar una copia a alguien",
+      "example": "The word \"enviar una copia a alguien\" is useful."
+    }
+  ]
+}

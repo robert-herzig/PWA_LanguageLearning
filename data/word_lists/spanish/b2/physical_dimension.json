@@ -1,0 +1,425 @@
+{
+  "topic": "Physical Dimension",
+  "words": [
+    {
+      "word": "frente",
+      "translation": "frente",
+      "example": "La palabra \"frente\" es útil."
+    },
+    {
+      "word": "mejilla",
+      "translation": "mejilla",
+      "example": "La palabra \"mejilla\" es útil."
+    },
+    {
+      "word": "barbilla",
+      "translation": "barbilla",
+      "example": "La palabra \"barbilla\" es útil."
+    },
+    {
+      "word": "ceja",
+      "translation": "ceja",
+      "example": "La palabra \"ceja\" es útil."
+    },
+    {
+      "word": "pestaña",
+      "translation": "pestaña",
+      "example": "La palabra \"pestaña\" es útil."
+    },
+    {
+      "word": "cana",
+      "translation": "cana",
+      "example": "La palabra \"cana\" es útil."
+    },
+    {
+      "word": "uña",
+      "translation": "uña",
+      "example": "La palabra \"uña\" es útil."
+    },
+    {
+      "word": "cerebro",
+      "translation": "cerebro",
+      "example": "La palabra \"cerebro\" es útil."
+    },
+    {
+      "word": "hígado",
+      "translation": "hígado",
+      "example": "La palabra \"hígado\" es útil."
+    },
+    {
+      "word": "riñón",
+      "translation": "riñón",
+      "example": "La palabra \"riñón\" es útil."
+    },
+    {
+      "word": "intestino",
+      "translation": "intestino",
+      "example": "La palabra \"intestino\" es útil."
+    },
+    {
+      "word": "esqueleto",
+      "translation": "esqueleto",
+      "example": "La palabra \"esqueleto\" es útil."
+    },
+    {
+      "word": "columna",
+      "translation": "columna",
+      "example": "La palabra \"columna\" es útil."
+    },
+    {
+      "word": "costilla",
+      "translation": "costilla",
+      "example": "La palabra \"costilla\" es útil."
+    },
+    {
+      "word": "nervio",
+      "translation": "nervio",
+      "example": "La palabra \"nervio\" es útil."
+    },
+    {
+      "word": "articulación",
+      "translation": "articulación",
+      "example": "La palabra \"articulación\" es útil."
+    },
+    {
+      "word": "arteria",
+      "translation": "arteria",
+      "example": "La palabra \"arteria\" es útil."
+    },
+    {
+      "word": "tendón",
+      "translation": "tendón",
+      "example": "La palabra \"tendón\" es útil."
+    },
+    {
+      "word": "ciego",
+      "translation": "ciego",
+      "example": "La palabra \"ciego\" es útil."
+    },
+    {
+      "word": "sordo",
+      "translation": "sordo",
+      "example": "La palabra \"sordo\" es útil."
+    },
+    {
+      "word": "mudo",
+      "translation": "mudo",
+      "example": "La palabra \"mudo\" es útil."
+    },
+    {
+      "word": "saliva",
+      "translation": "saliva",
+      "example": "La palabra \"saliva\" es útil."
+    },
+    {
+      "word": "lágrima",
+      "translation": "lágrima",
+      "example": "La palabra \"lágrima\" es útil."
+    },
+    {
+      "word": "sudor",
+      "translation": "sudor",
+      "example": "La palabra \"sudor\" es útil."
+    },
+    {
+      "word": "gesto",
+      "translation": "gesto",
+      "example": "La palabra \"gesto\" es útil."
+    },
+    {
+      "word": "expresión",
+      "translation": "expresión",
+      "example": "La palabra \"expresión\" es útil."
+    },
+    {
+      "word": "ser de estatura normal",
+      "translation": "ser de estatura normal",
+      "example": "La palabra \"ser de estatura normal\" es útil."
+    },
+    {
+      "word": "ser de estatura media",
+      "translation": "ser de estatura media",
+      "example": "La palabra \"ser de estatura media\" es útil."
+    },
+    {
+      "word": "ser de estatura mediana",
+      "translation": "ser de estatura mediana",
+      "example": "La palabra \"ser de estatura mediana\" es útil."
+    },
+    {
+      "word": "ser de altura normal",
+      "translation": "ser de altura normal",
+      "example": "La palabra \"ser de altura normal\" es útil."
+    },
+    {
+      "word": "ser de altura media",
+      "translation": "ser de altura media",
+      "example": "La palabra \"ser de altura media\" es útil."
+    },
+    {
+      "word": "ser de altura mediana",
+      "translation": "ser de altura mediana",
+      "example": "La palabra \"ser de altura mediana\" es útil."
+    },
+    {
+      "word": "tener arrugas",
+      "translation": "tener arrugas",
+      "example": "La palabra \"tener arrugas\" es útil."
+    },
+    {
+      "word": "tener una cicatriz",
+      "translation": "tener una cicatriz",
+      "example": "La palabra \"tener una cicatriz\" es útil."
+    },
+    {
+      "word": "tener buen color",
+      "translation": "tener buen color",
+      "example": "La palabra \"tener buen color\" es útil."
+    },
+    {
+      "word": "tener mal color",
+      "translation": "tener mal color",
+      "example": "La palabra \"tener mal color\" es útil."
+    },
+    {
+      "word": "tener buen aspecto",
+      "translation": "tener buen aspecto",
+      "example": "La palabra \"tener buen aspecto\" es útil."
+    },
+    {
+      "word": "tener mal aspecto",
+      "translation": "tener mal aspecto",
+      "example": "La palabra \"tener mal aspecto\" es útil."
+    },
+    {
+      "word": "ser clavados",
+      "translation": "ser clavados",
+      "example": "La palabra \"ser clavados\" es útil."
+    },
+    {
+      "word": "ser idénticos",
+      "translation": "ser idénticos",
+      "example": "La palabra \"ser idénticos\" es útil."
+    },
+    {
+      "word": "ser como dos gotas de agua",
+      "translation": "ser como dos gotas de agua",
+      "example": "La palabra \"ser como dos gotas de agua\" es útil."
+    },
+    {
+      "word": "tumbarse",
+      "translation": "tumbarse",
+      "example": "La palabra \"tumbarse\" es útil."
+    },
+    {
+      "word": "tirarse",
+      "translation": "tirarse",
+      "example": "La palabra \"tirarse\" es útil."
+    },
+    {
+      "word": "incorporarse",
+      "translation": "incorporarse",
+      "example": "La palabra \"incorporarse\" es útil."
+    },
+    {
+      "word": "alzarse",
+      "translation": "alzarse",
+      "example": "La palabra \"alzarse\" es útil."
+    },
+    {
+      "word": "agacharse",
+      "translation": "agacharse",
+      "example": "La palabra \"agacharse\" es útil."
+    },
+    {
+      "word": "cruzar los brazos",
+      "translation": "cruzar los brazos",
+      "example": "La palabra \"cruzar los brazos\" es útil."
+    },
+    {
+      "word": "cruzar las piernas",
+      "translation": "cruzar las piernas",
+      "example": "La palabra \"cruzar las piernas\" es útil."
+    },
+    {
+      "word": "estar agachado",
+      "translation": "estar agachado",
+      "example": "La palabra \"estar agachado\" es útil."
+    },
+    {
+      "word": "estar derecho",
+      "translation": "estar derecho",
+      "example": "La palabra \"estar derecho\" es útil."
+    },
+    {
+      "word": "ponerse de pie",
+      "translation": "ponerse de pie",
+      "example": "La palabra \"ponerse de pie\" es útil."
+    },
+    {
+      "word": "ponerse de espaldas",
+      "translation": "ponerse de espaldas",
+      "example": "La palabra \"ponerse de espaldas\" es útil."
+    },
+    {
+      "word": "ponerse de perfil",
+      "translation": "ponerse de perfil",
+      "example": "La palabra \"ponerse de perfil\" es útil."
+    },
+    {
+      "word": "ponerse de frente",
+      "translation": "ponerse de frente",
+      "example": "La palabra \"ponerse de frente\" es útil."
+    },
+    {
+      "word": "ponerse de rodillas",
+      "translation": "ponerse de rodillas",
+      "example": "La palabra \"ponerse de rodillas\" es útil."
+    },
+    {
+      "word": "quedarse quieto",
+      "translation": "quedarse quieto",
+      "example": "La palabra \"quedarse quieto\" es útil."
+    },
+    {
+      "word": "quedarse dormido",
+      "translation": "quedarse dormido",
+      "example": "La palabra \"quedarse dormido\" es útil."
+    },
+    {
+      "word": "quedarse agachado",
+      "translation": "quedarse agachado",
+      "example": "La palabra \"quedarse agachado\" es útil."
+    },
+    {
+      "word": "quedarse de espaldas",
+      "translation": "quedarse de espaldas",
+      "example": "La palabra \"quedarse de espaldas\" es útil."
+    },
+    {
+      "word": "quedarse de rodillas",
+      "translation": "quedarse de rodillas",
+      "example": "La palabra \"quedarse de rodillas\" es útil."
+    },
+    {
+      "word": "rascarse",
+      "translation": "rascarse",
+      "example": "La palabra \"rascarse\" es útil."
+    },
+    {
+      "word": "arañar",
+      "translation": "arañar",
+      "example": "La palabra \"arañar\" es útil."
+    },
+    {
+      "word": "acariciar",
+      "translation": "acariciar",
+      "example": "La palabra \"acariciar\" es útil."
+    },
+    {
+      "word": "dar una patada",
+      "translation": "dar una patada",
+      "example": "La palabra \"dar una patada\" es útil."
+    },
+    {
+      "word": "dar una torta",
+      "translation": "dar una torta",
+      "example": "La palabra \"dar una torta\" es útil."
+    },
+    {
+      "word": "dar un puñetazo",
+      "translation": "dar un puñetazo",
+      "example": "La palabra \"dar un puñetazo\" es útil."
+    },
+    {
+      "word": "estornudar",
+      "translation": "estornudar",
+      "example": "La palabra \"estornudar\" es útil."
+    },
+    {
+      "word": "bostezar",
+      "translation": "bostezar",
+      "example": "La palabra \"bostezar\" es útil."
+    },
+    {
+      "word": "sudar",
+      "translation": "sudar",
+      "example": "La palabra \"sudar\" es útil."
+    },
+    {
+      "word": "masticar",
+      "translation": "masticar",
+      "example": "La palabra \"masticar\" es útil."
+    },
+    {
+      "word": "escupir",
+      "translation": "escupir",
+      "example": "La palabra \"escupir\" es útil."
+    },
+    {
+      "word": "aguantar",
+      "translation": "aguantar",
+      "example": "La palabra \"aguantar\" es útil."
+    },
+    {
+      "word": "sujetar",
+      "translation": "sujetar",
+      "example": "La palabra \"sujetar\" es útil."
+    },
+    {
+      "word": "aplaudir",
+      "translation": "aplaudir",
+      "example": "La palabra \"aplaudir\" es útil."
+    },
+    {
+      "word": "señalar",
+      "translation": "señalar",
+      "example": "La palabra \"señalar\" es útil."
+    },
+    {
+      "word": "indicar",
+      "translation": "indicar",
+      "example": "La palabra \"indicar\" es útil."
+    },
+    {
+      "word": "maternidad",
+      "translation": "maternidad",
+      "example": "La palabra \"maternidad\" es útil."
+    },
+    {
+      "word": "paternidad",
+      "translation": "paternidad",
+      "example": "La palabra \"paternidad\" es útil."
+    },
+    {
+      "word": "cadáver",
+      "translation": "cadáver",
+      "example": "La palabra \"cadáver\" es útil."
+    },
+    {
+      "word": "tumba",
+      "translation": "tumba",
+      "example": "La palabra \"tumba\" es útil."
+    },
+    {
+      "word": "dar a luz",
+      "translation": "dar a luz",
+      "example": "La palabra \"dar a luz\" es útil."
+    },
+    {
+      "word": "fallecer",
+      "translation": "fallecer",
+      "example": "La palabra \"fallecer\" es útil."
+    },
+    {
+      "word": "enterrar",
+      "translation": "enterrar",
+      "example": "La palabra \"enterrar\" es útil."
+    },
+    {
+      "word": "incinerar",
+      "translation": "incinerar",
+      "example": "La palabra \"incinerar\" es útil."
+    }
+  ]
+}

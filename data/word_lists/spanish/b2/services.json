@@ -1,0 +1,750 @@
+{
+  "topic": "Services",
+  "words": [
+    {
+      "word": "repartidor",
+      "translation": "repartidor",
+      "example": "La palabra \"repartidor\" es útil."
+    },
+    {
+      "word": "cartero comercial",
+      "translation": "cartero comercial",
+      "example": "La palabra \"cartero comercial\" es útil."
+    },
+    {
+      "word": "envío",
+      "translation": "envío",
+      "example": "La palabra \"envío\" es útil."
+    },
+    {
+      "word": "entrega",
+      "translation": "entrega",
+      "example": "La palabra \"entrega\" es útil."
+    },
+    {
+      "word": "gastos de envío",
+      "translation": "gastos de envío",
+      "example": "La palabra \"gastos de envío\" es útil."
+    },
+    {
+      "word": "empresa de mensajería",
+      "translation": "empresa de mensajería",
+      "example": "La palabra \"empresa de mensajería\" es útil."
+    },
+    {
+      "word": "correo ordinario",
+      "translation": "correo ordinario",
+      "example": "La palabra \"correo ordinario\" es útil."
+    },
+    {
+      "word": "correo postal",
+      "translation": "correo postal",
+      "example": "La palabra \"correo postal\" es útil."
+    },
+    {
+      "word": "correo aéreo",
+      "translation": "correo aéreo",
+      "example": "La palabra \"correo aéreo\" es útil."
+    },
+    {
+      "word": "carta certificada",
+      "translation": "carta certificada",
+      "example": "La palabra \"carta certificada\" es útil."
+    },
+    {
+      "word": "carta urgente",
+      "translation": "carta urgente",
+      "example": "La palabra \"carta urgente\" es útil."
+    },
+    {
+      "word": "giro postal",
+      "translation": "giro postal",
+      "example": "La palabra \"giro postal\" es útil."
+    },
+    {
+      "word": "giro telegráfico",
+      "translation": "giro telegráfico",
+      "example": "La palabra \"giro telegráfico\" es útil."
+    },
+    {
+      "word": "cheque postal",
+      "translation": "cheque postal",
+      "example": "La palabra \"cheque postal\" es útil."
+    },
+    {
+      "word": "paquete postal",
+      "translation": "paquete postal",
+      "example": "La palabra \"paquete postal\" es útil."
+    },
+    {
+      "word": "enviar contra reembolso",
+      "translation": "enviar contra reembolso",
+      "example": "La palabra \"enviar contra reembolso\" es útil."
+    },
+    {
+      "word": "enviar con acuse de recibo",
+      "translation": "enviar con acuse de recibo",
+      "example": "La palabra \"enviar con acuse de recibo\" es útil."
+    },
+    {
+      "word": "caja fuerte",
+      "translation": "caja fuerte",
+      "example": "La palabra \"caja fuerte\" es útil."
+    },
+    {
+      "word": "ahorro",
+      "translation": "ahorro",
+      "example": "La palabra \"ahorro\" es útil."
+    },
+    {
+      "word": "cobro",
+      "translation": "cobro",
+      "example": "La palabra \"cobro\" es útil."
+    },
+    {
+      "word": "ingreso",
+      "translation": "ingreso",
+      "example": "La palabra \"ingreso\" es útil."
+    },
+    {
+      "word": "pago",
+      "translation": "pago",
+      "example": "La palabra \"pago\" es útil."
+    },
+    {
+      "word": "hipoteca",
+      "translation": "hipoteca",
+      "example": "La palabra \"hipoteca\" es útil."
+    },
+    {
+      "word": "crédito",
+      "translation": "crédito",
+      "example": "La palabra \"crédito\" es útil."
+    },
+    {
+      "word": "préstamo",
+      "translation": "préstamo",
+      "example": "La palabra \"préstamo\" es útil."
+    },
+    {
+      "word": "talonario de cheques",
+      "translation": "talonario de cheques",
+      "example": "La palabra \"talonario de cheques\" es útil."
+    },
+    {
+      "word": "accionista",
+      "translation": "accionista",
+      "example": "La palabra \"accionista\" es útil."
+    },
+    {
+      "word": "inversor",
+      "translation": "inversor",
+      "example": "La palabra \"inversor\" es útil."
+    },
+    {
+      "word": "ingresos periódicos",
+      "translation": "ingresos periódicos",
+      "example": "La palabra \"ingresos periódicos\" es útil."
+    },
+    {
+      "word": "ingresos extra",
+      "translation": "ingresos extra",
+      "example": "La palabra \"ingresos extra\" es útil."
+    },
+    {
+      "word": "ingresos elevados",
+      "translation": "ingresos elevados",
+      "example": "La palabra \"ingresos elevados\" es útil."
+    },
+    {
+      "word": "cuenta corriente",
+      "translation": "cuenta corriente",
+      "example": "La palabra \"cuenta corriente\" es útil."
+    },
+    {
+      "word": "ahorrar dinero",
+      "translation": "ahorrar dinero",
+      "example": "La palabra \"ahorrar dinero\" es útil."
+    },
+    {
+      "word": "cobrar dinero",
+      "translation": "cobrar dinero",
+      "example": "La palabra \"cobrar dinero\" es útil."
+    },
+    {
+      "word": "invertir dinero",
+      "translation": "invertir dinero",
+      "example": "La palabra \"invertir dinero\" es útil."
+    },
+    {
+      "word": "pedir una hipoteca",
+      "translation": "pedir una hipoteca",
+      "example": "La palabra \"pedir una hipoteca\" es útil."
+    },
+    {
+      "word": "pedir un crédito",
+      "translation": "pedir un crédito",
+      "example": "La palabra \"pedir un crédito\" es útil."
+    },
+    {
+      "word": "pedir un préstamo",
+      "translation": "pedir un préstamo",
+      "example": "La palabra \"pedir un préstamo\" es útil."
+    },
+    {
+      "word": "solicitar una hipoteca",
+      "translation": "solicitar una hipoteca",
+      "example": "La palabra \"solicitar una hipoteca\" es útil."
+    },
+    {
+      "word": "solicitar un crédito",
+      "translation": "solicitar un crédito",
+      "example": "La palabra \"solicitar un crédito\" es útil."
+    },
+    {
+      "word": "solicitar un préstamo",
+      "translation": "solicitar un préstamo",
+      "example": "La palabra \"solicitar un préstamo\" es útil."
+    },
+    {
+      "word": "conceder una hipoteca",
+      "translation": "conceder una hipoteca",
+      "example": "La palabra \"conceder una hipoteca\" es útil."
+    },
+    {
+      "word": "conceder un crédito",
+      "translation": "conceder un crédito",
+      "example": "La palabra \"conceder un crédito\" es útil."
+    },
+    {
+      "word": "conceder un préstamo",
+      "translation": "conceder un préstamo",
+      "example": "La palabra \"conceder un préstamo\" es útil."
+    },
+    {
+      "word": "pagar una hipoteca",
+      "translation": "pagar una hipoteca",
+      "example": "La palabra \"pagar una hipoteca\" es útil."
+    },
+    {
+      "word": "pagar un crédito",
+      "translation": "pagar un crédito",
+      "example": "La palabra \"pagar un crédito\" es útil."
+    },
+    {
+      "word": "pagar un préstamo",
+      "translation": "pagar un préstamo",
+      "example": "La palabra \"pagar un préstamo\" es útil."
+    },
+    {
+      "word": "domiciliar un recibo",
+      "translation": "domiciliar un recibo",
+      "example": "La palabra \"domiciliar un recibo\" es útil."
+    },
+    {
+      "word": "domiciliar un pago",
+      "translation": "domiciliar un pago",
+      "example": "La palabra \"domiciliar un pago\" es útil."
+    },
+    {
+      "word": "hacer un ingreso",
+      "translation": "hacer un ingreso",
+      "example": "La palabra \"hacer un ingreso\" es útil."
+    },
+    {
+      "word": "hacer una transferencia bancaria",
+      "translation": "hacer una transferencia bancaria",
+      "example": "La palabra \"hacer una transferencia bancaria\" es útil."
+    },
+    {
+      "word": "ingresar dinero",
+      "translation": "ingresar dinero",
+      "example": "La palabra \"ingresar dinero\" es útil."
+    },
+    {
+      "word": "retirar dinero",
+      "translation": "retirar dinero",
+      "example": "La palabra \"retirar dinero\" es útil."
+    },
+    {
+      "word": "cobrar un cheque",
+      "translation": "cobrar un cheque",
+      "example": "La palabra \"cobrar un cheque\" es útil."
+    },
+    {
+      "word": "firmar un cheque",
+      "translation": "firmar un cheque",
+      "example": "La palabra \"firmar un cheque\" es útil."
+    },
+    {
+      "word": "compañía de seguros",
+      "translation": "compañía de seguros",
+      "example": "La palabra \"compañía de seguros\" es útil."
+    },
+    {
+      "word": "cubrir un accidente",
+      "translation": "cubrir un accidente",
+      "example": "La palabra \"cubrir un accidente\" es útil."
+    },
+    {
+      "word": "cubrir una prestación",
+      "translation": "cubrir una prestación",
+      "example": "La palabra \"cubrir una prestación\" es útil."
+    },
+    {
+      "word": "policía municipal",
+      "translation": "policía municipal",
+      "example": "La palabra \"policía municipal\" es útil."
+    },
+    {
+      "word": "policía de tráfico",
+      "translation": "policía de tráfico",
+      "example": "La palabra \"policía de tráfico\" es útil."
+    },
+    {
+      "word": "inspector de policía",
+      "translation": "inspector de policía",
+      "example": "La palabra \"inspector de policía\" es útil."
+    },
+    {
+      "word": "agente de policía",
+      "translation": "agente de policía",
+      "example": "La palabra \"agente de policía\" es útil."
+    },
+    {
+      "word": "comisario",
+      "translation": "comisario",
+      "example": "La palabra \"comisario\" es útil."
+    },
+    {
+      "word": "servicio de seguridad",
+      "translation": "servicio de seguridad",
+      "example": "La palabra \"servicio de seguridad\" es útil."
+    },
+    {
+      "word": "sospechoso",
+      "translation": "sospechoso",
+      "example": "La palabra \"sospechoso\" es útil."
+    },
+    {
+      "word": "secuestrador",
+      "translation": "secuestrador",
+      "example": "La palabra \"secuestrador\" es útil."
+    },
+    {
+      "word": "banda de delincuentes",
+      "translation": "banda de delincuentes",
+      "example": "La palabra \"banda de delincuentes\" es útil."
+    },
+    {
+      "word": "banda de criminales",
+      "translation": "banda de criminales",
+      "example": "La palabra \"banda de criminales\" es útil."
+    },
+    {
+      "word": "vigilancia",
+      "translation": "vigilancia",
+      "example": "La palabra \"vigilancia\" es útil."
+    },
+    {
+      "word": "protección",
+      "translation": "protección",
+      "example": "La palabra \"protección\" es útil."
+    },
+    {
+      "word": "seguridad ciudadana",
+      "translation": "seguridad ciudadana",
+      "example": "La palabra \"seguridad ciudadana\" es útil."
+    },
+    {
+      "word": "delito",
+      "translation": "delito",
+      "example": "La palabra \"delito\" es útil."
+    },
+    {
+      "word": "violación",
+      "translation": "violación",
+      "example": "La palabra \"violación\" es útil."
+    },
+    {
+      "word": "atraco",
+      "translation": "atraco",
+      "example": "La palabra \"atraco\" es útil."
+    },
+    {
+      "word": "asesinato",
+      "translation": "asesinato",
+      "example": "La palabra \"asesinato\" es útil."
+    },
+    {
+      "word": "secuestro",
+      "translation": "secuestro",
+      "example": "La palabra \"secuestro\" es útil."
+    },
+    {
+      "word": "pista",
+      "translation": "pista",
+      "example": "La palabra \"pista\" es útil."
+    },
+    {
+      "word": "coartada",
+      "translation": "coartada",
+      "example": "La palabra \"coartada\" es útil."
+    },
+    {
+      "word": "huella",
+      "translation": "huella",
+      "example": "La palabra \"huella\" es útil."
+    },
+    {
+      "word": "prueba",
+      "translation": "prueba",
+      "example": "La palabra \"prueba\" es útil."
+    },
+    {
+      "word": "medida de seguridad",
+      "translation": "medida de seguridad",
+      "example": "La palabra \"medida de seguridad\" es útil."
+    },
+    {
+      "word": "retrato robot",
+      "translation": "retrato robot",
+      "example": "La palabra \"retrato robot\" es útil."
+    },
+    {
+      "word": "poner una denuncia",
+      "translation": "poner una denuncia",
+      "example": "La palabra \"poner una denuncia\" es útil."
+    },
+    {
+      "word": "denunciar",
+      "translation": "denunciar",
+      "example": "La palabra \"denunciar\" es útil."
+    },
+    {
+      "word": "seguir una pista",
+      "translation": "seguir una pista",
+      "example": "La palabra \"seguir una pista\" es útil."
+    },
+    {
+      "word": "encontrar una pista",
+      "translation": "encontrar una pista",
+      "example": "La palabra \"encontrar una pista\" es útil."
+    },
+    {
+      "word": "detener a un sospechoso",
+      "translation": "detener a un sospechoso",
+      "example": "La palabra \"detener a un sospechoso\" es útil."
+    },
+    {
+      "word": "detener a un delincuente",
+      "translation": "detener a un delincuente",
+      "example": "La palabra \"detener a un delincuente\" es útil."
+    },
+    {
+      "word": "interrogar a un sospechoso",
+      "translation": "interrogar a un sospechoso",
+      "example": "La palabra \"interrogar a un sospechoso\" es útil."
+    },
+    {
+      "word": "interrogar a un delincuente",
+      "translation": "interrogar a un delincuente",
+      "example": "La palabra \"interrogar a un delincuente\" es útil."
+    },
+    {
+      "word": "confesar",
+      "translation": "confesar",
+      "example": "La palabra \"confesar\" es útil."
+    },
+    {
+      "word": "asistente social",
+      "translation": "asistente social",
+      "example": "La palabra \"asistente social\" es útil."
+    },
+    {
+      "word": "trabajador social",
+      "translation": "trabajador social",
+      "example": "La palabra \"trabajador social\" es útil."
+    },
+    {
+      "word": "monitor de actividades",
+      "translation": "monitor de actividades",
+      "example": "La palabra \"monitor de actividades\" es útil."
+    },
+    {
+      "word": "adaptación",
+      "translation": "adaptación",
+      "example": "La palabra \"adaptación\" es útil."
+    },
+    {
+      "word": "integración",
+      "translation": "integración",
+      "example": "La palabra \"integración\" es útil."
+    },
+    {
+      "word": "marginación",
+      "translation": "marginación",
+      "example": "La palabra \"marginación\" es útil."
+    },
+    {
+      "word": "menores",
+      "translation": "menores",
+      "example": "La palabra \"menores\" es útil."
+    },
+    {
+      "word": "inmigrantes",
+      "translation": "inmigrantes",
+      "example": "La palabra \"inmigrantes\" es útil."
+    },
+    {
+      "word": "personas mayores",
+      "translation": "personas mayores",
+      "example": "La palabra \"personas mayores\" es útil."
+    },
+    {
+      "word": "personas discapacitadas",
+      "translation": "personas discapacitadas",
+      "example": "La palabra \"personas discapacitadas\" es útil."
+    },
+    {
+      "word": "personas sin recursos económicos",
+      "translation": "personas sin recursos económicos",
+      "example": "La palabra \"personas sin recursos económicos\" es útil."
+    },
+    {
+      "word": "personas sin trabajo",
+      "translation": "personas sin trabajo",
+      "example": "La palabra \"personas sin trabajo\" es útil."
+    },
+    {
+      "word": "personas sin hogar",
+      "translation": "personas sin hogar",
+      "example": "La palabra \"personas sin hogar\" es útil."
+    },
+    {
+      "word": "personas en paro",
+      "translation": "personas en paro",
+      "example": "La palabra \"personas en paro\" es útil."
+    },
+    {
+      "word": "marginación",
+      "translation": "marginación",
+      "example": "La palabra \"marginación\" es útil."
+    },
+    {
+      "word": "desempleo",
+      "translation": "desempleo",
+      "example": "La palabra \"desempleo\" es útil."
+    },
+    {
+      "word": "vejez",
+      "translation": "vejez",
+      "example": "La palabra \"vejez\" es útil."
+    },
+    {
+      "word": "inmigración",
+      "translation": "inmigración",
+      "example": "La palabra \"inmigración\" es útil."
+    },
+    {
+      "word": "tercera edad",
+      "translation": "tercera edad",
+      "example": "La palabra \"tercera edad\" es útil."
+    },
+    {
+      "word": "oficina del INEM",
+      "translation": "oficina del INEM",
+      "example": "La palabra \"oficina del INEM\" es útil."
+    },
+    {
+      "word": "apoyar",
+      "translation": "apoyar",
+      "example": "La palabra \"apoyar\" es útil."
+    },
+    {
+      "word": "cooperar",
+      "translation": "cooperar",
+      "example": "La palabra \"cooperar\" es útil."
+    },
+    {
+      "word": "colaborar",
+      "translation": "colaborar",
+      "example": "La palabra \"colaborar\" es útil."
+    },
+    {
+      "word": "perder el empleo de forma temporal",
+      "translation": "perder el empleo de forma temporal",
+      "example": "La palabra \"perder el empleo de forma temporal\" es útil."
+    },
+    {
+      "word": "perder el empleo de forma indefinida",
+      "translation": "perder el empleo de forma indefinida",
+      "example": "La palabra \"perder el empleo de forma indefinida\" es útil."
+    },
+    {
+      "word": "cotizar a la Seguridad Social",
+      "translation": "cotizar a la Seguridad Social",
+      "example": "La palabra \"cotizar a la Seguridad Social\" es útil."
+    },
+    {
+      "word": "cobrar el subsidio de desempleo",
+      "translation": "cobrar el subsidio de desempleo",
+      "example": "La palabra \"cobrar el subsidio de desempleo\" es útil."
+    },
+    {
+      "word": "farola",
+      "translation": "farola",
+      "example": "La palabra \"farola\" es útil."
+    },
+    {
+      "word": "contenedor de basuras",
+      "translation": "contenedor de basuras",
+      "example": "La palabra \"contenedor de basuras\" es útil."
+    },
+    {
+      "word": "contenedor de vidrio",
+      "translation": "contenedor de vidrio",
+      "example": "La palabra \"contenedor de vidrio\" es útil."
+    },
+    {
+      "word": "contenedor de papel",
+      "translation": "contenedor de papel",
+      "example": "La palabra \"contenedor de papel\" es útil."
+    },
+    {
+      "word": "contenedor de plástico",
+      "translation": "contenedor de plástico",
+      "example": "La palabra \"contenedor de plástico\" es útil."
+    },
+    {
+      "word": "compañía eléctrica",
+      "translation": "compañía eléctrica",
+      "example": "La palabra \"compañía eléctrica\" es útil."
+    },
+    {
+      "word": "compañía telefónica",
+      "translation": "compañía telefónica",
+      "example": "La palabra \"compañía telefónica\" es útil."
+    },
+    {
+      "word": "compañía de gas",
+      "translation": "compañía de gas",
+      "example": "La palabra \"compañía de gas\" es útil."
+    },
+    {
+      "word": "compañía de agua",
+      "translation": "compañía de agua",
+      "example": "La palabra \"compañía de agua\" es útil."
+    },
+    {
+      "word": "servicio de limpieza",
+      "translation": "servicio de limpieza",
+      "example": "La palabra \"servicio de limpieza\" es útil."
+    },
+    {
+      "word": "servicio de recogida de basura",
+      "translation": "servicio de recogida de basura",
+      "example": "La palabra \"servicio de recogida de basura\" es útil."
+    },
+    {
+      "word": "recoger la basura",
+      "translation": "recoger la basura",
+      "example": "La palabra \"recoger la basura\" es útil."
+    },
+    {
+      "word": "barrer las calles",
+      "translation": "barrer las calles",
+      "example": "La palabra \"barrer las calles\" es útil."
+    },
+    {
+      "word": "regar los jardines",
+      "translation": "regar los jardines",
+      "example": "La palabra \"regar los jardines\" es útil."
+    },
+    {
+      "word": "regar las zonas verdes",
+      "translation": "regar las zonas verdes",
+      "example": "La palabra \"regar las zonas verdes\" es útil."
+    },
+    {
+      "word": "llegar la factura del agua",
+      "translation": "llegar la factura del agua",
+      "example": "La palabra \"llegar la factura del agua\" es útil."
+    },
+    {
+      "word": "llegar la factura de la luz",
+      "translation": "llegar la factura de la luz",
+      "example": "La palabra \"llegar la factura de la luz\" es útil."
+    },
+    {
+      "word": "llegar el recibo del agua",
+      "translation": "llegar el recibo del agua",
+      "example": "La palabra \"llegar el recibo del agua\" es útil."
+    },
+    {
+      "word": "llegar el recibo de la luz",
+      "translation": "llegar el recibo de la luz",
+      "example": "La palabra \"llegar el recibo de la luz\" es útil."
+    },
+    {
+      "word": "pagar la factura del agua",
+      "translation": "pagar la factura del agua",
+      "example": "La palabra \"pagar la factura del agua\" es útil."
+    },
+    {
+      "word": "pagar la factura de la luz",
+      "translation": "pagar la factura de la luz",
+      "example": "La palabra \"pagar la factura de la luz\" es útil."
+    },
+    {
+      "word": "pagar el recibo del agua",
+      "translation": "pagar el recibo del agua",
+      "example": "La palabra \"pagar el recibo del agua\" es útil."
+    },
+    {
+      "word": "pagar el recibo de la luz",
+      "translation": "pagar el recibo de la luz",
+      "example": "La palabra \"pagar el recibo de la luz\" es útil."
+    },
+    {
+      "word": "deber la factura del agua",
+      "translation": "deber la factura del agua",
+      "example": "La palabra \"deber la factura del agua\" es útil."
+    },
+    {
+      "word": "deber la factura de la luz",
+      "translation": "deber la factura de la luz",
+      "example": "La palabra \"deber la factura de la luz\" es útil."
+    },
+    {
+      "word": "deber el recibo del agua",
+      "translation": "deber el recibo del agua",
+      "example": "La palabra \"deber el recibo del agua\" es útil."
+    },
+    {
+      "word": "deber el recibo de la luz",
+      "translation": "deber el recibo de la luz",
+      "example": "La palabra \"deber el recibo de la luz\" es útil."
+    },
+    {
+      "word": "cobrar la factura del agua",
+      "translation": "cobrar la factura del agua",
+      "example": "La palabra \"cobrar la factura del agua\" es útil."
+    },
+    {
+      "word": "cobrar la factura de la luz",
+      "translation": "cobrar la factura de la luz",
+      "example": "La palabra \"cobrar la factura de la luz\" es útil."
+    },
+    {
+      "word": "cobrar el recibo del agua",
+      "translation": "cobrar el recibo del agua",
+      "example": "La palabra \"cobrar el recibo del agua\" es útil."
+    },
+    {
+      "word": "cobrar el recibo de la luz",
+      "translation": "cobrar el recibo de la luz",
+      "example": "La palabra \"cobrar el recibo de la luz\" es útil."
+    }
+  ]
+}

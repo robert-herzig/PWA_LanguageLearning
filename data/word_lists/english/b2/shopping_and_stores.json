@@ -1,0 +1,475 @@
+{
+  "topic": "Shopping and Stores",
+  "words": [
+    {
+      "word": "establecimiento",
+      "translation": "establecimiento",
+      "example": "The word \"establecimiento\" is useful."
+    },
+    {
+      "word": "comercio",
+      "translation": "comercio",
+      "example": "The word \"comercio\" is useful."
+    },
+    {
+      "word": "cadena",
+      "translation": "cadena",
+      "example": "The word \"cadena\" is useful."
+    },
+    {
+      "word": "artículo",
+      "translation": "artículo",
+      "example": "The word \"artículo\" is useful."
+    },
+    {
+      "word": "producto",
+      "translation": "producto",
+      "example": "The word \"producto\" is useful."
+    },
+    {
+      "word": "mercancía",
+      "translation": "mercancía",
+      "example": "The word \"mercancía\" is useful."
+    },
+    {
+      "word": "distribución",
+      "translation": "distribución",
+      "example": "The word \"distribución\" is useful."
+    },
+    {
+      "word": "reparto",
+      "translation": "reparto",
+      "example": "The word \"reparto\" is useful."
+    },
+    {
+      "word": "clientela",
+      "translation": "clientela",
+      "example": "The word \"clientela\" is useful."
+    },
+    {
+      "word": "consumidor",
+      "translation": "consumidor",
+      "example": "The word \"consumidor\" is useful."
+    },
+    {
+      "word": "comercial",
+      "translation": "comercial",
+      "example": "The word \"comercial\" is useful."
+    },
+    {
+      "word": "etiqueta",
+      "translation": "etiqueta",
+      "example": "The word \"etiqueta\" is useful."
+    },
+    {
+      "word": "alarma",
+      "translation": "alarma",
+      "example": "The word \"alarma\" is useful."
+    },
+    {
+      "word": "horario comercial",
+      "translation": "horario comercial",
+      "example": "The word \"horario comercial\" is useful."
+    },
+    {
+      "word": "horario continuo",
+      "translation": "horario continuo",
+      "example": "The word \"horario continuo\" is useful."
+    },
+    {
+      "word": "dar la vez",
+      "translation": "dar la vez",
+      "example": "The word \"dar la vez\" is useful."
+    },
+    {
+      "word": "pedir la vez",
+      "translation": "pedir la vez",
+      "example": "The word \"pedir la vez\" is useful."
+    },
+    {
+      "word": "poner una reclamación",
+      "translation": "poner una reclamación",
+      "example": "The word \"poner una reclamación\" is useful."
+    },
+    {
+      "word": "pedir el libro de reclamaciones",
+      "translation": "pedir el libro de reclamaciones",
+      "example": "The word \"pedir el libro de reclamaciones\" is useful."
+    },
+    {
+      "word": "echar un vistazo",
+      "translation": "echar un vistazo",
+      "example": "The word \"echar un vistazo\" is useful."
+    },
+    {
+      "word": "hacerse una idea",
+      "translation": "hacerse una idea",
+      "example": "The word \"hacerse una idea\" is useful."
+    },
+    {
+      "word": "ver escaparates",
+      "translation": "ver escaparates",
+      "example": "The word \"ver escaparates\" is useful."
+    },
+    {
+      "word": "perder clientes",
+      "translation": "perder clientes",
+      "example": "The word \"perder clientes\" is useful."
+    },
+    {
+      "word": "ganar clientes",
+      "translation": "ganar clientes",
+      "example": "The word \"ganar clientes\" is useful."
+    },
+    {
+      "word": "complementos",
+      "translation": "complementos",
+      "example": "The word \"complementos\" is useful."
+    },
+    {
+      "word": "conjunto",
+      "translation": "conjunto",
+      "example": "The word \"conjunto\" is useful."
+    },
+    {
+      "word": "albornoz",
+      "translation": "albornoz",
+      "example": "The word \"albornoz\" is useful."
+    },
+    {
+      "word": "bata",
+      "translation": "bata",
+      "example": "The word \"bata\" is useful."
+    },
+    {
+      "word": "camisón",
+      "translation": "camisón",
+      "example": "The word \"camisón\" is useful."
+    },
+    {
+      "word": "delantal",
+      "translation": "delantal",
+      "example": "The word \"delantal\" is useful."
+    },
+    {
+      "word": "calzador",
+      "translation": "calzador",
+      "example": "The word \"calzador\" is useful."
+    },
+    {
+      "word": "aguja",
+      "translation": "aguja",
+      "example": "The word \"aguja\" is useful."
+    },
+    {
+      "word": "alfiler",
+      "translation": "alfiler",
+      "example": "The word \"alfiler\" is useful."
+    },
+    {
+      "word": "hilo",
+      "translation": "hilo",
+      "example": "The word \"hilo\" is useful."
+    },
+    {
+      "word": "cremallera",
+      "translation": "cremallera",
+      "example": "The word \"cremallera\" is useful."
+    },
+    {
+      "word": "percha",
+      "translation": "percha",
+      "example": "The word \"percha\" is useful."
+    },
+    {
+      "word": "ropa de temporada",
+      "translation": "ropa de temporada",
+      "example": "The word \"ropa de temporada\" is useful."
+    },
+    {
+      "word": "ropa de calle",
+      "translation": "ropa de calle",
+      "example": "The word \"ropa de calle\" is useful."
+    },
+    {
+      "word": "ropa de cama",
+      "translation": "ropa de cama",
+      "example": "The word \"ropa de cama\" is useful."
+    },
+    {
+      "word": "ropa de montaña",
+      "translation": "ropa de montaña",
+      "example": "The word \"ropa de montaña\" is useful."
+    },
+    {
+      "word": "zapatos abiertos",
+      "translation": "zapatos abiertos",
+      "example": "The word \"zapatos abiertos\" is useful."
+    },
+    {
+      "word": "zapatos cerrados",
+      "translation": "zapatos cerrados",
+      "example": "The word \"zapatos cerrados\" is useful."
+    },
+    {
+      "word": "zapatos de fiesta",
+      "translation": "zapatos de fiesta",
+      "example": "The word \"zapatos de fiesta\" is useful."
+    },
+    {
+      "word": "estampado",
+      "translation": "estampado",
+      "example": "The word \"estampado\" is useful."
+    },
+    {
+      "word": "descosido",
+      "translation": "descosido",
+      "example": "The word \"descosido\" is useful."
+    },
+    {
+      "word": "cosido",
+      "translation": "cosido",
+      "example": "The word \"cosido\" is useful."
+    },
+    {
+      "word": "arrugado",
+      "translation": "arrugado",
+      "example": "The word \"arrugado\" is useful."
+    },
+    {
+      "word": "doblado",
+      "translation": "doblado",
+      "example": "The word \"doblado\" is useful."
+    },
+    {
+      "word": "encoger",
+      "translation": "encoger",
+      "example": "The word \"encoger\" is useful."
+    },
+    {
+      "word": "darse de sí",
+      "translation": "darse de sí",
+      "example": "The word \"darse de sí\" is useful."
+    },
+    {
+      "word": "producto natural",
+      "translation": "natural product",
+      "example": "The word \"natural product\" is useful."
+    },
+    {
+      "word": "producto alimenticio",
+      "translation": "producto alimenticio",
+      "example": "The word \"producto alimenticio\" is useful."
+    },
+    {
+      "word": "alimento básico",
+      "translation": "alimento básico",
+      "example": "The word \"alimento básico\" is useful."
+    },
+    {
+      "word": "alimento nutritivo",
+      "translation": "alimento nutritivo",
+      "example": "The word \"alimento nutritivo\" is useful."
+    },
+    {
+      "word": "alimento pesado",
+      "translation": "heavy food",
+      "example": "The word \"heavy food\" is useful."
+    },
+    {
+      "word": "alimento ligero",
+      "translation": "light food",
+      "example": "The word \"light food\" is useful."
+    },
+    {
+      "word": "comida pesada",
+      "translation": "comida pesada",
+      "example": "The word \"comida pesada\" is useful."
+    },
+    {
+      "word": "comida ligera",
+      "translation": "comida ligera",
+      "example": "The word \"comida ligera\" is useful."
+    },
+    {
+      "word": "comida sin conservantes",
+      "translation": "comida sin conservantes",
+      "example": "The word \"comida sin conservantes\" is useful."
+    },
+    {
+      "word": "comida sin colorantes",
+      "translation": "comida sin colorantes",
+      "example": "The word \"comida sin colorantes\" is useful."
+    },
+    {
+      "word": "bajo en calorías",
+      "translation": "bajo en calorías",
+      "example": "The word \"bajo en calorías\" is useful."
+    },
+    {
+      "word": "bajo en sal",
+      "translation": "bajo en sal",
+      "example": "The word \"bajo en sal\" is useful."
+    },
+    {
+      "word": "bajo en azúcar",
+      "translation": "bajo en azúcar",
+      "example": "The word \"bajo en azúcar\" is useful."
+    },
+    {
+      "word": "rico en calorías",
+      "translation": "rico en calorías",
+      "example": "The word \"rico en calorías\" is useful."
+    },
+    {
+      "word": "rico en vitaminas",
+      "translation": "rico en vitaminas",
+      "example": "The word \"rico en vitaminas\" is useful."
+    },
+    {
+      "word": "rico en proteínas",
+      "translation": "rico en proteínas",
+      "example": "The word \"rico en proteínas\" is useful."
+    },
+    {
+      "word": "rico en fibra",
+      "translation": "rico en fibra",
+      "example": "The word \"rico en fibra\" is useful."
+    },
+    {
+      "word": "rico en calcio",
+      "translation": "rico en calcio",
+      "example": "The word \"rico en calcio\" is useful."
+    },
+    {
+      "word": "llevar el pedido",
+      "translation": "llevar el pedido",
+      "example": "The word \"llevar el pedido\" is useful."
+    },
+    {
+      "word": "hacer el pedido",
+      "translation": "hacer el pedido",
+      "example": "The word \"hacer el pedido\" is useful."
+    },
+    {
+      "word": "estar en buenas condiciones",
+      "translation": "estar en buenas condiciones",
+      "example": "The word \"estar en buenas condiciones\" is useful."
+    },
+    {
+      "word": "estar en malas condiciones",
+      "translation": "estar en malas condiciones",
+      "example": "The word \"estar en malas condiciones\" is useful."
+    },
+    {
+      "word": "factura",
+      "translation": "factura",
+      "example": "The word \"factura\" is useful."
+    },
+    {
+      "word": "cheque",
+      "translation": "cheque",
+      "example": "The word \"cheque\" is useful."
+    },
+    {
+      "word": "recibo",
+      "translation": "recibo",
+      "example": "The word \"recibo\" is useful."
+    },
+    {
+      "word": "presupuesto",
+      "translation": "presupuesto",
+      "example": "The word \"presupuesto\" is useful."
+    },
+    {
+      "word": "condiciones de financiación",
+      "translation": "condiciones de financiación",
+      "example": "The word \"condiciones de financiación\" is useful."
+    },
+    {
+      "word": "condiciones de pago",
+      "translation": "condiciones de pago",
+      "example": "The word \"condiciones de pago\" is useful."
+    },
+    {
+      "word": "pagar a plazos",
+      "translation": "pagar a plazos",
+      "example": "The word \"pagar a plazos\" is useful."
+    },
+    {
+      "word": "pagar al contado",
+      "translation": "pagar al contado",
+      "example": "The word \"pagar al contado\" is useful."
+    },
+    {
+      "word": "dejar una señal",
+      "translation": "dejar una señal",
+      "example": "The word \"dejar una señal\" is useful."
+    },
+    {
+      "word": "hacer una factura",
+      "translation": "hacer una factura",
+      "example": "The word \"hacer una factura\" is useful."
+    },
+    {
+      "word": "hacer un recibo",
+      "translation": "hacer un recibo",
+      "example": "The word \"hacer un recibo\" is useful."
+    },
+    {
+      "word": "hacer un presupuesto",
+      "translation": "hacer un presupuesto",
+      "example": "The word \"hacer un presupuesto\" is useful."
+    },
+    {
+      "word": "pedir una factura",
+      "translation": "pedir una factura",
+      "example": "The word \"pedir una factura\" is useful."
+    },
+    {
+      "word": "pedir un recibo",
+      "translation": "pedir un recibo",
+      "example": "The word \"pedir un recibo\" is useful."
+    },
+    {
+      "word": "pedir un presupuesto",
+      "translation": "pedir un presupuesto",
+      "example": "The word \"pedir un presupuesto\" is useful."
+    },
+    {
+      "word": "salir gratis",
+      "translation": "salir gratis",
+      "example": "The word \"salir gratis\" is useful."
+    },
+    {
+      "word": "ser gratis",
+      "translation": "ser gratis",
+      "example": "The word \"ser gratis\" is useful."
+    },
+    {
+      "word": "dos por el precio de uno",
+      "translation": "dos por el precio de uno",
+      "example": "The word \"dos por el precio de uno\" is useful."
+    },
+    {
+      "word": "tener tarjeta de cliente",
+      "translation": "tener tarjeta de cliente",
+      "example": "The word \"tener tarjeta de cliente\" is useful."
+    },
+    {
+      "word": "tener tarjeta de fidelidad",
+      "translation": "tener tarjeta de fidelidad",
+      "example": "The word \"tener tarjeta de fidelidad\" is useful."
+    },
+    {
+      "word": "solicitar tarjeta de cliente",
+      "translation": "solicitar tarjeta de cliente",
+      "example": "The word \"solicitar tarjeta de cliente\" is useful."
+    },
+    {
+      "word": "solicitar tarjeta de fidelidad",
+      "translation": "solicitar tarjeta de fidelidad",
+      "example": "The word \"solicitar tarjeta de fidelidad\" is useful."
+    }
+  ]
+}

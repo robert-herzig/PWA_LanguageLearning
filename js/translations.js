@@ -112,6 +112,20 @@ const SPANISH_GERMAN_TRANSLATIONS = {
     'cerveza': { german: 'das Bier', example: 'Das Bier ist kalt.' },
     'café': { german: 'der Kaffee', example: 'Der Kaffee ist heiß.' },
     'té': { german: 'der Tee', example: 'Der Tee ist grün.' }
+  },
+
+  // 6. Information and Media
+  'Information and Media': {
+    'medios de comunicación': { german: 'die Medien', example: 'Die Medien berichten über aktuelle Ereignisse.' },
+    'medios de información': { german: 'die Informationsmedien', example: 'Die Informationsmedien sind wichtig für die Demokratie.' },
+    'noticia': { german: 'die Nachricht', example: 'Die Nachricht war schockierend.' },
+    'comentario': { german: 'der Kommentar', example: 'Sein Kommentar war sehr hilfreich.' },
+    'opinión': { german: 'die Meinung', example: 'Jeder hat eine eigene Meinung.' },
+    'informar': { german: 'informieren', example: 'Die Zeitungen informieren die Bevölkerung.' },
+    'dar información': { german: 'Informationen geben', example: 'Der Reporter gibt wichtige Informationen.' },
+    'tener información': { german: 'Informationen haben', example: 'Wir haben neue Informationen erhalten.' },
+    'dar una noticia': { german: 'eine Nachricht überbringen', example: 'Er muss eine schlechte Nachricht überbringen.' },
+    'estar bien informado': { german: 'gut informiert sein', example: 'Es ist wichtig, gut informiert zu sein.' }
   }
 };
 

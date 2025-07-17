@@ -1,0 +1,510 @@
+{
+  "topic": "Science and Technology",
+  "words": [
+    {
+      "word": "físico",
+      "translation": "físico",
+      "example": "Слово «físico» полезно."
+    },
+    {
+      "word": "químico",
+      "translation": "químico",
+      "example": "Слово «químico» полезно."
+    },
+    {
+      "word": "matemático",
+      "translation": "matemático",
+      "example": "Слово «matemático» полезно."
+    },
+    {
+      "word": "astrónomo",
+      "translation": "astrónomo",
+      "example": "Слово «astrónomo» полезно."
+    },
+    {
+      "word": "investigación",
+      "translation": "investigación",
+      "example": "Слово «investigación» полезно."
+    },
+    {
+      "word": "investigador",
+      "translation": "investigador",
+      "example": "Слово «investigador» полезно."
+    },
+    {
+      "word": "ley",
+      "translation": "ley",
+      "example": "Слово «ley» полезно."
+    },
+    {
+      "word": "principio",
+      "translation": "principio",
+      "example": "Слово «principio» полезно."
+    },
+    {
+      "word": "fórmula",
+      "translation": "fórmula",
+      "example": "Слово «fórmula» полезно."
+    },
+    {
+      "word": "símbolo",
+      "translation": "símbolo",
+      "example": "Слово «símbolo» полезно."
+    },
+    {
+      "word": "teoría",
+      "translation": "teoría",
+      "example": "Слово «teoría» полезно."
+    },
+    {
+      "word": "capacidad de análisis",
+      "translation": "capacidad de análisis",
+      "example": "Слово «capacidad de análisis» полезно."
+    },
+    {
+      "word": "método de análisis",
+      "translation": "método de análisis",
+      "example": "Слово «método de análisis» полезно."
+    },
+    {
+      "word": "técnica de análisis",
+      "translation": "técnica de análisis",
+      "example": "Слово «técnica de análisis» полезно."
+    },
+    {
+      "word": "nuevas tecnologías",
+      "translation": "nuevas tecnologías",
+      "example": "Слово «nuevas tecnologías» полезно."
+    },
+    {
+      "word": "avance científico",
+      "translation": "avance científico",
+      "example": "Слово «avance científico» полезно."
+    },
+    {
+      "word": "avance tecnológico",
+      "translation": "avance tecnológico",
+      "example": "Слово «avance tecnológico» полезно."
+    },
+    {
+      "word": "objeto de estudio",
+      "translation": "objeto de estudio",
+      "example": "Слово «objeto de estudio» полезно."
+    },
+    {
+      "word": "objeto de análisis",
+      "translation": "objeto de análisis",
+      "example": "Слово «objeto de análisis» полезно."
+    },
+    {
+      "word": "método de estudio",
+      "translation": "método de estudio",
+      "example": "Слово «método de estudio» полезно."
+    },
+    {
+      "word": "método de análisis",
+      "translation": "método de análisis",
+      "example": "Слово «método de análisis» полезно."
+    },
+    {
+      "word": "técnica de estudio",
+      "translation": "técnica de estudio",
+      "example": "Слово «técnica de estudio» полезно."
+    },
+    {
+      "word": "técnica de análisis",
+      "translation": "técnica de análisis",
+      "example": "Слово «técnica de análisis» полезно."
+    },
+    {
+      "word": "área de estudio",
+      "translation": "área de estudio",
+      "example": "Слово «área de estudio» полезно."
+    },
+    {
+      "word": "área de conocimiento",
+      "translation": "área de conocimiento",
+      "example": "Слово «área de conocimiento» полезно."
+    },
+    {
+      "word": "analizar",
+      "translation": "analizar",
+      "example": "Слово «analizar» полезно."
+    },
+    {
+      "word": "investigar",
+      "translation": "investigar",
+      "example": "Слово «investigar» полезно."
+    },
+    {
+      "word": "desarrollar una técnica",
+      "translation": "desarrollar una técnica",
+      "example": "Слово «desarrollar una técnica» полезно."
+    },
+    {
+      "word": "introducir una técnica",
+      "translation": "introducir una técnica",
+      "example": "Слово «introducir una técnica» полезно."
+    },
+    {
+      "word": "demostrar una hipótesis",
+      "translation": "demostrar una hipótesis",
+      "example": "Слово «demostrar una hipótesis» полезно."
+    },
+    {
+      "word": "confirmar una hipótesis",
+      "translation": "confirmar una hipótesis",
+      "example": "Слово «confirmar una hipótesis» полезно."
+    },
+    {
+      "word": "basarse en una investigación",
+      "translation": "basarse en una investigación",
+      "example": "Слово «basarse en una investigación» полезно."
+    },
+    {
+      "word": "basarse en un estudio",
+      "translation": "basarse en un estudio",
+      "example": "Слово «basarse en un estudio» полезно."
+    },
+    {
+      "word": "ser objeto de estudio",
+      "translation": "ser objeto de estudio",
+      "example": "Слово «ser objeto de estudio» полезно."
+    },
+    {
+      "word": "ser objeto de análisis",
+      "translation": "ser objeto de análisis",
+      "example": "Слово «ser objeto de análisis» полезно."
+    },
+    {
+      "word": "especie",
+      "translation": "especie",
+      "example": "Слово «especie» полезно."
+    },
+    {
+      "word": "molécula",
+      "translation": "molécula",
+      "example": "Слово «molécula» полезно."
+    },
+    {
+      "word": "neurona",
+      "translation": "neurona",
+      "example": "Слово «neurona» полезно."
+    },
+    {
+      "word": "célula",
+      "translation": "célula",
+      "example": "Слово «célula» полезно."
+    },
+    {
+      "word": "virus",
+      "translation": "virus",
+      "example": "Слово «virus» полезно."
+    },
+    {
+      "word": "genético",
+      "translation": "genético",
+      "example": "Слово «genético» полезно."
+    },
+    {
+      "word": "biológico",
+      "translation": "biológico",
+      "example": "Слово «biológico» полезно."
+    },
+    {
+      "word": "cálculo",
+      "translation": "cálculo",
+      "example": "Слово «cálculo» полезно."
+    },
+    {
+      "word": "álgebra",
+      "translation": "álgebra",
+      "example": "Слово «álgebra» полезно."
+    },
+    {
+      "word": "estadística",
+      "translation": "estadística",
+      "example": "Слово «estadística» полезно."
+    },
+    {
+      "word": "número par",
+      "translation": "número par",
+      "example": "Слово «número par» полезно."
+    },
+    {
+      "word": "número impar",
+      "translation": "número impar",
+      "example": "Слово «número impar» полезно."
+    },
+    {
+      "word": "número decimal",
+      "translation": "número decimal",
+      "example": "Слово «número decimal» полезно."
+    },
+    {
+      "word": "cifra",
+      "translation": "cifra",
+      "example": "Слово «cifra» полезно."
+    },
+    {
+      "word": "línea recta",
+      "translation": "línea recta",
+      "example": "Слово «línea recta» полезно."
+    },
+    {
+      "word": "línea diagonal",
+      "translation": "línea diagonal",
+      "example": "Слово «línea diagonal» полезно."
+    },
+    {
+      "word": "línea horizontal",
+      "translation": "línea horizontal",
+      "example": "Слово «línea horizontal» полезно."
+    },
+    {
+      "word": "línea vertical",
+      "translation": "línea vertical",
+      "example": "Слово «línea vertical» полезно."
+    },
+    {
+      "word": "fórmula matemática",
+      "translation": "fórmula matemática",
+      "example": "Слово «fórmula matemática» полезно."
+    },
+    {
+      "word": "ángulo recto",
+      "translation": "ángulo recto",
+      "example": "Слово «ángulo recto» полезно."
+    },
+    {
+      "word": "calcular una cantidad",
+      "translation": "calcular una cantidad",
+      "example": "Слово «calcular una cantidad» полезно."
+    },
+    {
+      "word": "calcular un porcentaje",
+      "translation": "calcular un porcentaje",
+      "example": "Слово «calcular un porcentaje» полезно."
+    },
+    {
+      "word": "calcular con precisión",
+      "translation": "calcular con precisión",
+      "example": "Слово «calcular con precisión» полезно."
+    },
+    {
+      "word": "calcular mentalmente",
+      "translation": "calcular mentalmente",
+      "example": "Слово «calcular mentalmente» полезно."
+    },
+    {
+      "word": "procesador de textos",
+      "translation": "procesador de textos",
+      "example": "Слово «procesador de textos» полезно."
+    },
+    {
+      "word": "base de datos",
+      "translation": "base de datos",
+      "example": "Слово «base de datos» полезно."
+    },
+    {
+      "word": "hoja de cálculo",
+      "translation": "hoja de cálculo",
+      "example": "Слово «hoja de cálculo» полезно."
+    },
+    {
+      "word": "disco duro",
+      "translation": "disco duro",
+      "example": "Слово «disco duro» полезно."
+    },
+    {
+      "word": "monitor",
+      "translation": "monitor",
+      "example": "Слово «monitor» полезно."
+    },
+    {
+      "word": "altavoz",
+      "translation": "altavoz",
+      "example": "Слово «altavoz» полезно."
+    },
+    {
+      "word": "escáner",
+      "translation": "escáner",
+      "example": "Слово «escáner» полезно."
+    },
+    {
+      "word": "módem",
+      "translation": "módem",
+      "example": "Слово «módem» полезно."
+    },
+    {
+      "word": "pantalla plana",
+      "translation": "pantalla plana",
+      "example": "Слово «pantalla plana» полезно."
+    },
+    {
+      "word": "inteligencia artificial",
+      "translation": "inteligencia artificial",
+      "example": "Слово «inteligencia artificial» полезно."
+    },
+    {
+      "word": "enlace",
+      "translation": "enlace",
+      "example": "Слово «enlace» полезно."
+    },
+    {
+      "word": "escritorio",
+      "translation": "escritorio",
+      "example": "Слово «escritorio» полезно."
+    },
+    {
+      "word": "cursor",
+      "translation": "cursor",
+      "example": "Слово «cursor» полезно."
+    },
+    {
+      "word": "pinchar",
+      "translation": "pinchar",
+      "example": "Слово «pinchar» полезно."
+    },
+    {
+      "word": "hacer doble clic",
+      "translation": "hacer doble clic",
+      "example": "Слово «hacer doble clic» полезно."
+    },
+    {
+      "word": "arrastrar",
+      "translation": "arrastrar",
+      "example": "Слово «arrastrar» полезно."
+    },
+    {
+      "word": "cambiar el tipo de letra",
+      "translation": "cambiar el tipo de letra",
+      "example": "Слово «cambiar el tipo de letra» полезно."
+    },
+    {
+      "word": "cambiar el tamaño de letra",
+      "translation": "cambiar el tamaño de letra",
+      "example": "Слово «cambiar el tamaño de letra» полезно."
+    },
+    {
+      "word": "grabar un archivo",
+      "translation": "grabar un archivo",
+      "example": "Слово «grabar un archivo» полезно."
+    },
+    {
+      "word": "maximizar una ventana",
+      "translation": "maximizar una ventana",
+      "example": "Слово «maximizar una ventana» полезно."
+    },
+    {
+      "word": "maximizar un documento",
+      "translation": "maximizar un documento",
+      "example": "Слово «maximizar un documento» полезно."
+    },
+    {
+      "word": "minimizar una ventana",
+      "translation": "minimizar una ventana",
+      "example": "Слово «minimizar una ventana» полезно."
+    },
+    {
+      "word": "minimizar un documento",
+      "translation": "minimizar un documento",
+      "example": "Слово «minimizar un documento» полезно."
+    },
+    {
+      "word": "configurar",
+      "translation": "configurar",
+      "example": "Слово «configurar» полезно."
+    },
+    {
+      "word": "cambiar la configuración",
+      "translation": "cambiar la configuración",
+      "example": "Слово «cambiar la configuración» полезно."
+    },
+    {
+      "word": "reiniciar el ordenador",
+      "translation": "reiniciar el ordenador",
+      "example": "Слово «reiniciar el ordenador» полезно."
+    },
+    {
+      "word": "iniciar el ordenador",
+      "translation": "iniciar el ordenador",
+      "example": "Слово «iniciar el ordenador» полезно."
+    },
+    {
+      "word": "bloquear el ordenador",
+      "translation": "bloquear el ordenador",
+      "example": "Слово «bloquear el ordenador» полезно."
+    },
+    {
+      "word": "bloquearse el ordenador",
+      "translation": "bloquearse el ordenador",
+      "example": "Слово «bloquearse el ordenador» полезно."
+    },
+    {
+      "word": "átomo",
+      "translation": "átomo",
+      "example": "Слово «átomo» полезно."
+    },
+    {
+      "word": "molécula",
+      "translation": "molécula",
+      "example": "Слово «molécula» полезно."
+    },
+    {
+      "word": "célula",
+      "translation": "célula",
+      "example": "Слово «célula» полезно."
+    },
+    {
+      "word": "aluminio",
+      "translation": "aluminio",
+      "example": "Слово «aluminio» полезно."
+    },
+    {
+      "word": "oxígeno",
+      "translation": "oxígeno",
+      "example": "Слово «oxígeno» полезно."
+    },
+    {
+      "word": "nitrógeno",
+      "translation": "nitrógeno",
+      "example": "Слово «nitrógeno» полезно."
+    },
+    {
+      "word": "formulación",
+      "translation": "formulación",
+      "example": "Слово «formulación» полезно."
+    },
+    {
+      "word": "fórmula química",
+      "translation": "fórmula química",
+      "example": "Слово «fórmula química» полезно."
+    },
+    {
+      "word": "microscopio",
+      "translation": "microscopio",
+      "example": "Слово «microscopio» полезно."
+    },
+    {
+      "word": "termómetro",
+      "translation": "termómetro",
+      "example": "Слово «termómetro» полезно."
+    },
+    {
+      "word": "dureza",
+      "translation": "dureza",
+      "example": "Слово «dureza» полезно."
+    },
+    {
+      "word": "elasticidad",
+      "translation": "elasticidad",
+      "example": "Слово «elasticidad» полезно."
+    },
+    {
+      "word": "fragilidad",
+      "translation": "fragilidad",
+      "example": "Слово «fragilidad» полезно."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "topic": "Health",
+  "words": [
+    {
+      "word": "illness",
+      "translation": "enfermedad",
+      "example": "That illness spreads very easily."
+    },
+    {
+      "word": "treatment",
+      "translation": "tratamiento",
+      "example": "The treatment will last three weeks."
+    }
+  ]
+}

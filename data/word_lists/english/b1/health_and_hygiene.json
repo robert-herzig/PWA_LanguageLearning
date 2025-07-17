@@ -1,0 +1,505 @@
+{
+  "topic": "Health and Hygiene",
+  "words": [
+    {
+      "word": "seguro médico",
+      "translation": "seguro médico",
+      "example": "The word \"seguro médico\" is useful."
+    },
+    {
+      "word": "seguro de enfermedad",
+      "translation": "seguro de enfermedad",
+      "example": "The word \"seguro de enfermedad\" is useful."
+    },
+    {
+      "word": "seguro público",
+      "translation": "seguro público",
+      "example": "The word \"seguro público\" is useful."
+    },
+    {
+      "word": "seguro privado",
+      "translation": "seguro privado",
+      "example": "The word \"seguro privado\" is useful."
+    },
+    {
+      "word": "tener diarrea",
+      "translation": "tener diarrea",
+      "example": "The word \"tener diarrea\" is useful."
+    },
+    {
+      "word": "tener cáncer",
+      "translation": "tener cáncer",
+      "example": "The word \"tener cáncer\" is useful."
+    },
+    {
+      "word": "tener sida",
+      "translation": "tener sida",
+      "example": "The word \"tener sida\" is useful."
+    },
+    {
+      "word": "ponerse enfermo",
+      "translation": "ponerse enfermo",
+      "example": "The word \"ponerse enfermo\" is useful."
+    },
+    {
+      "word": "ponerse malo",
+      "translation": "ponerse malo",
+      "example": "The word \"ponerse malo\" is useful."
+    },
+    {
+      "word": "ponerse bien",
+      "translation": "ponerse bien",
+      "example": "The word \"ponerse bien\" is useful."
+    },
+    {
+      "word": "tener buena salud",
+      "translation": "tener buena salud",
+      "example": "The word \"tener buena salud\" is useful."
+    },
+    {
+      "word": "tener mala salud",
+      "translation": "tener mala salud",
+      "example": "The word \"tener mala salud\" is useful."
+    },
+    {
+      "word": "cuidar a un enfermo",
+      "translation": "cuidar a un enfermo",
+      "example": "The word \"cuidar a un enfermo\" is useful."
+    },
+    {
+      "word": "curar a un enfermo",
+      "translation": "curar a un enfermo",
+      "example": "The word \"curar a un enfermo\" is useful."
+    },
+    {
+      "word": "hacer régimen",
+      "translation": "hacer régimen",
+      "example": "The word \"hacer régimen\" is useful."
+    },
+    {
+      "word": "hacer un régimen",
+      "translation": "hacer un régimen",
+      "example": "The word \"hacer un régimen\" is useful."
+    },
+    {
+      "word": "estar sano",
+      "translation": "estar sano",
+      "example": "The word \"estar sano\" is useful."
+    },
+    {
+      "word": "estar de baja",
+      "translation": "estar de baja",
+      "example": "The word \"estar de baja\" is useful."
+    },
+    {
+      "word": "quemadura",
+      "translation": "quemadura",
+      "example": "The word \"quemadura\" is useful."
+    },
+    {
+      "word": "corte",
+      "translation": "corte",
+      "example": "The word \"corte\" is useful."
+    },
+    {
+      "word": "herida",
+      "translation": "herida",
+      "example": "The word \"herida\" is useful."
+    },
+    {
+      "word": "caerse",
+      "translation": "caerse",
+      "example": "The word \"caerse\" is useful."
+    },
+    {
+      "word": "darse un golpe",
+      "translation": "darse un golpe",
+      "example": "The word \"darse un golpe\" is useful."
+    },
+    {
+      "word": "quemarse un dedo",
+      "translation": "quemarse un dedo",
+      "example": "The word \"quemarse un dedo\" is useful."
+    },
+    {
+      "word": "quemarse una mano",
+      "translation": "quemarse una mano",
+      "example": "The word \"quemarse una mano\" is useful."
+    },
+    {
+      "word": "cortarse un dedo",
+      "translation": "cortarse un dedo",
+      "example": "The word \"cortarse un dedo\" is useful."
+    },
+    {
+      "word": "cortarse una mano",
+      "translation": "cortarse una mano",
+      "example": "The word \"cortarse una mano\" is useful."
+    },
+    {
+      "word": "hacerse una herida",
+      "translation": "hacerse una herida",
+      "example": "The word \"hacerse una herida\" is useful."
+    },
+    {
+      "word": "romperse una pierna",
+      "translation": "romperse una pierna",
+      "example": "The word \"romperse una pierna\" is useful."
+    },
+    {
+      "word": "romperse un brazo",
+      "translation": "romperse un brazo",
+      "example": "The word \"romperse un brazo\" is useful."
+    },
+    {
+      "word": "adelgazar",
+      "translation": "adelgazar",
+      "example": "The word \"adelgazar\" is useful."
+    },
+    {
+      "word": "engordar",
+      "translation": "engordar",
+      "example": "The word \"engordar\" is useful."
+    },
+    {
+      "word": "estar agotado",
+      "translation": "estar agotado",
+      "example": "The word \"estar agotado\" is useful."
+    },
+    {
+      "word": "estar estresado",
+      "translation": "estar estresado",
+      "example": "The word \"estar estresado\" is useful."
+    },
+    {
+      "word": "estar resfriado",
+      "translation": "estar resfriado",
+      "example": "The word \"estar resfriado\" is useful."
+    },
+    {
+      "word": "estar mareado",
+      "translation": "estar mareado",
+      "example": "The word \"estar mareado\" is useful."
+    },
+    {
+      "word": "doctor",
+      "translation": "doctor",
+      "example": "The word \"doctor\" is useful."
+    },
+    {
+      "word": "enfermo",
+      "translation": "enfermo",
+      "example": "The word \"enfermo\" is useful."
+    },
+    {
+      "word": "clínica",
+      "translation": "clínica",
+      "example": "The word \"clínica\" is useful."
+    },
+    {
+      "word": "centro de salud",
+      "translation": "centro de salud",
+      "example": "The word \"centro de salud\" is useful."
+    },
+    {
+      "word": "médico de guardia",
+      "translation": "médico de guardia",
+      "example": "The word \"médico de guardia\" is useful."
+    },
+    {
+      "word": "hospital de guardia",
+      "translation": "hospital de guardia",
+      "example": "The word \"hospital de guardia\" is useful."
+    },
+    {
+      "word": "farmacia de guardia",
+      "translation": "farmacia de guardia",
+      "example": "The word \"farmacia de guardia\" is useful."
+    },
+    {
+      "word": "análisis de sangre",
+      "translation": "análisis de sangre",
+      "example": "The word \"análisis de sangre\" is useful."
+    },
+    {
+      "word": "análisis de orina",
+      "translation": "análisis de orina",
+      "example": "The word \"análisis de orina\" is useful."
+    },
+    {
+      "word": "dentista",
+      "translation": "dentista",
+      "example": "The word \"dentista\" is useful."
+    },
+    {
+      "word": "ginecólogo",
+      "translation": "ginecólogo",
+      "example": "The word \"ginecólogo\" is useful."
+    },
+    {
+      "word": "oculista",
+      "translation": "oculista",
+      "example": "The word \"oculista\" is useful."
+    },
+    {
+      "word": "psicólogo",
+      "translation": "psicólogo",
+      "example": "The word \"psicólogo\" is useful."
+    },
+    {
+      "word": "cirujano",
+      "translation": "cirujano",
+      "example": "The word \"cirujano\" is useful."
+    },
+    {
+      "word": "paciente",
+      "translation": "paciente",
+      "example": "The word \"paciente\" is useful."
+    },
+    {
+      "word": "pedir hora",
+      "translation": "pedir hora",
+      "example": "The word \"pedir hora\" is useful."
+    },
+    {
+      "word": "pedir cita",
+      "translation": "pedir cita",
+      "example": "The word \"pedir cita\" is useful."
+    },
+    {
+      "word": "hacerse una revisión",
+      "translation": "hacerse una revisión",
+      "example": "The word \"hacerse una revisión\" is useful."
+    },
+    {
+      "word": "hacerse unas pruebas",
+      "translation": "hacerse unas pruebas",
+      "example": "The word \"hacerse unas pruebas\" is useful."
+    },
+    {
+      "word": "hacerse un control",
+      "translation": "hacerse un control",
+      "example": "The word \"hacerse un control\" is useful."
+    },
+    {
+      "word": "hacerse un análisis de sangre",
+      "translation": "hacerse un análisis de sangre",
+      "example": "The word \"hacerse un análisis de sangre\" is useful."
+    },
+    {
+      "word": "hacerse un análisis de orina",
+      "translation": "hacerse un análisis de orina",
+      "example": "The word \"hacerse un análisis de orina\" is useful."
+    },
+    {
+      "word": "ingresar en un hospital",
+      "translation": "ingresar en un hospital",
+      "example": "The word \"ingresar en un hospital\" is useful."
+    },
+    {
+      "word": "ingresar en urgencias",
+      "translation": "ingresar en urgencias",
+      "example": "The word \"ingresar en urgencias\" is useful."
+    },
+    {
+      "word": "dar de alta",
+      "translation": "dar de alta",
+      "example": "The word \"dar de alta\" is useful."
+    },
+    {
+      "word": "dar de baja",
+      "translation": "dar de baja",
+      "example": "The word \"dar de baja\" is useful."
+    },
+    {
+      "word": "dar el alta",
+      "translation": "dar el alta",
+      "example": "The word \"dar el alta\" is useful."
+    },
+    {
+      "word": "dar la baja médica",
+      "translation": "dar la baja médica",
+      "example": "The word \"dar la baja médica\" is useful."
+    },
+    {
+      "word": "tirita",
+      "translation": "tirita",
+      "example": "The word \"tirita\" is useful."
+    },
+    {
+      "word": "alcohol",
+      "translation": "alcohol",
+      "example": "The word \"alcohol\" is useful."
+    },
+    {
+      "word": "agua oxigenada",
+      "translation": "agua oxigenada",
+      "example": "The word \"agua oxigenada\" is useful."
+    },
+    {
+      "word": "algodón",
+      "translation": "algodón",
+      "example": "The word \"algodón\" is useful."
+    },
+    {
+      "word": "termómetro",
+      "translation": "termómetro",
+      "example": "The word \"termómetro\" is useful."
+    },
+    {
+      "word": "antibiótico",
+      "translation": "antibiótico",
+      "example": "The word \"antibiótico\" is useful."
+    },
+    {
+      "word": "aspirina",
+      "translation": "aspirina",
+      "example": "The word \"aspirina\" is useful."
+    },
+    {
+      "word": "gotas",
+      "translation": "gotas",
+      "example": "The word \"gotas\" is useful."
+    },
+    {
+      "word": "vacuna",
+      "translation": "vacuna",
+      "example": "The word \"vacuna\" is useful."
+    },
+    {
+      "word": "pastilla",
+      "translation": "pastilla",
+      "example": "The word \"pastilla\" is useful."
+    },
+    {
+      "word": "darse una crema",
+      "translation": "darse una crema",
+      "example": "The word \"darse una crema\" is useful."
+    },
+    {
+      "word": "echarse unas gotas",
+      "translation": "echarse unas gotas",
+      "example": "The word \"echarse unas gotas\" is useful."
+    },
+    {
+      "word": "ponerse una vacuna",
+      "translation": "ponerse una vacuna",
+      "example": "The word \"ponerse una vacuna\" is useful."
+    },
+    {
+      "word": "ponerse el termómetro",
+      "translation": "ponerse el termómetro",
+      "example": "The word \"ponerse el termómetro\" is useful."
+    },
+    {
+      "word": "hacer una receta médica",
+      "translation": "hacer una receta médica",
+      "example": "The word \"hacer una receta médica\" is useful."
+    },
+    {
+      "word": "dar una receta médica",
+      "translation": "dar una receta médica",
+      "example": "The word \"dar una receta médica\" is useful."
+    },
+    {
+      "word": "cepillo",
+      "translation": "cepillo",
+      "example": "The word \"cepillo\" is useful."
+    },
+    {
+      "word": "peine",
+      "translation": "peine",
+      "example": "The word \"peine\" is useful."
+    },
+    {
+      "word": "secador de pelo",
+      "translation": "secador de pelo",
+      "example": "The word \"secador de pelo\" is useful."
+    },
+    {
+      "word": "zapatillas",
+      "translation": "zapatillas",
+      "example": "The word \"zapatillas\" is useful."
+    },
+    {
+      "word": "gorro de ducha",
+      "translation": "gorro de ducha",
+      "example": "The word \"gorro de ducha\" is useful."
+    },
+    {
+      "word": "gorro de baño",
+      "translation": "gorro de baño",
+      "example": "The word \"gorro de baño\" is useful."
+    },
+    {
+      "word": "espuma de afeitar",
+      "translation": "espuma de afeitar",
+      "example": "The word \"espuma de afeitar\" is useful."
+    },
+    {
+      "word": "gel de afeitar",
+      "translation": "gel de afeitar",
+      "example": "The word \"gel de afeitar\" is useful."
+    },
+    {
+      "word": "maquinilla de afeitar",
+      "translation": "maquinilla de afeitar",
+      "example": "The word \"maquinilla de afeitar\" is useful."
+    },
+    {
+      "word": "cuchilla de afeitar",
+      "translation": "cuchilla de afeitar",
+      "example": "The word \"cuchilla de afeitar\" is useful."
+    },
+    {
+      "word": "pastilla de jabón",
+      "translation": "pastilla de jabón",
+      "example": "The word \"pastilla de jabón\" is useful."
+    },
+    {
+      "word": "perfume",
+      "translation": "perfume",
+      "example": "The word \"perfume\" is useful."
+    },
+    {
+      "word": "barra de labios",
+      "translation": "barra de labios",
+      "example": "The word \"barra de labios\" is useful."
+    },
+    {
+      "word": "corte de pelo",
+      "translation": "corte de pelo",
+      "example": "The word \"corte de pelo\" is useful."
+    },
+    {
+      "word": "peinado",
+      "translation": "peinado",
+      "example": "The word \"peinado\" is useful."
+    },
+    {
+      "word": "pintarse los ojos",
+      "translation": "pintarse los ojos",
+      "example": "The word \"pintarse los ojos\" is useful."
+    },
+    {
+      "word": "pintarse los labios",
+      "translation": "pintarse los labios",
+      "example": "The word \"pintarse los labios\" is useful."
+    },
+    {
+      "word": "tener las manos suaves",
+      "translation": "tener las manos suaves",
+      "example": "The word \"tener las manos suaves\" is useful."
+    },
+    {
+      "word": "tener la piel suave",
+      "translation": "tener la piel suave",
+      "example": "The word \"tener la piel suave\" is useful."
+    },
+    {
+      "word": "cortarse el pelo",
+      "translation": "cortarse el pelo",
+      "example": "The word \"cortarse el pelo\" is useful."
+    }
+  ]
+}

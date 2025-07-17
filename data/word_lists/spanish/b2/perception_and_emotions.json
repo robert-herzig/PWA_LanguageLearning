@@ -1,0 +1,565 @@
+{
+  "topic": "Perception and Emotions",
+  "words": [
+    {
+      "word": "ambición",
+      "translation": "ambición",
+      "example": "La palabra \"ambición\" es útil."
+    },
+    {
+      "word": "arrogancia",
+      "translation": "arrogancia",
+      "example": "La palabra \"arrogancia\" es útil."
+    },
+    {
+      "word": "inconstancia",
+      "translation": "inconstancia",
+      "example": "La palabra \"inconstancia\" es útil."
+    },
+    {
+      "word": "constancia",
+      "translation": "constancia",
+      "example": "La palabra \"constancia\" es útil."
+    },
+    {
+      "word": "cobardía",
+      "translation": "cobardía",
+      "example": "La palabra \"cobardía\" es útil."
+    },
+    {
+      "word": "curiosidad",
+      "translation": "curiosidad",
+      "example": "La palabra \"curiosidad\" es útil."
+    },
+    {
+      "word": "egoísmo",
+      "translation": "egoísmo",
+      "example": "La palabra \"egoísmo\" es útil."
+    },
+    {
+      "word": "generosidad",
+      "translation": "generosidad",
+      "example": "La palabra \"generosidad\" es útil."
+    },
+    {
+      "word": "impuntualidad",
+      "translation": "impuntualidad",
+      "example": "La palabra \"impuntualidad\" es útil."
+    },
+    {
+      "word": "puntualidad",
+      "translation": "puntualidad",
+      "example": "La palabra \"puntualidad\" es útil."
+    },
+    {
+      "word": "irresponsabilidad",
+      "translation": "irresponsabilidad",
+      "example": "La palabra \"irresponsabilidad\" es útil."
+    },
+    {
+      "word": "responsabilidad",
+      "translation": "responsabilidad",
+      "example": "La palabra \"responsabilidad\" es útil."
+    },
+    {
+      "word": "insensibilidad",
+      "translation": "insensibilidad",
+      "example": "La palabra \"insensibilidad\" es útil."
+    },
+    {
+      "word": "sensibilidad",
+      "translation": "sensibilidad",
+      "example": "La palabra \"sensibilidad\" es útil."
+    },
+    {
+      "word": "seriedad",
+      "translation": "seriedad",
+      "example": "La palabra \"seriedad\" es útil."
+    },
+    {
+      "word": "insinceridad",
+      "translation": "insinceridad",
+      "example": "La palabra \"insinceridad\" es útil."
+    },
+    {
+      "word": "sinceridad",
+      "translation": "sinceridad",
+      "example": "La palabra \"sinceridad\" es útil."
+    },
+    {
+      "word": "ternura",
+      "translation": "ternura",
+      "example": "La palabra \"ternura\" es útil."
+    },
+    {
+      "word": "timidez",
+      "translation": "timidez",
+      "example": "La palabra \"timidez\" es útil."
+    },
+    {
+      "word": "valentía",
+      "translation": "valentía",
+      "example": "La palabra \"valentía\" es útil."
+    },
+    {
+      "word": "ambicioso",
+      "translation": "ambicioso",
+      "example": "La palabra \"ambicioso\" es útil."
+    },
+    {
+      "word": "callado",
+      "translation": "callado",
+      "example": "La palabra \"callado\" es útil."
+    },
+    {
+      "word": "cobarde",
+      "translation": "cobarde",
+      "example": "La palabra \"cobarde\" es útil."
+    },
+    {
+      "word": "constante",
+      "translation": "constante",
+      "example": "La palabra \"constante\" es útil."
+    },
+    {
+      "word": "curioso",
+      "translation": "curioso",
+      "example": "La palabra \"curioso\" es útil."
+    },
+    {
+      "word": "discreto",
+      "translation": "discreto",
+      "example": "La palabra \"discreto\" es útil."
+    },
+    {
+      "word": "alegría",
+      "translation": "alegría",
+      "example": "La palabra \"alegría\" es útil."
+    },
+    {
+      "word": "admiración",
+      "translation": "admiración",
+      "example": "La palabra \"admiración\" es útil."
+    },
+    {
+      "word": "alivio",
+      "translation": "alivio",
+      "example": "La palabra \"alivio\" es útil."
+    },
+    {
+      "word": "emoción",
+      "translation": "emoción",
+      "example": "La palabra \"emoción\" es útil."
+    },
+    {
+      "word": "felicidad",
+      "translation": "felicidad",
+      "example": "La palabra \"felicidad\" es útil."
+    },
+    {
+      "word": "orgullo",
+      "translation": "orgullo",
+      "example": "La palabra \"orgullo\" es útil."
+    },
+    {
+      "word": "angustia",
+      "translation": "angustia",
+      "example": "La palabra \"angustia\" es útil."
+    },
+    {
+      "word": "enfado",
+      "translation": "enfado",
+      "example": "La palabra \"enfado\" es útil."
+    },
+    {
+      "word": "estrés",
+      "translation": "estrés",
+      "example": "La palabra \"estrés\" es útil."
+    },
+    {
+      "word": "odio",
+      "translation": "odio",
+      "example": "La palabra \"odio\" es útil."
+    },
+    {
+      "word": "temor",
+      "translation": "temor",
+      "example": "La palabra \"temor\" es útil."
+    },
+    {
+      "word": "tristeza",
+      "translation": "tristeza",
+      "example": "La palabra \"tristeza\" es útil."
+    },
+    {
+      "word": "desanimado",
+      "translation": "desanimado",
+      "example": "La palabra \"desanimado\" es útil."
+    },
+    {
+      "word": "animado",
+      "translation": "animado",
+      "example": "La palabra \"animado\" es útil."
+    },
+    {
+      "word": "contento",
+      "translation": "contento",
+      "example": "La palabra \"contento\" es útil."
+    },
+    {
+      "word": "fascinado",
+      "translation": "fascinado",
+      "example": "La palabra \"fascinado\" es útil."
+    },
+    {
+      "word": "feliz",
+      "translation": "feliz",
+      "example": "La palabra \"feliz\" es útil."
+    },
+    {
+      "word": "desilusionado",
+      "translation": "desilusionado",
+      "example": "La palabra \"desilusionado\" es útil."
+    },
+    {
+      "word": "ilusionado",
+      "translation": "ilusionado",
+      "example": "La palabra \"ilusionado\" es útil."
+    },
+    {
+      "word": "satisfecho",
+      "translation": "satisfecho",
+      "example": "La palabra \"satisfecho\" es útil."
+    },
+    {
+      "word": "sorprendido",
+      "translation": "sorprendido",
+      "example": "La palabra \"sorprendido\" es útil."
+    },
+    {
+      "word": "agobiado",
+      "translation": "agobiado",
+      "example": "La palabra \"agobiado\" es útil."
+    },
+    {
+      "word": "apenado",
+      "translation": "apenado",
+      "example": "La palabra \"apenado\" es útil."
+    },
+    {
+      "word": "avergonzado",
+      "translation": "avergonzado",
+      "example": "La palabra \"avergonzado\" es útil."
+    },
+    {
+      "word": "disgustado",
+      "translation": "disgustado",
+      "example": "La palabra \"disgustado\" es útil."
+    },
+    {
+      "word": "dolido",
+      "translation": "dolido",
+      "example": "La palabra \"dolido\" es útil."
+    },
+    {
+      "word": "indignado",
+      "translation": "indignado",
+      "example": "La palabra \"indignado\" es útil."
+    },
+    {
+      "word": "resignado",
+      "translation": "resignado",
+      "example": "La palabra \"resignado\" es útil."
+    },
+    {
+      "word": "sin ánimos",
+      "translation": "sin ánimos",
+      "example": "La palabra \"sin ánimos\" es útil."
+    },
+    {
+      "word": "vista",
+      "translation": "vista",
+      "example": "La palabra \"vista\" es útil."
+    },
+    {
+      "word": "oído",
+      "translation": "oído",
+      "example": "La palabra \"oído\" es útil."
+    },
+    {
+      "word": "gusto",
+      "translation": "gusto",
+      "example": "La palabra \"gusto\" es útil."
+    },
+    {
+      "word": "tacto",
+      "translation": "tacto",
+      "example": "La palabra \"tacto\" es útil."
+    },
+    {
+      "word": "olfato",
+      "translation": "olfato",
+      "example": "La palabra \"olfato\" es útil."
+    },
+    {
+      "word": "tener un calor horrible",
+      "translation": "tener un calor horrible",
+      "example": "La palabra \"tener un calor horrible\" es útil."
+    },
+    {
+      "word": "tener un calor espantoso",
+      "translation": "tener un calor espantoso",
+      "example": "La palabra \"tener un calor espantoso\" es útil."
+    },
+    {
+      "word": "pasar un calor horrible",
+      "translation": "pasar un calor horrible",
+      "example": "La palabra \"pasar un calor horrible\" es útil."
+    },
+    {
+      "word": "pasar un calor espantoso",
+      "translation": "pasar un calor espantoso",
+      "example": "La palabra \"pasar un calor espantoso\" es útil."
+    },
+    {
+      "word": "sentir un calor horrible",
+      "translation": "sentir un calor horrible",
+      "example": "La palabra \"sentir un calor horrible\" es útil."
+    },
+    {
+      "word": "sentir un calor espantoso",
+      "translation": "sentir un calor espantoso",
+      "example": "La palabra \"sentir un calor espantoso\" es útil."
+    },
+    {
+      "word": "tener un frío horrible",
+      "translation": "tener un frío horrible",
+      "example": "La palabra \"tener un frío horrible\" es útil."
+    },
+    {
+      "word": "tener un frío espantoso",
+      "translation": "tener un frío espantoso",
+      "example": "La palabra \"tener un frío espantoso\" es útil."
+    },
+    {
+      "word": "pasar un frío horrible",
+      "translation": "pasar un frío horrible",
+      "example": "La palabra \"pasar un frío horrible\" es útil."
+    },
+    {
+      "word": "pasar un frío espantoso",
+      "translation": "pasar un frío espantoso",
+      "example": "La palabra \"pasar un frío espantoso\" es útil."
+    },
+    {
+      "word": "sentir un frío horrible",
+      "translation": "sentir un frío horrible",
+      "example": "La palabra \"sentir un frío horrible\" es útil."
+    },
+    {
+      "word": "sentir un frío espantoso",
+      "translation": "sentir un frío espantoso",
+      "example": "La palabra \"sentir un frío espantoso\" es útil."
+    },
+    {
+      "word": "tener un dolor horrible",
+      "translation": "tener un dolor horrible",
+      "example": "La palabra \"tener un dolor horrible\" es útil."
+    },
+    {
+      "word": "tener un dolor espantoso",
+      "translation": "tener un dolor espantoso",
+      "example": "La palabra \"tener un dolor espantoso\" es útil."
+    },
+    {
+      "word": "tener un sueño horrible",
+      "translation": "tener un sueño horrible",
+      "example": "La palabra \"tener un sueño horrible\" es útil."
+    },
+    {
+      "word": "tener un sueño espantoso",
+      "translation": "tener un sueño espantoso",
+      "example": "La palabra \"tener un sueño espantoso\" es útil."
+    },
+    {
+      "word": "estar agotado",
+      "translation": "estar agotado",
+      "example": "La palabra \"estar agotado\" es útil."
+    },
+    {
+      "word": "estar hambriento",
+      "translation": "estar hambriento",
+      "example": "La palabra \"estar hambriento\" es útil."
+    },
+    {
+      "word": "estar helado",
+      "translation": "estar helado",
+      "example": "La palabra \"estar helado\" es útil."
+    },
+    {
+      "word": "agotarse",
+      "translation": "agotarse",
+      "example": "La palabra \"agotarse\" es útil."
+    },
+    {
+      "word": "experimentar dolor",
+      "translation": "experimentar dolor",
+      "example": "La palabra \"experimentar dolor\" es útil."
+    },
+    {
+      "word": "estar consciente",
+      "translation": "estar consciente",
+      "example": "La palabra \"estar consciente\" es útil."
+    },
+    {
+      "word": "estar inconsciente",
+      "translation": "estar inconsciente",
+      "example": "La palabra \"estar inconsciente\" es útil."
+    },
+    {
+      "word": "estar distraído",
+      "translation": "estar distraído",
+      "example": "La palabra \"estar distraído\" es útil."
+    },
+    {
+      "word": "estar loco",
+      "translation": "estar loco",
+      "example": "La palabra \"estar loco\" es útil."
+    },
+    {
+      "word": "estar bien educado",
+      "translation": "estar bien educado",
+      "example": "La palabra \"estar bien educado\" es útil."
+    },
+    {
+      "word": "estar mal educado",
+      "translation": "estar mal educado",
+      "example": "La palabra \"estar mal educado\" es útil."
+    },
+    {
+      "word": "ser atento",
+      "translation": "ser atento",
+      "example": "La palabra \"ser atento\" es útil."
+    },
+    {
+      "word": "actuar correctamente",
+      "translation": "actuar correctamente",
+      "example": "La palabra \"actuar correctamente\" es útil."
+    },
+    {
+      "word": "tener buenos modales",
+      "translation": "tener buenos modales",
+      "example": "La palabra \"tener buenos modales\" es útil."
+    },
+    {
+      "word": "tener malos modales",
+      "translation": "tener malos modales",
+      "example": "La palabra \"tener malos modales\" es útil."
+    },
+    {
+      "word": "no tener modales",
+      "translation": "no tener modales",
+      "example": "La palabra \"no tener modales\" es útil."
+    },
+    {
+      "word": "no tener educación",
+      "translation": "no tener educación",
+      "example": "La palabra \"no tener educación\" es útil."
+    },
+    {
+      "word": "ambición",
+      "translation": "ambición",
+      "example": "La palabra \"ambición\" es útil."
+    },
+    {
+      "word": "inconstancia",
+      "translation": "inconstancia",
+      "example": "La palabra \"inconstancia\" es útil."
+    },
+    {
+      "word": "constancia",
+      "translation": "constancia",
+      "example": "La palabra \"constancia\" es útil."
+    },
+    {
+      "word": "cobardía",
+      "translation": "cobardía",
+      "example": "La palabra \"cobardía\" es útil."
+    },
+    {
+      "word": "valentía",
+      "translation": "valentía",
+      "example": "La palabra \"valentía\" es útil."
+    },
+    {
+      "word": "egoísmo",
+      "translation": "egoísmo",
+      "example": "La palabra \"egoísmo\" es útil."
+    },
+    {
+      "word": "generosidad",
+      "translation": "generosidad",
+      "example": "La palabra \"generosidad\" es útil."
+    },
+    {
+      "word": "insinceridad",
+      "translation": "insinceridad",
+      "example": "La palabra \"insinceridad\" es útil."
+    },
+    {
+      "word": "sinceridad",
+      "translation": "sinceridad",
+      "example": "La palabra \"sinceridad\" es útil."
+    },
+    {
+      "word": "justicia",
+      "translation": "justicia",
+      "example": "La palabra \"justicia\" es útil."
+    },
+    {
+      "word": "solidaridad",
+      "translation": "solidaridad",
+      "example": "La palabra \"solidaridad\" es útil."
+    },
+    {
+      "word": "ambicioso",
+      "translation": "ambicioso",
+      "example": "La palabra \"ambicioso\" es útil."
+    },
+    {
+      "word": "tacaño",
+      "translation": "tacaño",
+      "example": "La palabra \"tacaño\" es útil."
+    },
+    {
+      "word": "solidario",
+      "translation": "solidario",
+      "example": "La palabra \"solidario\" es útil."
+    },
+    {
+      "word": "justo",
+      "translation": "justo",
+      "example": "La palabra \"justo\" es útil."
+    },
+    {
+      "word": "constante",
+      "translation": "constante",
+      "example": "La palabra \"constante\" es útil."
+    },
+    {
+      "word": "mejorar",
+      "translation": "mejorar",
+      "example": "La palabra \"mejorar\" es útil."
+    },
+    {
+      "word": "progresar",
+      "translation": "progresar",
+      "example": "La palabra \"progresar\" es útil."
+    },
+    {
+      "word": "evolucionar",
+      "translation": "evolucionar",
+      "example": "La palabra \"evolucionar\" es útil."
+    }
+  ]
+}

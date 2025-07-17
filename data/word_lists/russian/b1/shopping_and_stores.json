@@ -1,0 +1,400 @@
+{
+  "topic": "Shopping and Stores",
+  "words": [
+    {
+      "word": "salida de emergencia",
+      "translation": "salida de emergencia",
+      "example": "Слово «salida de emergencia» полезно."
+    },
+    {
+      "word": "escaleras mecánicas",
+      "translation": "escaleras mecánicas",
+      "example": "Слово «escaleras mecánicas» полезно."
+    },
+    {
+      "word": "aparcamiento",
+      "translation": "aparcamiento",
+      "example": "Слово «aparcamiento» полезно."
+    },
+    {
+      "word": "oferta",
+      "translation": "oferta",
+      "example": "Слово «oferta» полезно."
+    },
+    {
+      "word": "descuento",
+      "translation": "descuento",
+      "example": "Слово «descuento» полезно."
+    },
+    {
+      "word": "garantía",
+      "translation": "garantía",
+      "example": "Слово «garantía» полезно."
+    },
+    {
+      "word": "hacer una devolución",
+      "translation": "hacer una devolución",
+      "example": "Слово «hacer una devolución» полезно."
+    },
+    {
+      "word": "hacer un cambio",
+      "translation": "hacer un cambio",
+      "example": "Слово «hacer un cambio» полезно."
+    },
+    {
+      "word": "salir de rebajas",
+      "translation": "salir de rebajas",
+      "example": "Слово «salir de rebajas» полезно."
+    },
+    {
+      "word": "ir de rebajas",
+      "translation": "ir de rebajas",
+      "example": "Слово «ir de rebajas» полезно."
+    },
+    {
+      "word": "poner rebajas",
+      "translation": "poner rebajas",
+      "example": "Слово «poner rebajas» полезно."
+    },
+    {
+      "word": "haber rebajas",
+      "translation": "haber rebajas",
+      "example": "Слово «haber rebajas» полезно."
+    },
+    {
+      "word": "tener rebajas",
+      "translation": "tener rebajas",
+      "example": "Слово «tener rebajas» полезно."
+    },
+    {
+      "word": "tener un descuento",
+      "translation": "tener un descuento",
+      "example": "Слово «tener un descuento» полезно."
+    },
+    {
+      "word": "hacer un descuento",
+      "translation": "hacer un descuento",
+      "example": "Слово «hacer un descuento» полезно."
+    },
+    {
+      "word": "subir el precio",
+      "translation": "subir el precio",
+      "example": "Слово «subir el precio» полезно."
+    },
+    {
+      "word": "bajar el precio",
+      "translation": "bajar el precio",
+      "example": "Слово «bajar el precio» полезно."
+    },
+    {
+      "word": "estar de oferta",
+      "translation": "estar de oferta",
+      "example": "Слово «estar de oferta» полезно."
+    },
+    {
+      "word": "tener garantía",
+      "translation": "tener garantía",
+      "example": "Слово «tener garantía» полезно."
+    },
+    {
+      "word": "tener precios especiales",
+      "translation": "tener precios especiales",
+      "example": "Слово «tener precios especiales» полезно."
+    },
+    {
+      "word": "haber precios especiales",
+      "translation": "haber precios especiales",
+      "example": "Слово «haber precios especiales» полезно."
+    },
+    {
+      "word": "comprar por catálogo",
+      "translation": "comprar por catálogo",
+      "example": "Слово «comprar por catálogo» полезно."
+    },
+    {
+      "word": "comprar por Internet",
+      "translation": "comprar por Internet",
+      "example": "Слово «comprar por Internet» полезно."
+    },
+    {
+      "word": "vender por catálogo",
+      "translation": "vender por catálogo",
+      "example": "Слово «vender por catálogo» полезно."
+    },
+    {
+      "word": "vender por Internet",
+      "translation": "vender por Internet",
+      "example": "Слово «vender por Internet» полезно."
+    },
+    {
+      "word": "ropa interior",
+      "translation": "ropa interior",
+      "example": "Слово «ropa interior» полезно."
+    },
+    {
+      "word": "ropa de verano",
+      "translation": "ropa de verano",
+      "example": "Слово «ropa de verano» полезно."
+    },
+    {
+      "word": "ropa de invierno",
+      "translation": "ropa de invierno",
+      "example": "Слово «ropa de invierno» полезно."
+    },
+    {
+      "word": "ropa de deporte",
+      "translation": "ropa de deporte",
+      "example": "Слово «ropa de deporte» полезно."
+    },
+    {
+      "word": "zapatos planos",
+      "translation": "zapatos planos",
+      "example": "Слово «zapatos planos» полезно."
+    },
+    {
+      "word": "zapatos de tacón",
+      "translation": "zapatos de tacón",
+      "example": "Слово «zapatos de tacón» полезно."
+    },
+    {
+      "word": "zapatillas de deporte",
+      "translation": "zapatillas de deporte",
+      "example": "Слово «zapatillas de deporte» полезно."
+    },
+    {
+      "word": "vestido de fiesta",
+      "translation": "vestido de fiesta",
+      "example": "Слово «vestido de fiesta» полезно."
+    },
+    {
+      "word": "vestido de noche",
+      "translation": "vestido de noche",
+      "example": "Слово «vestido de noche» полезно."
+    },
+    {
+      "word": "vestido de novia",
+      "translation": "vestido de novia",
+      "example": "Слово «vestido de novia» полезно."
+    },
+    {
+      "word": "traje de fiesta",
+      "translation": "traje de fiesta",
+      "example": "Слово «traje de fiesta» полезно."
+    },
+    {
+      "word": "traje de noche",
+      "translation": "traje de noche",
+      "example": "Слово «traje de noche» полезно."
+    },
+    {
+      "word": "traje de novia",
+      "translation": "traje de novia",
+      "example": "Слово «traje de novia» полезно."
+    },
+    {
+      "word": "minifalda",
+      "translation": "minifalda",
+      "example": "Слово «minifalda» полезно."
+    },
+    {
+      "word": "falda corta",
+      "translation": "falda corta",
+      "example": "Слово «falda corta» полезно."
+    },
+    {
+      "word": "falda larga",
+      "translation": "falda larga",
+      "example": "Слово «falda larga» полезно."
+    },
+    {
+      "word": "lana",
+      "translation": "lana",
+      "example": "Слово «lana» полезно."
+    },
+    {
+      "word": "algodón",
+      "translation": "algodón",
+      "example": "Слово «algodón» полезно."
+    },
+    {
+      "word": "lino",
+      "translation": "lino",
+      "example": "Слово «lino» полезно."
+    },
+    {
+      "word": "liso",
+      "translation": "liso",
+      "example": "Слово «liso» полезно."
+    },
+    {
+      "word": "de rayas",
+      "translation": "de rayas",
+      "example": "Слово «de rayas» полезно."
+    },
+    {
+      "word": "de cuadros",
+      "translation": "de cuadros",
+      "example": "Слово «de cuadros» полезно."
+    },
+    {
+      "word": "quedar bien",
+      "translation": "quedar bien",
+      "example": "Слово «quedar bien» полезно."
+    },
+    {
+      "word": "quedar mal",
+      "translation": "quedar mal",
+      "example": "Слово «quedar mal» полезно."
+    },
+    {
+      "word": "quedar ancho",
+      "translation": "quedar ancho",
+      "example": "Слово «quedar ancho» полезно."
+    },
+    {
+      "word": "quedar estrecho",
+      "translation": "quedar estrecho",
+      "example": "Слово «quedar estrecho» полезно."
+    },
+    {
+      "word": "quedar grande",
+      "translation": "quedar grande",
+      "example": "Слово «quedar grande» полезно."
+    },
+    {
+      "word": "quedar pequeño",
+      "translation": "quedar pequeño",
+      "example": "Слово «quedar pequeño» полезно."
+    },
+    {
+      "word": "quedar largo",
+      "translation": "quedar largo",
+      "example": "Слово «quedar largo» полезно."
+    },
+    {
+      "word": "quedar corto",
+      "translation": "quedar corto",
+      "example": "Слово «quedar corto» полезно."
+    },
+    {
+      "word": "coser",
+      "translation": "coser",
+      "example": "Слово «coser» полезно."
+    },
+    {
+      "word": "carro de la compra",
+      "translation": "carro de la compra",
+      "example": "Слово «carro de la compra» полезно."
+    },
+    {
+      "word": "carrito de la compra",
+      "translation": "carrito de la compra",
+      "example": "Слово «carrito de la compra» полезно."
+    },
+    {
+      "word": "cesta de la compra",
+      "translation": "cesta de la compra",
+      "example": "Слово «cesta de la compra» полезно."
+    },
+    {
+      "word": "bolsa de la compra",
+      "translation": "bolsa de la compra",
+      "example": "Слово «bolsa de la compra» полезно."
+    },
+    {
+      "word": "sección de congelados",
+      "translation": "sección de congelados",
+      "example": "Слово «sección de congelados» полезно."
+    },
+    {
+      "word": "sección de lácteos",
+      "translation": "sección de lácteos",
+      "example": "Слово «sección de lácteos» полезно."
+    },
+    {
+      "word": "sección de bebidas",
+      "translation": "sección de bebidas",
+      "example": "Слово «sección de bebidas» полезно."
+    },
+    {
+      "word": "loncha de jamón",
+      "translation": "loncha de jamón",
+      "example": "Слово «loncha de jamón» полезно."
+    },
+    {
+      "word": "loncha de queso",
+      "translation": "loncha de queso",
+      "example": "Слово «loncha de queso» полезно."
+    },
+    {
+      "word": "trozo de tarta",
+      "translation": "trozo de tarta",
+      "example": "Слово «trozo de tarta» полезно."
+    },
+    {
+      "word": "trozo de pan",
+      "translation": "trozo de pan",
+      "example": "Слово «trozo de pan» полезно."
+    },
+    {
+      "word": "estar malo",
+      "translation": "estar malo",
+      "example": "Слово «estar malo» полезно."
+    },
+    {
+      "word": "estar caducado",
+      "translation": "estar caducado",
+      "example": "Слово «estar caducado» полезно."
+    },
+    {
+      "word": "tener de oferta",
+      "translation": "tener de oferta",
+      "example": "Слово «tener de oferta» полезно."
+    },
+    {
+      "word": "tener de promoción",
+      "translation": "tener de promoción",
+      "example": "Слово «tener de promoción» полезно."
+    },
+    {
+      "word": "estar de oferta",
+      "translation": "estar de oferta",
+      "example": "Слово «estar de oferta» полезно."
+    },
+    {
+      "word": "estar de promoción",
+      "translation": "estar de promoción",
+      "example": "Слово «estar de promoción» полезно."
+    },
+    {
+      "word": "cambio",
+      "translation": "cambio",
+      "example": "Слово «cambio» полезно."
+    },
+    {
+      "word": "vuelta",
+      "translation": "vuelta",
+      "example": "Слово «vuelta» полезно."
+    },
+    {
+      "word": "pagar intereses",
+      "translation": "pagar intereses",
+      "example": "Слово «pagar intereses» полезно."
+    },
+    {
+      "word": "cobrar intereses",
+      "translation": "cobrar intereses",
+      "example": "Слово «cobrar intereses» полезно."
+    },
+    {
+      "word": "pasar por caja",
+      "translation": "pasar por caja",
+      "example": "Слово «pasar por caja» полезно."
+    },
+    {
+      "word": "pasar por la caja",
+      "translation": "pasar por la caja",
+      "example": "Слово «pasar por la caja» полезно."
+    }
+  ]
+}

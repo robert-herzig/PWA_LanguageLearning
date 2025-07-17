@@ -1,0 +1,285 @@
+{
+  "topic": "Housing",
+  "words": [
+    {
+      "word": "albañilería",
+      "translation": "albañilería",
+      "example": "The word \"albañilería\" is useful."
+    },
+    {
+      "word": "fontanería",
+      "translation": "fontanería",
+      "example": "The word \"fontanería\" is useful."
+    },
+    {
+      "word": "carpintería",
+      "translation": "carpintería",
+      "example": "The word \"carpintería\" is useful."
+    },
+    {
+      "word": "material de construcción",
+      "translation": "material de construcción",
+      "example": "The word \"material de construcción\" is useful."
+    },
+    {
+      "word": "cemento",
+      "translation": "cemento",
+      "example": "The word \"cemento\" is useful."
+    },
+    {
+      "word": "ladrillo",
+      "translation": "ladrillo",
+      "example": "The word \"ladrillo\" is useful."
+    },
+    {
+      "word": "ático",
+      "translation": "ático",
+      "example": "The word \"ático\" is useful."
+    },
+    {
+      "word": "dúplex",
+      "translation": "dúplex",
+      "example": "The word \"dúplex\" is useful."
+    },
+    {
+      "word": "buhardilla",
+      "translation": "buhardilla",
+      "example": "The word \"buhardilla\" is useful."
+    },
+    {
+      "word": "casa de campo",
+      "translation": "casa de campo",
+      "example": "The word \"casa de campo\" is useful."
+    },
+    {
+      "word": "segunda residencia",
+      "translation": "segunda residencia",
+      "example": "The word \"segunda residencia\" is useful."
+    },
+    {
+      "word": "vivienda de alquiler",
+      "translation": "vivienda de alquiler",
+      "example": "The word \"vivienda de alquiler\" is useful."
+    },
+    {
+      "word": "vivienda en propiedad",
+      "translation": "vivienda en propiedad",
+      "example": "The word \"vivienda en propiedad\" is useful."
+    },
+    {
+      "word": "escalera de incendios",
+      "translation": "escalera de incendios",
+      "example": "The word \"escalera de incendios\" is useful."
+    },
+    {
+      "word": "salida de emergencia",
+      "translation": "salida de emergencia",
+      "example": "The word \"salida de emergencia\" is useful."
+    },
+    {
+      "word": "comunidad de vecinos",
+      "translation": "comunidad de vecinos",
+      "example": "The word \"comunidad de vecinos\" is useful."
+    },
+    {
+      "word": "administrador",
+      "translation": "administrador",
+      "example": "The word \"administrador\" is useful."
+    },
+    {
+      "word": "conserje",
+      "translation": "conserje",
+      "example": "The word \"conserje\" is useful."
+    },
+    {
+      "word": "buena distribución",
+      "translation": "buena distribución",
+      "example": "The word \"buena distribución\" is useful."
+    },
+    {
+      "word": "mala distribución",
+      "translation": "mala distribución",
+      "example": "The word \"mala distribución\" is useful."
+    },
+    {
+      "word": "bien orientado",
+      "translation": "bien orientado",
+      "example": "The word \"bien orientado\" is useful."
+    },
+    {
+      "word": "mal orientado",
+      "translation": "mal orientado",
+      "example": "The word \"mal orientado\" is useful."
+    },
+    {
+      "word": "orientado al norte",
+      "translation": "orientado al norte",
+      "example": "The word \"orientado al norte\" is useful."
+    },
+    {
+      "word": "orientado al sur",
+      "translation": "orientado al sur",
+      "example": "The word \"orientado al sur\" is useful."
+    },
+    {
+      "word": "acogedor",
+      "translation": "acogedor",
+      "example": "The word \"acogedor\" is useful."
+    },
+    {
+      "word": "lujoso",
+      "translation": "lujoso",
+      "example": "The word \"lujoso\" is useful."
+    },
+    {
+      "word": "espacioso",
+      "translation": "espacioso",
+      "example": "The word \"espacioso\" is useful."
+    },
+    {
+      "word": "dar a la calle",
+      "translation": "dar a la calle",
+      "example": "The word \"dar a la calle\" is useful."
+    },
+    {
+      "word": "dar al mar",
+      "translation": "dar al mar",
+      "example": "The word \"dar al mar\" is useful."
+    },
+    {
+      "word": "escoba",
+      "translation": "escoba",
+      "example": "The word \"escoba\" is useful."
+    },
+    {
+      "word": "recogedor",
+      "translation": "recogedor",
+      "example": "The word \"recogedor\" is useful."
+    },
+    {
+      "word": "fregona",
+      "translation": "fregona",
+      "example": "The word \"fregona\" is useful."
+    },
+    {
+      "word": "trapo",
+      "translation": "trapo",
+      "example": "The word \"trapo\" is useful."
+    },
+    {
+      "word": "detergente",
+      "translation": "detergente",
+      "example": "The word \"detergente\" is useful."
+    },
+    {
+      "word": "lavavajillas",
+      "translation": "lavavajillas",
+      "example": "The word \"lavavajillas\" is useful."
+    },
+    {
+      "word": "suavizante",
+      "translation": "suavizante",
+      "example": "The word \"suavizante\" is useful."
+    },
+    {
+      "word": "suciedad",
+      "translation": "suciedad",
+      "example": "The word \"suciedad\" is useful."
+    },
+    {
+      "word": "limpieza",
+      "translation": "limpieza",
+      "example": "The word \"limpieza\" is useful."
+    },
+    {
+      "word": "arreglar la casa",
+      "translation": "arreglar la casa",
+      "example": "The word \"arreglar la casa\" is useful."
+    },
+    {
+      "word": "recoger la casa",
+      "translation": "recoger la casa",
+      "example": "The word \"recoger la casa\" is useful."
+    },
+    {
+      "word": "quitar el polvo",
+      "translation": "quitar el polvo",
+      "example": "The word \"quitar el polvo\" is useful."
+    },
+    {
+      "word": "dejar la casa recogida",
+      "translation": "dejar la casa recogida",
+      "example": "The word \"dejar la casa recogida\" is useful."
+    },
+    {
+      "word": "dejar la casa limpia",
+      "translation": "dejar la casa limpia",
+      "example": "The word \"dejar la casa limpia\" is useful."
+    },
+    {
+      "word": "tener la casa recogida",
+      "translation": "tener la casa recogida",
+      "example": "The word \"tener la casa recogida\" is useful."
+    },
+    {
+      "word": "tener la casa limpia",
+      "translation": "tener la casa limpia",
+      "example": "The word \"tener la casa limpia\" is useful."
+    },
+    {
+      "word": "freidora",
+      "translation": "freidora",
+      "example": "The word \"freidora\" is useful."
+    },
+    {
+      "word": "robot de cocina",
+      "translation": "robot de cocina",
+      "example": "The word \"robot de cocina\" is useful."
+    },
+    {
+      "word": "exprimidor",
+      "translation": "exprimidor",
+      "example": "The word \"exprimidor\" is useful."
+    },
+    {
+      "word": "picadora",
+      "translation": "picadora",
+      "example": "The word \"picadora\" is useful."
+    },
+    {
+      "word": "batidora",
+      "translation": "batidora",
+      "example": "The word \"batidora\" is useful."
+    },
+    {
+      "word": "timbre",
+      "translation": "timbre",
+      "example": "The word \"timbre\" is useful."
+    },
+    {
+      "word": "bombilla",
+      "translation": "bombilla",
+      "example": "The word \"bombilla\" is useful."
+    },
+    {
+      "word": "linterna",
+      "translation": "linterna",
+      "example": "The word \"linterna\" is useful."
+    },
+    {
+      "word": "enchufe",
+      "translation": "enchufe",
+      "example": "The word \"enchufe\" is useful."
+    },
+    {
+      "word": "interruptor",
+      "translation": "interruptor",
+      "example": "The word \"interruptor\" is useful."
+    },
+    {
+      "word": "cable",
+      "translation": "cable",
+      "example": "The word \"cable\" is useful."
+    }
+  ]
+}

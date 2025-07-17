@@ -1,0 +1,355 @@
+{
+  "topic": "Science and Technology",
+  "words": [
+    {
+      "word": "estudio",
+      "translation": "estudio",
+      "example": "La palabra \"estudio\" es útil."
+    },
+    {
+      "word": "análisis",
+      "translation": "análisis",
+      "example": "La palabra \"análisis\" es útil."
+    },
+    {
+      "word": "método",
+      "translation": "método",
+      "example": "La palabra \"método\" es útil."
+    },
+    {
+      "word": "materia",
+      "translation": "materia",
+      "example": "La palabra \"materia\" es útil."
+    },
+    {
+      "word": "invento",
+      "translation": "invento",
+      "example": "La palabra \"invento\" es útil."
+    },
+    {
+      "word": "descubrimiento",
+      "translation": "descubrimiento",
+      "example": "La palabra \"descubrimiento\" es útil."
+    },
+    {
+      "word": "laboratorio",
+      "translation": "laboratorio",
+      "example": "La palabra \"laboratorio\" es útil."
+    },
+    {
+      "word": "experimento",
+      "translation": "experimento",
+      "example": "La palabra \"experimento\" es útil."
+    },
+    {
+      "word": "conocer",
+      "translation": "conocer",
+      "example": "La palabra \"conocer\" es útil."
+    },
+    {
+      "word": "inventar",
+      "translation": "inventar",
+      "example": "La palabra \"inventar\" es útil."
+    },
+    {
+      "word": "ecología",
+      "translation": "ecología",
+      "example": "La palabra \"ecología\" es útil."
+    },
+    {
+      "word": "biología",
+      "translation": "biología",
+      "example": "La palabra \"biología\" es útil."
+    },
+    {
+      "word": "veterinaria",
+      "translation": "veterinaria",
+      "example": "La palabra \"veterinaria\" es útil."
+    },
+    {
+      "word": "genética",
+      "translation": "genética",
+      "example": "La palabra \"genética\" es útil."
+    },
+    {
+      "word": "biólogo",
+      "translation": "biólogo",
+      "example": "La palabra \"biólogo\" es útil."
+    },
+    {
+      "word": "veterinario",
+      "translation": "veterinario",
+      "example": "La palabra \"veterinario\" es útil."
+    },
+    {
+      "word": "vida",
+      "translation": "vida",
+      "example": "La palabra \"vida\" es útil."
+    },
+    {
+      "word": "ecológico",
+      "translation": "ecológico",
+      "example": "La palabra \"ecológico\" es útil."
+    },
+    {
+      "word": "círculo",
+      "translation": "círculo",
+      "example": "La palabra \"círculo\" es útil."
+    },
+    {
+      "word": "triángulo",
+      "translation": "triángulo",
+      "example": "La palabra \"triángulo\" es útil."
+    },
+    {
+      "word": "sumar",
+      "translation": "sumar",
+      "example": "La palabra \"sumar\" es útil."
+    },
+    {
+      "word": "restar",
+      "translation": "restar",
+      "example": "La palabra \"restar\" es útil."
+    },
+    {
+      "word": "multiplicar",
+      "translation": "multiplicar",
+      "example": "La palabra \"multiplicar\" es útil."
+    },
+    {
+      "word": "dividir",
+      "translation": "dividir",
+      "example": "La palabra \"dividir\" es útil."
+    },
+    {
+      "word": "teclado",
+      "translation": "teclado",
+      "example": "La palabra \"teclado\" es útil."
+    },
+    {
+      "word": "tecla",
+      "translation": "tecla",
+      "example": "La palabra \"tecla\" es útil."
+    },
+    {
+      "word": "pantalla",
+      "translation": "pantalla",
+      "example": "La palabra \"pantalla\" es útil."
+    },
+    {
+      "word": "ratón",
+      "translation": "ratón",
+      "example": "La palabra \"ratón\" es útil."
+    },
+    {
+      "word": "cibercafé",
+      "translation": "cibercafé",
+      "example": "La palabra \"cibercafé\" es útil."
+    },
+    {
+      "word": "impresora láser",
+      "translation": "impresora láser",
+      "example": "La palabra \"impresora láser\" es útil."
+    },
+    {
+      "word": "impresora en color",
+      "translation": "impresora en color",
+      "example": "La palabra \"impresora en color\" es útil."
+    },
+    {
+      "word": "antivirus",
+      "translation": "antivirus",
+      "example": "La palabra \"antivirus\" es útil."
+    },
+    {
+      "word": "hacer clic con el ratón",
+      "translation": "hacer clic con el ratón",
+      "example": "La palabra \"hacer clic con el ratón\" es útil."
+    },
+    {
+      "word": "hacer clic",
+      "translation": "hacer clic",
+      "example": "La palabra \"hacer clic\" es útil."
+    },
+    {
+      "word": "pulsar",
+      "translation": "pulsar",
+      "example": "La palabra \"pulsar\" es útil."
+    },
+    {
+      "word": "abrir un documento",
+      "translation": "abrir un documento",
+      "example": "La palabra \"abrir un documento\" es útil."
+    },
+    {
+      "word": "cerrar un documento",
+      "translation": "cerrar un documento",
+      "example": "La palabra \"cerrar un documento\" es útil."
+    },
+    {
+      "word": "guardar un documento",
+      "translation": "guardar un documento",
+      "example": "La palabra \"guardar un documento\" es útil."
+    },
+    {
+      "word": "eliminar un documento",
+      "translation": "eliminar un documento",
+      "example": "La palabra \"eliminar un documento\" es útil."
+    },
+    {
+      "word": "copiar una palabra",
+      "translation": "copiar una palabra",
+      "example": "La palabra \"copiar una palabra\" es útil."
+    },
+    {
+      "word": "cortar una palabra",
+      "translation": "cortar una palabra",
+      "example": "La palabra \"cortar una palabra\" es útil."
+    },
+    {
+      "word": "pegar una palabra",
+      "translation": "pegar una palabra",
+      "example": "La palabra \"pegar una palabra\" es útil."
+    },
+    {
+      "word": "insertar una palabra",
+      "translation": "insertar una palabra",
+      "example": "La palabra \"insertar una palabra\" es útil."
+    },
+    {
+      "word": "seleccionar una palabra",
+      "translation": "seleccionar una palabra",
+      "example": "La palabra \"seleccionar una palabra\" es útil."
+    },
+    {
+      "word": "buscar una palabra",
+      "translation": "buscar una palabra",
+      "example": "La palabra \"buscar una palabra\" es útil."
+    },
+    {
+      "word": "desinstalar un programa",
+      "translation": "desinstalar un programa",
+      "example": "La palabra \"desinstalar un programa\" es útil."
+    },
+    {
+      "word": "instalar un programa",
+      "translation": "instalar un programa",
+      "example": "La palabra \"instalar un programa\" es útil."
+    },
+    {
+      "word": "usuario",
+      "translation": "usuario",
+      "example": "La palabra \"usuario\" es útil."
+    },
+    {
+      "word": "contraseña",
+      "translation": "contraseña",
+      "example": "La palabra \"contraseña\" es útil."
+    },
+    {
+      "word": "bajarse un programa",
+      "translation": "bajarse un programa",
+      "example": "La palabra \"bajarse un programa\" es útil."
+    },
+    {
+      "word": "descargarse un programa",
+      "translation": "descargarse un programa",
+      "example": "La palabra \"descargarse un programa\" es útil."
+    },
+    {
+      "word": "física",
+      "translation": "física",
+      "example": "La palabra \"física\" es útil."
+    },
+    {
+      "word": "química",
+      "translation": "química",
+      "example": "La palabra \"química\" es útil."
+    },
+    {
+      "word": "energía",
+      "translation": "energía",
+      "example": "La palabra \"energía\" es útil."
+    },
+    {
+      "word": "electricidad",
+      "translation": "electricidad",
+      "example": "La palabra \"electricidad\" es útil."
+    },
+    {
+      "word": "oro",
+      "translation": "oro",
+      "example": "La palabra \"oro\" es útil."
+    },
+    {
+      "word": "plata",
+      "translation": "plata",
+      "example": "La palabra \"plata\" es útil."
+    },
+    {
+      "word": "hierro",
+      "translation": "hierro",
+      "example": "La palabra \"hierro\" es útil."
+    },
+    {
+      "word": "físico",
+      "translation": "físico",
+      "example": "La palabra \"físico\" es útil."
+    },
+    {
+      "word": "químico",
+      "translation": "químico",
+      "example": "La palabra \"químico\" es útil."
+    },
+    {
+      "word": "electrónico",
+      "translation": "electrónico",
+      "example": "La palabra \"electrónico\" es útil."
+    },
+    {
+      "word": "orgánico",
+      "translation": "orgánico",
+      "example": "La palabra \"orgánico\" es útil."
+    },
+    {
+      "word": "inorgánico",
+      "translation": "inorgánico",
+      "example": "La palabra \"inorgánico\" es útil."
+    },
+    {
+      "word": "símbolo químico",
+      "translation": "símbolo químico",
+      "example": "La palabra \"símbolo químico\" es útil."
+    },
+    {
+      "word": "elemento químico",
+      "translation": "elemento químico",
+      "example": "La palabra \"elemento químico\" es útil."
+    },
+    {
+      "word": "estado sólido",
+      "translation": "estado sólido",
+      "example": "La palabra \"estado sólido\" es útil."
+    },
+    {
+      "word": "estado líquido",
+      "translation": "estado líquido",
+      "example": "La palabra \"estado líquido\" es útil."
+    },
+    {
+      "word": "estado gaseoso",
+      "translation": "estado gaseoso",
+      "example": "La palabra \"estado gaseoso\" es útil."
+    },
+    {
+      "word": "congelarse",
+      "translation": "congelarse",
+      "example": "La palabra \"congelarse\" es útil."
+    },
+    {
+      "word": "evaporarse",
+      "translation": "evaporarse",
+      "example": "La palabra \"evaporarse\" es útil."
+    }
+  ]
+}

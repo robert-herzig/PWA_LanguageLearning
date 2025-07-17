@@ -1,0 +1,15 @@
+{
+  "topic": "Health",
+  "words": [
+    {
+      "word": "болезнь",
+      "translation": "enfermedad",
+      "example": "Эта болезнь легко передаётся."
+    },
+    {
+      "word": "лечение",
+      "translation": "tratamiento",
+      "example": "Лечение продлится три недели."
+    }
+  ]
+}

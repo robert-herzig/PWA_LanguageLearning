@@ -1,0 +1,515 @@
+{
+  "topic": "Arts and Culture",
+  "words": [
+    {
+      "word": "imaginación",
+      "translation": "imaginación",
+      "example": "La palabra \"imaginación\" es útil."
+    },
+    {
+      "word": "obra de arte",
+      "translation": "obra de arte",
+      "example": "La palabra \"obra de arte\" es útil."
+    },
+    {
+      "word": "galería de arte",
+      "translation": "galería de arte",
+      "example": "La palabra \"galería de arte\" es útil."
+    },
+    {
+      "word": "arquitectura",
+      "translation": "arquitectura",
+      "example": "La palabra \"arquitectura\" es útil."
+    },
+    {
+      "word": "arte clásico",
+      "translation": "arte clásico",
+      "example": "La palabra \"arte clásico\" es útil."
+    },
+    {
+      "word": "arte moderno",
+      "translation": "arte moderno",
+      "example": "La palabra \"arte moderno\" es útil."
+    },
+    {
+      "word": "estilo clásico",
+      "translation": "estilo clásico",
+      "example": "La palabra \"estilo clásico\" es útil."
+    },
+    {
+      "word": "estilo moderno",
+      "translation": "estilo moderno",
+      "example": "La palabra \"estilo moderno\" es útil."
+    },
+    {
+      "word": "crear",
+      "translation": "crear",
+      "example": "La palabra \"crear\" es útil."
+    },
+    {
+      "word": "diseñar",
+      "translation": "diseñar",
+      "example": "La palabra \"diseñar\" es útil."
+    },
+    {
+      "word": "fotografiar",
+      "translation": "fotografiar",
+      "example": "La palabra \"fotografiar\" es útil."
+    },
+    {
+      "word": "artístico",
+      "translation": "artístico",
+      "example": "La palabra \"artístico\" es útil."
+    },
+    {
+      "word": "original",
+      "translation": "original",
+      "example": "La palabra \"original\" es útil."
+    },
+    {
+      "word": "ser un genio",
+      "translation": "ser un genio",
+      "example": "La palabra \"ser un genio\" es útil."
+    },
+    {
+      "word": "baile",
+      "translation": "baile",
+      "example": "La palabra \"baile\" es útil."
+    },
+    {
+      "word": "bailarín",
+      "translation": "bailarín",
+      "example": "La palabra \"bailarín\" es útil."
+    },
+    {
+      "word": "ballet",
+      "translation": "ballet",
+      "example": "La palabra \"ballet\" es útil."
+    },
+    {
+      "word": "orquesta",
+      "translation": "orquesta",
+      "example": "La palabra \"orquesta\" es útil."
+    },
+    {
+      "word": "grupo musical",
+      "translation": "grupo musical",
+      "example": "La palabra \"grupo musical\" es útil."
+    },
+    {
+      "word": "letra de una canción",
+      "translation": "letra de una canción",
+      "example": "La palabra \"letra de una canción\" es útil."
+    },
+    {
+      "word": "compositor",
+      "translation": "compositor",
+      "example": "La palabra \"compositor\" es útil."
+    },
+    {
+      "word": "director de orquesta",
+      "translation": "director de orquesta",
+      "example": "La palabra \"director de orquesta\" es útil."
+    },
+    {
+      "word": "guitarrista",
+      "translation": "guitarrista",
+      "example": "La palabra \"guitarrista\" es útil."
+    },
+    {
+      "word": "pianista",
+      "translation": "pianista",
+      "example": "La palabra \"pianista\" es útil."
+    },
+    {
+      "word": "violinista",
+      "translation": "violinista",
+      "example": "La palabra \"violinista\" es útil."
+    },
+    {
+      "word": "obra de arte",
+      "translation": "obra de arte",
+      "example": "La palabra \"obra de arte\" es útil."
+    },
+    {
+      "word": "galería de arte",
+      "translation": "galería de arte",
+      "example": "La palabra \"galería de arte\" es útil."
+    },
+    {
+      "word": "diseñador",
+      "translation": "diseñador",
+      "example": "La palabra \"diseñador\" es útil."
+    },
+    {
+      "word": "escultor",
+      "translation": "escultor",
+      "example": "La palabra \"escultor\" es útil."
+    },
+    {
+      "word": "arquitectura",
+      "translation": "arquitectura",
+      "example": "La palabra \"arquitectura\" es útil."
+    },
+    {
+      "word": "escultura",
+      "translation": "escultura",
+      "example": "La palabra \"escultura\" es útil."
+    },
+    {
+      "word": "diseñar",
+      "translation": "diseñar",
+      "example": "La palabra \"diseñar\" es útil."
+    },
+    {
+      "word": "pintar un cuadro",
+      "translation": "pintar un cuadro",
+      "example": "La palabra \"pintar un cuadro\" es útil."
+    },
+    {
+      "word": "pintar un paisaje",
+      "translation": "pintar un paisaje",
+      "example": "La palabra \"pintar un paisaje\" es útil."
+    },
+    {
+      "word": "pintar un retrato",
+      "translation": "pintar un retrato",
+      "example": "La palabra \"pintar un retrato\" es útil."
+    },
+    {
+      "word": "construir un acueducto",
+      "translation": "construir un acueducto",
+      "example": "La palabra \"construir un acueducto\" es útil."
+    },
+    {
+      "word": "construir una muralla",
+      "translation": "construir una muralla",
+      "example": "La palabra \"construir una muralla\" es útil."
+    },
+    {
+      "word": "construir una mezquita",
+      "translation": "construir una mezquita",
+      "example": "La palabra \"construir una mezquita\" es útil."
+    },
+    {
+      "word": "construir una sinagoga",
+      "translation": "construir una sinagoga",
+      "example": "La palabra \"construir una sinagoga\" es útil."
+    },
+    {
+      "word": "poeta",
+      "translation": "poeta",
+      "example": "La palabra \"poeta\" es útil."
+    },
+    {
+      "word": "novelista",
+      "translation": "novelista",
+      "example": "La palabra \"novelista\" es útil."
+    },
+    {
+      "word": "traductor",
+      "translation": "traductor",
+      "example": "La palabra \"traductor\" es útil."
+    },
+    {
+      "word": "personaje",
+      "translation": "personaje",
+      "example": "La palabra \"personaje\" es útil."
+    },
+    {
+      "word": "protagonista",
+      "translation": "protagonista",
+      "example": "La palabra \"protagonista\" es útil."
+    },
+    {
+      "word": "poema",
+      "translation": "poema",
+      "example": "La palabra \"poema\" es útil."
+    },
+    {
+      "word": "autobiografía",
+      "translation": "autobiografía",
+      "example": "La palabra \"autobiografía\" es útil."
+    },
+    {
+      "word": "biografía",
+      "translation": "biografía",
+      "example": "La palabra \"biografía\" es útil."
+    },
+    {
+      "word": "literatura clásica",
+      "translation": "literatura clásica",
+      "example": "La palabra \"literatura clásica\" es útil."
+    },
+    {
+      "word": "literatura moderna",
+      "translation": "literatura moderna",
+      "example": "La palabra \"literatura moderna\" es útil."
+    },
+    {
+      "word": "novela policiaca",
+      "translation": "novela policiaca",
+      "example": "La palabra \"novela policiaca\" es útil."
+    },
+    {
+      "word": "novela histórica",
+      "translation": "novela histórica",
+      "example": "La palabra \"novela histórica\" es útil."
+    },
+    {
+      "word": "novela de amor",
+      "translation": "novela de amor",
+      "example": "La palabra \"novela de amor\" es útil."
+    },
+    {
+      "word": "novela de ciencia ficción",
+      "translation": "novela de ciencia ficción",
+      "example": "La palabra \"novela de ciencia ficción\" es útil."
+    },
+    {
+      "word": "novela de aventuras",
+      "translation": "novela de aventuras",
+      "example": "La palabra \"novela de aventuras\" es útil."
+    },
+    {
+      "word": "contar la historia de",
+      "translation": "contar la historia de",
+      "example": "La palabra \"contar la historia de\" es útil."
+    },
+    {
+      "word": "tratar de",
+      "translation": "tratar de",
+      "example": "La palabra \"tratar de\" es útil."
+    },
+    {
+      "word": "cámara digital",
+      "translation": "cámara digital",
+      "example": "La palabra \"cámara digital\" es útil."
+    },
+    {
+      "word": "fotografía digital",
+      "translation": "fotografía digital",
+      "example": "La palabra \"fotografía digital\" es útil."
+    },
+    {
+      "word": "foto digital",
+      "translation": "foto digital",
+      "example": "La palabra \"foto digital\" es útil."
+    },
+    {
+      "word": "fotografía en color",
+      "translation": "fotografía en color",
+      "example": "La palabra \"fotografía en color\" es útil."
+    },
+    {
+      "word": "foto en color",
+      "translation": "foto en color",
+      "example": "La palabra \"foto en color\" es útil."
+    },
+    {
+      "word": "fotografía en blanco y negro",
+      "translation": "fotografía en blanco y negro",
+      "example": "La palabra \"fotografía en blanco y negro\" es útil."
+    },
+    {
+      "word": "foto en blanco y negro",
+      "translation": "foto en blanco y negro",
+      "example": "La palabra \"foto en blanco y negro\" es útil."
+    },
+    {
+      "word": "flash",
+      "translation": "flash",
+      "example": "La palabra \"flash\" es útil."
+    },
+    {
+      "word": "zum",
+      "translation": "zum",
+      "example": "La palabra \"zum\" es útil."
+    },
+    {
+      "word": "álbum de fotos",
+      "translation": "álbum de fotos",
+      "example": "La palabra \"álbum de fotos\" es útil."
+    },
+    {
+      "word": "fotografiar",
+      "translation": "fotografiar",
+      "example": "La palabra \"fotografiar\" es útil."
+    },
+    {
+      "word": "tomar una foto",
+      "translation": "tomar una foto",
+      "example": "La palabra \"tomar una foto\" es útil."
+    },
+    {
+      "word": "sacar una foto",
+      "translation": "sacar una foto",
+      "example": "La palabra \"sacar una foto\" es útil."
+    },
+    {
+      "word": "hacer una copia",
+      "translation": "hacer una copia",
+      "example": "La palabra \"hacer una copia\" es útil."
+    },
+    {
+      "word": "imprimir",
+      "translation": "imprimir",
+      "example": "La palabra \"imprimir\" es útil."
+    },
+    {
+      "word": "cartelera",
+      "translation": "cartelera",
+      "example": "La palabra \"cartelera\" es útil."
+    },
+    {
+      "word": "día del espectador",
+      "translation": "día del espectador",
+      "example": "La palabra \"día del espectador\" es útil."
+    },
+    {
+      "word": "espectáculo",
+      "translation": "espectáculo",
+      "example": "La palabra \"espectáculo\" es útil."
+    },
+    {
+      "word": "comedia",
+      "translation": "comedia",
+      "example": "La palabra \"comedia\" es útil."
+    },
+    {
+      "word": "drama",
+      "translation": "drama",
+      "example": "La palabra \"drama\" es útil."
+    },
+    {
+      "word": "asiento",
+      "translation": "asiento",
+      "example": "La palabra \"asiento\" es útil."
+    },
+    {
+      "word": "pantalla",
+      "translation": "pantalla",
+      "example": "La palabra \"pantalla\" es útil."
+    },
+    {
+      "word": "escenario",
+      "translation": "escenario",
+      "example": "La palabra \"escenario\" es útil."
+    },
+    {
+      "word": "personaje",
+      "translation": "personaje",
+      "example": "La palabra \"personaje\" es útil."
+    },
+    {
+      "word": "protagonista",
+      "translation": "protagonista",
+      "example": "La palabra \"protagonista\" es útil."
+    },
+    {
+      "word": "película policiaca",
+      "translation": "película policiaca",
+      "example": "La palabra \"película policiaca\" es útil."
+    },
+    {
+      "word": "película romántica",
+      "translation": "película romántica",
+      "example": "La palabra \"película romántica\" es útil."
+    },
+    {
+      "word": "película de amor",
+      "translation": "película de amor",
+      "example": "La palabra \"película de amor\" es útil."
+    },
+    {
+      "word": "película de terror",
+      "translation": "película de terror",
+      "example": "La palabra \"película de terror\" es útil."
+    },
+    {
+      "word": "película de risa",
+      "translation": "película de risa",
+      "example": "La palabra \"película de risa\" es útil."
+    },
+    {
+      "word": "película de ciencia ficción",
+      "translation": "película de ciencia ficción",
+      "example": "La palabra \"película de ciencia ficción\" es útil."
+    },
+    {
+      "word": "película de acción",
+      "translation": "película de acción",
+      "example": "La palabra \"película de acción\" es útil."
+    },
+    {
+      "word": "película de aventuras",
+      "translation": "película de aventuras",
+      "example": "La palabra \"película de aventuras\" es útil."
+    },
+    {
+      "word": "película de guerra",
+      "translation": "película de guerra",
+      "example": "La palabra \"película de guerra\" es útil."
+    },
+    {
+      "word": "película de dibujos animados",
+      "translation": "película de dibujos animados",
+      "example": "La palabra \"película de dibujos animados\" es útil."
+    },
+    {
+      "word": "película en versión original",
+      "translation": "película en versión original",
+      "example": "La palabra \"película en versión original\" es útil."
+    },
+    {
+      "word": "película doblada",
+      "translation": "película doblada",
+      "example": "La palabra \"película doblada\" es útil."
+    },
+    {
+      "word": "película subtitulada",
+      "translation": "película subtitulada",
+      "example": "La palabra \"película subtitulada\" es útil."
+    },
+    {
+      "word": "final feliz",
+      "translation": "final feliz",
+      "example": "La palabra \"final feliz\" es útil."
+    },
+    {
+      "word": "final triste",
+      "translation": "final triste",
+      "example": "La palabra \"final triste\" es útil."
+    },
+    {
+      "word": "final abierto",
+      "translation": "final abierto",
+      "example": "La palabra \"final abierto\" es útil."
+    },
+    {
+      "word": "hacer una película",
+      "translation": "hacer una película",
+      "example": "La palabra \"hacer una película\" es útil."
+    },
+    {
+      "word": "poner una película",
+      "translation": "poner una película",
+      "example": "La palabra \"poner una película\" es útil."
+    },
+    {
+      "word": "poner una obra de teatro",
+      "translation": "poner una obra de teatro",
+      "example": "La palabra \"poner una obra de teatro\" es útil."
+    },
+    {
+      "word": "contar la historia de",
+      "translation": "contar la historia de",
+      "example": "La palabra \"contar la historia de\" es útil."
+    },
+    {
+      "word": "tratar de",
+      "translation": "tratar de",
+      "example": "La palabra \"tratar de\" es útil."
+    }
+  ]
+}

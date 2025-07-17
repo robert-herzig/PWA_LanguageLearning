@@ -1,0 +1,490 @@
+{
+  "topic": "Leisure",
+  "words": [
+    {
+      "word": "descanso",
+      "translation": "descanso",
+      "example": "Слово «descanso» полезно."
+    },
+    {
+      "word": "vacación",
+      "translation": "vacación",
+      "example": "Слово «vacación» полезно."
+    },
+    {
+      "word": "cocina",
+      "translation": "cocina",
+      "example": "Слово «cocina» полезно."
+    },
+    {
+      "word": "jardinería",
+      "translation": "jardinería",
+      "example": "Слово «jardinería» полезно."
+    },
+    {
+      "word": "bricolaje",
+      "translation": "bricolaje",
+      "example": "Слово «bricolaje» полезно."
+    },
+    {
+      "word": "ir de camping",
+      "translation": "ir de camping",
+      "example": "Слово «ir de camping» полезно."
+    },
+    {
+      "word": "hacer un picnic",
+      "translation": "hacer un picnic",
+      "example": "Слово «hacer un picnic» полезно."
+    },
+    {
+      "word": "hacer turismo",
+      "translation": "hacer turismo",
+      "example": "Слово «hacer turismo» полезно."
+    },
+    {
+      "word": "inscribirse en un club",
+      "translation": "inscribirse en un club",
+      "example": "Слово «inscribirse en un club» полезно."
+    },
+    {
+      "word": "inscribirse en una asociación",
+      "translation": "inscribirse en una asociación",
+      "example": "Слово «inscribirse en una asociación» полезно."
+    },
+    {
+      "word": "inscribirse en un grupo",
+      "translation": "inscribirse en un grupo",
+      "example": "Слово «inscribirse en un grupo» полезно."
+    },
+    {
+      "word": "colaborar como voluntario",
+      "translation": "colaborar como voluntario",
+      "example": "Слово «colaborar como voluntario» полезно."
+    },
+    {
+      "word": "tener tiempo libre",
+      "translation": "tener tiempo libre",
+      "example": "Слово «tener tiempo libre» полезно."
+    },
+    {
+      "word": "estar ocupado",
+      "translation": "estar ocupado",
+      "example": "Слово «estar ocupado» полезно."
+    },
+    {
+      "word": "estar libre",
+      "translation": "estar libre",
+      "example": "Слово «estar libre» полезно."
+    },
+    {
+      "word": "tener un compromiso",
+      "translation": "tener un compromiso",
+      "example": "Слово «tener un compromiso» полезно."
+    },
+    {
+      "word": "ir de copas",
+      "translation": "ir de copas",
+      "example": "Слово «ir de copas» полезно."
+    },
+    {
+      "word": "ir de tapas",
+      "translation": "ir de tapas",
+      "example": "Слово «ir de tapas» полезно."
+    },
+    {
+      "word": "ir de marcha",
+      "translation": "ir de marcha",
+      "example": "Слово «ir de marcha» полезно."
+    },
+    {
+      "word": "salir de copas",
+      "translation": "salir de copas",
+      "example": "Слово «salir de copas» полезно."
+    },
+    {
+      "word": "salir de tapas",
+      "translation": "salir de tapas",
+      "example": "Слово «salir de tapas» полезно."
+    },
+    {
+      "word": "salir de marcha",
+      "translation": "salir de marcha",
+      "example": "Слово «salir de marcha» полезно."
+    },
+    {
+      "word": "aburrirse",
+      "translation": "aburrirse",
+      "example": "Слово «aburrirse» полезно."
+    },
+    {
+      "word": "pasarlo bien",
+      "translation": "pasarlo bien",
+      "example": "Слово «pasarlo bien» полезно."
+    },
+    {
+      "word": "pasarlo mal",
+      "translation": "pasarlo mal",
+      "example": "Слово «pasarlo mal» полезно."
+    },
+    {
+      "word": "divertirse",
+      "translation": "divertirse",
+      "example": "Слово «divertirse» полезно."
+    },
+    {
+      "word": "hacer un curso de jardinería",
+      "translation": "hacer un curso de jardinería",
+      "example": "Слово «hacer un curso de jardinería» полезно."
+    },
+    {
+      "word": "hacer un curso de cocina",
+      "translation": "hacer un curso de cocina",
+      "example": "Слово «hacer un curso de cocina» полезно."
+    },
+    {
+      "word": "ser aficionado a hacer crucigramas",
+      "translation": "ser aficionado a hacer crucigramas",
+      "example": "Слово «ser aficionado a hacer crucigramas» полезно."
+    },
+    {
+      "word": "coleccionar sellos",
+      "translation": "coleccionar sellos",
+      "example": "Слово «coleccionar sellos» полезно."
+    },
+    {
+      "word": "coleccionar monedas",
+      "translation": "coleccionar monedas",
+      "example": "Слово «coleccionar monedas» полезно."
+    },
+    {
+      "word": "asiento de un cine",
+      "translation": "asiento de un cine",
+      "example": "Слово «asiento de un cine» полезно."
+    },
+    {
+      "word": "asiento de un teatro",
+      "translation": "asiento de un teatro",
+      "example": "Слово «asiento de un teatro» полезно."
+    },
+    {
+      "word": "fila de un cine",
+      "translation": "fila de un cine",
+      "example": "Слово «fila de un cine» полезно."
+    },
+    {
+      "word": "fila de un teatro",
+      "translation": "fila de un teatro",
+      "example": "Слово «fila de un teatro» полезно."
+    },
+    {
+      "word": "espectador",
+      "translation": "espectador",
+      "example": "Слово «espectador» полезно."
+    },
+    {
+      "word": "público",
+      "translation": "público",
+      "example": "Слово «público» полезно."
+    },
+    {
+      "word": "escenario",
+      "translation": "escenario",
+      "example": "Слово «escenario» полезно."
+    },
+    {
+      "word": "galería de arte",
+      "translation": "galería de arte",
+      "example": "Слово «galería de arte» полезно."
+    },
+    {
+      "word": "plaza de toros",
+      "translation": "plaza de toros",
+      "example": "Слово «plaza de toros» полезно."
+    },
+    {
+      "word": "poner una película",
+      "translation": "poner una película",
+      "example": "Слово «poner una película» полезно."
+    },
+    {
+      "word": "hacer cola",
+      "translation": "hacer cola",
+      "example": "Слово «hacer cola» полезно."
+    },
+    {
+      "word": "ser un éxito",
+      "translation": "ser un éxito",
+      "example": "Слово «ser un éxito» полезно."
+    },
+    {
+      "word": "árbitro",
+      "translation": "árbitro",
+      "example": "Слово «árbitro» полезно."
+    },
+    {
+      "word": "entrenador",
+      "translation": "entrenador",
+      "example": "Слово «entrenador» полезно."
+    },
+    {
+      "word": "deportista",
+      "translation": "deportista",
+      "example": "Слово «deportista» полезно."
+    },
+    {
+      "word": "jugador",
+      "translation": "jugador",
+      "example": "Слово «jugador» полезно."
+    },
+    {
+      "word": "perdedor",
+      "translation": "perdedor",
+      "example": "Слово «perdedor» полезно."
+    },
+    {
+      "word": "ganador",
+      "translation": "ganador",
+      "example": "Слово «ganador» полезно."
+    },
+    {
+      "word": "balón de fútbol",
+      "translation": "balón de fútbol",
+      "example": "Слово «balón de fútbol» полезно."
+    },
+    {
+      "word": "balón de baloncesto",
+      "translation": "balón de baloncesto",
+      "example": "Слово «balón de baloncesto» полезно."
+    },
+    {
+      "word": "pelota de tenis",
+      "translation": "pelota de tenis",
+      "example": "Слово «pelota de tenis» полезно."
+    },
+    {
+      "word": "pelota de golf",
+      "translation": "pelota de golf",
+      "example": "Слово «pelota de golf» полезно."
+    },
+    {
+      "word": "raqueta",
+      "translation": "raqueta",
+      "example": "Слово «raqueta» полезно."
+    },
+    {
+      "word": "esquíes",
+      "translation": "esquíes",
+      "example": "Слово «esquíes» полезно."
+    },
+    {
+      "word": "partido de fútbol",
+      "translation": "partido de fútbol",
+      "example": "Слово «partido de fútbol» полезно."
+    },
+    {
+      "word": "partido de baloncesto",
+      "translation": "partido de baloncesto",
+      "example": "Слово «partido de baloncesto» полезно."
+    },
+    {
+      "word": "equipo de fútbol",
+      "translation": "equipo de fútbol",
+      "example": "Слово «equipo de fútbol» полезно."
+    },
+    {
+      "word": "equipo de baloncesto",
+      "translation": "equipo de baloncesto",
+      "example": "Слово «equipo de baloncesto» полезно."
+    },
+    {
+      "word": "carrera ciclista",
+      "translation": "carrera ciclista",
+      "example": "Слово «carrera ciclista» полезно."
+    },
+    {
+      "word": "carrera de motos",
+      "translation": "carrera de motos",
+      "example": "Слово «carrera de motos» полезно."
+    },
+    {
+      "word": "carrera de coches",
+      "translation": "carrera de coches",
+      "example": "Слово «carrera de coches» полезно."
+    },
+    {
+      "word": "guantes de boxeo",
+      "translation": "guantes de boxeo",
+      "example": "Слово «guantes de boxeo» полезно."
+    },
+    {
+      "word": "chándal",
+      "translation": "chándal",
+      "example": "Слово «chándal» полезно."
+    },
+    {
+      "word": "zapatos deportivos",
+      "translation": "zapatos deportivos",
+      "example": "Слово «zapatos deportivos» полезно."
+    },
+    {
+      "word": "ganar",
+      "translation": "ganar",
+      "example": "Слово «ganar» полезно."
+    },
+    {
+      "word": "perder",
+      "translation": "perder",
+      "example": "Слово «perder» полезно."
+    },
+    {
+      "word": "empatar",
+      "translation": "empatar",
+      "example": "Слово «empatar» полезно."
+    },
+    {
+      "word": "jugar al balonmano",
+      "translation": "jugar al balonmano",
+      "example": "Слово «jugar al balonmano» полезно."
+    },
+    {
+      "word": "jugar al voleibol",
+      "translation": "jugar al voleibol",
+      "example": "Слово «jugar al voleibol» полезно."
+    },
+    {
+      "word": "jugar al béisbol",
+      "translation": "jugar al béisbol",
+      "example": "Слово «jugar al béisbol» полезно."
+    },
+    {
+      "word": "hacer atletismo",
+      "translation": "hacer atletismo",
+      "example": "Слово «hacer atletismo» полезно."
+    },
+    {
+      "word": "hacer ciclismo",
+      "translation": "hacer ciclismo",
+      "example": "Слово «hacer ciclismo» полезно."
+    },
+    {
+      "word": "hacer natación",
+      "translation": "hacer natación",
+      "example": "Слово «hacer natación» полезно."
+    },
+    {
+      "word": "campo de fútbol",
+      "translation": "campo de fútbol",
+      "example": "Слово «campo de fútbol» полезно."
+    },
+    {
+      "word": "pista de tenis",
+      "translation": "pista de tenis",
+      "example": "Слово «pista de tenis» полезно."
+    },
+    {
+      "word": "ficha",
+      "translation": "ficha",
+      "example": "Слово «ficha» полезно."
+    },
+    {
+      "word": "dado",
+      "translation": "dado",
+      "example": "Слово «dado» полезно."
+    },
+    {
+      "word": "tablero",
+      "translation": "tablero",
+      "example": "Слово «tablero» полезно."
+    },
+    {
+      "word": "casilla",
+      "translation": "casilla",
+      "example": "Слово «casilla» полезно."
+    },
+    {
+      "word": "concurso",
+      "translation": "concurso",
+      "example": "Слово «concurso» полезно."
+    },
+    {
+      "word": "videojuego",
+      "translation": "videojuego",
+      "example": "Слово «videojuego» полезно."
+    },
+    {
+      "word": "consola",
+      "translation": "consola",
+      "example": "Слово «consola» полезно."
+    },
+    {
+      "word": "juego de mesa",
+      "translation": "juego de mesa",
+      "example": "Слово «juego de mesa» полезно."
+    },
+    {
+      "word": "juego de cartas",
+      "translation": "juego de cartas",
+      "example": "Слово «juego de cartas» полезно."
+    },
+    {
+      "word": "jugador",
+      "translation": "jugador",
+      "example": "Слово «jugador» полезно."
+    },
+    {
+      "word": "ganar",
+      "translation": "ganar",
+      "example": "Слово «ganar» полезно."
+    },
+    {
+      "word": "perder",
+      "translation": "perder",
+      "example": "Слово «perder» полезно."
+    },
+    {
+      "word": "empatar",
+      "translation": "empatar",
+      "example": "Слово «empatar» полезно."
+    },
+    {
+      "word": "jugar a los bolos",
+      "translation": "jugar a los bolos",
+      "example": "Слово «jugar a los bolos» полезно."
+    },
+    {
+      "word": "jugar a los dardos",
+      "translation": "jugar a los dardos",
+      "example": "Слово «jugar a los dardos» полезно."
+    },
+    {
+      "word": "jugar al billar",
+      "translation": "jugar al billar",
+      "example": "Слово «jugar al billar» полезно."
+    },
+    {
+      "word": "jugar con los juguetes",
+      "translation": "jugar con los juguetes",
+      "example": "Слово «jugar con los juguetes» полезно."
+    },
+    {
+      "word": "jugar con la pelota",
+      "translation": "jugar con la pelota",
+      "example": "Слово «jugar con la pelota» полезно."
+    },
+    {
+      "word": "tocar un premio",
+      "translation": "tocar un premio",
+      "example": "Слово «tocar un premio» полезно."
+    },
+    {
+      "word": "tocar el Gordo",
+      "translation": "tocar el Gordo",
+      "example": "Слово «tocar el Gordo» полезно."
+    },
+    {
+      "word": "tocar la lotería",
+      "translation": "tocar la lotería",
+      "example": "Слово «tocar la lotería» полезно."
+    }
+  ]
+}

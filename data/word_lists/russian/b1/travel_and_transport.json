@@ -1,0 +1,460 @@
+{
+  "topic": "Travel and Transport",
+  "words": [
+    {
+      "word": "DNI",
+      "translation": "DNI",
+      "example": "Слово «DNI» полезно."
+    },
+    {
+      "word": "Documento Nacional de Identidad",
+      "translation": "Documento Nacional de Identidad",
+      "example": "Слово «Documento Nacional de Identidad» полезно."
+    },
+    {
+      "word": "visado",
+      "translation": "visado",
+      "example": "Слово «visado» полезно."
+    },
+    {
+      "word": "cheques de viaje",
+      "translation": "cheques de viaje",
+      "example": "Слово «cheques de viaje» полезно."
+    },
+    {
+      "word": "equipaje",
+      "translation": "equipaje",
+      "example": "Слово «equipaje» полезно."
+    },
+    {
+      "word": "bolsa de aseo",
+      "translation": "bolsa de aseo",
+      "example": "Слово «bolsa de aseo» полезно."
+    },
+    {
+      "word": "bolsa de viaje",
+      "translation": "bolsa de viaje",
+      "example": "Слово «bolsa de viaje» полезно."
+    },
+    {
+      "word": "exceso de equipaje",
+      "translation": "exceso de equipaje",
+      "example": "Слово «exceso de equipaje» полезно."
+    },
+    {
+      "word": "mapa de carreteras",
+      "translation": "mapa de carreteras",
+      "example": "Слово «mapa de carreteras» полезно."
+    },
+    {
+      "word": "plano turístico",
+      "translation": "plano turístico",
+      "example": "Слово «plano turístico» полезно."
+    },
+    {
+      "word": "callejero",
+      "translation": "callejero",
+      "example": "Слово «callejero» полезно."
+    },
+    {
+      "word": "anular un billete",
+      "translation": "anular un billete",
+      "example": "Слово «anular un billete» полезно."
+    },
+    {
+      "word": "cambiar un billete",
+      "translation": "cambiar un billete",
+      "example": "Слово «cambiar un billete» полезно."
+    },
+    {
+      "word": "facturar el equipaje",
+      "translation": "facturar el equipaje",
+      "example": "Слово «facturar el equipaje» полезно."
+    },
+    {
+      "word": "facturar las maletas",
+      "translation": "facturar las maletas",
+      "example": "Слово «facturar las maletas» полезно."
+    },
+    {
+      "word": "perder el equipaje",
+      "translation": "perder el equipaje",
+      "example": "Слово «perder el equipaje» полезно."
+    },
+    {
+      "word": "perder las maletas",
+      "translation": "perder las maletas",
+      "example": "Слово «perder las maletas» полезно."
+    },
+    {
+      "word": "hacer un crucero",
+      "translation": "hacer un crucero",
+      "example": "Слово «hacer un crucero» полезно."
+    },
+    {
+      "word": "hacer un safari",
+      "translation": "hacer un safari",
+      "example": "Слово «hacer un safari» полезно."
+    },
+    {
+      "word": "viaje de trabajo",
+      "translation": "viaje de trabajo",
+      "example": "Слово «viaje de trabajo» полезно."
+    },
+    {
+      "word": "viaje de estudios",
+      "translation": "viaje de estudios",
+      "example": "Слово «viaje de estudios» полезно."
+    },
+    {
+      "word": "viaje de negocios",
+      "translation": "viaje de negocios",
+      "example": "Слово «viaje de negocios» полезно."
+    },
+    {
+      "word": "viaje de larga duración",
+      "translation": "viaje de larga duración",
+      "example": "Слово «viaje de larga duración» полезно."
+    },
+    {
+      "word": "viajar en familia",
+      "translation": "viajar en familia",
+      "example": "Слово «viajar en familia» полезно."
+    },
+    {
+      "word": "viajar en grupo",
+      "translation": "viajar en grupo",
+      "example": "Слово «viajar en grupo» полезно."
+    },
+    {
+      "word": "irse de puente",
+      "translation": "irse de puente",
+      "example": "Слово «irse de puente» полезно."
+    },
+    {
+      "word": "irse de fin de semana",
+      "translation": "irse de fin de semana",
+      "example": "Слово «irse de fin de semana» полезно."
+    },
+    {
+      "word": "marcharse de puente",
+      "translation": "marcharse de puente",
+      "example": "Слово «marcharse de puente» полезно."
+    },
+    {
+      "word": "marcharse de fin de semana",
+      "translation": "marcharse de fin de semana",
+      "example": "Слово «marcharse de fin de semana» полезно."
+    },
+    {
+      "word": "salir de puente",
+      "translation": "salir de puente",
+      "example": "Слово «salir de puente» полезно."
+    },
+    {
+      "word": "salir de fin de semana",
+      "translation": "salir de fin de semana",
+      "example": "Слово «salir de fin de semana» полезно."
+    },
+    {
+      "word": "hacer un viaje organizado",
+      "translation": "hacer un viaje organizado",
+      "example": "Слово «hacer un viaje organizado» полезно."
+    },
+    {
+      "word": "contratar un viaje organizado",
+      "translation": "contratar un viaje organizado",
+      "example": "Слово «contratar un viaje organizado» полезно."
+    },
+    {
+      "word": "hacer turismo",
+      "translation": "hacer turismo",
+      "example": "Слово «hacer turismo» полезно."
+    },
+    {
+      "word": "subirse a un tren",
+      "translation": "subirse a un tren",
+      "example": "Слово «subirse a un tren» полезно."
+    },
+    {
+      "word": "subirse a un autobús",
+      "translation": "subirse a un autobús",
+      "example": "Слово «subirse a un autobús» полезно."
+    },
+    {
+      "word": "subirse a un avión",
+      "translation": "subirse a un avión",
+      "example": "Слово «subirse a un avión» полезно."
+    },
+    {
+      "word": "bajarse de un tren",
+      "translation": "bajarse de un tren",
+      "example": "Слово «bajarse de un tren» полезно."
+    },
+    {
+      "word": "bajarse de un autobús",
+      "translation": "bajarse de un autobús",
+      "example": "Слово «bajarse de un autobús» полезно."
+    },
+    {
+      "word": "bajarse de un avión",
+      "translation": "bajarse de un avión",
+      "example": "Слово «bajarse de un avión» полезно."
+    },
+    {
+      "word": "hostal",
+      "translation": "hostal",
+      "example": "Слово «hostal» полезно."
+    },
+    {
+      "word": "pensión",
+      "translation": "pensión",
+      "example": "Слово «pensión» полезно."
+    },
+    {
+      "word": "tienda de campaña",
+      "translation": "tienda de campaña",
+      "example": "Слово «tienda de campaña» полезно."
+    },
+    {
+      "word": "recepción",
+      "translation": "recepción",
+      "example": "Слово «recepción» полезно."
+    },
+    {
+      "word": "entrada",
+      "translation": "entrada",
+      "example": "Слово «entrada» полезно."
+    },
+    {
+      "word": "salida de emergencia",
+      "translation": "salida de emergencia",
+      "example": "Слово «salida de emergencia» полезно."
+    },
+    {
+      "word": "recepcionista",
+      "translation": "recepcionista",
+      "example": "Слово «recepcionista» полезно."
+    },
+    {
+      "word": "conserje",
+      "translation": "conserje",
+      "example": "Слово «conserje» полезно."
+    },
+    {
+      "word": "saco de dormir",
+      "translation": "saco de dormir",
+      "example": "Слово «saco de dormir» полезно."
+    },
+    {
+      "word": "manta",
+      "translation": "manta",
+      "example": "Слово «manta» полезно."
+    },
+    {
+      "word": "nevera portátil",
+      "translation": "nevera portátil",
+      "example": "Слово «nevera portátil» полезно."
+    },
+    {
+      "word": "ir de camping",
+      "translation": "ir de camping",
+      "example": "Слово «ir de camping» полезно."
+    },
+    {
+      "word": "hacer camping",
+      "translation": "hacer camping",
+      "example": "Слово «hacer camping» полезно."
+    },
+    {
+      "word": "haber servicio de habitaciones",
+      "translation": "haber servicio de habitaciones",
+      "example": "Слово «haber servicio de habitaciones» полезно."
+    },
+    {
+      "word": "haber sala de reuniones",
+      "translation": "haber sala de reuniones",
+      "example": "Слово «haber sala de reuniones» полезно."
+    },
+    {
+      "word": "haber instalaciones para minusválidos",
+      "translation": "haber instalaciones para minusválidos",
+      "example": "Слово «haber instalaciones para minusválidos» полезно."
+    },
+    {
+      "word": "haber aparcamiento",
+      "translation": "haber aparcamiento",
+      "example": "Слово «haber aparcamiento» полезно."
+    },
+    {
+      "word": "estar completo",
+      "translation": "estar completo",
+      "example": "Слово «estar completo» полезно."
+    },
+    {
+      "word": "haber plazas libres",
+      "translation": "haber plazas libres",
+      "example": "Слово «haber plazas libres» полезно."
+    },
+    {
+      "word": "autopista",
+      "translation": "autopista",
+      "example": "Слово «autopista» полезно."
+    },
+    {
+      "word": "vía",
+      "translation": "vía",
+      "example": "Слово «vía» полезно."
+    },
+    {
+      "word": "andén",
+      "translation": "andén",
+      "example": "Слово «andén» полезно."
+    },
+    {
+      "word": "túnel",
+      "translation": "túnel",
+      "example": "Слово «túnel» полезно."
+    },
+    {
+      "word": "semáforo",
+      "translation": "semáforo",
+      "example": "Слово «semáforo» полезно."
+    },
+    {
+      "word": "paso de cebra",
+      "translation": "paso de cebra",
+      "example": "Слово «paso de cebra» полезно."
+    },
+    {
+      "word": "paso de peatones",
+      "translation": "paso de peatones",
+      "example": "Слово «paso de peatones» полезно."
+    },
+    {
+      "word": "carril bus",
+      "translation": "carril bus",
+      "example": "Слово «carril bus» полезно."
+    },
+    {
+      "word": "carril bici",
+      "translation": "carril bici",
+      "example": "Слово «carril bici» полезно."
+    },
+    {
+      "word": "haber caravana",
+      "translation": "haber caravana",
+      "example": "Слово «haber caravana» полезно."
+    },
+    {
+      "word": "haber un atasco",
+      "translation": "haber un atasco",
+      "example": "Слово «haber un atasco» полезно."
+    },
+    {
+      "word": "haber un embotellamiento",
+      "translation": "haber un embotellamiento",
+      "example": "Слово «haber un embotellamiento» полезно."
+    },
+    {
+      "word": "ir con retraso",
+      "translation": "ir con retraso",
+      "example": "Слово «ir con retraso» полезно."
+    },
+    {
+      "word": "salir con retraso",
+      "translation": "salir con retraso",
+      "example": "Слово «salir con retraso» полезно."
+    },
+    {
+      "word": "llegar con retraso",
+      "translation": "llegar con retraso",
+      "example": "Слово «llegar con retraso» полезно."
+    },
+    {
+      "word": "parar",
+      "translation": "parar",
+      "example": "Слово «parar» полезно."
+    },
+    {
+      "word": "viajero",
+      "translation": "viajero",
+      "example": "Слово «viajero» полезно."
+    },
+    {
+      "word": "tranvía",
+      "translation": "tranvía",
+      "example": "Слово «tranvía» полезно."
+    },
+    {
+      "word": "moto",
+      "translation": "moto",
+      "example": "Слово «moto» полезно."
+    },
+    {
+      "word": "camión",
+      "translation": "camión",
+      "example": "Слово «camión» полезно."
+    },
+    {
+      "word": "asiento",
+      "translation": "asiento",
+      "example": "Слово «asiento» полезно."
+    },
+    {
+      "word": "fila",
+      "translation": "fila",
+      "example": "Слово «fila» полезно."
+    },
+    {
+      "word": "pasillo",
+      "translation": "pasillo",
+      "example": "Слово «pasillo» полезно."
+    },
+    {
+      "word": "maletero",
+      "translation": "maletero",
+      "example": "Слово «maletero» полезно."
+    },
+    {
+      "word": "cinturón",
+      "translation": "cinturón",
+      "example": "Слово «cinturón» полезно."
+    },
+    {
+      "word": "conducir",
+      "translation": "conducir",
+      "example": "Слово «conducir» полезно."
+    },
+    {
+      "word": "aparcar",
+      "translation": "aparcar",
+      "example": "Слово «aparcar» полезно."
+    },
+    {
+      "word": "parar",
+      "translation": "parar",
+      "example": "Слово «parar» полезно."
+    },
+    {
+      "word": "girar",
+      "translation": "girar",
+      "example": "Слово «girar» полезно."
+    },
+    {
+      "word": "subirse a una bicicleta",
+      "translation": "subirse a una bicicleta",
+      "example": "Слово «subirse a una bicicleta» полезно."
+    },
+    {
+      "word": "montarse en una bicicleta",
+      "translation": "montarse en una bicicleta",
+      "example": "Слово «montarse en una bicicleta» полезно."
+    },
+    {
+      "word": "bajarse de una bicicleta",
+      "translation": "bajarse de una bicicleta",
+      "example": "Слово «bajarse de una bicicleta» полезно."
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "topic": "Work",
+  "words": [
+    {
+      "word": "contratado",
+      "translation": "contratado",
+      "example": "Слово «contratado» полезно."
+    },
+    {
+      "word": "interino",
+      "translation": "interino",
+      "example": "Слово «interino» полезно."
+    },
+    {
+      "word": "trabajador en prácticas",
+      "translation": "trabajador en prácticas",
+      "example": "Слово «trabajador en prácticas» полезно."
+    },
+    {
+      "word": "tener un empleo en la Administración",
+      "translation": "tener un empleo en la Administración",
+      "example": "Слово «tener un empleo en la Administración» полезно."
+    },
+    {
+      "word": "tener un empleo en una multinacional",
+      "translation": "tener un empleo en una multinacional",
+      "example": "Слово «tener un empleo en una multinacional» полезно."
+    },
+    {
+      "word": "tener un cargo público",
+      "translation": "tener un cargo público",
+      "example": "Слово «tener un cargo público» полезно."
+    },
+    {
+      "word": "tener un cargo directivo",
+      "translation": "tener un cargo directivo",
+      "example": "Слово «tener un cargo directivo» полезно."
+    },
+    {
+      "word": "tener un cargo de responsabilidad",
+      "translation": "tener un cargo de responsabilidad",
+      "example": "Слово «tener un cargo de responsabilidad» полезно."
+    },
+    {
+      "word": "ocupar un cargo público",
+      "translation": "ocupar un cargo público",
+      "example": "Слово «ocupar un cargo público» полезно."
+    },
+    {
+      "word": "ocupar un cargo directivo",
+      "translation": "ocupar un cargo directivo",
+      "example": "Слово «ocupar un cargo directivo» полезно."
+    },
+    {
+      "word": "ocupar un cargo de responsabilidad",
+      "translation": "ocupar un cargo de responsabilidad",
+      "example": "Слово «ocupar un cargo de responsabilidad» полезно."
+    },
+    {
+      "word": "ejercer de abogado",
+      "translation": "ejercer de abogado",
+      "example": "Слово «ejercer de abogado» полезно."
+    },
+    {
+      "word": "ejercer de veterinario",
+      "translation": "ejercer de veterinario",
+      "example": "Слово «ejercer de veterinario» полезно."
+    },
+    {
+      "word": "ejercer como abogado",
+      "translation": "ejercer como abogado",
+      "example": "Слово «ejercer como abogado» полезно."
+    },
+    {
+      "word": "ejercer como veterinario",
+      "translation": "ejercer como veterinario",
+      "example": "Слово «ejercer como veterinario» полезно."
+    },
+    {
+      "word": "trabajar como autónomo",
+      "translation": "trabajar como autónomo",
+      "example": "Слово «trabajar como autónomo» полезно."
+    },
+    {
+      "word": "almacén",
+      "translation": "almacén",
+      "example": "Слово «almacén» полезно."
+    },
+    {
+      "word": "granja",
+      "translation": "granja",
+      "example": "Слово «granja» полезно."
+    },
+    {
+      "word": "quirófano",
+      "translation": "quirófano",
+      "example": "Слово «quirófano» полезно."
+    },
+    {
+      "word": "lugar bien acondicionado",
+      "translation": "lugar bien acondicionado",
+      "example": "Слово «lugar bien acondicionado» полезно."
+    },
+    {
+      "word": "lugar mal acondicionado",
+      "translation": "lugar mal acondicionado",
+      "example": "Слово «lugar mal acondicionado» полезно."
+    },
+    {
+      "word": "lugar bien iluminado",
+      "translation": "lugar bien iluminado",
+      "example": "Слово «lugar bien iluminado» полезно."
+    },
+    {
+      "word": "lugar mal iluminado",
+      "translation": "lugar mal iluminado",
+      "example": "Слово «lugar mal iluminado» полезно."
+    },
+    {
+      "word": "destornillador",
+      "translation": "destornillador",
+      "example": "Слово «destornillador» полезно."
+    },
+    {
+      "word": "cable",
+      "translation": "cable",
+      "example": "Слово «cable» полезно."
+    },
+    {
+      "word": "enchufe",
+      "translation": "enchufe",
+      "example": "Слово «enchufe» полезно."
+    },
+    {
+      "word": "mono",
+      "translation": "mono",
+      "example": "Слово «mono» полезно."
+    },
+    {
+      "word": "delantal",
+      "translation": "delantal",
+      "example": "Слово «delantal» полезно."
+    },
+    {
+      "word": "gafas de protección",
+      "translation": "gafas de protección",
+      "example": "Слово «gafas de protección» полезно."
+    },
+    {
+      "word": "ir de traje",
+      "translation": "ir de traje",
+      "example": "Слово «ir de traje» полезно."
+    },
+    {
+      "word": "ir de corbata",
+      "translation": "ir de corbata",
+      "example": "Слово «ir de corbata» полезно."
+    },
+    {
+      "word": "ir de uniforme",
+      "translation": "ir de uniforme",
+      "example": "Слово «ir de uniforme» полезно."
+    },
+    {
+      "word": "empleo",
+      "translation": "работа",
+      "example": "Слово «работа» полезно."
+    },
+    {
+      "word": "ocupación",
+      "translation": "ocupación",
+      "example": "Слово «ocupación» полезно."
+    },
+    {
+      "word": "contrato indefinido",
+      "translation": "contrato indefinido",
+      "example": "Слово «contrato indefinido» полезно."
+    },
+    {
+      "word": "contrato fijo",
+      "translation": "contrato fijo",
+      "example": "Слово «contrato fijo» полезно."
+    },
+    {
+      "word": "contrato temporal",
+      "translation": "contrato temporal",
+      "example": "Слово «contrato temporal» полезно."
+    },
+    {
+      "word": "contrato basura",
+      "translation": "contrato basura",
+      "example": "Слово «contrato basura» полезно."
+    },
+    {
+      "word": "contrato de prácticas",
+      "translation": "contrato de prácticas",
+      "example": "Слово «contrato de prácticas» полезно."
+    },
+    {
+      "word": "trabajo físico",
+      "translation": "trabajo físico",
+      "example": "Слово «trabajo físico» полезно."
+    },
+    {
+      "word": "trabajo manual",
+      "translation": "trabajo manual",
+      "example": "Слово «trabajo manual» полезно."
+    },
+    {
+      "word": "trabajo intelectual",
+      "translation": "trabajo intelectual",
+      "example": "Слово «trabajo intelectual» полезно."
+    },
+    {
+      "word": "trabajo cualificado",
+      "translation": "trabajo cualificado",
+      "example": "Слово «trabajo cualificado» полезно."
+    },
+    {
+      "word": "trabajo especializado",
+      "translation": "trabajo especializado",
+      "example": "Слово «trabajo especializado» полезно."
+    },
+    {
+      "word": "trabajo creativo",
+      "translation": "trabajo creativo",
+      "example": "Слово «trabajo creativo» полезно."
+    },
+    {
+      "word": "trabajo en equipo",
+      "translation": "trabajo en equipo",
+      "example": "Слово «trabajo en equipo» полезно."
+    },
+    {
+      "word": "trabajo en cadena",
+      "translation": "trabajo en cadena",
+      "example": "Слово «trabajo en cadena» полезно."
+    },
+    {
+      "word": "trabajo en serie",
+      "translation": "trabajo en serie",
+      "example": "Слово «trabajo en serie» полезно."
+    },
+    {
+      "word": "trabajar por cuenta propia",
+      "translation": "trabajar por cuenta propia",
+      "example": "Слово «trabajar por cuenta propia» полезно."
+    },
+    {
+      "word": "trabajar por cuenta ajena",
+      "translation": "trabajar por cuenta ajena",
+      "example": "Слово «trabajar por cuenta ajena» полезно."
+    },
+    {
+      "word": "trabajar a tiempo completo",
+      "translation": "trabajar a tiempo completo",
+      "example": "Слово «trabajar a tiempo completo» полезно."
+    },
+    {
+      "word": "trabajar a tiempo parcial",
+      "translation": "trabajar a tiempo parcial",
+      "example": "Слово «trabajar a tiempo parcial» полезно."
+    },
+    {
+      "word": "ejercer una profesión",
+      "translation": "ejercer una profesión",
+      "example": "Слово «ejercer una profesión» полезно."
+    },
+    {
+      "word": "ejercer un oficio",
+      "translation": "ejercer un oficio",
+      "example": "Слово «ejercer un oficio» полезно."
+    },
+    {
+      "word": "ejercer una función",
+      "translation": "ejercer una función",
+      "example": "Слово «ejercer una función» полезно."
+    },
+    {
+      "word": "desarrollar un trabajo",
+      "translation": "desarrollar un trabajo",
+      "example": "Слово «desarrollar un trabajo» полезно."
+    },
+    {
+      "word": "desarrollar una función",
+      "translation": "desarrollar una función",
+      "example": "Слово «desarrollar una función» полезно."
+    },
+    {
+      "word": "desarrollar una tarea",
+      "translation": "desarrollar una tarea",
+      "example": "Слово «desarrollar una tarea» полезно."
+    },
+    {
+      "word": "desarrollar un servicio",
+      "translation": "desarrollar un servicio",
+      "example": "Слово «desarrollar un servicio» полезно."
+    },
+    {
+      "word": "llevar a cabo un trabajo",
+      "translation": "llevar a cabo un trabajo",
+      "example": "Слово «llevar a cabo un trabajo» полезно."
+    },
+    {
+      "word": "llevar a cabo una función",
+      "translation": "llevar a cabo una función",
+      "example": "Слово «llevar a cabo una función» полезно."
+    },
+    {
+      "word": "llevar a cabo una tarea",
+      "translation": "llevar a cabo una tarea",
+      "example": "Слово «llevar a cabo una tarea» полезно."
+    },
+    {
+      "word": "llevar a cabo un servicio",
+      "translation": "llevar a cabo un servicio",
+      "example": "Слово «llevar a cabo un servicio» полезно."
+    },
+    {
+      "word": "ocupar un puesto",
+      "translation": "ocupar un puesto",
+      "example": "Слово «ocupar un puesto» полезно."
+    },
+    {
+      "word": "ocupar una plaza",
+      "translation": "ocupar una plaza",
+      "example": "Слово «ocupar una plaza» полезно."
+    },
+    {
+      "word": "ocupar un cargo",
+      "translation": "ocupar un cargo",
+      "example": "Слово «ocupar un cargo» полезно."
+    },
+    {
+      "word": "ascender a subdirector",
+      "translation": "ascender a subdirector",
+      "example": "Слово «ascender a subdirector» полезно."
+    },
+    {
+      "word": "ascender a jefe de sección",
+      "translation": "ascender a jefe de sección",
+      "example": "Слово «ascender a jefe de sección» полезно."
+    },
+    {
+      "word": "ascender a responsable de unidad",
+      "translation": "ascender a responsable de unidad",
+      "example": "Слово «ascender a responsable de unidad» полезно."
+    },
+    {
+      "word": "realizar un trabajo",
+      "translation": "realizar un trabajo",
+      "example": "Слово «realizar un trabajo» полезно."
+    },
+    {
+      "word": "realizar una función",
+      "translation": "realizar una función",
+      "example": "Слово «realizar una función» полезно."
+    },
+    {
+      "word": "realizar una tarea",
+      "translation": "realizar una tarea",
+      "example": "Слово «realizar una tarea» полезно."
+    },
+    {
+      "word": "realizar un servicio",
+      "translation": "realizar un servicio",
+      "example": "Слово «realizar un servicio» полезно."
+    },
+    {
+      "word": "preparar un trabajo",
+      "translation": "preparar un trabajo",
+      "example": "Слово «preparar un trabajo» полезно."
+    },
+    {
+      "word": "preparar una función",
+      "translation": "preparar una función",
+      "example": "Слово «preparar una función» полезно."
+    },
+    {
+      "word": "preparar una tarea",
+      "translation": "preparar una tarea",
+      "example": "Слово «preparar una tarea» полезно."
+    },
+    {
+      "word": "preparar un servicio",
+      "translation": "preparar un servicio",
+      "example": "Слово «preparar un servicio» полезно."
+    },
+    {
+      "word": "presentar un trabajo",
+      "translation": "presentar un trabajo",
+      "example": "Слово «presentar un trabajo» полезно."
+    },
+    {
+      "word": "presentar una función",
+      "translation": "presentar una función",
+      "example": "Слово «presentar una función» полезно."
+    },
+    {
+      "word": "presentar una tarea",
+      "translation": "presentar una tarea",
+      "example": "Слово «presentar una tarea» полезно."
+    },
+    {
+      "word": "presentar un servicio",
+      "translation": "presentar un servicio",
+      "example": "Слово «presentar un servicio» полезно."
+    },
+    {
+      "word": "desempleo",
+      "translation": "desempleo",
+      "example": "Слово «desempleo» полезно."
+    },
+    {
+      "word": "ocupación",
+      "translation": "ocupación",
+      "example": "Слово «ocupación» полезно."
+    },
+    {
+      "word": "despido",
+      "translation": "despido",
+      "example": "Слово «despido» полезно."
+    },
+    {
+      "word": "oferta pública de empleo",
+      "translation": "oferta pública de empleo",
+      "example": "Слово «oferta pública de empleo» полезно."
+    },
+    {
+      "word": "Instituto Nacional de Empleo",
+      "translation": "Instituto Nacional de Empleo",
+      "example": "Слово «Instituto Nacional de Empleo» полезно."
+    },
+    {
+      "word": "INEM",
+      "translation": "INEM",
+      "example": "Слово «INEM» полезно."
+    },
+    {
+      "word": "Empresa de Trabajo Temporal",
+      "translation": "Empresa de Trabajo Temporal",
+      "example": "Слово «Empresa de Trabajo Temporal» полезно."
+    },
+    {
+      "word": "ETT",
+      "translation": "ETT",
+      "example": "Слово «ETT» полезно."
+    },
+    {
+      "word": "carta de recomendación",
+      "translation": "carta de recomendación",
+      "example": "Слово «carta de recomendación» полезно."
+    },
+    {
+      "word": "carta de despido",
+      "translation": "carta de despido",
+      "example": "Слово «carta de despido» полезно."
+    },
+    {
+      "word": "subir el paro",
+      "translation": "subir el paro",
+      "example": "Слово «subir el paro» полезно."
+    },
+    {
+      "word": "subir el desempleo",
+      "translation": "subir el desempleo",
+      "example": "Слово «subir el desempleo» полезно."
+    },
+    {
+      "word": "bajar el paro",
+      "translation": "bajar el paro",
+      "example": "Слово «bajar el paro» полезно."
+    },
+    {
+      "word": "bajar el desempleo",
+      "translation": "bajar el desempleo",
+      "example": "Слово «bajar el desempleo» полезно."
+    },
+    {
+      "word": "crecer el número de desempleados",
+      "translation": "crecer el número de desempleados",
+      "example": "Слово «crecer el número de desempleados» полезно."
+    },
+    {
+      "word": "aumentar el número de desempleados",
+      "translation": "aumentar el número de desempleados",
+      "example": "Слово «aumentar el número de desempleados» полезно."
+    },
+    {
+      "word": "disminuir el número de desempleados",
+      "translation": "disminuir el número de desempleados",
+      "example": "Слово «disminuir el número de desempleados» полезно."
+    },
+    {
+      "word": "estar en un proceso de selección de personal",
+      "translation": "estar en un proceso de selección de personal",
+      "example": "Слово «estar en un proceso de selección de personal» полезно."
+    },
+    {
+      "word": "participar en un proceso de selección de personal",
+      "translation": "participar en un proceso de selección de personal",
+      "example": "Слово «participar en un proceso de selección de personal» полезно."
+    },
+    {
+      "word": "llamar a alguien para una entrevista de trabajo",
+      "translation": "llamar a alguien para una entrevista de trabajo",
+      "example": "Слово «llamar a alguien para una entrevista de trabajo» полезно."
+    },
+    {
+      "word": "citar a alguien para una entrevista de trabajo",
+      "translation": "citar a alguien para una entrevista de trabajo",
+      "example": "Слово «citar a alguien para una entrevista de trabajo» полезно."
+    },
+    {
+      "word": "contratar a alguien",
+      "translation": "contratar a alguien",
+      "example": "Слово «contratar a alguien» полезно."
+    },
+    {
+      "word": "conseguir un trabajo",
+      "translation": "conseguir un trabajo",
+      "example": "Слово «conseguir un trabajo» полезно."
+    },
+    {
+      "word": "conseguir un puesto",
+      "translation": "conseguir un puesto",
+      "example": "Слово «conseguir un puesto» полезно."
+    },
+    {
+      "word": "conseguir un empleo",
+      "translation": "conseguir un empleo",
+      "example": "Слово «conseguir un empleo» полезно."
+    },
+    {
+      "word": "renovar un contrato",
+      "translation": "renovar un contrato",
+      "example": "Слово «renovar un contrato» полезно."
+    },
+    {
+      "word": "anticipo",
+      "translation": "anticipo",
+      "example": "Слово «anticipo» полезно."
+    },
+    {
+      "word": "comisión",
+      "translation": "comisión",
+      "example": "Слово «comisión» полезно."
+    },
+    {
+      "word": "dietas",
+      "translation": "dietas",
+      "example": "Слово «dietas» полезно."
+    },
+    {
+      "word": "flexibilidad de horario",
+      "translation": "flexibilidad de horario",
+      "example": "Слово «flexibilidad de horario» полезно."
+    },
+    {
+      "word": "jornada laboral",
+      "translation": "jornada laboral",
+      "example": "Слово «jornada laboral» полезно."
+    },
+    {
+      "word": "jornada de trabajo",
+      "translation": "jornada de trabajo",
+      "example": "Слово «jornada de trabajo» полезно."
+    },
+    {
+      "word": "día laborable",
+      "translation": "día laborable",
+      "example": "Слово «día laborable» полезно."
+    },
+    {
+      "word": "día festivo",
+      "translation": "día festivo",
+      "example": "Слово «día festivo» полезно."
+    },
+    {
+      "word": "comité de empresa",
+      "translation": "comité de empresa",
+      "example": "Слово «comité de empresa» полезно."
+    },
+    {
+      "word": "representante de empresa",
+      "translation": "representante de empresa",
+      "example": "Слово «representante de empresa» полезно."
+    },
+    {
+      "word": "cláusula del contrato",
+      "translation": "cláusula del contrato",
+      "example": "Слово «cláusula del contrato» полезно."
+    },
+    {
+      "word": "cláusula del convenio colectivo",
+      "translation": "cláusula del convenio colectivo",
+      "example": "Слово «cláusula del convenio colectivo» полезно."
+    },
+    {
+      "word": "cotización a la Seguridad Social",
+      "translation": "cotización a la Seguridad Social",
+      "example": "Слово «cotización a la Seguridad Social» полезно."
+    },
+    {
+      "word": "contratar",
+      "translation": "contratar",
+      "example": "Слово «contratar» полезно."
+    },
+    {
+      "word": "ser contratado",
+      "translation": "ser contratado",
+      "example": "Слово «ser contratado» полезно."
+    },
+    {
+      "word": "estar en el periodo de prueba",
+      "translation": "estar en el periodo de prueba",
+      "example": "Слово «estar en el periodo de prueba» полезно."
+    },
+    {
+      "word": "superar el periodo de prueba",
+      "translation": "superar el periodo de prueba",
+      "example": "Слово «superar el periodo de prueba» полезно."
+    },
+    {
+      "word": "cobrar un sueldo",
+      "translation": "cobrar un sueldo",
+      "example": "Слово «cobrar un sueldo» полезно."
+    },
+    {
+      "word": "cobrar un salario fijo",
+      "translation": "cobrar un salario fijo",
+      "example": "Слово «cobrar un salario fijo» полезно."
+    },
+    {
+      "word": "cobrar una nómina",
+      "translation": "cobrar una nómina",
+      "example": "Слово «cobrar una nómina» полезно."
+    },
+    {
+      "word": "cobrar una paga extra",
+      "translation": "cobrar una paga extra",
+      "example": "Слово «cobrar una paga extra» полезно."
+    },
+    {
+      "word": "cobrar una hora extra",
+      "translation": "cobrar una hora extra",
+      "example": "Слово «cobrar una hora extra» полезно."
+    },
+    {
+      "word": "cobrar un anticipo",
+      "translation": "cobrar un anticipo",
+      "example": "Слово «cobrar un anticipo» полезно."
+    },
+    {
+      "word": "cobrar comisiones",
+      "translation": "cobrar comisiones",
+      "example": "Слово «cobrar comisiones» полезно."
+    },
+    {
+      "word": "cobrar dietas",
+      "translation": "cobrar dietas",
+      "example": "Слово «cobrar dietas» полезно."
+    },
+    {
+      "word": "cobrar un sueldo razonable",
+      "translation": "cobrar un sueldo razonable",
+      "example": "Слово «cobrar un sueldo razonable» полезно."
+    },
+    {
+      "word": "cobrar un sueldo ridículo",
+      "translation": "cobrar un sueldo ridículo",
+      "example": "Слово «cobrar un sueldo ridículo» полезно."
+    },
+    {
+      "word": "cotizar a la Seguridad Social",
+      "translation": "cotizar a la Seguridad Social",
+      "example": "Слово «cotizar a la Seguridad Social» полезно."
+    },
+    {
+      "word": "habilidad",
+      "translation": "habilidad",
+      "example": "Слово «habilidad» полезно."
+    },
+    {
+      "word": "capacidad",
+      "translation": "capacidad",
+      "example": "Слово «capacidad» полезно."
+    },
+    {
+      "word": "profesionalidad",
+      "translation": "profesionalidad",
+      "example": "Слово «profesionalidad» полезно."
+    },
+    {
+      "word": "experiencia",
+      "translation": "experiencia",
+      "example": "Слово «experiencia» полезно."
+    },
+    {
+      "word": "cualificado",
+      "translation": "cualificado",
+      "example": "Слово «cualificado» полезно."
+    },
+    {
+      "word": "incompetente",
+      "translation": "incompetente",
+      "example": "Слово «incompetente» полезно."
+    },
+    {
+      "word": "competente",
+      "translation": "competente",
+      "example": "Слово «competente» полезно."
+    },
+    {
+      "word": "ambicioso",
+      "translation": "ambicioso",
+      "example": "Слово «ambicioso» полезно."
+    },
+    {
+      "word": "profesional",
+      "translation": "profesional",
+      "example": "Слово «profesional» полезно."
+    },
+    {
+      "word": "inexperto",
+      "translation": "inexperto",
+      "example": "Слово «inexperto» полезно."
+    },
+    {
+      "word": "experto",
+      "translation": "experto",
+      "example": "Слово «experto» полезно."
+    },
+    {
+      "word": "incapaz",
+      "translation": "incapaz",
+      "example": "Слово «incapaz» полезно."
+    },
+    {
+      "word": "capaz",
+      "translation": "capaz",
+      "example": "Слово «capaz» полезно."
+    },
+    {
+      "word": "perezoso",
+      "translation": "perezoso",
+      "example": "Слово «perezoso» полезно."
+    }
+  ]
+}

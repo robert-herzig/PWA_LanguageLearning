@@ -1,0 +1,460 @@
+{
+  "topic": "Travel and Transport",
+  "words": [
+    {
+      "word": "DNI",
+      "translation": "DNI",
+      "example": "The word \"DNI\" is useful."
+    },
+    {
+      "word": "Documento Nacional de Identidad",
+      "translation": "Documento Nacional de Identidad",
+      "example": "The word \"Documento Nacional de Identidad\" is useful."
+    },
+    {
+      "word": "visado",
+      "translation": "visado",
+      "example": "The word \"visado\" is useful."
+    },
+    {
+      "word": "cheques de viaje",
+      "translation": "cheques de viaje",
+      "example": "The word \"cheques de viaje\" is useful."
+    },
+    {
+      "word": "equipaje",
+      "translation": "equipaje",
+      "example": "The word \"equipaje\" is useful."
+    },
+    {
+      "word": "bolsa de aseo",
+      "translation": "bolsa de aseo",
+      "example": "The word \"bolsa de aseo\" is useful."
+    },
+    {
+      "word": "bolsa de viaje",
+      "translation": "bolsa de viaje",
+      "example": "The word \"bolsa de viaje\" is useful."
+    },
+    {
+      "word": "exceso de equipaje",
+      "translation": "exceso de equipaje",
+      "example": "The word \"exceso de equipaje\" is useful."
+    },
+    {
+      "word": "mapa de carreteras",
+      "translation": "mapa de carreteras",
+      "example": "The word \"mapa de carreteras\" is useful."
+    },
+    {
+      "word": "plano turístico",
+      "translation": "plano turístico",
+      "example": "The word \"plano turístico\" is useful."
+    },
+    {
+      "word": "callejero",
+      "translation": "callejero",
+      "example": "The word \"callejero\" is useful."
+    },
+    {
+      "word": "anular un billete",
+      "translation": "anular un billete",
+      "example": "The word \"anular un billete\" is useful."
+    },
+    {
+      "word": "cambiar un billete",
+      "translation": "cambiar un billete",
+      "example": "The word \"cambiar un billete\" is useful."
+    },
+    {
+      "word": "facturar el equipaje",
+      "translation": "facturar el equipaje",
+      "example": "The word \"facturar el equipaje\" is useful."
+    },
+    {
+      "word": "facturar las maletas",
+      "translation": "facturar las maletas",
+      "example": "The word \"facturar las maletas\" is useful."
+    },
+    {
+      "word": "perder el equipaje",
+      "translation": "perder el equipaje",
+      "example": "The word \"perder el equipaje\" is useful."
+    },
+    {
+      "word": "perder las maletas",
+      "translation": "perder las maletas",
+      "example": "The word \"perder las maletas\" is useful."
+    },
+    {
+      "word": "hacer un crucero",
+      "translation": "hacer un crucero",
+      "example": "The word \"hacer un crucero\" is useful."
+    },
+    {
+      "word": "hacer un safari",
+      "translation": "hacer un safari",
+      "example": "The word \"hacer un safari\" is useful."
+    },
+    {
+      "word": "viaje de trabajo",
+      "translation": "viaje de trabajo",
+      "example": "The word \"viaje de trabajo\" is useful."
+    },
+    {
+      "word": "viaje de estudios",
+      "translation": "viaje de estudios",
+      "example": "The word \"viaje de estudios\" is useful."
+    },
+    {
+      "word": "viaje de negocios",
+      "translation": "viaje de negocios",
+      "example": "The word \"viaje de negocios\" is useful."
+    },
+    {
+      "word": "viaje de larga duración",
+      "translation": "viaje de larga duración",
+      "example": "The word \"viaje de larga duración\" is useful."
+    },
+    {
+      "word": "viajar en familia",
+      "translation": "viajar en familia",
+      "example": "The word \"viajar en familia\" is useful."
+    },
+    {
+      "word": "viajar en grupo",
+      "translation": "viajar en grupo",
+      "example": "The word \"viajar en grupo\" is useful."
+    },
+    {
+      "word": "irse de puente",
+      "translation": "irse de puente",
+      "example": "The word \"irse de puente\" is useful."
+    },
+    {
+      "word": "irse de fin de semana",
+      "translation": "irse de fin de semana",
+      "example": "The word \"irse de fin de semana\" is useful."
+    },
+    {
+      "word": "marcharse de puente",
+      "translation": "marcharse de puente",
+      "example": "The word \"marcharse de puente\" is useful."
+    },
+    {
+      "word": "marcharse de fin de semana",
+      "translation": "marcharse de fin de semana",
+      "example": "The word \"marcharse de fin de semana\" is useful."
+    },
+    {
+      "word": "salir de puente",
+      "translation": "salir de puente",
+      "example": "The word \"salir de puente\" is useful."
+    },
+    {
+      "word": "salir de fin de semana",
+      "translation": "salir de fin de semana",
+      "example": "The word \"salir de fin de semana\" is useful."
+    },
+    {
+      "word": "hacer un viaje organizado",
+      "translation": "hacer un viaje organizado",
+      "example": "The word \"hacer un viaje organizado\" is useful."
+    },
+    {
+      "word": "contratar un viaje organizado",
+      "translation": "contratar un viaje organizado",
+      "example": "The word \"contratar un viaje organizado\" is useful."
+    },
+    {
+      "word": "hacer turismo",
+      "translation": "hacer turismo",
+      "example": "The word \"hacer turismo\" is useful."
+    },
+    {
+      "word": "subirse a un tren",
+      "translation": "subirse a un tren",
+      "example": "The word \"subirse a un tren\" is useful."
+    },
+    {
+      "word": "subirse a un autobús",
+      "translation": "subirse a un autobús",
+      "example": "The word \"subirse a un autobús\" is useful."
+    },
+    {
+      "word": "subirse a un avión",
+      "translation": "subirse a un avión",
+      "example": "The word \"subirse a un avión\" is useful."
+    },
+    {
+      "word": "bajarse de un tren",
+      "translation": "bajarse de un tren",
+      "example": "The word \"bajarse de un tren\" is useful."
+    },
+    {
+      "word": "bajarse de un autobús",
+      "translation": "bajarse de un autobús",
+      "example": "The word \"bajarse de un autobús\" is useful."
+    },
+    {
+      "word": "bajarse de un avión",
+      "translation": "bajarse de un avión",
+      "example": "The word \"bajarse de un avión\" is useful."
+    },
+    {
+      "word": "hostal",
+      "translation": "hostal",
+      "example": "The word \"hostal\" is useful."
+    },
+    {
+      "word": "pensión",
+      "translation": "pensión",
+      "example": "The word \"pensión\" is useful."
+    },
+    {
+      "word": "tienda de campaña",
+      "translation": "tienda de campaña",
+      "example": "The word \"tienda de campaña\" is useful."
+    },
+    {
+      "word": "recepción",
+      "translation": "recepción",
+      "example": "The word \"recepción\" is useful."
+    },
+    {
+      "word": "entrada",
+      "translation": "entrada",
+      "example": "The word \"entrada\" is useful."
+    },
+    {
+      "word": "salida de emergencia",
+      "translation": "salida de emergencia",
+      "example": "The word \"salida de emergencia\" is useful."
+    },
+    {
+      "word": "recepcionista",
+      "translation": "recepcionista",
+      "example": "The word \"recepcionista\" is useful."
+    },
+    {
+      "word": "conserje",
+      "translation": "conserje",
+      "example": "The word \"conserje\" is useful."
+    },
+    {
+      "word": "saco de dormir",
+      "translation": "saco de dormir",
+      "example": "The word \"saco de dormir\" is useful."
+    },
+    {
+      "word": "manta",
+      "translation": "manta",
+      "example": "The word \"manta\" is useful."
+    },
+    {
+      "word": "nevera portátil",
+      "translation": "nevera portátil",
+      "example": "The word \"nevera portátil\" is useful."
+    },
+    {
+      "word": "ir de camping",
+      "translation": "ir de camping",
+      "example": "The word \"ir de camping\" is useful."
+    },
+    {
+      "word": "hacer camping",
+      "translation": "hacer camping",
+      "example": "The word \"hacer camping\" is useful."
+    },
+    {
+      "word": "haber servicio de habitaciones",
+      "translation": "haber servicio de habitaciones",
+      "example": "The word \"haber servicio de habitaciones\" is useful."
+    },
+    {
+      "word": "haber sala de reuniones",
+      "translation": "haber sala de reuniones",
+      "example": "The word \"haber sala de reuniones\" is useful."
+    },
+    {
+      "word": "haber instalaciones para minusválidos",
+      "translation": "haber instalaciones para minusválidos",
+      "example": "The word \"haber instalaciones para minusválidos\" is useful."
+    },
+    {
+      "word": "haber aparcamiento",
+      "translation": "haber aparcamiento",
+      "example": "The word \"haber aparcamiento\" is useful."
+    },
+    {
+      "word": "estar completo",
+      "translation": "estar completo",
+      "example": "The word \"estar completo\" is useful."
+    },
+    {
+      "word": "haber plazas libres",
+      "translation": "haber plazas libres",
+      "example": "The word \"haber plazas libres\" is useful."
+    },
+    {
+      "word": "autopista",
+      "translation": "autopista",
+      "example": "The word \"autopista\" is useful."
+    },
+    {
+      "word": "vía",
+      "translation": "vía",
+      "example": "The word \"vía\" is useful."
+    },
+    {
+      "word": "andén",
+      "translation": "andén",
+      "example": "The word \"andén\" is useful."
+    },
+    {
+      "word": "túnel",
+      "translation": "túnel",
+      "example": "The word \"túnel\" is useful."
+    },
+    {
+      "word": "semáforo",
+      "translation": "semáforo",
+      "example": "The word \"semáforo\" is useful."
+    },
+    {
+      "word": "paso de cebra",
+      "translation": "paso de cebra",
+      "example": "The word \"paso de cebra\" is useful."
+    },
+    {
+      "word": "paso de peatones",
+      "translation": "paso de peatones",
+      "example": "The word \"paso de peatones\" is useful."
+    },
+    {
+      "word": "carril bus",
+      "translation": "carril bus",
+      "example": "The word \"carril bus\" is useful."
+    },
+    {
+      "word": "carril bici",
+      "translation": "carril bici",
+      "example": "The word \"carril bici\" is useful."
+    },
+    {
+      "word": "haber caravana",
+      "translation": "haber caravana",
+      "example": "The word \"haber caravana\" is useful."
+    },
+    {
+      "word": "haber un atasco",
+      "translation": "haber un atasco",
+      "example": "The word \"haber un atasco\" is useful."
+    },
+    {
+      "word": "haber un embotellamiento",
+      "translation": "haber un embotellamiento",
+      "example": "The word \"haber un embotellamiento\" is useful."
+    },
+    {
+      "word": "ir con retraso",
+      "translation": "ir con retraso",
+      "example": "The word \"ir con retraso\" is useful."
+    },
+    {
+      "word": "salir con retraso",
+      "translation": "salir con retraso",
+      "example": "The word \"salir con retraso\" is useful."
+    },
+    {
+      "word": "llegar con retraso",
+      "translation": "llegar con retraso",
+      "example": "The word \"llegar con retraso\" is useful."
+    },
+    {
+      "word": "parar",
+      "translation": "parar",
+      "example": "The word \"parar\" is useful."
+    },
+    {
+      "word": "viajero",
+      "translation": "viajero",
+      "example": "The word \"viajero\" is useful."
+    },
+    {
+      "word": "tranvía",
+      "translation": "tranvía",
+      "example": "The word \"tranvía\" is useful."
+    },
+    {
+      "word": "moto",
+      "translation": "moto",
+      "example": "The word \"moto\" is useful."
+    },
+    {
+      "word": "camión",
+      "translation": "camión",
+      "example": "The word \"camión\" is useful."
+    },
+    {
+      "word": "asiento",
+      "translation": "asiento",
+      "example": "The word \"asiento\" is useful."
+    },
+    {
+      "word": "fila",
+      "translation": "fila",
+      "example": "The word \"fila\" is useful."
+    },
+    {
+      "word": "pasillo",
+      "translation": "pasillo",
+      "example": "The word \"pasillo\" is useful."
+    },
+    {
+      "word": "maletero",
+      "translation": "maletero",
+      "example": "The word \"maletero\" is useful."
+    },
+    {
+      "word": "cinturón",
+      "translation": "cinturón",
+      "example": "The word \"cinturón\" is useful."
+    },
+    {
+      "word": "conducir",
+      "translation": "conducir",
+      "example": "The word \"conducir\" is useful."
+    },
+    {
+      "word": "aparcar",
+      "translation": "aparcar",
+      "example": "The word \"aparcar\" is useful."
+    },
+    {
+      "word": "parar",
+      "translation": "parar",
+      "example": "The word \"parar\" is useful."
+    },
+    {
+      "word": "girar",
+      "translation": "girar",
+      "example": "The word \"girar\" is useful."
+    },
+    {
+      "word": "subirse a una bicicleta",
+      "translation": "subirse a una bicicleta",
+      "example": "The word \"subirse a una bicicleta\" is useful."
+    },
+    {
+      "word": "montarse en una bicicleta",
+      "translation": "montarse en una bicicleta",
+      "example": "The word \"montarse en una bicicleta\" is useful."
+    },
+    {
+      "word": "bajarse de una bicicleta",
+      "translation": "bajarse de una bicicleta",
+      "example": "The word \"bajarse de una bicicleta\" is useful."
+    }
+  ]
+}
