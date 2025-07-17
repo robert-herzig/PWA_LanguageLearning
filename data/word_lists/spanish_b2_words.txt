@@ -1,0 +1,2443 @@
+# Spanish B2 Level Vocabulary - Instituto Cervantes PCIC
+# Source: https://cvc.cervantes.es/ensenanza/biblioteca_ele/plan_curricular/niveles/09_nociones_especificas_inventario_b1-b2.htm
+# This file contains all B2 level Spanish vocabulary extracted from the official source
+
+## 1. Individuo: dimensión física
+
+# Advanced body parts
+frente
+mejilla
+barbilla
+ceja
+pestaña
+cana
+uña
+cerebro
+hígado
+riñón
+intestino
+esqueleto
+columna
+costilla
+nervio
+articulación
+arteria
+tendón
+
+# Advanced physical states and conditions
+ciego
+sordo
+mudo
+saliva
+lágrima
+sudor
+gesto
+expresión
+ser de estatura normal
+ser de estatura media
+ser de estatura mediana
+ser de altura normal
+ser de altura media
+ser de altura mediana
+tener arrugas
+tener una cicatriz
+tener buen color
+tener mal color
+tener buen aspecto
+tener mal aspecto
+ser clavados
+ser idénticos
+ser como dos gotas de agua
+
+# Advanced physical movements
+tumbarse
+tirarse
+incorporarse
+alzarse
+agacharse
+cruzar los brazos
+cruzar las piernas
+estar agachado
+estar derecho
+ponerse de pie
+ponerse de espaldas
+ponerse de perfil
+ponerse de frente
+ponerse de rodillas
+quedarse quieto
+quedarse dormido
+quedarse agachado
+quedarse de espaldas
+quedarse de rodillas
+rascarse
+arañar
+acariciar
+dar una patada
+dar una torta
+dar un puñetazo
+estornudar
+bostezar
+sudar
+masticar
+escupir
+aguantar
+sujetar
+aplaudir
+señalar
+indicar
+
+# Life, death and reproduction
+maternidad
+paternidad
+cadáver
+tumba
+dar a luz
+fallecer
+enterrar
+incinerar
+
+## 2. Individuo: dimensión perceptiva y anímica
+
+# Advanced character traits
+ambición
+arrogancia
+inconstancia
+constancia
+cobardía
+curiosidad
+egoísmo
+generosidad
+impuntualidad
+puntualidad
+irresponsabilidad
+responsabilidad
+insensibilidad
+sensibilidad
+seriedad
+insinceridad
+sinceridad
+ternura
+timidez
+valentía
+ambicioso
+callado
+cobarde
+constante
+curioso
+discreto
+
+# Advanced emotions and feelings
+alegría
+admiración
+alivio
+emoción
+felicidad
+orgullo
+angustia
+enfado
+estrés
+odio
+temor
+tristeza
+desanimado
+animado
+contento
+fascinado
+feliz
+desilusionado
+ilusionado
+satisfecho
+sorprendido
+agobiado
+apenado
+avergonzado
+disgustado
+dolido
+indignado
+resignado
+sin ánimos
+
+# Advanced physical sensations
+vista
+oído
+gusto
+tacto
+olfato
+tener un calor horrible
+tener un calor espantoso
+pasar un calor horrible
+pasar un calor espantoso
+sentir un calor horrible
+sentir un calor espantoso
+tener un frío horrible
+tener un frío espantoso
+pasar un frío horrible
+pasar un frío espantoso
+sentir un frío horrible
+sentir un frío espantoso
+tener un dolor horrible
+tener un dolor espantoso
+tener un sueño horrible
+tener un sueño espantoso
+estar agotado
+estar hambriento
+estar helado
+agotarse
+experimentar dolor
+
+# Mental states
+estar consciente
+estar inconsciente
+estar distraído
+estar loco
+
+# Advanced social behavior
+estar bien educado
+estar mal educado
+ser atento
+actuar correctamente
+tener buenos modales
+tener malos modales
+no tener modales
+no tener educación
+
+# Advanced values and character
+ambición
+inconstancia
+constancia
+cobardía
+valentía
+egoísmo
+generosidad
+insinceridad
+sinceridad
+justicia
+solidaridad
+ambicioso
+tacaño
+solidario
+justo
+constante
+mejorar
+progresar
+evolucionar
+
+## 3. Identidad personal
+
+# Advanced personal status
+validez
+fecha de expiración
+válido de...a...
+estar caducado
+tener caducado el pasaporte
+tener caducado el permiso de residencia
+
+# Advanced personal belongings
+alianza de oro
+alianza de plata
+colgante de oro
+colgante de plata
+gargantilla de oro
+gargantilla de plata
+cadena de oro
+cadena de plata
+reloj de pulsera
+reloj digital
+reloj analógico
+lentillas
+gafas de sol
+gafas graduadas
+gafas de cerca
+gafas de lejos
+tener un valor sentimental
+
+## 4. Relaciones personales
+
+# Advanced family relationships
+cónyuge
+cuñado
+suegro
+yerno
+nuera
+bisabuelo
+tatarabuelo
+mellizos
+trillizos
+madre de alquiler
+niño probeta
+familiar cercano
+familiar lejano
+familia numerosa
+familia adoptiva
+padre adoptivo
+hijo adoptivo
+niño huérfano
+maternidad
+paternidad
+ser de familia
+
+# Advanced relationships
+amigo íntimo
+amigo de toda la vida
+antiguo amigo
+viejo amigo
+íntimo amigo
+miembro
+invitado
+enemigo
+relación amorosa
+relación amistosa
+relación laboral
+relación personal
+relación profesional
+relación sentimental
+reunión de vecinos
+reunión de socios
+reunión de antiguos alumnos
+tener un lío
+tener un romance
+tener un amante
+tener un ligue
+conocerse de vista
+conocerse bien
+conocerse por casualidad
+relacionarse con
+tratar con
+
+# Advanced social events
+nacimiento
+bautizo
+primera comunión
+santo
+aniversario
+bodas de oro
+bodas de plata
+ceremonia
+banquete
+marcha nupcial
+tarta nupcial
+suite nupcial
+fiesta nacional
+fiesta local
+fiesta religiosa
+fiesta oficial
+celebración
+acto oficial
+acto religioso
+acto solemne
+acto académico
+ceremonia sencilla
+acto sencillo
+
+# Advanced social behavior
+conducta prudente
+conducta discriminatoria
+comportamiento prudente
+comportamiento discriminatorio
+habilidad
+cuidado
+imprudencia
+hablar bien de alguien
+hablar mal de alguien
+mostrar una actitud adecuada
+mostrar una actitud injusta
+mostrar un comportamiento adecuado
+mostrar un comportamiento injusto
+tener una actitud adecuada
+tener una actitud injusta
+tener un comportamiento adecuado
+tener un comportamiento injusto
+comportarse bien
+comportarse mal
+comportarse fatal
+dar apoyo
+dar amistad
+dar cariño
+dar comprensión
+mostrar apoyo
+mostrar amistad
+mostrar cariño
+mostrar comprensión
+mostrar confianza
+mostrar respeto
+sentir confianza
+sentir respeto
+tener confianza
+tener respeto
+
+## 5. Alimentación
+
+# Advanced nutrition
+alimento sin conservantes
+alimento sin colorantes
+alimento bajo en calorías
+alimento bajo en sal
+alimento bajo en azúcar
+alimento rico en calorías
+alimento rico en vitaminas
+alimento rico en proteínas
+alimento rico en fibra
+alimento rico en hierro
+alimento rico en calcio
+alimento fresco
+alimento congelado
+alimento orgánico
+alimento dietético
+producto alimenticio
+comida escasa
+comida abundante
+estar en buenas condiciones
+estar en malas condiciones
+estar malo
+estar podrido
+estar caducado
+ponerse malo
+pudrirse
+ayunar
+tener apetito
+devorar
+comer moderadamente
+comer excesivamente
+hacer la digestión
+cortarse la digestión
+digerir
+ser indigesto
+
+# Advanced beverages
+refresco
+licor
+cóctel
+vino seco
+vino dulce
+agua potable
+agua del grifo
+cerveza de barril
+abrebotellas
+sacacorchos
+corcho de la botella
+tapón de la botella
+dar sed
+quitar la sed
+chupar
+tragar
+mamar
+emborracharse
+
+# Advanced food items
+merengue
+crema pastelera
+bollería
+ensaimada
+palmera
+dulces
+caramelo
+lenguado
+dorada
+sal
+
+# Advanced cooking
+carne a la brasa
+carne asada
+carne guisada
+preparar una comida
+servir una comida
+cocinar un plato
+cocinar un alimento
+exprimir un limón
+rallar queso
+picar carne
+trocear una manzana
+cocer al vapor
+
+# Advanced Spanish cuisine
+bacalao al pilpil
+fabada
+arroz con leche
+macedonia de frutas
+sorbete al cava
+pincho
+ración
+sabroso
+delicioso
+exquisito
+incomestible
+incompible
+disfrutar de una comida
+
+# Advanced kitchen items
+fuente
+bol
+tazón
+olla a presión
+cacharro
+cazuela de barro
+recipiente
+cuenco
+ensaladera
+sopera
+sacacorchos
+abrelatas
+
+# Advanced restaurant service
+autoservicio
+hamburguesería
+restaurante de fama internacional
+restaurante de cuatro tenedores
+banquete
+bufé
+barra
+barman
+comedor
+salón
+poner un restaurante
+llevar un restaurante
+montar un restaurante
+comer de menú
+comer a la carta
+tapear
+atender una mesa
+servir una mesa
+sentarse a la mesa
+retirar el primer plato
+retirar el segundo plato
+
+## 6. Educación
+
+# Advanced educational institutions
+colegio bilingüe
+colegio religioso
+colegio laico
+escuela superior
+
+# Advanced academic personnel
+alumnado
+profesorado
+catedrático
+rector
+jefe de estudios
+maestro
+tutor
+director de tesis
+delegado de curso
+conferenciante
+universitario
+asociación de profesores
+asociación de antiguos alumnos
+
+# Advanced educational programs
+asignatura obligatoria
+asignatura común
+materia trimestral
+materia anual
+curso elemental
+curso obligatorio
+curso optativo
+formación continua
+formación permanente
+educación primaria
+educación secundaria
+educación universitaria
+educación superior
+educación a adultos
+estudios primarios
+estudios secundarios
+estudios superiores
+estudios universitarios
+educación pública
+educación privada
+educación religiosa
+educación laica
+enseñanza primaria
+enseñanza secundaria
+enseñanza universitaria
+enseñanza superior
+enseñanza a adultos
+enseñanza pública
+enseñanza privada
+enseñanza religiosa
+enseñanza laica
+enseñanza presencial
+enseñanza virtual
+enseñanza a distancia
+curso presencial
+curso virtual
+curso a distancia
+curso intensivo
+curso de iniciación
+curso de perfeccionamiento
+seminario
+congreso
+ofrecer educación superior
+ofrecer educación universitaria
+recibir educación superior
+recibir educación universitaria
+solicitar una beca
+solicitar una plaza
+conceder una beca
+conceder una plaza
+disfrutar de una beca
+
+# Advanced learning process
+educación
+enseñanza
+aprendizaje
+alumno brillante
+alumno estudioso
+alumno conflictivo
+didáctico
+educativo
+memorizar
+reflexionar
+deducir
+sacar conclusiones
+quedarse en blanco
+formarse
+educarse
+recibir clases
+tomar clases
+
+# Advanced assessment
+examen parcial
+examen final
+examen cuatrimestral
+examen anual
+prueba parcial
+prueba final
+prueba cuatrimestral
+prueba anual
+control parcial
+control final
+control cuatrimestral
+control anual
+nota media
+nota final
+nota justa
+nota injusta
+nota alta
+nota baja
+evaluación parcial
+evaluación final
+autoevaluación
+prepararse para un examen
+pasar un examen
+presentarse a un examen
+examinarse
+hacer una prueba de nivel
+sacar buenas notas
+sacar malas notas
+sacar un sobresaliente
+sacar un notable
+sacar un cinco
+poner notas
+pasar de curso
+tener una asignatura pendiente
+quedar una asignatura pendiente
+pedir revisión de examen
+
+# Advanced qualifications
+graduado escolar
+formación profesional
+hacer estudios primarios
+hacer estudios secundarios
+hacer estudios universitarios
+tener estudios primarios
+tener estudios secundarios
+tener estudios universitarios
+licenciarse
+titularse
+doctorarse
+hacer la tesis doctoral
+tener una licenciatura
+tener una diplomatura
+tener un doctorado
+tener la especialidad en
+ser licenciado en Empresariales
+ser licenciado en Filología
+ser doctor en Empresariales
+ser doctor en Filología
+abandonar los estudios
+dejar los estudios
+continuar los estudios
+completar los estudios
+
+# Advanced study methods
+plantear una duda
+resolver una duda
+aplicar una fórmula
+deducir una regla
+seguir una regla
+analizar un tema
+debatir un tema
+discutir un tema
+consultar
+
+# Advanced school supplies
+cartucho de tinta
+grapadora
+grapa
+clip
+celo
+borrador
+retroproyector
+transparencia
+diapositiva
+papel cuadriculado
+cartulina
+rotulador fluorescente
+rotulador de punta fina
+rotulador de punta gruesa
+poner una transparencia
+poner una diapositiva
+proyectar una transparencia
+proyectar una diapositiva
+
+## 7. Trabajo
+
+# Advanced job categories
+contratado
+interino
+trabajador en prácticas
+tener un empleo en la Administración
+tener un empleo en una multinacional
+tener un cargo público
+tener un cargo directivo
+tener un cargo de responsabilidad
+ocupar un cargo público
+ocupar un cargo directivo
+ocupar un cargo de responsabilidad
+ejercer de abogado
+ejercer de veterinario
+ejercer como abogado
+ejercer como veterinario
+trabajar como autónomo
+
+# Advanced workplace
+almacén
+granja
+quirófano
+lugar bien acondicionado
+lugar mal acondicionado
+lugar bien iluminado
+lugar mal iluminado
+
+# Tools and work clothes (examples provided)
+destornillador
+cable
+enchufe
+mono
+delantal
+gafas de protección
+ir de traje
+ir de corbata
+ir de uniforme
+
+# Advanced employment concepts
+empleo
+ocupación
+contrato indefinido
+contrato fijo
+contrato temporal
+contrato basura
+contrato de prácticas
+trabajo físico
+trabajo manual
+trabajo intelectual
+trabajo cualificado
+trabajo especializado
+trabajo creativo
+trabajo en equipo
+trabajo en cadena
+trabajo en serie
+trabajar por cuenta propia
+trabajar por cuenta ajena
+trabajar a tiempo completo
+trabajar a tiempo parcial
+ejercer una profesión
+ejercer un oficio
+ejercer una función
+desarrollar un trabajo
+desarrollar una función
+desarrollar una tarea
+desarrollar un servicio
+llevar a cabo un trabajo
+llevar a cabo una función
+llevar a cabo una tarea
+llevar a cabo un servicio
+ocupar un puesto
+ocupar una plaza
+ocupar un cargo
+ascender a subdirector
+ascender a jefe de sección
+ascender a responsable de unidad
+realizar un trabajo
+realizar una función
+realizar una tarea
+realizar un servicio
+preparar un trabajo
+preparar una función
+preparar una tarea
+preparar un servicio
+presentar un trabajo
+presentar una función
+presentar una tarea
+presentar un servicio
+
+# Advanced job search and employment
+desempleo
+ocupación
+despido
+oferta pública de empleo
+Instituto Nacional de Empleo
+INEM
+Empresa de Trabajo Temporal
+ETT
+carta de recomendación
+carta de despido
+subir el paro
+subir el desempleo
+bajar el paro
+bajar el desempleo
+crecer el número de desempleados
+aumentar el número de desempleados
+disminuir el número de desempleados
+estar en un proceso de selección de personal
+participar en un proceso de selección de personal
+llamar a alguien para una entrevista de trabajo
+citar a alguien para una entrevista de trabajo
+contratar a alguien
+conseguir un trabajo
+conseguir un puesto
+conseguir un empleo
+renovar un contrato
+
+# Advanced working conditions
+anticipo
+comisión
+dietas
+flexibilidad de horario
+jornada laboral
+jornada de trabajo
+día laborable
+día festivo
+comité de empresa
+representante de empresa
+cláusula del contrato
+cláusula del convenio colectivo
+cotización a la Seguridad Social
+contratar
+ser contratado
+estar en el periodo de prueba
+superar el periodo de prueba
+cobrar un sueldo
+cobrar un salario fijo
+cobrar una nómina
+cobrar una paga extra
+cobrar una hora extra
+cobrar un anticipo
+cobrar comisiones
+cobrar dietas
+cobrar un sueldo razonable
+cobrar un sueldo ridículo
+cotizar a la Seguridad Social
+
+# Advanced work qualities
+habilidad
+capacidad
+profesionalidad
+experiencia
+cualificado
+incompetente
+competente
+ambicioso
+profesional
+inexperto
+experto
+incapaz
+capaz
+perezoso
+
+## 8. Ocio
+
+# Advanced leisure activities
+pasatiempo
+ocio
+parque natural
+parque temático
+parque acuático
+fiesta de disfraces
+fuegos artificiales
+cohetes
+entretenerse
+pasar el rato
+ir de juerga
+ir de fiesta
+salir de juerga
+salir de fiesta
+estar de juerga
+estar de fiesta
+disfrazarse
+resolver pasatiempos
+ser coleccionista de
+
+# Advanced entertainment venues
+desfile
+muestra
+presentación
+acomodador
+guardarropa
+taquilla
+butaca
+sala de exposiciones
+sala de cine
+sala de conciertos
+pista de baile
+pista de una discoteca
+pista del circo
+función de teatro
+función de circo
+sesión de cine
+espectáculo apto para todos los públicos
+espectáculo para mayores de 18 años
+espectáculo deportivo
+representación teatral
+festival de música
+estreno
+estrenar
+inaugurar
+montar una exposición
+organizar una exposición
+cancelar un espectáculo
+
+# Advanced sports
+campeonato
+liga
+instalaciones deportivas
+palacio de deportes
+estadio
+aficionado
+socio
+fan
+empate
+victoria
+triunfo
+deporte de invierno
+deporte de equipo
+deporte de riesgo
+deporte de competición
+juegos olímpicos
+
+# Advanced games
+juego de azar
+juego de ingenio
+juego limpio
+juego sucio
+rompecabezas
+puzle
+jugar una partida
+tocarle el turno a alguien
+barajar
+repartir
+sacar una carta
+echar una carta
+jugar al escondite
+jugar a las canicas
+jugar a la comba
+montar en los columpios
+montar en el tobogán
+jugar a la lotería
+hacer quinielas
+hacer una apuesta
+apostar
+sacar una ficha
+comer una ficha
+avanzar con una ficha
+tirar el dado
+tirar los dados
+
+## 9. Información y medios de comunicación
+
+# Advanced communication
+comunicación telefónica
+comunicación audiovisual
+comunicación escrita
+comunicación radiofónica
+rumor
+dato
+anécdota
+comentario
+comunicación fiable
+comunicación oficial
+comunicación extraoficial
+noticia fiable
+noticia oficial
+noticia extraoficial
+noticia de última hora
+comentar
+comunicar
+declarar
+anunciar
+opinar
+mantener la comunicación
+mantener el contacto
+establecer la comunicación
+establecer el contacto
+comunicarse personalmente
+comunicarse diariamente
+comunicarse oralmente
+comunicarse por escrito
+formular una pregunta
+formular una crítica
+conocer un rumor
+conocer un dato
+enterarse de una noticia por casualidad
+
+# Advanced correspondence
+carta de solicitud de trabajo
+carta de reclamación
+carta confidencial
+carta privada
+carta oficial
+escribir una carta a mano
+escribir una carta a máquina
+escribir una carta a ordenador
+certificar una carta
+certificar un paquete
+entregar una carta
+entregar un telegrama
+entregar un mensaje
+entregar en mano
+abrir la correspondencia
+recibir la correspondencia
+entregar la correspondencia
+enviar la correspondencia
+recoger la correspondencia
+
+# Advanced telecommunications
+servicio de atención al cliente
+servicio de información al cliente
+teléfono digital
+teléfono analógico
+recibo del teléfono
+factura del teléfono
+línea telefónica
+línea de teléfono
+red telefónica
+red de teléfono
+conexión telefónica
+conexión de teléfono
+compañía telefónica
+compañía de teléfono
+telefonear
+cortar la línea
+cortarse la comunicación
+llamar a cobro revertido
+hacer una llamada urbana
+hacer una llamada local
+hacer una llamada interurbana
+
+# Advanced press and media
+titular
+subtítulo
+pie de foto
+portada
+primera página
+crónica
+crítica
+carta al director
+editor
+redactor jefe
+corresponsal
+enviado especial
+edición
+redacción
+artículo de opinión
+artículo de fondo
+periódico de la mañana
+periódico de la tarde
+prensa escrita
+prensa rosa
+prensa del corazón
+prensa deportiva
+prensa amarilla
+prensa económica
+prensa gratuita
+libertad de prensa
+libertad de expresión
+censura
+noticias de actualidad
+suscribirse a un periódico
+suscribirse a una revista
+dar una rueda de prensa
+
+# Advanced audiovisual media
+audición
+emisión
+programa televisivo
+programa radiofónico
+oyente
+telespectador
+teleadicto
+cámara
+redactor
+enviado especial
+corresponsal
+reportero
+televisión por cable
+televisión vía satélite
+televisión digital
+televisión analógica
+medio audiovisual
+medio periodístico
+parte meteorológico
+informativos
+espacio publicitario
+programación de calidad
+programación cultural
+programación apta para todos los públicos
+seguir un programa de televisión
+seguir un programa de radio
+grabar un programa de televisión
+grabar un programa de radio
+perderse un programa de televisión
+perderse un programa de radio
+
+# Advanced computing and internet
+equipo informático
+servidor
+proveedor de acceso
+proveedor de conexión
+videoconferencia
+audioconferencia
+comunicación a través del ordenador
+entrar en un enlace
+acceder a un enlace
+pinchar en un enlace
+instalar un programa
+instalar un antivirus
+manejar un programa
+manejar un antivirus
+participar en un foro
+inscribirse en un foro
+
+## 10. Vivienda
+
+# Advanced construction
+albañilería
+fontanería
+carpintería
+material de construcción
+cemento
+ladrillo
+
+# Advanced housing types
+ático
+dúplex
+buhardilla
+casa de campo
+segunda residencia
+vivienda de alquiler
+vivienda en propiedad
+
+# Advanced building features
+escalera de incendios
+salida de emergencia
+
+# Advanced housing community
+comunidad de vecinos
+administrador
+conserje
+
+# Advanced housing conditions
+buena distribución
+mala distribución
+bien orientado
+mal orientado
+orientado al norte
+orientado al sur
+acogedor
+lujoso
+espacioso
+dar a la calle
+dar al mar
+
+# Advanced house cleaning
+escoba
+recogedor
+fregona
+trapo
+detergente
+lavavajillas
+suavizante
+suciedad
+limpieza
+arreglar la casa
+recoger la casa
+quitar el polvo
+dejar la casa recogida
+dejar la casa limpia
+tener la casa recogida
+tener la casa limpia
+
+# Advanced household appliances
+freidora
+robot de cocina
+exprimidor
+picadora
+batidora
+timbre
+bombilla
+linterna
+enchufe
+interruptor
+cable
+
+## 11. Servicios
+
+# Advanced postal services
+repartidor
+cartero comercial
+envío
+entrega
+gastos de envío
+empresa de mensajería
+correo ordinario
+correo postal
+correo aéreo
+carta certificada
+carta urgente
+giro postal
+giro telegráfico
+cheque postal
+paquete postal
+enviar contra reembolso
+enviar con acuse de recibo
+
+# Advanced banking
+caja fuerte
+ahorro
+cobro
+ingreso
+pago
+hipoteca
+crédito
+préstamo
+talonario de cheques
+accionista
+inversor
+ingresos periódicos
+ingresos extra
+ingresos elevados
+cuenta corriente
+ahorrar dinero
+cobrar dinero
+invertir dinero
+pedir una hipoteca
+pedir un crédito
+pedir un préstamo
+solicitar una hipoteca
+solicitar un crédito
+solicitar un préstamo
+conceder una hipoteca
+conceder un crédito
+conceder un préstamo
+pagar una hipoteca
+pagar un crédito
+pagar un préstamo
+domiciliar un recibo
+domiciliar un pago
+hacer un ingreso
+hacer una transferencia bancaria
+ingresar dinero
+retirar dinero
+cobrar un cheque
+firmar un cheque
+
+# Advanced insurance
+compañía de seguros
+cubrir un accidente
+cubrir una prestación
+
+# Advanced security and police
+policía municipal
+policía de tráfico
+inspector de policía
+agente de policía
+comisario
+servicio de seguridad
+sospechoso
+secuestrador
+banda de delincuentes
+banda de criminales
+vigilancia
+protección
+seguridad ciudadana
+delito
+violación
+atraco
+asesinato
+secuestro
+pista
+coartada
+huella
+prueba
+medida de seguridad
+retrato robot
+poner una denuncia
+denunciar
+seguir una pista
+encontrar una pista
+detener a un sospechoso
+detener a un delincuente
+interrogar a un sospechoso
+interrogar a un delincuente
+confesar
+
+# Advanced social services
+asistente social
+trabajador social
+monitor de actividades
+adaptación
+integración
+marginación
+menores
+inmigrantes
+personas mayores
+personas discapacitadas
+personas sin recursos económicos
+personas sin trabajo
+personas sin hogar
+personas en paro
+marginación
+desempleo
+vejez
+inmigración
+tercera edad
+oficina del INEM
+apoyar
+cooperar
+colaborar
+perder el empleo de forma temporal
+perder el empleo de forma indefinida
+cotizar a la Seguridad Social
+cobrar el subsidio de desempleo
+
+# Advanced public services
+farola
+contenedor de basuras
+contenedor de vidrio
+contenedor de papel
+contenedor de plástico
+compañía eléctrica
+compañía telefónica
+compañía de gas
+compañía de agua
+servicio de limpieza
+servicio de recogida de basura
+recoger la basura
+barrer las calles
+regar los jardines
+regar las zonas verdes
+llegar la factura del agua
+llegar la factura de la luz
+llegar el recibo del agua
+llegar el recibo de la luz
+pagar la factura del agua
+pagar la factura de la luz
+pagar el recibo del agua
+pagar el recibo de la luz
+deber la factura del agua
+deber la factura de la luz
+deber el recibo del agua
+deber el recibo de la luz
+cobrar la factura del agua
+cobrar la factura de la luz
+cobrar el recibo del agua
+cobrar el recibo de la luz
+
+## 12. Compras, tiendas y establecimientos
+
+# Advanced shopping concepts
+establecimiento
+comercio
+cadena
+artículo
+producto
+mercancía
+distribución
+reparto
+clientela
+consumidor
+comercial
+etiqueta
+alarma
+horario comercial
+horario continuo
+dar la vez
+pedir la vez
+poner una reclamación
+pedir el libro de reclamaciones
+echar un vistazo
+hacerse una idea
+ver escaparates
+perder clientes
+ganar clientes
+
+# Advanced clothing and fashion
+complementos
+conjunto
+albornoz
+bata
+camisón
+delantal
+calzador
+aguja
+alfiler
+hilo
+cremallera
+percha
+ropa de temporada
+ropa de calle
+ropa de cama
+ropa de montaña
+zapatos abiertos
+zapatos cerrados
+zapatos de fiesta
+estampado
+descosido
+cosido
+arrugado
+doblado
+encoger
+darse de sí
+
+# Advanced food products
+producto natural
+producto alimenticio
+alimento básico
+alimento nutritivo
+alimento pesado
+alimento ligero
+comida pesada
+comida ligera
+comida sin conservantes
+comida sin colorantes
+bajo en calorías
+bajo en sal
+bajo en azúcar
+rico en calorías
+rico en vitaminas
+rico en proteínas
+rico en fibra
+rico en calcio
+llevar el pedido
+hacer el pedido
+estar en buenas condiciones
+estar en malas condiciones
+
+# Advanced payment methods
+factura
+cheque
+recibo
+presupuesto
+condiciones de financiación
+condiciones de pago
+pagar a plazos
+pagar al contado
+dejar una señal
+hacer una factura
+hacer un recibo
+hacer un presupuesto
+pedir una factura
+pedir un recibo
+pedir un presupuesto
+salir gratis
+ser gratis
+dos por el precio de uno
+tener tarjeta de cliente
+tener tarjeta de fidelidad
+solicitar tarjeta de cliente
+solicitar tarjeta de fidelidad
+
+## 13. Salud e higiene
+
+# Advanced health conditions
+diagnóstico
+tratamiento
+faringitis
+diabetes
+bronquitis
+neumonía
+depresión
+tener la tensión alta
+tener la tensión baja
+tener el colesterol alto
+tener azúcar
+ataque al corazón
+ataque epiléptico
+ataque de ansiedad
+enfermedad crónica
+enfermedad leve
+enfermedad grave
+enfermedad terminal
+enfermedad mental
+enfermedad contagiosa
+enfermedad hereditaria
+atender a un enfermo
+contagiar
+contagiarse
+transmitir
+curativo
+medicinal
+terapéutico
+perjudicial
+beneficioso
+diagnosticar
+cuidarse
+reponer fuerzas
+padecer una enfermedad
+sufrir una enfermedad
+
+# Advanced injuries and treatment
+escayolar
+vendar
+herida grave
+herida profunda
+herida superficial
+herida leve
+tener una cicatriz
+quedar una cicatriz
+curar una herida
+curarse una herida
+tener un tirón
+tener una contractura muscular
+hacerse un esguince
+torcerse un tobillo
+dar puntos
+poner una escayola
+poner una venda
+poner un esparadrapo
+poner una gasa
+ganar peso
+perder peso
+
+# Advanced symptoms
+síntoma
+cansancio
+debilidad
+mareos
+náuseas
+fiebre alta
+fiebre baja
+vomitar
+marearse
+sentir cansancio
+sentir dolor
+estar deprimido
+estar decaído
+tener ansiedad
+tener escalofríos
+tener mareos
+tener náuseas
+tener malestar
+tener molestias
+
+# Advanced medical care
+especialista
+ambulatorio
+consultorio
+sanatorio
+radiografía
+escáner
+TAC
+transfusión de sangre
+ecografía
+chequeo
+consulta del médico
+consulta del dentista
+consulta del ginecólogo
+asistencia médica
+asistencia domiciliaria
+pediatra
+otorrinolaringólogo
+
+# Advanced medicine
+inyección
+pomada
+calmante
+supositorio
+analgésico
+antiinflamatorio
+prospecto
+contraindicaciones
+efectos secundarios
+síntomas
+gasa
+venda
+esparadrapo
+medicamento genérico
+medicamento homeopático
+medicamento contraindicado
+dosis mínima
+dosis diaria
+dosis recomendada
+vacunarse
+recetar
+
+# Advanced hygiene and beauty
+esencia
+sales de baño
+hilo dental
+seda dental
+suciedad
+tijeras
+lima
+cortaúñas
+bañera de hidromasaje
+jacuzzi
+cabina de ducha
+pelo graso
+pelo sano
+pelo brillante
+dientes blancos
+dientes amarillentos
+dientes sanos
+darse una ducha caliente
+darse una ducha fría
+darse una ducha rápida
+darse un baño caliente
+darse un baño frío
+darse un baño relajante
+darse un baño de espuma
+cortarse las uñas
+limarse las uñas
+cepillarse las uñas
+desenredarse el pelo
+enredarse el pelo
+recogerse el pelo
+cepillarse el pelo
+
+# Advanced beauty and cosmetics
+melena
+maquillaje
+colorete
+sombra de ojos
+rímel
+laca
+gel fijador
+gomina
+hidromasaje
+sauna
+estética
+cosmética natural
+productos cosméticos
+salón de belleza
+centro de belleza
+balneario
+manchas
+granos
+crema hidratante
+crema suavizante
+crema limpiadora
+crema nutritiva
+crema solar
+ponerse guapo
+cambiar de peinado
+cambiar de aspecto
+mantenerse bien
+mantenerse mal
+mantenerse joven
+conservarse bien
+conservarse mal
+conservarse joven
+darse un masaje terapéutico
+darse un masaje relajante
+recortarse el bigote
+recortarse la barba
+
+## 14. Viajes, alojamiento y transporte
+
+# Advanced accommodation
+albergue
+bungaló
+parador
+vestíbulo
+consigna
+cama supletoria
+colchoneta
+acampar
+ir de acampada
+hacer una acampada
+registrarse
+alojarse en un hotel
+alojarse en un apartamento
+dar a
+tener vistas
+alquilar una cabaña
+alquilar un bungaló
+alquilar un apartamento
+alojarse en una cabaña
+alojarse en un bungaló
+alojarse en un apartamento
+poner una reclamación
+pedir el libro de reclamaciones
+desmontar la tienda
+montar la tienda
+recoger la tienda
+
+## 15. Economía e industria
+
+# Advanced economics
+crisis económica
+crecimiento económico
+desarrollo económico
+banca
+bolsa
+mercado de valores
+inversión
+capital
+deuda
+déficit
+superávit
+inflación
+deflación
+devaluación
+PIB
+Producto Interior Bruto
+IVA
+Impuesto sobre el Valor Añadido
+tipo de interés
+tipo de cambio
+euro
+dólar
+libra
+yen
+mercado único
+zona euro
+libre comercio
+globalización
+privatización
+nacionalización
+
+# Advanced taxation
+Ministerio de Hacienda
+hacer la declaración de la renta
+presentar la declaración de la renta
+inspector de hacienda
+inspección
+denunciar el delito fiscal
+investigar el delito fiscal
+luchar contra el delito fiscal
+
+# Advanced commerce
+transacciones comerciales
+mercados
+comercio exterior
+publicidad
+mercadotecnia
+márquetin
+accionista
+socio
+acción
+participación
+asociación
+gestión
+dirección
+empleo
+cargo
+ocupación
+plantilla de trabajadores
+jefe de personal
+taller
+nave industrial
+estar de baja
+
+# Advanced industry
+situación económica
+actividad industrial
+desarrollo industrial
+crecimiento industrial
+carpintería
+fontanería
+
+## 16. Ciencia y tecnología
+
+# Advanced science
+físico
+químico
+matemático
+astrónomo
+investigación
+investigador
+ley
+principio
+fórmula
+símbolo
+teoría
+capacidad de análisis
+método de análisis
+técnica de análisis
+nuevas tecnologías
+avance científico
+avance tecnológico
+objeto de estudio
+objeto de análisis
+método de estudio
+método de análisis
+técnica de estudio
+técnica de análisis
+área de estudio
+área de conocimiento
+analizar
+investigar
+desarrollar una técnica
+introducir una técnica
+demostrar una hipótesis
+confirmar una hipótesis
+basarse en una investigación
+basarse en un estudio
+ser objeto de estudio
+ser objeto de análisis
+
+# Advanced biology
+especie
+molécula
+neurona
+célula
+virus
+genético
+biológico
+
+# Advanced mathematics
+cálculo
+álgebra
+estadística
+número par
+número impar
+número decimal
+cifra
+línea recta
+línea diagonal
+línea horizontal
+línea vertical
+fórmula matemática
+ángulo recto
+calcular una cantidad
+calcular un porcentaje
+calcular con precisión
+calcular mentalmente
+
+# Advanced computing
+procesador de textos
+base de datos
+hoja de cálculo
+disco duro
+monitor
+altavoz
+escáner
+módem
+pantalla plana
+inteligencia artificial
+enlace
+escritorio
+cursor
+pinchar
+hacer doble clic
+arrastrar
+cambiar el tipo de letra
+cambiar el tamaño de letra
+grabar un archivo
+maximizar una ventana
+maximizar un documento
+minimizar una ventana
+minimizar un documento
+configurar
+cambiar la configuración
+reiniciar el ordenador
+iniciar el ordenador
+bloquear el ordenador
+bloquearse el ordenador
+
+# Advanced chemistry and physics
+átomo
+molécula
+célula
+aluminio
+oxígeno
+nitrógeno
+formulación
+fórmula química
+microscopio
+termómetro
+dureza
+elasticidad
+fragilidad
+
+## 17. Gobierno, política y sociedad
+
+# Advanced social concepts
+desigualdad
+igualdad
+norma
+regla
+poder
+participación
+rebeldía
+miembro
+socio
+
+# Advanced political institutions
+instituciones políticas
+órganos de gobierno
+autonomía
+parlamento autonómico
+diputado autonómico
+concejal
+gobierno central
+gobierno autonómico
+gobierno local
+administración central
+administración autonómica
+administración local
+estado de derecho
+estado de bienestar
+separación de poderes
+poder ejecutivo
+poder legislativo
+poder judicial
+tribunal constitucional
+tribunal supremo
+candidato
+candidatura
+programa electoral
+campaña electoral
+votar
+voto
+sufragio
+democracia directa
+democracia representativa
+referéndum
+plebiscito
+
+# Advanced law and justice
+secuestrador
+criminal
+sospechoso
+testigo
+víctima
+secuestro
+asesinato
+atentado
+inocente
+culpable
+justicia
+tribunal
+juicio
+sentencia
+fiscal
+acusado
+jurado popular
+coartada
+pista
+prueba
+Tribunal Constitucional
+Tribunal Supremo
+derecho civil
+derecho penal
+mafia
+banda organizada
+banda terrorista
+banda armada
+banda de delincuentes
+red de prostitución
+red de tráfico de armas
+red de falsificación de documentos
+separación de poderes
+abogado defensor
+abogado criminalista
+abogado laboralista
+condenar a muerte
+condenar a cadena perpetua
+condenar a prisión
+
+# Advanced military
+batalla
+fusil
+cañón
+bala
+espada
+enemigo
+aliado
+submarino
+tanque
+servicio militar obligatorio
+ejército profesional
+tratado de paz
+disparar
+luchar
+defender
+atacar
+enfrentarse a
+declarar la guerra
+firmar la paz
+
+## 18. Actividades artísticas
+
+# Advanced arts
+obra representativa
+obra desconocida
+obra conocida
+creación
+creatividad
+inspiración
+estética
+belleza
+pureza
+armonía
+colorido
+equilibrio
+sensibilidad
+romanticismo
+clasicismo
+cubismo
+artes plásticas
+artes escénicas
+crítico de arte
+crítico de cine
+arte contemporáneo
+arte abstracto
+arte gótico
+arte oriental
+estilo arquitectónico
+estilo literario
+estilo propio
+estilo definido
+estilo particular
+arte futurista
+arte modernista
+arte impresionista
+autor futurista
+autor modernista
+autor impresionista
+estilo futurista
+estilo modernista
+estilo impresionista
+componer un poema
+componer una canción
+
+# Advanced music and dance
+festival
+coreografía
+acto
+escena
+compañía de danza
+danza clásica
+danza contemporánea
+clarinete
+saxofón
+trompeta
+contrabajo
+violonchelo
+batería
+ritmo
+compás
+armonía
+música de cámara
+música barroca
+música tradicional
+música popular
+música religiosa
+sinfonía
+himno
+nota musical
+do
+re
+mi
+fa
+sol
+la
+si
+componer
+dirigir
+grabar
+actuar
+
+# Advanced visual arts
+pirámide
+fachada
+columna
+feria de arte
+muestra de arte
+estilo arquitectónico
+estilo escultórico
+estilo pictórico
+obra arquitectónica
+obra escultórica
+obra pictórica
+conjunto arquitectónico
+conjunto escultórico
+conjunto pictórico
+arte románico
+arte gótico
+arte barroco
+arte impresionista
+arte expresionista
+arte cubista
+arte realista
+arte abstracto
+estilo románico
+estilo gótico
+estilo barroco
+estilo impresionista
+estilo expresionista
+estilo cubista
+estilo realista
+estilo abstracto
+estatua de bronce
+estatua de mármol
+estatua de barro
+escultura de bronce
+escultura de mármol
+escultura de barro
+ciudad monumental
+conjunto monumental
+zona monumental
+hacer un esquema
+hacer un plano
+hacer un proyecto
+dibujar un esquema
+dibujar un plano
+dibujar un proyecto
+pintar al óleo
+pintar a la acuarela
+desarrollar un estilo
+imitar un estilo
+
+# Advanced literature
+editor
+autor
+autor teatral
+narrador
+historiador
+prosa
+verso
+narración
+monólogo
+argumento
+tema
+relato
+leyenda
+diario
+literatura contemporánea
+literatura medieval
+literatura romántica
+literatura realista
+obra literaria
+texto literario
+concurso literario
+revista literaria
+premio literario
+estilo elegante
+estilo cuidado
+estilo ágil
+estilo directo
+novela rosa
+novela negra
+narrar
+describir
+relatar
+componer
+rimar
+recitar
+editar un libro
+imprimir un libro
+publicar un libro
+distribuir un libro
+agotarse un libro
+interpretar un texto
+analizar un texto
+resumir un texto
+
+# Advanced photography
+fotografía artística
+fotografía abstracta
+fotografía científica
+fotografía de estudio
+retrato
+primer plano
+fondo
+enfocar
+apretar el botón
+disparar
+revelar una fotografía
+revelar un carrete
+enmarcar
+hacer una ampliación
+
+# Advanced cinema and theater
+función
+sesión
+taquilla
+productor
+guionista
+cámara
+producción
+distribución
+estreno
+largometraje
+corto metraje
+argumento
+guión
+tema
+iluminación
+decorado
+banda sonora
+efectos especiales
+vestuario
+maquillaje
+escena
+secuencia
+cámara lenta
+plano general
+plano de fondo
+actuación
+interpretación
+dirigir una película
+rodar una película
+hacer un papel
+interpretar un papel
+
+## 19. Religión y filosofía
+
+# Advanced religion
+rabino
+imán
+cura
+párroco
+monja
+religión mayoritaria
+religión minoritaria
+religión monoteísta
+religión politeísta
+catolicismo
+protestantismo
+hinduismo
+cristianismo
+islamismo
+budismo
+ateísmo
+paraíso
+purgatorio
+alma
+espíritu
+Antiguo Testamento
+Nuevo Testamento
+Sagradas Escrituras
+Evangelio
+oración
+procesión
+pecado
+pecador
+secta religiosa
+
+# Advanced philosophy
+filosofía
+filósofo
+razón
+pensamiento
+conocimiento
+idea
+filosófico
+ideológico
+metafísico
+razonar
+reflexionar
+
+## 20. Geografía y naturaleza
+
+# Advanced astronomy
+astronomía
+astrología
+signo del zodiaco
+Capricornio
+Leo
+Cáncer
+constelación
+galaxia
+cometa
+eclipse total
+eclipse parcial
+eclipse de sol
+eclipse de luna
+luna llena
+Saturno
+Mercurio
+Venus
+Osa Mayor
+Osa Menor
+salir el sol
+ponerse el sol
+estación espacial
+lanzamiento espacial
+girar un planeta
+brillar una estrella
+apagarse una estrella
+
+# Advanced geography
+geografía física
+geografía humana
+geografía política
+
+# Advanced urban planning
+rascacielos
+urbanización
+zona peatonal
+centro comercial
+polígono industrial
+área metropolitana
+extrarradio
+periferia
+ensanche
+casco antiguo
+rehabilitación urbana
+
+# Advanced countryside
+granja
+cortijo
+masía
+dehesa
+pastizal
+olivar
+viñedo
+trigal
+regadío
+secano
+arado
+tractor
+cosechadora
+siembra
+siega
+vendimia
+
+# Advanced weather
+temporal
+chaparrón
+trueno
+relámpago
+borrasca
+anticiclón
+previsión meteorológica
+parte meteorológico
+clima suave
+clima continental
+clima mediterráneo
+clima tropical
+clima lluvioso
+clima caluroso
+clima templado
+clima desértico
+tiempo primaveral
+tiempo veraniego
+tiempo otoñal
+tiempo invernal
+tiempo variable
+tiempo inestable
+tiempo estable
+temperatura primaveral
+temperatura veraniega
+temperatura otoñal
+temperatura invernal
+temperatura variable
+temperatura inestable
+temperatura estable
+hacer un día estupendo
+hacer un día horrible
+caer una nevada
+caer una helada
+caer una tormenta
+caer un chaparrón
+soplar el viento
+helar
+granizar
+
+# Advanced animals
+animal terrestre
+animal volador
+animal marino
+especie autóctona
+especie protegida
+especie en extinción
+especie en peligro de extinción
+clínica veterinaria
+perro policía
+perro de caza
+perro callejero
+gato callejero
+pollo de corral
+mascota
+dócil
+manso
+noble
+feroz
+bravo
+poner un huevo
+mamar
+
+# Advanced plants
+alga
+seta
+arbusto
+pétalo
+savia
+polen
+semilla
+fruto
+planta carnívora
+planta trepadora
+planta acuática
+planta silvestre
+planta venenosa
+florero
+maceta
+jarrón
+jardinera
+flor natural
+flor artificial
+flor seca
+flor silvestre
+flor exótica
+flor delicada
+ramillete de flores
+centro de flores
+corona de flores
+guirnalda de flores
+dar flor
+dar fruto
+brotar
+florecer
+madurar
+trasplantar
+talar un árbol
+deshojar
+
+# Advanced environment
+ecosistema
+biosfera
+sequía
+marea negra
+desertización
+maremoto
+inundación
+catástrofe natural
+desastre natural
+problema medioambiental
+efecto invernadero
+desarrollo sostenible
+ahorro energético
+energía nuclear
+energía eólica
+energía solar
+energía eléctrica
+biomasa
+zona protegida
+área protegida
+litoral

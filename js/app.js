@@ -8,6 +8,12 @@ class LanguageLearningPWA {
     this.currentLevel = 'beginner'; // Add level support
     this.currentCardIndex = 0;
     this.currentSection = 'home'; // Start with home section
+    this.currentTopic = null; // For topical vocabulary
+    this.currentTopicLevel = 'b1'; // Default topic level
+    this.isTopicalMode = false; // Track if we're in topical vocabulary mode
+    this.currentLearningMode = null; // Track current learning mode ('levels' or 'topical')
+    this.topicalVocabulary = new TopicalVocabulary(); // Initialize topical vocabulary system
+    console.log('TopicalVocabulary system initialized');
     this.settings = {
       englishVariant: 'us', // 'us' or 'gb'
       speechRate: 0.9,
@@ -265,6 +271,9 @@ class LanguageLearningPWA {
   setupLevelSelection() {
     console.log('=== SETTING UP LEVEL SELECTION ===');
     
+    // Learning mode selection
+    this.setupLearningModeSelection();
+    
     // Level selection buttons
     const levelCards = document.querySelectorAll('.level-card');
     levelCards.forEach(card => {
@@ -283,19 +292,143 @@ class LanguageLearningPWA {
       }
     });
     
-    // Back to level selection buttons
-    const backButtons = document.querySelectorAll('#back-to-levels, #back-to-level');
-    backButtons.forEach(btn => {
-      btn.addEventListener('click', () => {
-        this.showLevelSelection();
-      });
-    });
+    // Back navigation buttons
+    this.setupBackNavigation();
+    
+    // Setup topic navigation buttons
+    this.setupTopicNavigation();
     
     console.log('=== LEVEL SELECTION SETUP COMPLETE ===');
   }
 
+  // Setup learning mode selection
+  setupLearningModeSelection() {
+    const modeCards = document.querySelectorAll('.mode-card');
+    modeCards.forEach(card => {
+      card.addEventListener('click', (e) => {
+        const mode = card.dataset.mode;
+        this.selectLearningMode(mode);
+      });
+      
+      const modeBtn = card.querySelector('.mode-btn');
+      if (modeBtn) {
+        modeBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const mode = card.dataset.mode;
+          this.selectLearningMode(mode);
+        });
+      }
+    });
+  }
+
+  // Setup back navigation
+  setupBackNavigation() {
+    // Back to modes from levels
+    const backToModesBtn = document.getElementById('back-to-modes');
+    if (backToModesBtn) {
+      backToModesBtn.addEventListener('click', () => {
+        this.showLearningModeSelection();
+      });
+    }
+
+    // Back to modes from topics
+    const backToModesFromTopicsBtn = document.getElementById('back-to-modes-from-topics');
+    if (backToModesFromTopicsBtn) {
+      backToModesFromTopicsBtn.addEventListener('click', () => {
+        this.showLearningModeSelection();
+      });
+    }
+
+    // Back to modes from practice
+    const backToModesFromPracticeBtn = document.getElementById('back-to-modes-from-practice');
+    if (backToModesFromPracticeBtn) {
+      backToModesFromPracticeBtn.addEventListener('click', () => {
+        this.showLearningModeSelection();
+      });
+    }
+
+    // Legacy back buttons (still used in some flows)
+    const backButtons = document.querySelectorAll('#back-to-levels, #back-to-level');
+    backButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        if (this.currentLearningMode === 'levels') {
+          this.showLevelSelection();
+        } else {
+          this.showLearningModeSelection();
+        }
+      });
+    });
+  }
+
+  // Select learning mode
+  selectLearningMode(mode) {
+    console.log(`=== LEARNING MODE SELECTED: ${mode} ===`);
+    this.currentLearningMode = mode;
+    
+    const languageContent = this.getLanguageContent(this.currentLanguage);
+    
+    if (mode === 'levels') {
+      this.isTopicalMode = false;
+      this.showLevelSelection();
+    } else if (mode === 'topical') {
+      if (languageContent.topicalAvailable) {
+        this.isTopicalMode = true;
+        this.showTopicSelection();
+      } else {
+        alert(`Thematisches Vokabular ist für ${languageContent.title} noch nicht verfügbar.`);
+      }
+    }
+  }
+
+  // Show learning mode selection
+  showLearningModeSelection() {
+    const modeSelection = document.getElementById('learning-mode-selection');
+    const levelSelection = document.getElementById('level-selection');
+    const topicSelection = document.getElementById('topic-selection');
+    const flashcardPractice = document.getElementById('flashcard-practice');
+    
+    if (modeSelection) modeSelection.style.display = 'block';
+    if (levelSelection) levelSelection.style.display = 'none';
+    if (topicSelection) topicSelection.style.display = 'none';
+    if (flashcardPractice) flashcardPractice.style.display = 'none';
+
+    // Update language content
+    this.updateLanguageContent();
+    
+    // Update mode availability based on current language
+    this.updateModeAvailability();
+  }
+
+  // Update mode availability based on language
+  updateModeAvailability() {
+    const languageContent = this.getLanguageContent(this.currentLanguage);
+    const topicalModeCard = document.querySelector('.mode-card[data-mode="topical"]');
+    
+    if (topicalModeCard) {
+      const modeBtn = topicalModeCard.querySelector('.mode-btn');
+      if (languageContent.topicalAvailable) {
+        topicalModeCard.style.opacity = '1';
+        topicalModeCard.style.pointerEvents = 'auto';
+        if (modeBtn) {
+          modeBtn.disabled = false;
+          modeBtn.textContent = 'Themen wählen';
+        }
+      } else {
+        topicalModeCard.style.opacity = '0.6';
+        topicalModeCard.style.pointerEvents = 'none';
+        if (modeBtn) {
+          modeBtn.disabled = true;
+          modeBtn.textContent = 'Bald verfügbar';
+        }
+      }
+    }
+  }
+
   selectLevel(level) {
     console.log(`=== LEVEL SELECTED: ${level} ===`);
+    
+    // Handle regular level selection
+    this.isTopicalMode = false;
     this.currentLevel = level;
     
     // Save level selection
@@ -309,35 +442,249 @@ class LanguageLearningPWA {
   }
 
   showLevelSelection() {
+    const modeSelection = document.getElementById('learning-mode-selection');
     const levelSelection = document.getElementById('level-selection');
+    const topicSelection = document.getElementById('topic-selection');
     const flashcardPractice = document.getElementById('flashcard-practice');
     
-    if (levelSelection && flashcardPractice) {
-      levelSelection.style.display = 'block';
-      flashcardPractice.style.display = 'none';
-    }
+    if (modeSelection) modeSelection.style.display = 'none';
+    if (levelSelection) levelSelection.style.display = 'block';
+    if (topicSelection) topicSelection.style.display = 'none';
+    if (flashcardPractice) flashcardPractice.style.display = 'none';
   }
 
   showFlashcardPractice() {
+    const modeSelection = document.getElementById('learning-mode-selection');
     const levelSelection = document.getElementById('level-selection');
+    const topicSelection = document.getElementById('topic-selection');
     const flashcardPractice = document.getElementById('flashcard-practice');
     const levelTitle = document.getElementById('current-level-title');
     
-    if (levelSelection && flashcardPractice) {
-      levelSelection.style.display = 'none';
-      flashcardPractice.style.display = 'block';
-      
-      // Update title
-      if (levelTitle) {
+    if (modeSelection) modeSelection.style.display = 'none';
+    if (levelSelection) levelSelection.style.display = 'none';
+    if (topicSelection) topicSelection.style.display = 'none';
+    if (flashcardPractice) flashcardPractice.style.display = 'block';
+    
+    // Update title and navigation based on mode
+    if (levelTitle) {
+      if (this.isTopicalMode && this.currentTopic) {
+        const topicCategories = this.topicalVocabulary.getTopicCategories();
+        const topicInfo = topicCategories[this.currentTopic];
+        levelTitle.textContent = `🏷️ ${topicInfo?.title || this.currentTopic} (${this.currentTopicLevel.toUpperCase()})`;
+        
+        // Show topic info and appropriate navigation
+        this.showTopicInfo();
+        this.showTopicNavigation();
+      } else {
+        const languageContent = this.getLanguageContent(this.currentLanguage);
         const levelNames = {
           'beginner': 'Anfänger',
+          'b1': 'B1 Grundstufe',
           'b2': 'B2 Mittelstufe',
           'c1': 'C1 Fortgeschritten'
         };
         const levelName = levelNames[this.currentLevel] || 'Lernkarten';
-        levelTitle.textContent = `📚 ${levelName} - ${this.currentLanguage.charAt(0).toUpperCase() + this.currentLanguage.slice(1)}`;
+        levelTitle.textContent = `📚 ${levelName} - ${languageContent.title.replace(/🇪🇸|🇺🇸|🇷🇺/, '').trim()}`;
+        
+        // Hide topic info and show level navigation
+        this.hideTopicInfo();
+        this.showLevelNavigation();
       }
     }
+  }
+
+  // Show/hide appropriate navigation buttons
+  showTopicNavigation() {
+    const backToTopicsBtn = document.getElementById('back-to-topics');
+    const backToLevelsBtn = document.getElementById('back-to-levels');
+    const backToModesBtn = document.getElementById('back-to-modes-from-practice');
+    
+    if (backToTopicsBtn) backToTopicsBtn.style.display = 'inline-block';
+    if (backToLevelsBtn) backToLevelsBtn.style.display = 'none';
+    if (backToModesBtn) backToModesBtn.style.display = 'none';
+  }
+
+  showLevelNavigation() {
+    const backToTopicsBtn = document.getElementById('back-to-topics');
+    const backToLevelsBtn = document.getElementById('back-to-levels');
+    const backToModesBtn = document.getElementById('back-to-modes-from-practice');
+    
+    if (backToTopicsBtn) backToTopicsBtn.style.display = 'none';
+    if (backToLevelsBtn) backToLevelsBtn.style.display = 'inline-block';
+    if (backToModesBtn) backToModesBtn.style.display = 'none';
+  }
+
+  // Topical Vocabulary Methods
+  async showTopicSelection() {
+    console.log('=== SHOWING TOPIC SELECTION ===');
+    
+    const modeSelection = document.getElementById('learning-mode-selection');
+    const levelSelection = document.getElementById('level-selection');
+    const topicSelection = document.getElementById('topic-selection');
+    const flashcardPractice = document.getElementById('flashcard-practice');
+    
+    if (topicSelection) {
+      if (modeSelection) modeSelection.style.display = 'none';
+      if (levelSelection) levelSelection.style.display = 'none';
+      topicSelection.style.display = 'block';
+      if (flashcardPractice) flashcardPractice.style.display = 'none';
+      
+      // Setup topic level selector
+      this.setupTopicLevelSelector();
+      
+      // Setup back button
+      this.setupTopicNavigation();
+      
+      // Load and display topics
+      await this.loadAndDisplayTopics();
+    }
+  }
+
+  setupTopicLevelSelector() {
+    const topicLevelSelect = document.getElementById('topic-level-select');
+    if (topicLevelSelect) {
+      topicLevelSelect.value = this.currentTopicLevel;
+      topicLevelSelect.addEventListener('change', async (e) => {
+        this.currentTopicLevel = e.target.value;
+        await this.loadAndDisplayTopics();
+      });
+    }
+  }
+
+  setupTopicNavigation() {
+    // Back to levels from topics
+    const backToLevelsBtn = document.getElementById('back-to-levels-from-topics');
+    if (backToLevelsBtn) {
+      backToLevelsBtn.addEventListener('click', () => {
+        this.isTopicalMode = false;
+        this.showLevelSelection();
+      });
+    }
+
+    // Back to topics from flashcards
+    const backToTopicsBtn = document.getElementById('back-to-topics');
+    if (backToTopicsBtn) {
+      backToTopicsBtn.addEventListener('click', () => {
+        this.showTopicSelection();
+      });
+    }
+  }
+
+  async loadAndDisplayTopics() {
+    console.log(`Loading topics for ${this.currentLanguage} ${this.currentTopicLevel}`);
+    
+    try {
+      // Load vocabulary data
+      const vocabulary = await this.topicalVocabulary.loadTopicalVocabulary(this.currentLanguage, this.currentTopicLevel);
+      
+      // Get available topics
+      const topics = this.topicalVocabulary.getAvailableTopics(this.currentLanguage, this.currentTopicLevel);
+      
+      console.log(`Found ${topics.length} topics`);
+      
+      // Display topics
+      this.displayTopics(topics);
+      
+    } catch (error) {
+      console.error('Error loading topics:', error);
+      this.showError('Fehler beim Laden der Themen. Bitte versuchen Sie es erneut.');
+    }
+  }
+
+  displayTopics(topics) {
+    const topicsGrid = document.getElementById('topics-grid');
+    if (!topicsGrid) return;
+
+    topicsGrid.innerHTML = '';
+
+    topics.forEach(topic => {
+      const topicCard = document.createElement('div');
+      topicCard.className = 'topic-card';
+      topicCard.dataset.topic = topic.key;
+      
+      topicCard.innerHTML = `
+        <div class="topic-icon">${topic.icon}</div>
+        <h4>${topic.title}</h4>
+        <p>${topic.description}</p>
+        <div class="topic-stats">
+          <span class="word-count">${topic.wordCount} Wörter</span>
+        </div>
+        <button class="topic-btn">Lernen</button>
+      `;
+
+      // Add click handler
+      topicCard.addEventListener('click', () => {
+        this.selectTopic(topic.key);
+      });
+
+      topicsGrid.appendChild(topicCard);
+    });
+  }
+
+  async selectTopic(topicKey) {
+    console.log(`=== TOPIC SELECTED: ${topicKey} ===`);
+    this.currentTopic = topicKey;
+    
+    // Load vocabulary for this topic
+    const vocabulary = this.topicalVocabulary.getTopicVocabulary(this.currentLanguage, this.currentTopicLevel, topicKey);
+    
+    if (vocabulary.length === 0) {
+      this.showError('Keine Vokabeln für dieses Thema gefunden.');
+      return;
+    }
+
+    // Convert to flashcard format
+    this.currentDueCards = this.topicalVocabulary.convertToFlashcards(vocabulary, this.currentLanguage);
+    this.currentCardIndex = 0;
+
+    // Show flashcard practice
+    this.showFlashcardPractice();
+    
+    // Load first card
+    this.loadCurrentCard();
+    this.updateCardCounter();
+  }
+
+  showTopicInfo() {
+    const topicInfo = document.getElementById('current-topic-info');
+    const backToTopicsBtn = document.getElementById('back-to-topics');
+    const backToLevelsBtn = document.getElementById('back-to-levels');
+    
+    if (topicInfo) {
+      topicInfo.style.display = 'block';
+      
+      const topicTitle = document.getElementById('current-topic-title');
+      const topicProgress = document.getElementById('current-topic-progress');
+      
+      if (topicTitle && this.currentTopic) {
+        const topicCategories = this.topicalVocabulary.getTopicCategories();
+        const topicData = topicCategories[this.currentTopic];
+        topicTitle.textContent = `${topicData?.icon || '🏷️'} ${topicData?.title || this.currentTopic}`;
+      }
+      
+      if (topicProgress && this.currentDueCards) {
+        topicProgress.textContent = `${this.currentDueCards.length} Wörter`;
+      }
+    }
+
+    // Show/hide appropriate back buttons
+    if (backToTopicsBtn) backToTopicsBtn.style.display = 'inline-block';
+    if (backToLevelsBtn) backToLevelsBtn.style.display = 'none';
+  }
+
+  hideTopicInfo() {
+    const topicInfo = document.getElementById('current-topic-info');
+    const backToTopicsBtn = document.getElementById('back-to-topics');
+    const backToLevelsBtn = document.getElementById('back-to-levels');
+    
+    if (topicInfo) topicInfo.style.display = 'none';
+    if (backToTopicsBtn) backToTopicsBtn.style.display = 'none';
+    if (backToLevelsBtn) backToLevelsBtn.style.display = 'inline-block';
+  }
+
+  showError(message) {
+    // Simple error display - you can enhance this with a proper modal/toast
+    alert(message);
   }
 
   // Navigation Handler
@@ -404,14 +751,8 @@ class LanguageLearningPWA {
   showFlashcardsSection() {
     console.log('Showing flashcards section');
     
-    // Show level selection first
-    const levelSelection = document.getElementById('level-selection');
-    const flashcardPractice = document.getElementById('flashcard-practice');
-    
-    if (levelSelection && flashcardPractice) {
-      levelSelection.style.display = 'block';
-      flashcardPractice.style.display = 'none';
-    }
+    // Show learning mode selection
+    this.showLearningModeSelection();
   }
 
   showChatbotSection() {
@@ -475,13 +816,84 @@ class LanguageLearningPWA {
     // Save the new language selection
     localStorage.setItem('currentLanguage', this.currentLanguage);
     
-    // Reset card index
+    // Update language-specific content
+    this.updateLanguageContent();
+    
+    // Reset card index and mode
     this.currentCardIndex = 0;
+    this.currentLearningMode = null;
+    this.isTopicalMode = false;
     
-    // Reinitialize flashcards for the new language
-    this.initializeFlashcards();
+    // If we're in flashcards section, show the learning mode selection
+    if (this.currentSection === 'flashcards') {
+      this.showLearningModeSelection();
+    }
     
-    console.log(`✅ Language changed to ${this.currentLanguage} and flashcards reloaded`);
+    console.log(`✅ Language changed to ${this.currentLanguage} and interface updated`);
+  }
+
+  // Update language-specific content
+  updateLanguageContent() {
+    const languageContent = this.getLanguageContent(this.currentLanguage);
+    
+    // Update language title and subtitle
+    const languageTitle = document.getElementById('language-title');
+    const languageSubtitle = document.getElementById('language-subtitle');
+    
+    if (languageTitle) {
+      languageTitle.textContent = languageContent.title;
+    }
+    
+    if (languageSubtitle) {
+      languageSubtitle.textContent = languageContent.subtitle;
+    }
+  }
+
+  // Get language-specific content
+  getLanguageContent(language) {
+    const content = {
+      spanish: {
+        title: '🇪🇸 Spanisch Lernen',
+        subtitle: 'Wähle deinen Lernmodus',
+        flag: '🇪🇸',
+        levels: {
+          beginner: { available: true, title: 'Anfänger', description: 'Grundwortschatz und einfache Phrasen' },
+          b1: { available: true, title: 'B1 Grundstufe', description: 'Erweiterte Grundkenntnisse für alltägliche Situationen' },
+          b2: { available: true, title: 'B2 Mittelstufe', description: 'Erweiterte Vokabeln für selbstständige Sprachverwendung' },
+          c1: { available: true, title: 'C1 Fortgeschritten', description: 'Komplexe Vokabeln für fachkundige Sprachverwendung' }
+        },
+        topicalAvailable: true,
+        topicalLevels: ['b1', 'b2']
+      },
+      english: {
+        title: '🇺🇸 Englisch Lernen',
+        subtitle: 'Wähle deinen Lernmodus',
+        flag: '🇺🇸',
+        levels: {
+          beginner: { available: true, title: 'Anfänger', description: 'Grundwortschatz und einfache Phrasen' },
+          b1: { available: false, title: 'B1 Grundstufe', description: 'Bald verfügbar' },
+          b2: { available: true, title: 'B2 Mittelstufe', description: 'Erweiterte Vokabeln für selbstständige Sprachverwendung' },
+          c1: { available: true, title: 'C1 Fortgeschritten', description: 'Komplexe Vokabeln für fachkundige Sprachverwendung' }
+        },
+        topicalAvailable: false,
+        topicalLevels: []
+      },
+      russian: {
+        title: '🇷🇺 Russisch Lernen',
+        subtitle: 'Wähle deinen Lernmodus',
+        flag: '🇷🇺',
+        levels: {
+          beginner: { available: true, title: 'Anfänger', description: 'Grundwortschatz und einfache Phrasen' },
+          b1: { available: false, title: 'B1 Grundstufe', description: 'Bald verfügbar' },
+          b2: { available: false, title: 'B2 Mittelstufe', description: 'Bald verfügbar' },
+          c1: { available: false, title: 'C1 Fortgeschritten', description: 'Bald verfügbar' }
+        },
+        topicalAvailable: false,
+        topicalLevels: []
+      }
+    };
+
+    return content[language] || content.spanish;
   }
 
   // Flashcard System
@@ -766,6 +1178,43 @@ class LanguageLearningPWA {
             target: 'Disculpe',
             germanExample: '"Entschuldigung, wo ist der Bahnhof?"',
             targetExample: '"Disculpe, ¿dónde está la estación?"'
+          }
+        ],
+        b1: [
+          {
+            id: 'es_b1_1',
+            german: 'Abenteuer',
+            target: 'aventura',
+            germanExample: '"Das war ein großes Abenteuer."',
+            targetExample: '"Esa fue una gran aventura."'
+          },
+          {
+            id: 'es_b1_2',
+            german: 'Flughafen',
+            target: 'aeropuerto',
+            germanExample: '"Der Flughafen ist sehr groß."',
+            targetExample: '"El aeropuerto es muy grande."'
+          },
+          {
+            id: 'es_b1_3',
+            german: 'Landwirtschaft',
+            target: 'agricultura',
+            germanExample: '"Die Landwirtschaft ist wichtig für das Land."',
+            targetExample: '"La agricultura es importante para el país."'
+          },
+          {
+            id: 'es_b1_4',
+            german: 'jetzt',
+            target: 'ahora',
+            germanExample: '"Ich muss jetzt gehen."',
+            targetExample: '"Tengo que irme ahora."'
+          },
+          {
+            id: 'es_b1_5',
+            german: 'sparen',
+            target: 'ahorrar',
+            germanExample: '"Ich spare Geld für den Urlaub."',
+            targetExample: '"Ahorro dinero para las vacaciones."'
           }
         ]
       },

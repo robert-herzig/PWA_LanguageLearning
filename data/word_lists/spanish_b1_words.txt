@@ -1,0 +1,2019 @@
+# Spanish B1 Level Vocabulary - Instituto Cervantes PCIC
+# Source: https://cvc.cervantes.es/ensenanza/biblioteca_ele/plan_curricular/niveles/09_nociones_especificas_inventario_b1-b2.htm
+# This file contains all B1 level Spanish vocabulary extracted from the official source
+
+## 1. Individuo: dimensión física
+
+# Body parts
+músculo
+hueso
+piel
+corazón
+pulmón
+cuello
+hombros
+pecho
+cintura
+barriga
+rodilla
+tobillo
+codo
+muñeca
+
+# Physical appearance and posture
+postura
+mirada
+parecerse
+tener la piel clara
+tener la piel oscura
+tener la piel sensible
+tener la piel suave
+estar moreno
+ser blanco
+ser moreno
+tener buen tipo
+tener mal tipo
+tener buena figura
+tener mala figura
+tener buen estilo
+tener mal estilo
+tener buena presencia
+tener mala presencia
+
+# Physical actions and movements
+caminar
+dar un paseo
+saltar
+estar sentado
+estar de pie
+respirar
+llorar
+oler
+tocar
+besar
+abrazar
+levantar las manos
+levantar los brazos
+levantar la cabeza
+bajar las manos
+bajar los brazos
+bajar la cabeza
+mover las manos
+mover los brazos
+mover la cabeza
+soltar
+
+# Life and death
+vida
+muerte
+estar embarazada
+esperar un hijo
+ser virgen
+hacer el amor
+tener relaciones sexuales
+tomar la píldora
+usar preservativos
+tener la regla
+
+## 2. Individuo: dimensión perceptiva y anímica
+
+# Character and personality
+optimismo
+pesimismo
+tranquilidad
+intranquilidad
+paciencia
+impaciencia
+sincero
+paciente
+impaciente
+introvertido
+vago
+travieso
+seguro
+inseguro
+conservador
+hablador
+arrogante
+tener sentido del humor
+tener mucho carácter
+tener poco carácter
+tener mal carácter
+tener carácter fuerte
+tener carácter débil
+tener carácter fácil
+tener carácter difícil
+ser de carácter fuerte
+ser de carácter débil
+ser de carácter fácil
+ser de carácter difícil
+
+# Feelings and emotions
+sentimiento
+amor
+amistad
+estar aburrido
+estar asustado
+estar estresado
+estar deprimido
+estar enamorado
+alegrarse
+divertirse
+enamorarse
+aburrirse
+deprimirse
+enfadarse
+dar pena
+dar lástima
+dar miedo
+ponerse triste
+ponerse contento
+ponerse de mal humor
+encontrarse bien
+encontrarse mal
+encontrarse fatal
+no soportar
+
+# Physical sensations
+tocar calor
+sentir calor
+tocar frío
+sentir frío
+tocar sueño
+sentir sueño
+tocar sed
+sentir sed
+tocar hambre
+sentir hambre
+estar bien
+estar mal
+estar regular
+sentirse bien
+sentirse mal
+encontrarse bien
+encontrarse mal
+cansarse
+
+# Manners and behavior
+portarse bien
+portarse mal
+ser educado
+ser maleducado
+
+# Values and character traits
+sincero
+conservador
+
+# Luck
+tener suerte
+tener buena suerte
+tener mala suerte
+
+## 3. Identidad personal
+
+# Address and living
+vivir en las afueras
+vivir en el centro
+cambiar de dirección
+
+# Age
+recién nacido
+anciano
+
+# Gender and sexuality
+varón
+hembra
+masculino
+femenino
+heterosexual
+homosexual
+bisexual
+transexual
+gay
+lesbiana
+
+# Civil status
+boda civil
+boda religiosa
+divorcio
+separación
+matrimonio homosexual
+matrimonio heterosexual
+pareja de hecho
+
+# Documents and bureaucracy
+burocracia
+funcionario
+Documento Nacional de Identidad
+DNI
+tener un documento
+solicitar un documento
+renovar un documento
+perder un documento
+
+# Personal belongings
+diario
+álbum de fotos
+joya
+anillo
+collar
+pendientes
+pulsera
+
+## 4. Relaciones personales
+
+# Family relationships
+matrimonio homosexual
+matrimonio heterosexual
+pareja de hecho
+madre soltera
+niño adoptado
+adoptar un niño
+educar a un hijo
+convivir con la pareja
+convivir con el novio
+vivir con la pareja
+vivir con el novio
+llevar años juntos
+llevar años en pareja
+llevar años viviendo juntos
+llevar años conviviendo juntos
+obedecer a los padres
+desobedecer a los padres
+discutir con los padres
+discutir con los hermanos
+discutir con los hijos
+crecer feliz
+crecer fuerte
+crecer sano
+
+# Friendships and relationships
+colega
+amigo de la infancia
+amigo de universidad
+buen amigo
+gran amigo
+tener novio
+tener pareja
+tener una aventura
+tener una relación
+tener una relación de amistad
+tener una relación de amor
+tener una relación de trabajo
+empezar una relación
+acabar una relación
+terminar una relación
+salir con alguien
+romper con alguien
+caer bien
+caer mal
+llevarse bien
+llevarse mal
+dar la mano
+dar un abrazo
+dar un beso
+abrazarse
+besarse
+ligar
+
+# Social events and celebrations
+fiesta típica
+fiesta popular
+fiesta tradicional
+fiesta de disfraces
+comida de Navidad
+comida de familia
+comida de negocios
+fiesta formal
+fiesta informal
+reunión formal
+reunión informal
+despedida de soltero
+boda
+cumplir años
+hacer una despedida de soltero
+dar una despedida de soltero
+invitar a una despedida de soltero
+hacer una fiesta de fin de curso
+irse de viaje de novios
+irse de luna de miel
+estar de viaje de novios
+estar de luna de miel
+felicitar
+hacer un regalo
+envolver un regalo
+abrir un regalo
+
+# Social behavior and attitudes
+actitud agradable
+actitud positiva
+actitud extraña
+portarse bien
+portarse mal
+tratar bien a alguien
+tratar mal a alguien
+tener una buena actitud
+tener una mala actitud
+
+## 5. Alimentación
+
+# Nutrition and diet
+alimentación sana
+alimentación equilibrada
+producto natural
+producto para diabéticos
+alimento pesado
+alimento ligero
+comida pesada
+comida ligera
+calorías
+vitaminas
+proteínas
+fibra
+hierro
+alimentar
+alimentarse
+
+# Beverages
+infusión de tila
+infusión de manzanilla
+infusión de poleo
+vino joven
+vino de la casa
+un reserva
+abrir una botella
+servir una bebida
+probar una bebida
+tomar una copa
+estar borracho
+tener resaca
+
+# Food and ingredients
+marisco
+especias
+embutido
+lomo
+salchichón
+chorizo
+berenjena
+calabacín
+espinacas
+guisantes
+lentejas
+judías blancas
+garbanzos
+bizcocho
+magdalena
+cereza
+piña
+kiwi
+leche entera
+leche descremada
+leche desnatada
+nata
+margarina
+yogur natural
+yogur desnatado
+yogur con frutas
+costilla de cordero
+chuleta de cerdo
+pechuga de pollo
+solomillo de ternera
+aceite de oliva
+aceite de girasol
+vinagre
+mostaza
+clara de huevo
+yema de huevo
+cáscara de huevo
+
+# Cooking and preparation
+receta
+ingredientes
+modo de preparación
+carne a la plancha
+pescado a la plancha
+carne frita
+pescado frito
+carne hervida
+pescado hervido
+blando
+duro
+crudo
+poco hecho
+muy hecho
+salado
+dulce
+picante
+amargo
+freír
+hervir
+cocer
+asar
+aliñar
+condimentar
+cocer arroz
+cocer pasta
+hervir agua
+hervir leche
+batir huevos
+freír patatas
+freír huevos
+pelar fruta
+pelar patatas
+cortar el pan
+cortar la carne
+aliñar una ensalada
+quemarse la comida
+
+# Spanish dishes and flavors
+sopa de pescado
+sopa de verduras
+gazpacho
+cocido
+croquetas
+sabor bueno
+sabor agradable
+dulce
+salado
+amargo
+soso
+picante
+sentar bien
+sentar mal
+
+# Kitchen utensils and tableware
+cuchara
+tenedor
+cuchillo
+sartén
+cazo
+mantel
+copa de vino
+copa de champán
+taza de café
+taza de té
+taza de desayuno
+vaso de agua
+jarra de agua
+jarra de cerveza
+recoger la cocina
+recoger la mesa
+poner los platos
+poner la mesa
+recoger los platos
+recoger la mesa
+quitar los platos
+quitar la mesa
+fregar los platos
+poner el lavavajillas
+poner el lavaplatos
+
+# Restaurants and dining out
+restaurante sencillo
+restaurante de lujo
+comida casera
+comida tradicional
+cocina india
+cocina andaluza
+cocina internacional
+tomar nota
+traer el primer plato
+traer el segundo plato
+llevarse el primer plato
+llevarse el segundo plato
+servir el primer plato
+servir el segundo plato
+tomar un aperitivo
+tomar una ración
+ir de tapas
+para tomar aquí
+para llevar
+
+## 6. Educación
+
+# Educational institutions
+campus
+secretaría
+administración
+centro de recursos
+aula multimedia
+colegio público
+colegio privado
+colegio concertado
+guardería
+jardín de infancia
+
+# Educational process
+asignatura teórica
+asignatura práctica
+clase teórica
+clase práctica
+matrícula
+beca
+conferencia
+matricularse
+devolver la matrícula
+pedir una beca
+dar una beca
+ganar una beca
+hacer un intercambio
+hacer unas prácticas
+
+# Learning and studying
+saber de memoria
+aprender de memoria
+estudiar de memoria
+pensar
+recordar
+olvidar
+enseñar
+
+# Exams and grades
+test
+control
+hacer un examen oral
+hacer un test escrito
+hacer un control
+tener un examen oral
+tener un test escrito
+tener un control
+aprobar un examen oral
+aprobar un test escrito
+aprobar un control
+suspender un examen oral
+suspender un test escrito
+suspender un control
+corregir un examen
+tener un notable
+tener un sobresaliente
+tener buena nota
+tener mala nota
+aprobar el curso
+repetir el curso
+
+# Academic qualifications
+bachillerato
+carrera
+máster
+doctorado
+licenciado
+doctor
+estudiar el bachillerato
+estudiar una carrera
+estudiar un máster
+estudiar un doctorado
+hacer el bachillerato
+hacer una carrera
+hacer un máster
+hacer un doctorado
+tener el bachillerato
+tener una carrera
+tener un máster
+tener un doctorado
+empezar el bachillerato
+empezar una carrera
+empezar un máster
+empezar un doctorado
+acabar el bachillerato
+acabar una carrera
+acabar un máster
+acabar un doctorado
+terminar el bachillerato
+terminar una carrera
+terminar un máster
+terminar un doctorado
+no tener estudios
+tener estudios
+
+# Study activities and materials
+tener una duda
+equivocarse
+hacer una actividad en parejas
+hacer una actividad en grupos
+hacer una actividad de forma individual
+hacer un esquema
+hacer un resumen
+buscar en un libro
+buscar en un diccionario
+mirar en un libro
+mirar en un diccionario
+tomar notas
+tomar apuntes
+subrayar un libro
+escoger un tema
+escoger un compañero
+escoger un libro
+elegir un tema
+elegir un compañero
+elegir un libro
+cambiar de libro
+cambiar de tema
+cambiar de compañero
+levantar la mano
+levantarse
+cambiar de sitio
+cambiarse de sitio
+salir voluntario a la pizarra
+salir voluntaria a la pizarra
+explicar un tema
+explicar una lección
+hablar sobre un tema
+charlar sobre un tema
+relacionar
+comparar
+buscar diferencias
+corregir una redacción
+corregir un ejercicio
+corregir los deberes
+hacer un descanso
+hacer una pausa
+
+# School supplies
+enciclopedia
+apuntes
+folio
+papel reciclado
+papel de impresora
+carpeta
+tinta para impresora
+tinta de impresora
+
+## 7. Trabajo
+
+# Job titles and professions
+director de RR. HH.
+director de Recursos Humanos
+empleado de banca
+responsable de ventas
+oficio
+profesión liberal
+sustituto
+ayudante
+estudiante en prácticas
+trabajar para una empresa de transportes
+trabajar para una empresa de servicios
+estar de auxiliar
+estar de canguro
+
+# Workplace
+departamento de recursos humanos
+departamento de contabilidad
+departamento de administración
+bufete
+laboratorio
+
+# Work activities
+hacer una presentación
+hacer un informe
+hacer un presupuesto
+hacer un proyecto
+
+# Employment and job search
+oferta
+demanda
+anuncio de trabajo
+entrevistado
+entrevistador
+tener formación
+tener experiencia
+buscar trabajo
+escribir una carta de presentación
+enviar una carta de presentación
+hacer el currículum vítae
+presentar el currículum vítae
+hacer una entrevista de trabajo
+realizar una entrevista de trabajo
+firmar un contrato
+despedir
+
+# Working conditions
+contrato
+sueldo total
+disponibilidad
+estabilidad laboral
+horario flexible
+incorporación inmediata
+formación a cargo de la empresa
+posibilidad de promoción
+sindicato
+tener un sueldo
+ganar un sueldo
+subir el sueldo
+bajar el sueldo
+estar de vacaciones
+hacer huelga
+jubilarse
+
+# Work qualities
+vago
+
+## 8. Ocio
+
+# Leisure activities
+descanso
+vacación
+cocina
+jardinería
+bricolaje
+ir de camping
+hacer un picnic
+hacer turismo
+inscribirse en un club
+inscribirse en una asociación
+inscribirse en un grupo
+colaborar como voluntario
+tener tiempo libre
+estar ocupado
+estar libre
+tener un compromiso
+ir de copas
+ir de tapas
+ir de marcha
+salir de copas
+salir de tapas
+salir de marcha
+aburrirse
+pasarlo bien
+pasarlo mal
+divertirse
+hacer un curso de jardinería
+hacer un curso de cocina
+ser aficionado a hacer crucigramas
+coleccionar sellos
+coleccionar monedas
+
+# Entertainment and shows
+asiento de un cine
+asiento de un teatro
+fila de un cine
+fila de un teatro
+espectador
+público
+escenario
+galería de arte
+plaza de toros
+poner una película
+hacer cola
+ser un éxito
+
+# Sports
+árbitro
+entrenador
+deportista
+jugador
+perdedor
+ganador
+balón de fútbol
+balón de baloncesto
+pelota de tenis
+pelota de golf
+raqueta
+esquíes
+partido de fútbol
+partido de baloncesto
+equipo de fútbol
+equipo de baloncesto
+carrera ciclista
+carrera de motos
+carrera de coches
+guantes de boxeo
+chándal
+zapatos deportivos
+ganar
+perder
+empatar
+jugar al balonmano
+jugar al voleibol
+jugar al béisbol
+hacer atletismo
+hacer ciclismo
+hacer natación
+campo de fútbol
+pista de tenis
+
+# Games
+ficha
+dado
+tablero
+casilla
+concurso
+videojuego
+consola
+juego de mesa
+juego de cartas
+jugador
+ganar
+perder
+empatar
+jugar a los bolos
+jugar a los dardos
+jugar al billar
+jugar con los juguetes
+jugar con la pelota
+tocar un premio
+tocar el Gordo
+tocar la lotería
+
+## 9. Información y medios de comunicación
+
+# Communication and information
+medios de comunicación
+medios de información
+noticia
+comentario
+opinión
+informar
+dar información
+tener información
+dar una noticia
+estar bien informado
+estar mal informado
+mantenerse bien informado
+mantenerse mal informado
+dejar un recado
+dejar un mensaje
+comunicarse con alguien por carta
+comunicarse con alguien por correo electrónico
+comunicarse con alguien por teléfono
+comunicarse con alguien por correo
+cortar la comunicación
+cortarse la comunicación
+
+# Mail and correspondence
+buzón
+remitente
+destinatario
+apartado de correos
+posdata
+firma
+saludo
+despedida
+carta formal
+carta personal
+cerrar un sobre
+echar una carta
+mandar por correo
+abrir el buzón
+
+# Telephone
+contestador automático
+buzón de voz
+llamada
+línea ocupada
+prefijo
+extensión
+batería de teléfono
+tarjeta de teléfono
+conversación telefónica
+guía telefónica
+páginas amarillas
+marcar un número de teléfono
+descolgar el teléfono
+colgar el teléfono
+coger el teléfono
+contestar al teléfono
+ponerse al teléfono
+quedarse sin batería
+quedarse sin saldo
+hacer una llamada
+pasar una llamada
+devolver una llamada
+atender una llamada
+recibir una llamada
+desviar una llamada
+estar comunicando
+
+# Press and media
+periodismo
+prensa
+editorial
+cartelera
+sección de economía
+sección de cultura
+sección de deportes
+agencia de prensa
+agencia de fotografía
+suplemento cultural
+suplemento de economía
+publicar una noticia
+publicar un reportaje
+publicar una entrevista
+publicar un artículo
+redactar una noticia
+redactar un reportaje
+redactar una entrevista
+redactar un artículo
+
+# Television and radio
+canal
+emisora
+locutor
+cadena pública
+cadena privada
+cadena regional
+cadena nacional
+canal público
+canal privado
+canal regional
+canal nacional
+capítulo
+episodio
+serie
+culebrón
+telenovela
+concurso
+debate
+documental
+telebasura
+programa de información general
+programa de información deportiva
+película en versión original
+película con subtítulos
+cambiar de canal
+cambiar de cadena
+cambiar de emisora
+consultar la programación
+
+# Internet and computers
+contraseña
+nombre de usuario
+navegador
+buscador
+ratón
+programa
+antivirus
+línea ADSL
+buscar información
+buscar datos
+buscar imágenes
+buscar documentos
+intercambiar información
+intercambiar datos
+intercambiar imágenes
+intercambiar documentos
+colgar una fotografía en Internet
+colgar un documento en Internet
+colgar un texto en Internet
+consultar una página web
+consultar una página de Internet
+entrar en una página web
+entrar en una página de Internet
+acceder a una página web
+acceder a una página de Internet
+descargarse un programa
+descargarse un archivo
+descargarse música
+bajarse un programa
+bajarse un archivo
+bajarse música
+conectarse a Internet
+tener conexión a Internet
+abrir una cuenta de correo electrónico
+abrirse una cuenta de correo electrónico
+adjuntar un documento
+reenviar un documento
+poner una copia a alguien
+enviar una copia a alguien
+
+## 10. Vivienda
+
+# Construction and housing
+construir una casa
+construir un edificio
+hacer una casa
+hacer un edificio
+
+# Buying and renting
+casero
+propietario
+compra
+alquiler
+visitar un piso
+ir a ver un piso
+pagar el alquiler
+pagar la hipoteca
+pagar el piso
+pagar el recibo de la luz
+pagar la comunidad
+pagar el recibo del gas
+pagar el recibo del agua
+pagar el recibo del teléfono
+
+# Moving
+empresa de mudanzas
+camión de mudanzas
+hacer una mudanza
+hacer un traslado
+irse a vivir a
+
+# Types of housing
+bloque de pisos
+edificio de apartamentos
+
+# People in housing
+portero
+dueño
+
+# Housing conditions
+piso de segunda mano
+piso luminoso
+piso soleado
+
+# House maintenance and decoration
+fregar el suelo
+fregar los platos
+barrer
+hacer la cama
+hacer la compra
+pasar el aspirador
+sacar la basura
+planchar
+tender la ropa
+
+# Decoration
+decoración
+ambiente moderno
+ambiente clásico
+estilo moderno
+estilo clásico
+decorar
+iluminar una habitación
+iluminar un espacio
+
+# Furniture and household items
+alfombra
+cortina
+florero
+póster
+espejo
+cómoda
+mesilla de noche
+
+# Appliances
+pequeño electrodoméstico
+electrodoméstico
+frigorífico
+congelador
+horno
+cafetera
+equipo de música
+funcionar
+estar roto
+estar estropeado
+encender un electrodoméstico
+apagar un electrodoméstico
+poner un electrodoméstico
+quitar un electrodoméstico
+conectar un electrodoméstico
+programar un electrodoméstico
+enchufar un electrodoméstico
+desenchufar un electrodoméstico
+
+## 11. Servicios
+
+# Postal services
+cartero
+mensajero
+empleado de correos
+buzón de correos
+
+# Banking
+cuenta
+cheque de viaje
+meter dinero de la cuenta
+poner dinero de la cuenta
+sacar dinero de la cuenta
+abrir una cuenta
+cerrar una cuenta
+
+# Healthcare
+clínica
+urgencias
+seguro médico
+ir de urgencias
+estar en urgencias
+
+# Security and police
+vigilante
+ladrón
+asesino
+robo
+muerte
+robar
+matar
+
+# Social services
+psicólogo
+voluntario de ONG
+servicios sociales
+ayuda
+colaboración
+ayuda económica
+cuidar
+ayudar
+colaborar como voluntario
+recibir una ayuda
+ofrecer una ayuda
+atender a personas mayores
+
+# Public services
+baños públicos
+aseos públicos
+W. C.
+semáforo
+
+## 12. Compras, tiendas y establecimientos
+
+# Shopping
+salida de emergencia
+escaleras mecánicas
+aparcamiento
+oferta
+descuento
+garantía
+hacer una devolución
+hacer un cambio
+salir de rebajas
+ir de rebajas
+poner rebajas
+haber rebajas
+tener rebajas
+tener un descuento
+hacer un descuento
+subir el precio
+bajar el precio
+estar de oferta
+tener garantía
+tener precios especiales
+haber precios especiales
+comprar por catálogo
+comprar por Internet
+vender por catálogo
+vender por Internet
+
+# Clothing and fashion
+ropa interior
+ropa de verano
+ropa de invierno
+ropa de deporte
+zapatos planos
+zapatos de tacón
+zapatillas de deporte
+vestido de fiesta
+vestido de noche
+vestido de novia
+traje de fiesta
+traje de noche
+traje de novia
+minifalda
+falda corta
+falda larga
+lana
+algodón
+lino
+liso
+de rayas
+de cuadros
+quedar bien
+quedar mal
+quedar ancho
+quedar estrecho
+quedar grande
+quedar pequeño
+quedar largo
+quedar corto
+coser
+
+# Food shopping
+carro de la compra
+carrito de la compra
+cesta de la compra
+bolsa de la compra
+sección de congelados
+sección de lácteos
+sección de bebidas
+loncha de jamón
+loncha de queso
+trozo de tarta
+trozo de pan
+estar malo
+estar caducado
+tener de oferta
+tener de promoción
+estar de oferta
+estar de promoción
+
+# Payment
+cambio
+vuelta
+pagar intereses
+cobrar intereses
+pasar por caja
+pasar por la caja
+
+## 13. Salud e higiene
+
+# Health and illness
+seguro médico
+seguro de enfermedad
+seguro público
+seguro privado
+tener diarrea
+tener cáncer
+tener sida
+ponerse enfermo
+ponerse malo
+ponerse bien
+tener buena salud
+tener mala salud
+cuidar a un enfermo
+curar a un enfermo
+hacer régimen
+hacer un régimen
+estar sano
+estar de baja
+
+# Injuries and accidents
+quemadura
+corte
+herida
+caerse
+darse un golpe
+quemarse un dedo
+quemarse una mano
+cortarse un dedo
+cortarse una mano
+hacerse una herida
+romperse una pierna
+romperse un brazo
+adelgazar
+engordar
+
+# Symptoms
+estar agotado
+estar estresado
+estar resfriado
+estar mareado
+
+# Medical professionals and facilities
+doctor
+enfermo
+clínica
+centro de salud
+médico de guardia
+hospital de guardia
+farmacia de guardia
+análisis de sangre
+análisis de orina
+dentista
+ginecólogo
+oculista
+psicólogo
+cirujano
+paciente
+pedir hora
+pedir cita
+hacerse una revisión
+hacerse unas pruebas
+hacerse un control
+hacerse un análisis de sangre
+hacerse un análisis de orina
+ingresar en un hospital
+ingresar en urgencias
+dar de alta
+dar de baja
+dar el alta
+dar la baja médica
+
+# Medicine and treatment
+tirita
+alcohol
+agua oxigenada
+algodón
+termómetro
+antibiótico
+aspirina
+gotas
+vacuna
+pastilla
+darse una crema
+echarse unas gotas
+ponerse una vacuna
+ponerse el termómetro
+hacer una receta médica
+dar una receta médica
+
+# Personal hygiene
+cepillo
+peine
+secador de pelo
+zapatillas
+gorro de ducha
+gorro de baño
+espuma de afeitar
+gel de afeitar
+maquinilla de afeitar
+cuchilla de afeitar
+pastilla de jabón
+perfume
+
+# Beauty and appearance
+barra de labios
+corte de pelo
+peinado
+pintarse los ojos
+pintarse los labios
+tener las manos suaves
+tener la piel suave
+cortarse el pelo
+
+## 14. Viajes, alojamiento y transporte
+
+# Travel documents and luggage
+DNI
+Documento Nacional de Identidad
+visado
+cheques de viaje
+equipaje
+bolsa de aseo
+bolsa de viaje
+exceso de equipaje
+mapa de carreteras
+plano turístico
+callejero
+anular un billete
+cambiar un billete
+facturar el equipaje
+facturar las maletas
+perder el equipaje
+perder las maletas
+
+# Types of travel
+hacer un crucero
+hacer un safari
+viaje de trabajo
+viaje de estudios
+viaje de negocios
+viaje de larga duración
+viajar en familia
+viajar en grupo
+irse de puente
+irse de fin de semana
+marcharse de puente
+marcharse de fin de semana
+salir de puente
+salir de fin de semana
+hacer un viaje organizado
+contratar un viaje organizado
+hacer turismo
+subirse a un tren
+subirse a un autobús
+subirse a un avión
+bajarse de un tren
+bajarse de un autobús
+bajarse de un avión
+
+# Accommodation
+hostal
+pensión
+tienda de campaña
+recepción
+entrada
+salida de emergencia
+recepcionista
+conserje
+saco de dormir
+manta
+nevera portátil
+ir de camping
+hacer camping
+haber servicio de habitaciones
+haber sala de reuniones
+haber instalaciones para minusválidos
+haber aparcamiento
+estar completo
+haber plazas libres
+
+# Transportation
+autopista
+vía
+andén
+túnel
+semáforo
+paso de cebra
+paso de peatones
+carril bus
+carril bici
+haber caravana
+haber un atasco
+haber un embotellamiento
+ir con retraso
+salir con retraso
+llegar con retraso
+parar
+
+# Land transportation
+viajero
+tranvía
+moto
+camión
+asiento
+fila
+pasillo
+maletero
+cinturón
+conducir
+aparcar
+parar
+girar
+subirse a una bicicleta
+montarse en una bicicleta
+bajarse de una bicicleta
+
+## 15. Economía e industria
+
+# Economy and money
+economía
+economista
+hipoteca
+pobreza
+riqueza
+Tercer Mundo
+países ricos
+países pobres
+países en vías de desarrollo
+tener cambio
+tener suelto
+llevar cambio
+llevar suelto
+pagar en metálico
+pagar en efectivo
+gastar
+
+# Taxes
+pagar impuestos
+
+# Commerce and business
+compra
+venta
+comercio
+importación
+exportación
+deber dinero
+pagar impuestos
+pagar en metálico
+pagar con cheque
+tener un descuento
+tener descuento
+hacer un descuento
+hacer descuento
+subir el precio
+bajar el precio
+aumentar el precio
+disminuir el precio
+
+# Advertising
+márquetin
+cartel
+folleto
+catálogo
+exhibición
+publicitario
+
+# Companies and organizations
+organización
+compañía
+agencia
+laboratorio
+empleado
+actividad
+producción
+fabricación
+puesto de trabajo
+huelga
+trabajador
+producir
+fabricar
+
+# Industry
+industria
+agricultura
+ganadería
+pesca
+construcción
+comercio
+transportes
+materia prima
+energía
+producción
+fabricación
+fabricar
+producir
+
+# Fishing
+pescador
+barco de pesca
+marisco
+
+## 16. Ciencia y tecnología
+
+# Science and research
+estudio
+análisis
+método
+materia
+invento
+descubrimiento
+laboratorio
+experimento
+conocer
+inventar
+
+# Biology and ecology
+ecología
+biología
+veterinaria
+genética
+biólogo
+veterinario
+vida
+ecológico
+
+# Mathematics
+círculo
+triángulo
+sumar
+restar
+multiplicar
+dividir
+
+# Computing and technology
+teclado
+tecla
+pantalla
+ratón
+cibercafé
+impresora láser
+impresora en color
+antivirus
+hacer clic con el ratón
+hacer clic
+pulsar
+abrir un documento
+cerrar un documento
+guardar un documento
+eliminar un documento
+copiar una palabra
+cortar una palabra
+pegar una palabra
+insertar una palabra
+seleccionar una palabra
+buscar una palabra
+desinstalar un programa
+instalar un programa
+usuario
+contraseña
+bajarse un programa
+descargarse un programa
+
+# Physics and chemistry
+física
+química
+energía
+electricidad
+oro
+plata
+hierro
+físico
+químico
+electrónico
+orgánico
+inorgánico
+símbolo químico
+elemento químico
+estado sólido
+estado líquido
+estado gaseoso
+congelarse
+evaporarse
+
+## 17. Gobierno, política y sociedad
+
+# Society and community
+sociología
+historia
+sociólogo
+historiador
+político
+ciudadano
+comunidad
+organización
+club
+historia antigua
+historia medieval
+historia universal
+historia contemporánea
+historia del arte
+derechos
+deberes
+crisis
+progreso
+público
+privado
+
+# Social behavior
+ayuda
+cortesía
+amabilidad
+educado
+buena persona
+respetar
+
+# Political institutions
+nación
+estado
+provincia
+distrito
+ministro de Interior
+ministro de Defensa
+ministro de Educación
+ministro de Asuntos Exteriores
+jefe de Estado
+vicepresidente
+alcalde
+senado
+congreso
+parlamento
+Ministerio
+Unión Europea
+UE
+Organización de las Naciones Unidas
+ONU
+embajador
+cónsul
+embajada
+consulado
+república
+monarquía
+democracia
+dictadura
+sindicato
+partido de izquierdas
+partido de derechas
+partido de centro
+partido de la oposición
+comunista
+socialista
+conservador
+demócrata
+liberal
+republicano
+gobernar
+
+# Law and justice
+constitución
+ley
+ladrón
+terrorista
+asesino
+robo
+muerte
+terrorismo
+grupo terrorista
+atentado terrorista
+robar
+matar
+ser legal
+ser ilegal
+ir a la cárcel
+
+# Military and war
+capitán
+general
+militar
+soldado
+guerra civil
+guerra mundial
+guerra de independencia
+pistola
+bomba
+estar en guerra
+
+## 18. Actividades artísticas
+
+# Arts in general
+imaginación
+obra de arte
+galería de arte
+arquitectura
+arte clásico
+arte moderno
+estilo clásico
+estilo moderno
+crear
+diseñar
+fotografiar
+artístico
+original
+ser un genio
+
+# Music and dance
+baile
+bailarín
+ballet
+orquesta
+grupo musical
+letra de una canción
+compositor
+director de orquesta
+guitarrista
+pianista
+violinista
+
+# Visual arts
+obra de arte
+galería de arte
+diseñador
+escultor
+arquitectura
+escultura
+diseñar
+pintar un cuadro
+pintar un paisaje
+pintar un retrato
+construir un acueducto
+construir una muralla
+construir una mezquita
+construir una sinagoga
+
+# Literature
+poeta
+novelista
+traductor
+personaje
+protagonista
+poema
+autobiografía
+biografía
+literatura clásica
+literatura moderna
+novela policiaca
+novela histórica
+novela de amor
+novela de ciencia ficción
+novela de aventuras
+contar la historia de
+tratar de
+
+# Photography
+cámara digital
+fotografía digital
+foto digital
+fotografía en color
+foto en color
+fotografía en blanco y negro
+foto en blanco y negro
+flash
+zum
+álbum de fotos
+fotografiar
+tomar una foto
+sacar una foto
+hacer una copia
+imprimir
+
+# Cinema and theater
+cartelera
+día del espectador
+espectáculo
+comedia
+drama
+asiento
+pantalla
+escenario
+personaje
+protagonista
+película policiaca
+película romántica
+película de amor
+película de terror
+película de risa
+película de ciencia ficción
+película de acción
+película de aventuras
+película de guerra
+película de dibujos animados
+película en versión original
+película doblada
+película subtitulada
+final feliz
+final triste
+final abierto
+hacer una película
+poner una película
+poner una obra de teatro
+contar la historia de
+tratar de
+
+## 19. Religión y filosofía
+
+# Religion
+el Papa
+san
+santo
+creyente
+ateo
+sacerdote
+ir a misa
+Iglesia católica
+Iglesia anglicana
+Iglesia evangélica
+Biblia
+Corán
+Torá
+cielo
+infierno
+cristiano
+católico
+protestante
+ortodoxo
+practicar la religión
+celebrar una boda
+rezar
+
+# Philosophy
+pensar
+
+## 20. Geografía y naturaleza
+
+# Astronomy and space
+horóscopo
+universo
+espacio
+atmósfera
+astronauta
+cohete
+satélite
+viaje espacial
+universal
+mundial
+aterrizar
+cohete
+astronauta
+
+# Geography
+geografía
+sitio
+zona
+paisaje
+provincia
+comunidad autónoma
+estado
+nación
+población
+hemisferio norte
+hemisferio sur
+polo norte
+polo sur
+Oriente
+Occidente
+oriental
+occidental
+internacional
+nacional
+regional
+emigrante
+inmigrante
+geográfico
+
+# Landscape and geography
+paisaje
+vista
+continente
+península
+valle
+lago
+selva
+Europa
+Asia
+África
+América
+Oceanía
+océano Atlántico
+océano Pacífico
+océano Ártico
+mar Mediterráneo
+mar Báltico
+mar Rojo
+
+# Urban and rural areas
+las afueras
+comisaría de policía
+parque de bomberos
+barrio comercial
+barrio residencial
+barrio industrial
+zona comercial
+zona residencial
+zona industrial
+casco histórico
+casco antiguo
+céntrico
+
+# Countryside
+camino
+huerta
+prado
+tierra
+cultivo
+plantar
+cultivar
+regar
+
+# Weather and climate
+estación del año
+granizo
+hielo
+huracán
+ola de frío
+ola de calor
+clima seco
+clima húmedo
+nublarse
+salir el sol
+estar el cielo despejado
+estar el cielo nublado
+
+# Animals
+mamífero
+insecto
+ave
+reptil
+animal doméstico
+animal salvaje
+animal de compañía
+conejo
+oveja
+cordero
+gallo
+gallina
+león
+tigre
+elefante
+serpiente
+cocodrilo
+
+# Plants and nature
+selva
+parque natural
+hierba
+césped
+tronco
+hoja
+rama
+raíz
+planta de interior
+planta de exterior
+árbol frutal
+plantar un árbol
+regar las plantas
+regar el jardín
+caerse las hojas
+secarse las hojas
+cultivar
+cortar una flor
+
+# Environment
+contaminación
+polución
+terremoto
+huracán
+ecología
+ecologista
+reciclaje
+papel reciclado
+cartón reciclado
+vidrio reciclado
+contenedor de papel
+contenedor de vidrio
+cambio climático
+energía alternativa
+recursos naturales
+agujero de la capa de ozono
+contaminado
+contaminante
+tóxico
+cuidar el medio ambiente
+cuidar la naturaleza
+respetar el medio ambiente
+respetar la naturaleza
+proteger el medio ambiente
+proteger la naturaleza
+conservar el medio ambiente
+conservar la naturaleza
+reciclar vidrio
+reciclar pilas
+reciclar papel
+reciclar cartón
+reciclar latas

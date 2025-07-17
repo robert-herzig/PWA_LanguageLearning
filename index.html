@@ -96,10 +96,46 @@
             </section>
             <!-- Flashcards Section -->
             <section id="flashcards-section" class="learning-section">
-                <!-- Level Selection View -->
-                <div id="level-selection" class="level-selection-container">
+                <!-- Language Learning Mode Selection -->
+                <div id="learning-mode-selection" class="learning-mode-container">
                     <div class="section-header">
-                        <h3>📚 Lernkarten - Wähle dein Level</h3>
+                        <h3 id="language-title">📚 Spanisch Lernen</h3>
+                        <p id="language-subtitle">Wähle deinen Lernmodus</p>
+                    </div>
+                    
+                    <div class="mode-grid">
+                        <div class="mode-card" data-mode="levels">
+                            <div class="mode-icon">📊</div>
+                            <h4>Nach Schwierigkeitsgrad</h4>
+                            <p>Lerne strukturiert von Anfänger bis Fortgeschritten</p>
+                            <div class="mode-features">
+                                <span class="feature-tag">🌱 Anfänger</span>
+                                <span class="feature-tag">📚 B1</span>
+                                <span class="feature-tag">📖 B2</span>
+                                <span class="feature-tag">🎓 C1</span>
+                            </div>
+                            <button class="mode-btn">Level wählen</button>
+                        </div>
+                        
+                        <div class="mode-card" data-mode="topical">
+                            <div class="mode-icon">🏷️</div>
+                            <h4>Nach Themen</h4>
+                            <p>Lerne Vokabeln nach Themen organisiert (B1/B2)</p>
+                            <div class="mode-features">
+                                <span class="feature-tag">👤 Körper</span>
+                                <span class="feature-tag">🍽️ Essen</span>
+                                <span class="feature-tag">🏠 Wohnen</span>
+                                <span class="feature-tag">💼 Arbeit</span>
+                            </div>
+                            <button class="mode-btn">Themen wählen</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Level Selection View -->
+                <div id="level-selection" class="level-selection-container" style="display: none;">
+                    <div class="section-header">
+                        <h3>📊 Wähle dein Level</h3>
                     </div>
                     
                     <div class="level-grid">
@@ -107,6 +143,13 @@
                             <div class="level-icon">🌱</div>
                             <h4>Anfänger</h4>
                             <p>Grundwortschatz und einfache Phrasen</p>
+                            <button class="level-btn">Starten</button>
+                        </div>
+                        
+                        <div class="level-card" data-level="b1">
+                            <div class="level-icon">�</div>
+                            <h4>B1 Grundstufe</h4>
+                            <p>Erweiterte Grundkenntnisse für alltägliche Situationen</p>
                             <button class="level-btn">Starten</button>
                         </div>
                         
@@ -118,20 +161,44 @@
                         </div>
                         
                         <div class="level-card" data-level="c1">
-                            <div class="level-icon">🎓</div>
+                            <div class="level-icon">�</div>
                             <h4>C1 Fortgeschritten</h4>
                             <p>Komplexe Vokabeln für fachkundige Sprachverwendung</p>
                             <button class="level-btn">Starten</button>
                         </div>
                     </div>
                     
-                    <button id="back-to-level" class="back-btn" style="display: none;">← Zurück zur Level-Auswahl</button>
+                    <button id="back-to-modes" class="back-btn">← Zurück zu den Lernmodi</button>
+                </div>
+                
+                <!-- Topic Selection View -->
+                <div id="topic-selection" class="topic-selection-container" style="display: none;">
+                    <div class="section-header">
+                        <h3>🏷️ Wähle ein Thema</h3>
+                        <div class="topic-level-selector">
+                            <label for="topic-level-select">Level:</label>
+                            <select id="topic-level-select" class="topic-level-dropdown">
+                                <option value="b1">B1 Grundstufe</option>
+                                <option value="b2">B2 Mittelstufe</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div id="topics-grid" class="topics-grid">
+                        <!-- Topics will be dynamically loaded here -->
+                    </div>
+                    
+                    <button id="back-to-modes-from-topics" class="back-btn">← Zurück zu den Lernmodi</button>
                 </div>
                 
                 <!-- Flashcard Practice View -->
                 <div id="flashcard-practice" class="flashcard-practice-container" style="display: none;">
                     <div class="section-header">
                         <h3 id="current-level-title">📚 Lernkarten</h3>
+                        <div id="current-topic-info" class="topic-info" style="display: none;">
+                            <span id="current-topic-title"></span>
+                            <span id="current-topic-progress"></span>
+                        </div>
                         <div class="section-controls">
                             <button id="prev-card" class="card-nav-btn" disabled>←</button>
                             <span id="card-counter" class="card-counter">1 / 3</span>
@@ -163,7 +230,9 @@
                         <button id="known-btn" class="action-btn known">🟢 Bekannt</button>
                     </div>
                     
-                    <button id="back-to-levels" class="back-btn">← Zurück zur Level-Auswahl</button>
+                    <button id="back-to-levels" class="back-btn" style="display: none;">← Zurück zur Level-Auswahl</button>
+                    <button id="back-to-topics" class="back-btn" style="display: none;">← Zurück zu den Themen</button>
+                    <button id="back-to-modes-from-practice" class="back-btn">← Zurück zu den Lernmodi</button>
                 </div>
             </section>
 
@@ -291,6 +360,8 @@
     </div>
 
     <!-- Scripts -->
+    <script src="js/translations.js"></script>
+    <script src="js/topical-vocabulary.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>

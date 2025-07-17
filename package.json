@@ -1,0 +1,30 @@
+{
+  "name": "pwa_languagelearning",
+  "version": "1.0.0",
+  "description": "A Progressive Web App (PWA) for learning languages with offline capabilities, push notifications, and app-like experience.",
+  "main": "sw.js",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:codegen": "playwright codegen localhost:8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robert-herzig/PWA_LanguageLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/robert-herzig/PWA_LanguageLearning/issues"
+  },
+  "homepage": "https://github.com/robert-herzig/PWA_LanguageLearning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
+  }
+}

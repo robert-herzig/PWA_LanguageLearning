@@ -13,6 +13,7 @@ A Progressive Web App (PWA) for learning languages with offline capabilities, pu
 
 ✅ **Language Learning Features**
 - Interactive flashcard system with text-to-speech
+- 🏷️ **NEW: Topical Vocabulary Learning** - Learn by themes (20+ topics, B1/B2 levels)
 - Advanced spaced repetition system (similar to Anki)
 - Three difficulty levels with optimized intervals:
   - 🔴 **Difficult**: Immediate repetition within session
@@ -27,19 +28,47 @@ A Progressive Web App (PWA) for learning languages with offline capabilities, pu
 - Offline learning capability
 - Responsive design for all devices
 
+## 🏷️ Topical Vocabulary Feature
+
+**NEW!** Learn Spanish vocabulary organized by themes based on the official Instituto Cervantes PCIC curriculum:
+
+### Available Topics (20+ categories)
+- **Personal**: Physical dimension, personality, identity, relationships
+- **Daily Life**: Food, housing, shopping, health & hygiene  
+- **Social**: Education, work, services, economy
+- **Culture**: Leisure, media, travel, politics & society
+- **Knowledge**: Science & technology, arts, religion, geography
+
+### Content Quality
+- **2,700+ vocabulary items** across B1 and B2 levels
+- **Professional translations** with German examples
+- **Audio pronunciation** for all vocabulary
+- **Context-rich examples** for real-world usage
+- **Official curriculum** based on CEFR standards
+
+📖 [**Read the complete Topical Vocabulary Guide**](TOPICAL_VOCABULARY_GUIDE.md)
+
 ## Project Structure
 
 ```
 PWA_LanguageLearning/
-├── index.html          # Main HTML file
-├── manifest.json       # Web App Manifest
-├── sw.js              # Service Worker
+├── index.html                      # Main HTML file
+├── manifest.json                   # Web App Manifest
+├── sw.js                          # Service Worker
 ├── css/
-│   └── styles.css     # Main stylesheet
+│   └── styles.css                 # Main stylesheet
 ├── js/
-│   └── app.js         # Main JavaScript application
-├── icons/             # App icons (various sizes)
-└── README.md          # This file
+│   ├── app.js                     # Main JavaScript application
+│   ├── topical-vocabulary.js      # Topical vocabulary system
+│   └── translations.js            # Translation data
+├── data/
+│   ├── vocabulary/                # Pre-defined vocabulary sets
+│   └── word_lists/                # Topic-organized word lists
+│       ├── spanish_b1_words.txt   # B1 Spanish vocabulary (~1,200 words)
+│       └── spanish_b2_words.txt   # B2 Spanish vocabulary (~1,500 words)
+├── icons/                         # App icons (various sizes)
+├── README.md                      # Main documentation
+└── TOPICAL_VOCABULARY_GUIDE.md    # Topical vocabulary user guide
 ```
 
 ## Installation & Setup
