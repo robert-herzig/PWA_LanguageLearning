@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Health Check</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 50px auto; padding: 20px; }
+        .status { padding: 15px; border-radius: 5px; margin: 10px 0; }
+        .success { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+        button { background: #007bff; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+        button:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <h1>Chatbot API Health Check</h1>
+    <p>Use this page to verify your secure API is working correctly.</p>
+    
+    <button onclick="checkHealth()">Check API Health</button>
+    <button onclick="testChat()">Test Chat Message</button>
+    
+    <div id="results"></div>
+
+    <script>
+        async function checkHealth() {
+            const results = document.getElementById('results');
+            results.innerHTML = '<p>Checking API health...</p>';
+            
+            try {
+                const response = await fetch('/api/health');
+                const data = await response.json();
+                
+                if (response.ok) {
+                    results.innerHTML = `
+                        <div class="status success">
+                            <h3>✅ API Health Check Passed</h3>
+                            <p><strong>Status:</strong> ${data.status}</p>
+                            <p><strong>Timestamp:</strong> ${data.timestamp}</p>
+                            <p><strong>API Key Configured:</strong> ${data.apiKeyConfigured ? 'Yes' : 'No'}</p>
+                        </div>
+                    `;
+                } else {
+                    results.innerHTML = `
+                        <div class="status error">
+                            <h3>❌ API Health Check Failed</h3>
+                            <p>${data.error || 'Unknown error'}</p>
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                results.innerHTML = `
+                    <div class="status error">
+                        <h3>❌ Cannot Connect to API</h3>
+                        <p>Error: ${error.message}</p>
+                        <p>Make sure the API server is running on port 3001</p>
+                    </div>
+                `;
+            }
+        }
+
+        async function testChat() {
+            const results = document.getElementById('results');
+            results.innerHTML = '<p>Testing chat functionality...</p>';
+            
+            try {
+                const response = await fetch('/api/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        message: 'Hallo, wie geht es dir?',
+                        level: 'B1',
+                        topic: 'test',
+                        vocabularyWords: ['Hallo', 'gut'],
+                        userId: 'test-user'
+                    })
+                });
+                
+                const data = await response.json();
+                
+                if (response.ok) {
+                    results.innerHTML = `
+                        <div class="status success">
+                            <h3>✅ Chat API Test Passed</h3>
+                            <p><strong>Response:</strong> ${data.response}</p>
+                            <p><strong>Cost:</strong> $${data.estimatedCost.toFixed(4)}</p>
+                            <p><strong>Remaining Budget:</strong> $${data.remainingBudget.toFixed(4)}</p>
+                            <p><strong>Tokens Used:</strong> ${data.usage.total_tokens}</p>
+                        </div>
+                    `;
+                } else {
+                    results.innerHTML = `
+                        <div class="status error">
+                            <h3>❌ Chat API Test Failed</h3>
+                            <p>${data.error || 'Unknown error'}</p>
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                results.innerHTML = `
+                    <div class="status error">
+                        <h3>❌ Chat API Test Error</h3>
+                        <p>Error: ${error.message}</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Auto-check on page load
+        window.onload = checkHealth;
+    </script>
+</body>
+</html>

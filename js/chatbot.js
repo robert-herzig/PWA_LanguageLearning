@@ -507,14 +507,15 @@ class LanguageChatbot {
     }
     
     async getAIResponse(message) {
-        if (this.isDemo) {
-            // Demo responses for testing
-            return this.getDemoResponse(message);
-        }
+        // Determine API URL based on environment
+        const isProduction = window.location.hostname.includes('github.io');
+        const apiBaseUrl = isProduction 
+            ? 'https://pwa-language-learning-api.railway.app' // Your deployed API URL
+            : 'http://localhost:3001';
         
-        // Real API call (would need backend)
+        // Try to use the secure API first (your hosted API with your key)
         try {
-            const response = await fetch('/api/chat', {
+            const apiResponse = await fetch(`${apiBaseUrl}/api/chat`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -528,24 +529,80 @@ class LanguageChatbot {
                 })
             });
             
-            if (!response.ok) {
-                const error = await response.json();
+            if (apiResponse.ok) {
+                const data = await apiResponse.json();
+                
+                // Update cost tracking
+                this.dailyCost += data.estimatedCost;
+                this.saveDailyCost();
+                this.updateUsageDisplay();
+                
+                console.log('Used secure API with hosted key');
+                return data.response;
+            } else if (apiResponse.status === 404) {
+                // API not available, try user's API key if provided
+                console.log('Secure API not available, checking for user API key');
+            } else {
+                const error = await apiResponse.json();
                 throw new Error(error.error || 'API request failed');
             }
-            
-            const data = await response.json();
-            
-            // Update cost tracking
-            this.dailyCost += data.estimatedCost;
-            this.saveDailyCost();
-            this.updateUsageDisplay();
-            
-            return data.response;
-            
         } catch (error) {
-            console.error('API Error:', error);
-            return this.getDemoResponse(message);
+            console.log('Secure API error, falling back:', error.message);
         }
+        
+        // Fallback to user's API key if provided
+        if (!this.isDemo && this.apiKey) {
+            try {
+                console.log('Using user-provided API key');
+                const response = await this.callOpenAIDirectly(message);
+                return response;
+            } catch (error) {
+                console.error('User API key error:', error);
+            }
+        }
+        
+        // Final fallback to demo mode
+        console.log('Using demo mode');
+        return this.getDemoResponse(message);
+    }
+    
+    async callOpenAIDirectly(message) {
+        // This would only be used if the secure API is not available
+        // and the user has provided their own API key
+        const response = await fetch('https://api.openai.com/v1/chat/completions', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Authorization': `Bearer ${this.apiKey}`
+            },
+            body: JSON.stringify({
+                model: 'gpt-4o-mini',
+                messages: [
+                    { 
+                        role: 'system', 
+                        content: `You are a friendly German language teacher for ${this.currentLevel} level students. Focus on the topic "${this.currentTopic}". Respond in German only and be encouraging.` 
+                    },
+                    { role: 'user', content: message }
+                ],
+                max_tokens: 200,
+                temperature: 0.7
+            })
+        });
+        
+        if (!response.ok) {
+            const error = await response.json();
+            throw new Error(error.error?.message || 'API request failed');
+        }
+        
+        const data = await response.json();
+        
+        // Estimate cost for user tracking
+        const estimatedCost = (data.usage.total_tokens / 1000) * 0.002;
+        this.dailyCost += estimatedCost;
+        this.saveDailyCost();
+        this.updateUsageDisplay();
+        
+        return data.choices[0].message.content;
     }
     
     getDemoResponse(message) {

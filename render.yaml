@@ -1,0 +1,24 @@
+# Render.com deployment configuration
+# Alternative to Railway for hosting the API
+
+services:
+  - type: web
+    name: pwa-language-learning-api
+    runtime: node
+    buildCommand: npm install
+    startCommand: node server/secure-chatbot-api.js
+    plan: free
+    healthCheckPath: /api/health
+    autoDeploy: true
+    env:
+      - key: NODE_ENV
+        value: production
+      - key: ALLOWED_ORIGINS
+        value: https://robert-herzig.github.io,https://pwa-language-learning-api.onrender.com
+      - key: MAX_DAILY_REQUESTS
+        value: 100
+      - key: MAX_DAILY_COST
+        value: 1.00
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false  # This will be set manually in Render dashboard

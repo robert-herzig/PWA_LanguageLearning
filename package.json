@@ -5,6 +5,8 @@
   "main": "sw.js",
   "scripts": {
     "dev": "python -m http.server 8000",
+    "dev:full": "concurrently \"npm run dev\" \"npm run api\"",
+    "api": "node server/secure-chatbot-api.js",
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "test:ui": "playwright test --ui",
@@ -28,7 +30,12 @@
     "@types/node": "^24.0.14"
   },
   "dependencies": {
-    "google-translate-api-x": "^10.7.2",
-    "openai": "^5.10.2"
+    "concurrently": "^9.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.4.1",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.67.3"
   }
 }
