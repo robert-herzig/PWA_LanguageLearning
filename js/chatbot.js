@@ -31,8 +31,9 @@ class LanguageChatbot {
         
         // Topic selection
         document.addEventListener('click', (e) => {
-            if (e.target.classList.contains('topic-btn-chat')) {
-                this.selectTopic(e.target.dataset.topic);
+            const topicBtn = e.target.closest('.topic-btn-chat');
+            if (topicBtn) {
+                this.selectTopic(topicBtn.dataset.topic);
             }
         });
         
@@ -61,8 +62,9 @@ class LanguageChatbot {
         
         // Vocabulary chip clicks
         document.addEventListener('click', (e) => {
-            if (e.target.classList.contains('vocab-chip')) {
-                this.insertVocabWord(e.target.textContent);
+            const vocabChip = e.target.closest('.vocab-chip');
+            if (vocabChip) {
+                this.insertVocabWord(vocabChip.textContent);
             }
         });
     }
@@ -84,29 +86,40 @@ class LanguageChatbot {
     
     async loadTopics() {
         try {
-            // Get available topics from the topical vocabulary system
-            const topics = [
-                { id: 'work', name: 'Arbeit', level: 'B1' },
-                { id: 'travel', name: 'Reisen', level: 'B1' },
-                { id: 'food', name: 'Essen', level: 'B1' },
-                { id: 'technology', name: 'Technologie', level: 'B2' },
-                { id: 'health', name: 'Gesundheit', level: 'B2' },
-                { id: 'environment', name: 'Umwelt', level: 'B2' }
-            ];
+            // Dynamically discover available topics from vocabulary files
+            const topics = await this.discoverAvailableTopics();
             
             const topicContainer = document.getElementById('chat-topic-buttons');
             topicContainer.innerHTML = '';
             
-            topics.forEach(topic => {
+            // Filter topics by current level if selected
+            const filteredTopics = this.currentLevel 
+                ? topics.filter(topic => topic.level === this.currentLevel.toLowerCase())
+                : topics;
+            
+            if (filteredTopics.length === 0) {
+                topicContainer.innerHTML = '<p class="no-topics">Keine Themen für dieses Level verfügbar.</p>';
+                return;
+            }
+            
+            filteredTopics.forEach(topic => {
                 const button = document.createElement('button');
                 button.className = 'topic-btn-chat';
                 button.dataset.topic = topic.id;
-                button.innerHTML = `${topic.name} <span class="topic-level">(${topic.level})</span>`;
+                button.innerHTML = `
+                    <div class="topic-info">
+                        <span class="topic-name">${topic.name}</span>
+                        <span class="topic-level">(${topic.level.toUpperCase()})</span>
+                        <span class="topic-words">${topic.wordCount} Wörter</span>
+                    </div>
+                `;
                 topicContainer.appendChild(button);
             });
             
         } catch (error) {
             console.error('Error loading topics:', error);
+            // Fallback to hardcoded topics
+            this.loadFallbackTopics();
         }
     }
     
@@ -132,18 +145,180 @@ class LanguageChatbot {
         try {
             // Determine the appropriate level folder
             const level = this.currentLevel === 'A2' ? 'b1' : this.currentLevel.toLowerCase();
-            const language = 'spanish'; // Assuming Spanish-German learning
             
-            const response = await fetch(`./data/word_lists/${language}/${level}/${topicId}.json`);
-            if (response.ok) {
-                const data = await response.json();
-                this.vocabularyWords = data.words.slice(0, 15); // Limit to 15 words
+            // Try different languages in order of preference
+            const languages = ['spanish', 'english', 'russian'];
+            let vocabularyData = null;
+            
+            for (const language of languages) {
+                try {
+                    const response = await fetch(`./data/word_lists/${language}/${level}/${topicId}.json`);
+                    if (response.ok) {
+                        vocabularyData = await response.json();
+                        console.log(`Loaded vocabulary from ${language}/${level}/${topicId}.json`);
+                        break;
+                    }
+                } catch (err) {
+                    continue; // Try next language
+                }
+            }
+            
+            if (vocabularyData && Array.isArray(vocabularyData)) {
+                this.vocabularyWords = vocabularyData.slice(0, 20); // Get first 20 words
                 console.log(`Loaded ${this.vocabularyWords.length} vocabulary words for ${topicId}`);
+            } else {
+                this.vocabularyWords = [];
+                console.warn(`No vocabulary data found for topic: ${topicId}`);
             }
         } catch (error) {
             console.error('Error loading vocabulary:', error);
             this.vocabularyWords = [];
         }
+    }
+    
+    // Discover available topics by scanning the vocabulary files
+    async discoverAvailableTopics() {
+        const topics = [];
+        const levels = ['b1', 'b2'];
+        const languages = ['spanish', 'english', 'russian'];
+        
+        for (const level of levels) {
+            for (const language of languages) {
+                try {
+                    // Try to load the index.json file first
+                    const indexResponse = await fetch(`./data/word_lists/${language}/${level}/index.json`);
+                    if (indexResponse.ok) {
+                        const topicIds = await indexResponse.json();
+                        
+                        // Load each topic file to get word count and details
+                        for (const topicId of topicIds) {
+                            try {
+                                const topicResponse = await fetch(`./data/word_lists/${language}/${level}/${topicId}.json`);
+                                if (topicResponse.ok) {
+                                    const topicData = await topicResponse.json();
+                                    
+                                    // Check if we already have this topic
+                                    const existingTopic = topics.find(t => t.id === topicId && t.level === level);
+                                    if (!existingTopic) {
+                                        topics.push({
+                                            id: topicId,
+                                            name: this.formatTopicName(topicId),
+                                            level: level,
+                                            wordCount: Array.isArray(topicData) ? topicData.length : 0,
+                                            language: language
+                                        });
+                                    }
+                                }
+                            } catch (err) {
+                                console.warn(`Could not load topic ${topicId}:`, err);
+                            }
+                        }
+                        break; // Found topics for this level, no need to check other languages
+                    }
+                } catch (err) {
+                    continue; // Try next language
+                }
+            }
+        }
+        
+        return topics.sort((a, b) => a.name.localeCompare(b.name));
+    }
+    
+    // Format topic ID into human-readable name
+    formatTopicName(topicId) {
+        const topicNames = {
+            // English topics
+            'work': 'Arbeit',
+            'travel': 'Reisen',
+            'food': 'Essen',
+            'technology': 'Technologie',
+            'health': 'Gesundheit',
+            'environment': 'Umwelt',
+            'education': 'Bildung',
+            'family': 'Familie',
+            'sports': 'Sport',
+            'culture': 'Kultur',
+            'business': 'Geschäft',
+            'shopping': 'Einkaufen',
+            'transportation': 'Transport',
+            'hobbies': 'Hobbys',
+            'weather': 'Wetter',
+            'clothing': 'Kleidung',
+            'home': 'Zuhause',
+            'emotions': 'Gefühle',
+            
+            // Spanish topics (already in German)
+            'dimensión_física': 'Körperliche Dimension',
+            'dimensión_perceptiva_y_anímica': 'Wahrnehmung und Gefühle',
+            'identidad_personal': 'Persönliche Identität',
+            'relaciones_personales': 'Persönliche Beziehungen',
+            'alimentación': 'Ernährung',
+            'educación': 'Bildung',
+            '6._educación': 'Bildung',
+            '3._identidad_personal': 'Persönliche Identität',
+            '4._relaciones_personales': 'Persönliche Beziehungen',
+            '5._alimentación': 'Ernährung',
+            '1._dimensión_física': 'Körperliche Dimension',
+            '2._dimensión_perceptiva_y_anímica': 'Wahrnehmung und Gefühle',
+            
+            // Russian topics (translated to German)
+            'работа': 'Arbeit',
+            'путешествия': 'Reisen',
+            'еда': 'Essen',
+            'семья': 'Familie',
+            'здоровье': 'Gesundheit',
+            'образование': 'Bildung',
+            'спорт': 'Sport',
+            'культура': 'Kultur',
+            
+            // Common variations and cleaned versions
+            'alimentacion': 'Ernährung',
+            'educacion': 'Bildung',
+            'identidad personal': 'Persönliche Identität',
+            'relaciones personales': 'Persönliche Beziehungen',
+            'dimension fisica': 'Körperliche Dimension',
+            'dimension perceptiva y animica': 'Wahrnehmung und Gefühle'
+        };
+        
+        // Clean up the topic ID (remove prefixes, underscores, etc.)
+        let cleanId = topicId.replace(/^#+\s*\d*\.?\s*/, '').replace(/_/g, ' ').toLowerCase().trim();
+        let originalId = topicId.toLowerCase().trim();
+        
+        // Try different variations to find a match
+        return topicNames[originalId] || 
+               topicNames[cleanId] || 
+               topicNames[topicId] ||
+               // Fallback: capitalize first letter of cleaned ID
+               cleanId.charAt(0).toUpperCase() + cleanId.slice(1);
+    }
+    
+    // Fallback topics if dynamic discovery fails
+    loadFallbackTopics() {
+        const topics = [
+            { id: 'work', name: 'Arbeit', level: 'b1', wordCount: 25 },
+            { id: 'travel', name: 'Reisen', level: 'b1', wordCount: 30 },
+            { id: 'food', name: 'Essen', level: 'b1', wordCount: 35 },
+            { id: 'technology', name: 'Technologie', level: 'b2', wordCount: 28 },
+            { id: 'health', name: 'Gesundheit', level: 'b2', wordCount: 32 },
+            { id: 'environment', name: 'Umwelt', level: 'b2', wordCount: 27 }
+        ];
+        
+        const topicContainer = document.getElementById('chat-topic-buttons');
+        topicContainer.innerHTML = '';
+        
+        topics.forEach(topic => {
+            const button = document.createElement('button');
+            button.className = 'topic-btn-chat';
+            button.dataset.topic = topic.id;
+            button.innerHTML = `
+                <div class="topic-info">
+                    <span class="topic-name">${topic.name}</span>
+                    <span class="topic-level">(${topic.level.toUpperCase()})</span>
+                    <span class="topic-words">${topic.wordCount} Wörter</span>
+                </div>
+            `;
+            topicContainer.appendChild(button);
+        });
     }
     
     startChatting() {
@@ -170,6 +345,9 @@ class LanguageChatbot {
         // Load vocabulary hints
         this.loadVocabularyHints();
         
+        // Generate and display opening story
+        this.generateOpeningStory();
+        
         // Focus input
         document.getElementById('chat-input').focus();
     }
@@ -183,9 +361,93 @@ class LanguageChatbot {
             const chip = document.createElement('span');
             chip.className = 'vocab-chip';
             chip.textContent = wordObj.word;
-            chip.title = `Klicken zum Einfügen: ${wordObj.word}`;
+            chip.title = `Klicken zum Einfügen: ${wordObj.word} (${wordObj.translation})`;
             vocabContainer.appendChild(chip);
         });
+    }
+    
+    // Generate opening story using vocabulary words
+    generateOpeningStory() {
+        if (this.vocabularyWords.length === 0) {
+            // Fallback if no vocabulary loaded
+            this.addMessage('Hallo! Ich bin dein Deutschlehrer. Lass uns über das Thema sprechen!', 'ai');
+            return;
+        }
+        
+        const story = this.createStoryForTopic(this.currentTopic, this.currentLevel);
+        this.addMessage(story.text, 'ai');
+        
+        // Add follow-up question
+        setTimeout(() => {
+            this.addMessage(story.question, 'ai');
+        }, 1500);
+    }
+    
+    // Create contextual stories based on topic and level
+    createStoryForTopic(topicId, level) {
+        const stories = {
+            'alimentación': {
+                'b1': {
+                    text: 'Heute war ich im Supermarkt und habe verschiedene Lebensmittel gekauft. Ich habe frisches Gemüse wie Spinat und Garbanzos gesehen. Am Fleischstand gab es Chorizo und Lomo. Für das Frühstück habe ich Magdalenas und ein Bizcocho gewählt.',
+                    question: 'Was isst du gern zum Frühstück? Verwendest du auch Nata oder Margarina auf deinem Brot?'
+                },
+                'b2': {
+                    text: 'Gesunde Ernährung ist ein komplexes Thema. Eine ausgewogene Alimentación umfasst wichtige Nährstoffe wie Proteínas, Vitaminas und Fibra. Viele Menschen bevorzugen Productos naturales und vermeiden schwere Alimentos. Die richtige Balance zwischen Calorías und körperlicher Aktivität ist entscheidend.',
+                    question: 'Wie wichtig ist dir eine gesunde Ernährung? Achtest du auf die Calorías in deinem Essen?'
+                }
+            },
+            'educación': {
+                'b1': {
+                    text: 'Mein Freund studiert an der Universität. Der Campus ist sehr groß und modern. Er hat sich für ein Stipendium beworben und möchte einen Master machen. Seine theoretischen Klassen sind interessant, aber die praktischen Fächer gefallen ihm mehr.',
+                    question: 'Studierst du auch? Welche Fächer gefallen dir am besten - theoretische oder praktische?'
+                },
+                'b2': {
+                    text: 'Das Bildungssystem durchläuft ständige Veränderungen. Von der Registration bis zum Doctorate müssen Studenten verschiedene Herausforderungen meistern. Scholarships ermöglichen vielen den Zugang zur höheren Bildung. Die Balance zwischen Administration und akademischer Freiheit ist ein wichtiges Thema.',
+                    question: 'Was denkst du über das aktuelle Bildungssystem? Sollten mehr Scholarships verfügbar sein?'
+                }
+            },
+            'dimensión_física': {
+                'b1': {
+                    text: 'Beim Sport ist es wichtig, auf den Körper zu achten. Meine Músculos sind nach dem Training müde. Manchmal tut mir das Cuello oder die Rodilla weh. Ich achte auf meine Postura und bewege regelmäßig meine Hombros.',
+                    question: 'Machst du gern Sport? Welche Teile deines Körpers werden beim Training am meisten beansprucht?'
+                }
+            }
+        };
+        
+        // Get specific story or create generic one
+        const topicStories = stories[topicId];
+        if (topicStories && topicStories[level.toLowerCase()]) {
+            return topicStories[level.toLowerCase()];
+        }
+        
+        // Generate generic story using available vocabulary
+        return this.generateGenericStory();
+    }
+    
+    // Generate generic story when no specific template exists
+    generateGenericStory() {
+        if (this.vocabularyWords.length < 3) {
+            return {
+                text: `Hallo! Heute sprechen wir über ${this.getTopicDisplayName(this.currentTopic)}. Das ist ein interessantes Thema!`,
+                question: 'Was weißt du schon über dieses Thema? Erzähle mir davon!'
+            };
+        }
+        
+        // Use first few vocabulary words to create a simple story
+        const words = this.vocabularyWords.slice(0, 5);
+        const germanWords = words.map(w => w.translation).join(', ');
+        
+        const storyTemplates = {
+            'b1': `Lass uns über ${this.getTopicDisplayName(this.currentTopic)} sprechen! Heute habe ich über verschiedene Wörter nachgedacht: ${germanWords}. Diese Wörter sind sehr wichtig für unser Thema.`,
+            'b2': `Das Thema ${this.getTopicDisplayName(this.currentTopic)} ist sehr vielfältig. Wenn wir Begriffe wie ${germanWords} betrachten, sehen wir die Komplexität dieses Bereichs. Jedes Wort hat seine eigene Bedeutung und seinen Kontext.`
+        };
+        
+        const text = storyTemplates[this.currentLevel.toLowerCase()] || storyTemplates['b1'];
+        
+        return {
+            text: text,
+            question: `Was ist deine Meinung zu diesem Thema? Kennst du andere wichtige Wörter?`
+        };
     }
     
     insertVocabWord(word) {
@@ -287,36 +549,87 @@ class LanguageChatbot {
     }
     
     getDemoResponse(message) {
-        // Demo responses based on topic and level
-        const responses = {
-            work: [
-                "Das ist interessant! Erzähle mir mehr über deine Arbeit. Welchen Beruf übst du aus?",
-                "Arbeit ist ein wichtiges Thema. Hast du viel Stress im Büro oder magst du deinen Job?",
-                "Sehr gut! Du benutzt schöne Wörter. Möchtest du über deinen Arbeitsplatz sprechen?"
-            ],
-            travel: [
-                "Reisen ist wunderbar! Wohin möchtest du als nächstes fahren?",
-                "Das klingt spannend! Welche Länder hast du schon besucht?",
-                "Toll! Du sprichst sehr gut über das Reisen. Fliegst du gern oder fährst du lieber mit dem Zug?"
-            ],
-            food: [
-                "Essen ist mein Lieblingsthema! Was isst du gern zum Frühstück?",
-                "Sehr interessant! Kochst du gern oder gehst du lieber ins Restaurant?",
-                "Das hört sich lecker an! Welche deutsche Spezialität möchtest du probieren?"
+        // Enhanced demo responses that adapt to the loaded vocabulary
+        const responses = this.generateContextualResponses();
+        
+        // Select appropriate response based on message content and vocabulary
+        let selectedResponse;
+        
+        // Check if user used any vocabulary words
+        const usedVocabWords = this.vocabularyWords.filter(wordObj => 
+            message.toLowerCase().includes(wordObj.word.toLowerCase()) ||
+            message.toLowerCase().includes(wordObj.translation.toLowerCase())
+        );
+        
+        if (usedVocabWords.length > 0) {
+            // Positive reinforcement for using vocabulary
+            const word = usedVocabWords[0];
+            selectedResponse = this.getVocabularyPraiseResponse(word);
+        } else {
+            // General topic-based response
+            const topicResponses = responses[this.currentTopic] || responses.general;
+            selectedResponse = topicResponses[Math.floor(Math.random() * topicResponses.length)];
+        }
+        
+        // Add vocabulary encouragement
+        if (this.vocabularyWords.length > 0 && Math.random() > 0.5) {
+            const randomWord = this.vocabularyWords[Math.floor(Math.random() * Math.min(5, this.vocabularyWords.length))];
+            selectedResponse += ` Versuche auch das Wort "${randomWord.word}" (${randomWord.translation}) zu verwenden!`;
+        }
+        
+        return selectedResponse;
+    }
+    
+    // Generate contextual responses based on current topic and vocabulary
+    generateContextualResponses() {
+        const baseResponses = {
+            general: [
+                "Das ist sehr interessant! Erzähle mir mehr davon.",
+                "Gut gesagt! Wie denkst du darüber?",
+                "Das verstehe ich. Was ist deine Meinung dazu?",
+                "Sehr schön! Kannst du das weiter erklären?"
             ]
         };
         
-        // Add vocabulary word suggestions
-        const topicResponses = responses[this.currentTopic] || responses.work;
-        const randomResponse = topicResponses[Math.floor(Math.random() * topicResponses.length)];
+        // Add topic-specific responses based on loaded vocabulary
+        const topicKey = this.currentTopic;
         
-        // Add a vocabulary suggestion
         if (this.vocabularyWords.length > 0) {
-            const randomWord = this.vocabularyWords[Math.floor(Math.random() * this.vocabularyWords.length)];
-            return `${randomResponse} Kannst du das Wort "${randomWord.word}" in einem Satz verwenden?`;
+            // Create topic-specific responses using vocabulary
+            const words = this.vocabularyWords.slice(0, 3);
+            const germanWords = words.map(w => w.translation);
+            
+            baseResponses[topicKey] = [
+                `Interessant! In diesem Bereich sind Begriffe wie ${germanWords.join(', ')} sehr wichtig.`,
+                `Das ist ein gutes Thema! Hast du Erfahrung mit ${germanWords[0]}?`,
+                `Sehr gut! Lass uns mehr über ${germanWords[1]} sprechen.`,
+                `Das klingt spannend! Was weißt du über ${germanWords[2]}?`
+            ];
         }
         
-        return randomResponse;
+        return baseResponses;
+    }
+    
+    // Generate praise response when user uses vocabulary correctly
+    getVocabularyPraiseResponse(wordObj) {
+        const praiseResponses = [
+            `Sehr gut! Du hast "${wordObj.word}" (${wordObj.translation}) richtig verwendet!`,
+            `Ausgezeichnet! Das Wort "${wordObj.word}" passt perfekt hier.`,
+            `Prima! Ich sehe, dass du "${wordObj.word}" verstehst.`,
+            `Toll gemacht! "${wordObj.word}" ist ein wichtiges Wort in diesem Thema.`
+        ];
+        
+        const praise = praiseResponses[Math.floor(Math.random() * praiseResponses.length)];
+        
+        // Add follow-up question
+        const followUps = [
+            " Kannst du mir ein anderes Beispiel geben?",
+            " Was ist deine Erfahrung damit?",
+            " Wie oft benutzt du das in deinem Alltag?",
+            " Gibt es ähnliche Begriffe, die du kennst?"
+        ];
+        
+        return praise + followUps[Math.floor(Math.random() * followUps.length)];
     }
     
     addMessage(content, sender, isError = false) {

@@ -86,3 +86,39 @@ If the install button doesn't appear:
 - Make sure you're using Chrome browser (not other browsers)
 
 Your PWA is now production-ready for Android devices! 🎉
+
+## 🧪 Testing
+
+The app includes comprehensive Playwright tests to ensure everything works correctly:
+
+### Run All Tests
+```bash
+npx playwright test
+```
+
+### Test Specific Features
+```bash
+# Test chatbot functionality
+npx playwright test tests/chatbot.spec.ts
+
+# Test basic chatbot features
+npx playwright test tests/chatbot-basic.spec.ts
+
+# Test PWA mobile installation
+npx playwright test tests/pwa-mobile-installation.spec.ts
+```
+
+### Test Coverage Includes:
+- ✅ **Chatbot Interface**: Level and topic selection
+- ✅ **Dynamic Content**: Vocabulary loading from JSON files
+- ✅ **Chat Functionality**: Message sending and demo responses
+- ✅ **PWA Features**: Manifest, service worker, offline support
+- ✅ **Mobile Compatibility**: Responsive design and touch interactions
+- ✅ **Installation Requirements**: All PWA installation criteria
+
+## 📋 Test Requirements
+
+Before running tests:
+1. **Start local server**: `python -m http.server 8000`
+2. **Generate vocabulary files**: Use the translation scripts
+3. **Install Playwright**: `npm install @playwright/test`
