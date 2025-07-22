@@ -1,5 +1,5 @@
 // Service Worker for Language Learning PWA
-const CACHE_NAME = 'language-learning-v3';
+const CACHE_NAME = 'language-learning-v4';
 const urlsToCache = [
   './',
   './index.html',
@@ -7,6 +7,7 @@ const urlsToCache = [
   './js/app.js',
   './js/topical-vocabulary.js',
   './js/translations.js',
+  './js/chatbot.js',
   './manifest.json',
   './icons/favicon-96x96.png',
   './icons/web-app-manifest-192x192.png',

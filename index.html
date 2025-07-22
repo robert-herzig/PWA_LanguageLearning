@@ -65,8 +65,8 @@
                         <div class="feature-card" data-navigate="chatbot">
                             <div class="feature-icon">💬</div>
                             <h3>Sprach-Chatbot</h3>
-                            <p>Übe Konversationen mit unserem KI-Assistenten (Bald verfügbar)</p>
-                            <button class="feature-btn" disabled>Bald verfügbar</button>
+                            <p>Übe Konversationen mit unserem KI-Assistenten</p>
+                            <button class="feature-btn">Starten</button>
                         </div>
                         
                         <div class="feature-card" data-navigate="progress">
@@ -243,17 +243,83 @@
                 </div>
                 
                 <div class="chatbot-container">
-                    <div class="chatbot-placeholder">
-                        <div class="placeholder-icon">🤖</div>
-                        <h4>Chatbot kommt bald!</h4>
-                        <p>Hier wirst du bald mit einem KI-Assistenten in deiner Zielsprache chatten können.</p>
-                        <p><strong>Geplante Features:</strong></p>
-                        <ul>
-                            <li>Konversation in der Zielsprache</li>
-                            <li>Grammatik-Korrekturen</li>
-                            <li>Wortschatz-Hilfe</li>
-                            <li>Aussprache-Feedback</li>
-                        </ul>
+                    <!-- Chatbot Setup -->
+                    <div id="chatbot-setup" class="chatbot-setup">
+                        <div class="setup-step">
+                            <h4>🎯 Wähle dein Sprachlevel:</h4>
+                            <div class="level-buttons">
+                                <button class="level-btn-chat" data-level="A2">A2 - Grundkenntnisse</button>
+                                <button class="level-btn-chat" data-level="B1">B1 - Mittelstufe</button>
+                                <button class="level-btn-chat" data-level="B2">B2 - Fortgeschritten</button>
+                            </div>
+                        </div>
+                        
+                        <div class="setup-step" id="topic-step" style="display: none;">
+                            <h4>📚 Wähle ein Gesprächsthema:</h4>
+                            <div class="topic-buttons" id="chat-topic-buttons">
+                                <!-- Topics will be loaded dynamically -->
+                            </div>
+                        </div>
+                        
+                        <div class="setup-step" id="api-step" style="display: none;">
+                            <h4>🔑 OpenAI API Konfiguration:</h4>
+                            <div class="api-config">
+                                <input type="password" id="api-key-input" placeholder="Dein OpenAI API Key (optional für Demo)" />
+                                <p class="api-info">
+                                    💡 <strong>Demo-Modus:</strong> Ohne API Key kannst du die Beispiel-Antworten sehen.<br>
+                                    🔒 <strong>Sicher:</strong> API Keys werden nur lokal gespeichert, nie an Server gesendet.
+                                </p>
+                                <button id="start-chatting" class="feature-btn">Gespräch beginnen</button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Chatbot Interface -->
+                    <div id="chatbot-interface" class="chatbot-interface" style="display: none;">
+                        <div class="chat-header">
+                            <div class="chat-info">
+                                <span id="chat-level">B1</span> | <span id="chat-topic">Arbeit</span>
+                            </div>
+                            <div class="chat-limits">
+                                <span id="daily-usage">0/50 Nachrichten heute</span>
+                                <span id="cost-info">Budget: $0.50</span>
+                            </div>
+                            <button id="reset-chat" class="reset-btn">Neues Gespräch</button>
+                        </div>
+                        
+                        <div class="chat-messages" id="chat-messages">
+                            <div class="message ai-message">
+                                <div class="message-content">
+                                    <p>Hallo! Ich bin dein deutscher Sprachlehrer. Lass uns über <span id="topic-name">Arbeit</span> sprechen. 
+                                    Wie geht es dir heute? Arbeitest du gerade oder studierst du noch?</p>
+                                </div>
+                                <div class="message-time">Gerade eben</div>
+                            </div>
+                        </div>
+                        
+                        <div class="chat-input-container">
+                            <div class="vocabulary-hints" id="vocabulary-hints">
+                                <h5>💡 Nützliche Wörter für dieses Thema:</h5>
+                                <div class="vocab-chips" id="vocab-chips">
+                                    <!-- Vocabulary suggestions will be loaded here -->
+                                </div>
+                            </div>
+                            
+                            <div class="input-area">
+                                <textarea id="chat-input" placeholder="Schreibe deine Antwort auf Deutsch..." maxlength="500"></textarea>
+                                <button id="send-message" class="send-btn">
+                                    <span class="send-icon">📤</span>
+                                    Senden
+                                </button>
+                            </div>
+                            
+                            <div class="chat-status" id="chat-status" style="display: none;">
+                                <span class="status-text">KI antwortet...</span>
+                                <div class="typing-indicator">
+                                    <span></span><span></span><span></span>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </section>
@@ -362,6 +428,7 @@
     <!-- Scripts -->
     <script src="js/translations.js"></script>
     <script src="js/topical-vocabulary.js"></script>
+    <script src="js/chatbot.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>
