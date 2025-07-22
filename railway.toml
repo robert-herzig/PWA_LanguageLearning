@@ -14,4 +14,4 @@ restartPolicyType = "always"
 NODE_ENV = "production"
 
 # Domain configuration
-ALLOWED_ORIGINS = "https://robert-herzig.github.io"
+ALLOWED_ORIGINS = "https://robert-herzig.github.io,https://pwa-language-learning-api-production.up.railway.app"

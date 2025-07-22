@@ -510,11 +510,18 @@ class LanguageChatbot {
         // Determine API URL based on environment
         const isProduction = window.location.hostname.includes('github.io');
         const apiBaseUrl = isProduction 
-            ? 'https://pwa-language-learning-api.railway.app' // Your deployed API URL
+            ? 'https://pwa-language-learning-api-production.up.railway.app' // Your deployed API URL
             : 'http://localhost:3001';
+        
+        console.log('Environment check:', {
+            hostname: window.location.hostname,
+            isProduction: isProduction,
+            apiBaseUrl: apiBaseUrl
+        });
         
         // Try to use the secure API first (your hosted API with your key)
         try {
+            console.log('Attempting to call secure API:', `${apiBaseUrl}/api/chat`);
             const apiResponse = await fetch(`${apiBaseUrl}/api/chat`, {
                 method: 'POST',
                 headers: {
