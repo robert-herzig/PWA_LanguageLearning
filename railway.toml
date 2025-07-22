@@ -12,8 +12,6 @@ restartPolicyType = "always"
 
 [env]
 NODE_ENV = "production"
-PORT = { { RAILWAY_PORT } }
 
-# Domain configuration (Railway will provide this)
-RAILWAY_STATIC_URL = { { RAILWAY_STATIC_URL } }
-ALLOWED_ORIGINS = "https://robert-herzig.github.io,https://pwa-language-learning-api.railway.app"
+# Domain configuration
+ALLOWED_ORIGINS = "https://robert-herzig.github.io"
