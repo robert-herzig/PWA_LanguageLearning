@@ -1,0 +1,488 @@
+[
+  {
+    "word": "однополый брак",
+    "translation": "die gleichgeschlechtliche Ehe",
+    "example": "Однополый брак легален в некоторых странах.",
+    "example_german": "Die gleichgeschlechtliche Ehe ist in einigen Ländern legal."
+  },
+  {
+    "word": "гетеросексуальный брак",
+    "translation": "die heterosexuelle Ehe",
+    "example": "Гетеросексуальный брак существует во многих странах.",
+    "example_german": "Die heterosexuelle Ehe existiert in vielen Ländern."
+  },
+  {
+    "word": "гражданский партнер",
+    "translation": "die eingetragene Partnerschaft",
+    "example": "Он гражданский партнер ее.",
+    "example_german": "Er ist ihr eingetragener Partner."
+  },
+  {
+    "word": "одиночка-мать",
+    "translation": "die alleinerziehende Mutter",
+    "example": "Она одиночка-мать.",
+    "example_german": "Sie ist eine alleinerziehende Mutter."
+  },
+  {
+    "word": "усыновленный ребенок",
+    "translation": "das adoptierte Kind",
+    "example": "Усыновленный ребенок играет с друзьями.",
+    "example_german": "Das adoptierte Kind spielt mit Freunden."
+  },
+  {
+    "word": "усыновить ребенка",
+    "translation": "ein Kind adoptieren",
+    "example": "Я хочу усыновить ребенка в этом году.",
+    "example_german": "Ich möchte dieses Jahr ein Kind adoptieren."
+  },
+  {
+    "word": "воспитывать ребенка",
+    "translation": "ein Kind erziehen",
+    "example": "Родители должны воспитывать ребенка.",
+    "example_german": "Eltern müssen ein Kind erziehen."
+  },
+  {
+    "word": "жить с партнером",
+    "translation": "mit dem Partner leben",
+    "example": "Я живу с партнером в квартире.",
+    "example_german": "Ich lebe mit dem Partner in der Wohnung."
+  },
+  {
+    "word": "жить с парнем",
+    "translation": "mit dem Freund leben",
+    "example": "Она хочет жить с парнем.",
+    "example_german": "Sie möchte mit dem Freund leben."
+  },
+  {
+    "word": "быть вместе много лет",
+    "translation": "zusammen sein seit Jahren",
+    "example": "Мы вместе много лет.",
+    "example_german": "Wir sind seit vielen Jahren zusammen."
+  },
+  {
+    "word": "быть в отношениях много лет",
+    "translation": "in einer Beziehung sein",
+    "example": "Они вместе в отношениях много лет.",
+    "example_german": "Sie sind seit vielen Jahren in einer Beziehung."
+  },
+  {
+    "word": "жить вместе много лет",
+    "translation": "zusammen leben seit Jahren",
+    "example": "Мы живем вместе много лет.",
+    "example_german": "Wir leben seit Jahren zusammen."
+  },
+  {
+    "word": "подчиняться родителям",
+    "translation": "den Eltern gehorchen",
+    "example": "Дети должны подчиняться родителям.",
+    "example_german": "Die Kinder müssen den Eltern gehorchen."
+  },
+  {
+    "word": "не слушаться родителей",
+    "translation": "die Eltern missachten",
+    "example": "Дети не слушаются родителей.",
+    "example_german": "Die Kinder missachten die Eltern."
+  },
+  {
+    "word": "обсуждать с родителями",
+    "translation": "mit den Eltern diskutieren",
+    "example": "Я буду обсуждать с родителями.",
+    "example_german": "Ich werde mit den Eltern diskutieren."
+  },
+  {
+    "word": "обсуждать с братьями",
+    "translation": "mit den Brüdern diskutieren",
+    "example": "Я буду обсуждать с братьями.",
+    "example_german": "Ich werde mit den Brüdern diskutieren."
+  },
+  {
+    "word": "обсуждать с детьми",
+    "translation": "mit den Kindern diskutieren",
+    "example": "Важно обсуждать с детьми.",
+    "example_german": "Es ist wichtig, mit den Kindern zu diskutieren."
+  },
+  {
+    "word": "расти счастливо",
+    "translation": "das glückliche Wachsen",
+    "example": "Дети растут счастливыми в парке.",
+    "example_german": "Die Kinder wachsen glücklich im Park."
+  },
+  {
+    "word": "расти сильным",
+    "translation": "stark wachsen",
+    "example": "Я хочу расти сильным и здоровым.",
+    "example_german": "Ich möchte stark und gesund wachsen."
+  },
+  {
+    "word": "расти здоровым",
+    "translation": "gesund zu wachsen",
+    "example": "Дети должны расти здоровыми.",
+    "example_german": "Die Kinder müssen gesund wachsen."
+  },
+  {
+    "word": "коллега",
+    "translation": "der Kollege",
+    "example": "Мой коллега очень дружелюбный.",
+    "example_german": "Mein Kollege ist sehr freundlich."
+  },
+  {
+    "word": "друг детства",
+    "translation": "der Freund aus der Kindheit",
+    "example": "Он мой друг детства.",
+    "example_german": "Er ist mein Freund aus der Kindheit."
+  },
+  {
+    "word": "друг по университету",
+    "translation": "der Universitätsfreund",
+    "example": "Он мой друг по университету.",
+    "example_german": "Er ist mein Universitätsfreund."
+  },
+  {
+    "word": "хороший друг",
+    "translation": "der gute Freund",
+    "example": "Он хороший друг.",
+    "example_german": "Er ist ein guter Freund."
+  },
+  {
+    "word": "великий друг",
+    "translation": "der gute Freund",
+    "example": "Он мой великий друг.",
+    "example_german": "Er ist mein guter Freund."
+  },
+  {
+    "word": "иметь парня",
+    "translation": "einen Freund haben",
+    "example": "Она хочет иметь парня в этом году.",
+    "example_german": "Sie möchte dieses Jahr einen Freund haben."
+  },
+  {
+    "word": "иметь партнера",
+    "translation": "eine Partnerin / einen Partner haben",
+    "example": "Я хочу иметь партнера скоро.",
+    "example_german": "Ich möchte bald einen Partner haben."
+  },
+  {
+    "word": "иметь приключение",
+    "translation": "ein Abenteuer",
+    "example": "Я хочу иметь приключение летом.",
+    "example_german": "Ich möchte im Sommer ein Abenteuer haben."
+  },
+  {
+    "word": "иметь отношения",
+    "translation": "eine Beziehung haben",
+    "example": "Они хотят иметь отношения.",
+    "example_german": "Sie wollen eine Beziehung haben."
+  },
+  {
+    "word": "иметь дружбу",
+    "translation": "eine Freundschaft haben",
+    "example": "У них есть хорошая дружба.",
+    "example_german": "Sie haben eine gute Freundschaft."
+  },
+  {
+    "word": "иметь любовные отношения",
+    "translation": "eine Liebesbeziehung",
+    "example": "Они хотят иметь любовные отношения.",
+    "example_german": "Sie wollen eine Liebesbeziehung haben."
+  },
+  {
+    "word": "иметь рабочие отношения",
+    "translation": "die Arbeitsbeziehung",
+    "example": "У них хорошие рабочие отношения.",
+    "example_german": "Sie haben eine gute Arbeitsbeziehung."
+  },
+  {
+    "word": "начать отношения",
+    "translation": "eine Beziehung anfangen",
+    "example": "Они хотят начать отношения.",
+    "example_german": "Sie wollen eine Beziehung anfangen."
+  },
+  {
+    "word": "закончить отношения",
+    "translation": "eine Beziehung beenden",
+    "example": "Я хочу закончить отношения с ним.",
+    "example_german": "Ich möchte die Beziehung mit ihm beenden."
+  },
+  {
+    "word": "встречаться с кем-то",
+    "translation": "mit jemandem ausgehen",
+    "example": "Она хочет встречаться с кем-то интересным.",
+    "example_german": "Sie möchte mit jemandem Interessantem ausgehen."
+  },
+  {
+    "word": "разорвать отношения с кем-то",
+    "translation": "mit jemandem Schluss machen",
+    "example": "Я хочу разорвать отношения с ним.",
+    "example_german": "Ich möchte mit ihm Schluss machen."
+  },
+  {
+    "word": "нравиться",
+    "translation": "gut gefallen",
+    "example": "Мне нравится этот человек.",
+    "example_german": "Dieser Mensch gefällt mir."
+  },
+  {
+    "word": "не нравиться",
+    "translation": "schlecht ankommen",
+    "example": "Мне не нравится этот человек.",
+    "example_german": "Diese Person kommt mir nicht gut an."
+  },
+  {
+    "word": "ладить",
+    "translation": "sich gut verstehen",
+    "example": "Мы хорошо ладим друг с другом.",
+    "example_german": "Wir verstehen uns gut miteinander."
+  },
+  {
+    "word": "плохо ладить",
+    "translation": "sich schlecht verstehen",
+    "example": "Они всегда плохо ладят.",
+    "example_german": "Sie verstehen sich immer schlecht."
+  },
+  {
+    "word": "пожать руку",
+    "translation": "die Hand geben",
+    "example": "Я хочу пожать руку другу.",
+    "example_german": "Ich möchte meinem Freund die Hand geben."
+  },
+  {
+    "word": "обнять",
+    "translation": "umarmung geben",
+    "example": "Я хочу обнять своего друга.",
+    "example_german": "Ich möchte meinen Freund umarmen."
+  },
+  {
+    "word": "поцеловать",
+    "translation": "einen Kuss geben",
+    "example": "Я хочу поцеловать её.",
+    "example_german": "Ich möchte sie küssen."
+  },
+  {
+    "word": "обниматься",
+    "translation": "umarmen",
+    "example": "Им нравится обниматься после игры.",
+    "example_german": "Sie umarmen sich gerne nach dem Spielen."
+  },
+  {
+    "word": "поцеловаться",
+    "translation": "sich küssen",
+    "example": "Они целуются в парке.",
+    "example_german": "Sie küssen sich im Park."
+  },
+  {
+    "word": "флиртовать",
+    "translation": "das Flirten",
+    "example": "Он хочет флиртовать с ней.",
+    "example_german": "Er möchte mit ihr flirten."
+  },
+  {
+    "word": "типичная вечеринка",
+    "translation": "die typische Feier",
+    "example": "Типичная вечеринка очень веселая.",
+    "example_german": "Die typische Feier ist sehr lustig."
+  },
+  {
+    "word": "народный фестиваль",
+    "translation": "das Volksfest",
+    "example": "Народный фестиваль проходит каждое лето.",
+    "example_german": "Das Volksfest findet jeden Sommer statt."
+  },
+  {
+    "word": "традиционная вечеринка",
+    "translation": "die traditionelle Feier",
+    "example": "Традиционная вечеринка очень веселая.",
+    "example_german": "Die traditionelle Feier macht viel Spaß."
+  },
+  {
+    "word": "костюмированная вечеринка",
+    "translation": "die Kostümparty",
+    "example": "Мы идем на костюмированную вечеринку.",
+    "example_german": "Wir gehen zu einer Kostümparty."
+  },
+  {
+    "word": "рождественская еда",
+    "translation": "das Weihnachtsessen",
+    "example": "Рождественская еда очень вкусная.",
+    "example_german": "Das Weihnachtsessen ist sehr lecker."
+  },
+  {
+    "word": "семейный обед",
+    "translation": "das Familienessen",
+    "example": "Мы любим семейный обед.",
+    "example_german": "Wir lieben das Familienessen."
+  },
+  {
+    "word": "деловой обед",
+    "translation": "das Geschäftsessen",
+    "example": "У нас был деловой обед сегодня.",
+    "example_german": "Wir hatten heute ein Geschäftsessen."
+  },
+  {
+    "word": "формальная вечеринка",
+    "translation": "die formelle Feier",
+    "example": "Мы идем на формальную вечеринку завтра.",
+    "example_german": "Wir gehen morgen zu einer formellen Feier."
+  },
+  {
+    "word": "неформальная вечеринка",
+    "translation": "die informelle Feier",
+    "example": "У нас будет неформальная вечеринка в субботу.",
+    "example_german": "Wir haben am Samstag eine informelle Feier."
+  },
+  {
+    "word": "формальная встреча",
+    "translation": "die formelle Sitzung",
+    "example": "Формальная встреча пройдет завтра.",
+    "example_german": "Die formelle Sitzung findet morgen statt."
+  },
+  {
+    "word": "неформальная встреча",
+    "translation": "die informelle Sitzung",
+    "example": "У нас будет неформальная встреча завтра.",
+    "example_german": "Wir werden morgen eine informelle Sitzung haben."
+  },
+  {
+    "word": "мальчишник",
+    "translation": "der Junggesellenabschied",
+    "example": "Мальчишник был веселым.",
+    "example_german": "Der Junggesellenabschied war lustig."
+  },
+  {
+    "word": "свадьба",
+    "translation": "die Hochzeit",
+    "example": "Свадьба была очень красивой.",
+    "example_german": "Die Hochzeit war sehr schön."
+  },
+  {
+    "word": "отмечать день рождения",
+    "translation": "das Geburtstag haben",
+    "example": "Я отмечаю день рождения с друзьями.",
+    "example_german": "Ich feiere meinen Geburtstag mit Freunden."
+  },
+  {
+    "word": "проводить мальчишник",
+    "translation": "der Junggesellenabschied",
+    "example": "Мы будем проводить мальчишник.",
+    "example_german": "Wir werden einen Junggesellenabschied feiern."
+  },
+  {
+    "word": "устроить мальчишник",
+    "translation": "der Junggesellenabschied",
+    "example": "Мы устроим мальчишник в субботу.",
+    "example_german": "Wir werden am Samstag einen Junggesellenabschied feiern."
+  },
+  {
+    "word": "пригласить на мальчишник",
+    "translation": "die Junggesellenabschiedseinladung",
+    "example": "Я хочу пригласить на мальчишник.",
+    "example_german": "Ich möchte zu einem Junggesellenabschied einladen."
+  },
+  {
+    "word": "устроить выпускную вечеринку",
+    "translation": "die Abschlussfeier",
+    "example": "Мы устроим выпускную вечеринку.",
+    "example_german": "Wir werden eine Abschlussfeier veranstalten."
+  },
+  {
+    "word": "поехать в свадебное путешествие",
+    "translation": "die Hochzeitsreise",
+    "example": "Они собираются поехать в свадебное путешествие.",
+    "example_german": "Sie werden auf die Hochzeitsreise gehen."
+  },
+  {
+    "word": "поехать в медовый месяц",
+    "translation": "die Hochzeitsreise",
+    "example": "Они поедут в медовый месяц.",
+    "example_german": "Sie fahren in die Hochzeitsreise."
+  },
+  {
+    "word": "быть в свадебном путешествии",
+    "translation": "die Hochzeitsreise",
+    "example": "Мы в свадебном путешествии в Париже.",
+    "example_german": "Wir sind auf der Hochzeitsreise in Paris."
+  },
+  {
+    "word": "быть в медовом месяце",
+    "translation": "die Hochzeitsreise",
+    "example": "Они в медовом месяце на Бали.",
+    "example_german": "Sie sind auf ihrer Hochzeitsreise auf Bali."
+  },
+  {
+    "word": "поздравить",
+    "translation": "die Gratulation",
+    "example": "Я хочу поздравить своего друга.",
+    "example_german": "Ich möchte meinen Freund gratulieren."
+  },
+  {
+    "word": "подарить",
+    "translation": "ein Geschenk machen",
+    "example": "Я хочу подарить ей книгу.",
+    "example_german": "Ich möchte ihr ein Buch schenken."
+  },
+  {
+    "word": "упаковать подарок",
+    "translation": "ein Geschenk einpacken",
+    "example": "Мне нужно упаковать подарок.",
+    "example_german": "Ich muss ein Geschenk einpacken."
+  },
+  {
+    "word": "открыть подарок",
+    "translation": "ein Geschenk öffnen",
+    "example": "Я хочу открыть подарок сейчас.",
+    "example_german": "Ich möchte jetzt ein Geschenk öffnen."
+  },
+  {
+    "word": "приятное отношение",
+    "translation": "die angenehme Einstellung",
+    "example": "У него приятное отношение к людям.",
+    "example_german": "Er hat eine angenehme Einstellung zu Menschen."
+  },
+  {
+    "word": "позитивное отношение",
+    "translation": "die positive Einstellung",
+    "example": "У нее позитивное отношение к жизни.",
+    "example_german": "Sie hat eine positive Einstellung zum Leben."
+  },
+  {
+    "word": "странное отношение",
+    "translation": "die seltsame Einstellung",
+    "example": "У него странное отношение к этому.",
+    "example_german": "Er hat eine seltsame Einstellung dazu."
+  },
+  {
+    "word": "вести себя хорошо",
+    "translation": "sich gut benehmen",
+    "example": "Дети должны вести себя хорошо.",
+    "example_german": "Die Kinder müssen sich gut benehmen."
+  },
+  {
+    "word": "плохо себя вести",
+    "translation": "sich schlecht benehmen",
+    "example": "Дети плохо себя ведут в школе.",
+    "example_german": "Die Kinder benehmen sich schlecht in der Schule."
+  },
+  {
+    "word": "хорошо относиться к кому-то",
+    "translation": "jemanden gut behandeln",
+    "example": "Я всегда хорошо отношусь к друзьям.",
+    "example_german": "Ich behandle meine Freunde immer gut."
+  },
+  {
+    "word": "плохо обращаться с кем-то",
+    "translation": "jemanden schlecht behandeln",
+    "example": "Не стоит плохо обращаться с другом.",
+    "example_german": "Du solltest deinen Freund nicht schlecht behandeln."
+  },
+  {
+    "word": "иметь хорошее отношение",
+    "translation": "eine gute Einstellung",
+    "example": "Она всегда имеет хорошее отношение.",
+    "example_german": "Sie hat immer eine gute Einstellung."
+  },
+  {
+    "word": "иметь плохое отношение",
+    "translation": "eine schlechte Einstellung",
+    "example": "У него плохое отношение к работе.",
+    "example_german": "Er hat eine schlechte Einstellung zur Arbeit."
+  }
+]

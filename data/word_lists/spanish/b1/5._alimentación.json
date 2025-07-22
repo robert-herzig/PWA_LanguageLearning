@@ -1,0 +1,926 @@
+[
+  {
+    "word": "alimentación sana",
+    "translation": "die gesunde Ernährung",
+    "example": "Una alimentación sana es importante.",
+    "example_german": "Eine gesunde Ernährung ist wichtig."
+  },
+  {
+    "word": "alimentación equilibrada",
+    "translation": "die ausgewogene Ernährung",
+    "example": "Una alimentación equilibrada es muy importante.",
+    "example_german": "Eine ausgewogene Ernährung ist sehr wichtig."
+  },
+  {
+    "word": "producto natural",
+    "translation": "das Naturprodukt",
+    "example": "Este es un producto natural.",
+    "example_german": "Das ist ein Naturprodukt."
+  },
+  {
+    "word": "producto para diabéticos",
+    "translation": "das Produkt für Diabetiker",
+    "example": "Este producto es para diabéticos.",
+    "example_german": "Dieses Produkt ist für Diabetiker."
+  },
+  {
+    "word": "alimento pesado",
+    "translation": "das schwere Lebensmittel",
+    "example": "El alimento pesado es difícil de digerir.",
+    "example_german": "Das schwere Lebensmittel ist schwer zu verdauen."
+  },
+  {
+    "word": "alimento ligero",
+    "translation": "das leichte Lebensmittel",
+    "example": "Me gusta comer alimento ligero.",
+    "example_german": "Ich esse gerne leichte Lebensmittel."
+  },
+  {
+    "word": "comida pesada",
+    "translation": "das schwere Essen",
+    "example": "No me gusta la comida pesada.",
+    "example_german": "Ich mag das schwere Essen nicht."
+  },
+  {
+    "word": "comida ligera",
+    "translation": "die leichte Nahrung",
+    "example": "Me gusta comer comida ligera.",
+    "example_german": "Ich esse gerne leichte Nahrung."
+  },
+  {
+    "word": "calorías",
+    "translation": "die Kalorien",
+    "example": "Las calorías son importantes para la salud.",
+    "example_german": "Die Kalorien sind wichtig für die Gesundheit."
+  },
+  {
+    "word": "vitaminas",
+    "translation": "die Vitamine",
+    "example": "Las vitaminas son importantes para la salud.",
+    "example_german": "Die Vitamine sind wichtig für die Gesundheit."
+  },
+  {
+    "word": "proteínas",
+    "translation": "die Proteine",
+    "example": "Las proteínas son importantes para la salud.",
+    "example_german": "Die Proteine sind wichtig für die Gesundheit."
+  },
+  {
+    "word": "fibra",
+    "translation": "die Faser",
+    "example": "La fibra es importante para la salud.",
+    "example_german": "Die Faser ist wichtig für die Gesundheit."
+  },
+  {
+    "word": "hierro",
+    "translation": "das Eisen",
+    "example": "El hierro es un metal fuerte.",
+    "example_german": "Das Eisen ist ein starkes Metall."
+  },
+  {
+    "word": "alimentar",
+    "translation": "füttern",
+    "example": "Voy a alimentar al perro.",
+    "example_german": "Ich werde den Hund füttern."
+  },
+  {
+    "word": "alimentarse",
+    "translation": "sich ernähren",
+    "example": "Es importante alimentarse bien.",
+    "example_german": "Es ist wichtig, sich gut zu ernähren."
+  },
+  {
+    "word": "infusión de tila",
+    "translation": "die Lindenblüteninfusion",
+    "example": "Me gusta tomar infusión de tila.",
+    "example_german": "Ich trinke gerne Lindenblüteninfusion."
+  },
+  {
+    "word": "infusión de manzanilla",
+    "translation": "die Kamillentee",
+    "example": "Me gusta tomar infusión de manzanilla.",
+    "example_german": "Ich trinke gerne die Kamillentee."
+  },
+  {
+    "word": "infusión de poleo",
+    "translation": "Pfefferminztee",
+    "example": "Me gusta tomar infusión de poleo.",
+    "example_german": "Ich trinke gerne Pfefferminztee."
+  },
+  {
+    "word": "vino joven",
+    "translation": "der junge Wein",
+    "example": "Me gusta el vino joven.",
+    "example_german": "Ich mag den jungen Wein."
+  },
+  {
+    "word": "vino de la casa",
+    "translation": "der Hauswein",
+    "example": "Me gusta el vino de la casa.",
+    "example_german": "Ich mag den Hauswein."
+  },
+  {
+    "word": "un reserva",
+    "translation": "eine Reservierung",
+    "example": "Quiero hacer un reserva ahora.",
+    "example_german": "Ich möchte jetzt eine Reservierung machen."
+  },
+  {
+    "word": "abrir una botella",
+    "translation": "eine Flasche öffnen",
+    "example": "Voy a abrir una botella de vino.",
+    "example_german": "Ich werde eine Flasche Wein öffnen."
+  },
+  {
+    "word": "servir una bebida",
+    "translation": "ein Getränk servieren",
+    "example": "Voy a servir una bebida fría.",
+    "example_german": "Ich werde ein kaltes Getränk servieren."
+  },
+  {
+    "word": "probar una bebida",
+    "translation": "ein Getränk probieren",
+    "example": "Quiero probar una bebida nueva.",
+    "example_german": "Ich möchte ein neues Getränk probieren."
+  },
+  {
+    "word": "tomar una copa",
+    "translation": "ein Glas nehmen",
+    "example": "Vamos a tomar una copa esta noche.",
+    "example_german": "Wir werden heute Abend ein Glas nehmen."
+  },
+  {
+    "word": "estar borracho",
+    "translation": "betrunken sein",
+    "example": "Él está borracho en la fiesta.",
+    "example_german": "Er ist auf der Party betrunken."
+  },
+  {
+    "word": "tener resaca",
+    "translation": "der Kater",
+    "example": "Hoy tengo resaca después de la fiesta.",
+    "example_german": "Heute habe ich einen Kater nach der Feier."
+  },
+  {
+    "word": "marisco",
+    "translation": "der Meeresfrüchte",
+    "example": "Me gusta comer marisco fresco.",
+    "example_german": "Ich esse gerne frische Meeresfrüchte."
+  },
+  {
+    "word": "especias",
+    "translation": "die Gewürze",
+    "example": "Me gustan las especias en la comida.",
+    "example_german": "Ich mag die Gewürze im Essen."
+  },
+  {
+    "word": "embutido",
+    "translation": "die Wurst",
+    "example": "Me gusta el embutido en el desayuno.",
+    "example_german": "Ich mag die Wurst zum Frühstück."
+  },
+  {
+    "word": "lomo",
+    "translation": "das Lendenstück",
+    "example": "El lomo es muy sabroso.",
+    "example_german": "Das Lendenstück ist sehr schmackhaft."
+  },
+  {
+    "word": "salchichón",
+    "translation": "der Salchichón",
+    "example": "Me gusta comer salchichón.",
+    "example_german": "Ich esse gerne Salchichón."
+  },
+  {
+    "word": "chorizo",
+    "translation": "der Chorizo",
+    "example": "Me gusta comer chorizo en el desayuno.",
+    "example_german": "Ich esse gerne Chorizo zum Frühstück."
+  },
+  {
+    "word": "berenjena",
+    "translation": "die Aubergine",
+    "example": "Me gusta comer berenjena asada.",
+    "example_german": "Ich esse gerne gebratene Aubergine."
+  },
+  {
+    "word": "calabacín",
+    "translation": "der Zucchini",
+    "example": "Me gusta comer calabacín.",
+    "example_german": "Ich esse gern Zucchini."
+  },
+  {
+    "word": "espinacas",
+    "translation": "die Spinat",
+    "example": "Me gustan las espinacas frescas.",
+    "example_german": "Ich mag frischen Spinat."
+  },
+  {
+    "word": "guisantes",
+    "translation": "die Erbsen",
+    "example": "Me gustan los guisantes verdes.",
+    "example_german": "Ich mag die grünen Erbsen."
+  },
+  {
+    "word": "lentejas",
+    "translation": "die Linsen",
+    "example": "Me gustan las lentejas con arroz.",
+    "example_german": "Ich mag die Linsen mit Reis."
+  },
+  {
+    "word": "judías blancas",
+    "translation": "die weißen Bohnen",
+    "example": "Me gustan las judías blancas.",
+    "example_german": "Ich mag die weißen Bohnen."
+  },
+  {
+    "word": "garbanzos",
+    "translation": "die Kichererbsen",
+    "example": "Me gustan los garbanzos en ensaladas.",
+    "example_german": "Ich mag die Kichererbsen in Salaten."
+  },
+  {
+    "word": "bizcocho",
+    "translation": "der Biskuit",
+    "example": "Me gusta comer bizcocho.",
+    "example_german": "Ich esse gerne Biskuit."
+  },
+  {
+    "word": "magdalena",
+    "translation": "die Magdalene",
+    "example": "Me gusta comer una magdalena.",
+    "example_german": "Ich esse gerne eine Magdalene."
+  },
+  {
+    "word": "cereza",
+    "translation": "die Kirsche",
+    "example": "Me gusta comer cerezas frescas.",
+    "example_german": "Ich esse gerne frische Kirschen."
+  },
+  {
+    "word": "piña",
+    "translation": "die Ananas",
+    "example": "Me gusta comer piña fresca.",
+    "example_german": "Ich esse gerne frische Ananas."
+  },
+  {
+    "word": "kiwi",
+    "translation": "der Kiwi",
+    "example": "Me gusta comer kiwi en el desayuno.",
+    "example_german": "Ich esse gerne Kiwi zum Frühstück."
+  },
+  {
+    "word": "leche entera",
+    "translation": "die Vollmilch",
+    "example": "Me gusta beber leche entera.",
+    "example_german": "Ich trinke gerne Vollmilch."
+  },
+  {
+    "word": "leche descremada",
+    "translation": "die Magermilch",
+    "example": "Me gusta la leche descremada.",
+    "example_german": "Ich mag die Magermilch."
+  },
+  {
+    "word": "leche desnatada",
+    "translation": "die Magermilch",
+    "example": "Me gusta beber leche desnatada.",
+    "example_german": "Ich trinke gerne Magermilch."
+  },
+  {
+    "word": "nata",
+    "translation": "die Sahne",
+    "example": "Me gusta la nata en el postre.",
+    "example_german": "Ich mag die Sahne im Dessert."
+  },
+  {
+    "word": "margarina",
+    "translation": "die Margarine",
+    "example": "Me gusta la margarina en el pan.",
+    "example_german": "Ich mag die Margarine auf dem Brot."
+  },
+  {
+    "word": "yogur natural",
+    "translation": "der Naturjoghurt",
+    "example": "Me gusta el yogur natural.",
+    "example_german": "Ich mag den Naturjoghurt."
+  },
+  {
+    "word": "yogur desnatado",
+    "translation": "der fettfreie Joghurt",
+    "example": "Me gusta el yogur desnatado.",
+    "example_german": "Ich mag den fettfreien Joghurt."
+  },
+  {
+    "word": "yogur con frutas",
+    "translation": "der Joghurt mit Früchten",
+    "example": "Me gusta el yogur con frutas.",
+    "example_german": "Ich mag den Joghurt mit Früchten."
+  },
+  {
+    "word": "costilla de cordero",
+    "translation": "die Lammrippe",
+    "example": "Me gusta la costilla de cordero.",
+    "example_german": "Ich mag die Lammrippe."
+  },
+  {
+    "word": "chuleta de cerdo",
+    "translation": "die Schweinekotelett",
+    "example": "Me gusta la chuleta de cerdo.",
+    "example_german": "Ich mag die Schweinekotelett."
+  },
+  {
+    "word": "pechuga de pollo",
+    "translation": "das Hähnchenbrustfilet",
+    "example": "Me gusta la pechuga de pollo.",
+    "example_german": "Ich mag das Hähnchenbrustfilet."
+  },
+  {
+    "word": "solomillo de ternera",
+    "translation": "das Rinderfilet",
+    "example": "Me gusta el solomillo de ternera.",
+    "example_german": "Ich mag das Rinderfilet."
+  },
+  {
+    "word": "aceite de oliva",
+    "translation": "das Olivenöl",
+    "example": "Me gusta el aceite de oliva.",
+    "example_german": "Ich mag das Olivenöl."
+  },
+  {
+    "word": "aceite de girasol",
+    "translation": "das Sonnenblumenöl",
+    "example": "El aceite de girasol es saludable.",
+    "example_german": "Das Sonnenblumenöl ist gesund."
+  },
+  {
+    "word": "vinagre",
+    "translation": "der Essig",
+    "example": "El vinagre es muy ácido.",
+    "example_german": "Der Essig ist sehr sauer."
+  },
+  {
+    "word": "mostaza",
+    "translation": "die Senf",
+    "example": "Me gusta la mostaza en mi sándwich.",
+    "example_german": "Ich mag den Senf in meinem Sandwich."
+  },
+  {
+    "word": "clara de huevo",
+    "translation": "das Eiweiß",
+    "example": "La clara de huevo es saludable.",
+    "example_german": "Das Eiweiß ist gesund."
+  },
+  {
+    "word": "yema de huevo",
+    "translation": "das Eigelb",
+    "example": "La yema de huevo es amarilla.",
+    "example_german": "Das Eigelb ist gelb."
+  },
+  {
+    "word": "cáscara de huevo",
+    "translation": "die Eierschale",
+    "example": "La cáscara de huevo es frágil.",
+    "example_german": "Die Eierschale ist zerbrechlich."
+  },
+  {
+    "word": "receta",
+    "translation": "das Rezept",
+    "example": "Tengo una receta deliciosa.",
+    "example_german": "Ich habe ein köstliches Rezept."
+  },
+  {
+    "word": "ingredientes",
+    "translation": "die Zutaten",
+    "example": "Los ingredientes son muy importantes.",
+    "example_german": "Die Zutaten sind sehr wichtig."
+  },
+  {
+    "word": "modo de preparación",
+    "translation": "die Zubereitungsart",
+    "example": "El modo de preparación es importante.",
+    "example_german": "Die Zubereitungsart ist wichtig."
+  },
+  {
+    "word": "carne a la plancha",
+    "translation": "das gegrillte Fleisch",
+    "example": "Me gusta la carne a la plancha.",
+    "example_german": "Ich mag das gegrillte Fleisch."
+  },
+  {
+    "word": "pescado a la plancha",
+    "translation": "der gegrillte Fisch",
+    "example": "Me gusta el pescado a la plancha.",
+    "example_german": "Ich mag den gegrillten Fisch."
+  },
+  {
+    "word": "carne frita",
+    "translation": "das gebratene Fleisch",
+    "example": "Me gusta la carne frita.",
+    "example_german": "Ich mag das gebratene Fleisch."
+  },
+  {
+    "word": "pescado frito",
+    "translation": "der gebratene Fisch",
+    "example": "Me gusta el pescado frito.",
+    "example_german": "Ich mag den gebratenen Fisch."
+  },
+  {
+    "word": "carne hervida",
+    "translation": "das gekochte Fleisch",
+    "example": "Me gusta la carne hervida.",
+    "example_german": "Ich mag das gekochte Fleisch."
+  },
+  {
+    "word": "pescado hervido",
+    "translation": "der gekochte Fisch",
+    "example": "Me gusta el pescado hervido.",
+    "example_german": "Ich mag den gekochten Fisch."
+  },
+  {
+    "word": "blando",
+    "translation": "weich",
+    "example": "El pan está blando y fresco.",
+    "example_german": "Das Brot ist weich und frisch."
+  },
+  {
+    "word": "duro",
+    "translation": "der harte",
+    "example": "El suelo es muy duro.",
+    "example_german": "Der Boden ist sehr hart."
+  },
+  {
+    "word": "crudo",
+    "translation": "der rohe",
+    "example": "El pescado está crudo hoy.",
+    "example_german": "Der Fisch ist heute roh."
+  },
+  {
+    "word": "poco hecho",
+    "translation": "der wenig gegarte",
+    "example": "Me gusta el carne poco hecho.",
+    "example_german": "Ich mag das wenig gegarte Fleisch."
+  },
+  {
+    "word": "muy hecho",
+    "translation": "sehr gut gemacht",
+    "example": "El trabajo está muy hecho.",
+    "example_german": "Die Arbeit ist sehr gut gemacht."
+  },
+  {
+    "word": "salado",
+    "translation": "salzig",
+    "example": "El pescado está muy salado.",
+    "example_german": "Der Fisch ist sehr salzig."
+  },
+  {
+    "word": "dulce",
+    "translation": "das Süße",
+    "example": "Me gusta el dulce de leche.",
+    "example_german": "Ich mag die Dulce de Leche."
+  },
+  {
+    "word": "picante",
+    "translation": "der scharfe",
+    "example": "Me gusta la comida picante.",
+    "example_german": "Ich mag das scharfe Essen."
+  },
+  {
+    "word": "amargo",
+    "translation": "der bittere",
+    "example": "El café está amargo hoy.",
+    "example_german": "Der Kaffee ist heute bitter."
+  },
+  {
+    "word": "freír",
+    "translation": "das Frittieren",
+    "example": "Voy a freír los huevos.",
+    "example_german": "Ich werde die Eier frittieren."
+  },
+  {
+    "word": "hervir",
+    "translation": "das Kochen",
+    "example": "Voy a hervir el agua.",
+    "example_german": "Ich werde das Wasser kochen."
+  },
+  {
+    "word": "cocer",
+    "translation": "kochen",
+    "example": "Voy a cocer las verduras.",
+    "example_german": "Ich werde das Gemüse kochen."
+  },
+  {
+    "word": "asar",
+    "translation": "grillen",
+    "example": "Voy a asar carne hoy.",
+    "example_german": "Ich werde heute Fleisch grillen."
+  },
+  {
+    "word": "aliñar",
+    "translation": "anrichten",
+    "example": "Voy a aliñar la ensalada.",
+    "example_german": "Ich werde den Salat anrichten."
+  },
+  {
+    "word": "condimentar",
+    "translation": "würzen",
+    "example": "Me gusta condimentar la comida.",
+    "example_german": "Ich würze das Essen gerne."
+  },
+  {
+    "word": "cocer arroz",
+    "translation": "das Reis kochen",
+    "example": "Voy a cocer arroz para la cena.",
+    "example_german": "Ich werde Reis für das Abendessen kochen."
+  },
+  {
+    "word": "cocer pasta",
+    "translation": "die Nudeln kochen",
+    "example": "Voy a cocer pasta hoy.",
+    "example_german": "Ich werde heute die Nudeln kochen."
+  },
+  {
+    "word": "hervir agua",
+    "translation": "das Wasser kochen",
+    "example": "Voy a hervir agua para el té.",
+    "example_german": "Ich werde Wasser für den Tee kochen."
+  },
+  {
+    "word": "hervir leche",
+    "translation": "die Milch kochen",
+    "example": "Voy a hervir leche para el café.",
+    "example_german": "Ich werde die Milch für den Kaffee kochen."
+  },
+  {
+    "word": "batir huevos",
+    "translation": "die Eier schlagen",
+    "example": "Voy a batir huevos para el desayuno.",
+    "example_german": "Ich werde Eier für das Frühstück schlagen."
+  },
+  {
+    "word": "freír patatas",
+    "translation": "die Kartoffeln frittieren",
+    "example": "Voy a freír patatas hoy.",
+    "example_german": "Ich werde heute die Kartoffeln frittieren."
+  },
+  {
+    "word": "freír huevos",
+    "translation": "die Eier braten",
+    "example": "Voy a freír huevos para el desayuno.",
+    "example_german": "Ich werde Eier zum Frühstück braten."
+  },
+  {
+    "word": "pelar fruta",
+    "translation": "die Frucht schälen",
+    "example": "Voy a pelar fruta para la ensalada.",
+    "example_german": "Ich werde die Frucht für den Salat schälen."
+  },
+  {
+    "word": "pelar patatas",
+    "translation": "die Kartoffeln schälen",
+    "example": "Voy a pelar patatas hoy.",
+    "example_german": "Ich werde heute die Kartoffeln schälen."
+  },
+  {
+    "word": "cortar el pan",
+    "translation": "das Brot schneiden",
+    "example": "Voy a cortar el pan.",
+    "example_german": "Ich werde das Brot schneiden."
+  },
+  {
+    "word": "cortar la carne",
+    "translation": "das Fleisch schneiden",
+    "example": "Voy a cortar la carne ahora.",
+    "example_german": "Ich werde das Fleisch jetzt schneiden."
+  },
+  {
+    "word": "aliñar una ensalada",
+    "translation": "einen Salat anmachen",
+    "example": "Voy a aliñar una ensalada hoy.",
+    "example_german": "Ich werde heute einen Salat anmachen."
+  },
+  {
+    "word": "quemarse la comida",
+    "translation": "das Essen anbrennen",
+    "example": "A veces, se quema la comida.",
+    "example_german": "Manchmal brennt das Essen an."
+  },
+  {
+    "word": "sopa de pescado",
+    "translation": "die Fischsuppe",
+    "example": "Me gusta la sopa de pescado.",
+    "example_german": "Ich mag die Fischsuppe."
+  },
+  {
+    "word": "sopa de verduras",
+    "translation": "die Gemüsesuppe",
+    "example": "Me gusta la sopa de verduras.",
+    "example_german": "Ich mag die Gemüsesuppe."
+  },
+  {
+    "word": "gazpacho",
+    "translation": "der Gazpacho",
+    "example": "Me gusta el gazpacho frío.",
+    "example_german": "Ich mag die kalte Gazpacho."
+  },
+  {
+    "word": "cocido",
+    "translation": "der Eintopf",
+    "example": "El cocido es muy nutritivo.",
+    "example_german": "Der Eintopf ist sehr nahrhaft."
+  },
+  {
+    "word": "croquetas",
+    "translation": "die Croquettes",
+    "example": "Me gustan las croquetas de pollo.",
+    "example_german": "Ich mag die Hähnchen-Croquettes."
+  },
+  {
+    "word": "sabor bueno",
+    "translation": "der gute Geschmack",
+    "example": "Este plato tiene un sabor bueno.",
+    "example_german": "Dieses Gericht hat einen guten Geschmack."
+  },
+  {
+    "word": "sabor agradable",
+    "translation": "der angenehme Geschmack",
+    "example": "Este plato tiene un sabor agradable.",
+    "example_german": "Dieses Gericht hat einen angenehmen Geschmack."
+  },
+  {
+    "word": "soso",
+    "translation": "der Fade",
+    "example": "Este plato está soso y sin sabor.",
+    "example_german": "Dieses Gericht ist fade und geschmacklos."
+  },
+  {
+    "word": "sentar bien",
+    "translation": "gut sitzen",
+    "example": "Este vestido te sienta bien.",
+    "example_german": "Dieses Kleid sitzt gut an dir."
+  },
+  {
+    "word": "sentar mal",
+    "translation": "schlecht sitzen",
+    "example": "Ese alimento me sentó mal.",
+    "example_german": "Dieses Essen hat mir schlecht bekommen."
+  },
+  {
+    "word": "cuchara",
+    "translation": "der Löffel",
+    "example": "Necesito una cuchara para comer.",
+    "example_german": "Ich brauche einen Löffel zum Essen."
+  },
+  {
+    "word": "tenedor",
+    "translation": "der Gabel",
+    "example": "El tenedor está en la mesa.",
+    "example_german": "Die Gabel ist auf dem Tisch."
+  },
+  {
+    "word": "cuchillo",
+    "translation": "das Messer",
+    "example": "El cuchillo está en la mesa.",
+    "example_german": "Das Messer liegt auf dem Tisch."
+  },
+  {
+    "word": "sartén",
+    "translation": "die Pfanne",
+    "example": "Voy a usar la sartén hoy.",
+    "example_german": "Ich werde heute die Pfanne benutzen."
+  },
+  {
+    "word": "cazo",
+    "translation": "der Kessel",
+    "example": "El cazo está en la estufa.",
+    "example_german": "Der Kessel steht auf dem Herd."
+  },
+  {
+    "word": "mantel",
+    "translation": "das Tischtuch",
+    "example": "El mantel es de color blanco.",
+    "example_german": "Das Tischtuch ist weiß."
+  },
+  {
+    "word": "copa de vino",
+    "translation": "das Weinglas",
+    "example": "Me gusta beber una copa de vino.",
+    "example_german": "Ich trinke gerne ein Glas Wein."
+  },
+  {
+    "word": "copa de champán",
+    "translation": "das Champagnerglas",
+    "example": "Brindamos con una copa de champán.",
+    "example_german": "Wir stoßen mit einem Champagnerglas an."
+  },
+  {
+    "word": "taza de café",
+    "translation": "die Tasse Kaffee",
+    "example": "Me gusta la taza de café.",
+    "example_german": "Ich mag die Tasse Kaffee."
+  },
+  {
+    "word": "taza de té",
+    "translation": "die Tasse Tee",
+    "example": "Me gusta tomar una taza de té.",
+    "example_german": "Ich trinke gerne eine Tasse Tee."
+  },
+  {
+    "word": "taza de desayuno",
+    "translation": "die Frühstückstasse",
+    "example": "Me gusta mi taza de desayuno.",
+    "example_german": "Ich mag meine Frühstückstasse."
+  },
+  {
+    "word": "vaso de agua",
+    "translation": "das Glas Wasser",
+    "example": "Quiero un vaso de agua.",
+    "example_german": "Ich möchte ein Glas Wasser."
+  },
+  {
+    "word": "jarra de agua",
+    "translation": "der Wasserkaraffe",
+    "example": "Necesito una jarra de agua.",
+    "example_german": "Ich brauche eine Wasserkaraffe."
+  },
+  {
+    "word": "jarra de cerveza",
+    "translation": "das Bierglas",
+    "example": "Me gusta la jarra de cerveza fría.",
+    "example_german": "Ich mag das kalte Bierglas."
+  },
+  {
+    "word": "recoger la cocina",
+    "translation": "die Küche aufräumen",
+    "example": "Voy a recoger la cocina ahora.",
+    "example_german": "Ich werde die Küche jetzt aufräumen."
+  },
+  {
+    "word": "recoger la mesa",
+    "translation": "den Tisch abräumen",
+    "example": "Voy a recoger la mesa ahora.",
+    "example_german": "Ich werde den Tisch jetzt abräumen."
+  },
+  {
+    "word": "poner los platos",
+    "translation": "die Teller abstellen",
+    "example": "Voy a poner los platos en la mesa.",
+    "example_german": "Ich werde die Teller auf den Tisch stellen."
+  },
+  {
+    "word": "poner la mesa",
+    "translation": "den Tisch decken",
+    "example": "Voy a poner la mesa ahora.",
+    "example_german": "Ich werde jetzt den Tisch decken."
+  },
+  {
+    "word": "recoger los platos",
+    "translation": "die Teller abräumen",
+    "example": "Voy a recoger los platos ahora.",
+    "example_german": "Ich werde die Teller jetzt abräumen."
+  },
+  {
+    "word": "quitar los platos",
+    "translation": "die Teller abräumen",
+    "example": "Voy a quitar los platos ahora.",
+    "example_german": "Ich werde die Teller jetzt abräumen."
+  },
+  {
+    "word": "quitar la mesa",
+    "translation": "den Tisch abräumen",
+    "example": "Voy a quitar la mesa ahora.",
+    "example_german": "Ich werde den Tisch jetzt abräumen."
+  },
+  {
+    "word": "fregar los platos",
+    "translation": "das Geschirr spülen",
+    "example": "Voy a fregar los platos ahora.",
+    "example_german": "Ich werde das Geschirr jetzt spülen."
+  },
+  {
+    "word": "poner el lavavajillas",
+    "translation": "den Geschirrspüler einräumen",
+    "example": "Voy a poner el lavavajillas ahora.",
+    "example_german": "Ich werde den Geschirrspüler jetzt einräumen."
+  },
+  {
+    "word": "poner el lavaplatos",
+    "translation": "den Geschirrspüler",
+    "example": "Voy a poner el lavaplatos ahora.",
+    "example_german": "Ich werde den Geschirrspüler jetzt einschalten."
+  },
+  {
+    "word": "restaurante sencillo",
+    "translation": "das einfache Restaurant",
+    "example": "Voy a un restaurante sencillo.",
+    "example_german": "Ich gehe zu einem einfachen Restaurant."
+  },
+  {
+    "word": "restaurante de lujo",
+    "translation": "das Luxusrestaurant",
+    "example": "Vamos a un restaurante de lujo.",
+    "example_german": "Wir gehen zu einem Luxusrestaurant."
+  },
+  {
+    "word": "comida casera",
+    "translation": "die Hausmannskost",
+    "example": "Me encanta la comida casera.",
+    "example_german": "Ich liebe die Hausmannskost."
+  },
+  {
+    "word": "comida tradicional",
+    "translation": "die traditionelle Nahrung",
+    "example": "Me gusta la comida tradicional.",
+    "example_german": "Ich mag die traditionelle Nahrung."
+  },
+  {
+    "word": "cocina india",
+    "translation": "die indische Küche",
+    "example": "Me encanta la cocina india.",
+    "example_german": "Ich liebe die indische Küche."
+  },
+  {
+    "word": "cocina andaluza",
+    "translation": "die andalusische Küche",
+    "example": "La cocina andaluza es muy sabrosa.",
+    "example_german": "Die andalusische Küche ist sehr schmackhaft."
+  },
+  {
+    "word": "cocina internacional",
+    "translation": "die internationale Küche",
+    "example": "Me encanta la cocina internacional.",
+    "example_german": "Ich liebe die internationale Küche."
+  },
+  {
+    "word": "tomar nota",
+    "translation": "die Notiz nehmen",
+    "example": "Voy a tomar nota de esto.",
+    "example_german": "Ich werde dies notieren."
+  },
+  {
+    "word": "traer el primer plato",
+    "translation": "das erste Gericht",
+    "example": "Voy a traer el primer plato.",
+    "example_german": "Ich werde das erste Gericht bringen."
+  },
+  {
+    "word": "traer el segundo plato",
+    "translation": "das zweite Gericht",
+    "example": "Voy a traer el segundo plato.",
+    "example_german": "Ich werde das zweite Gericht bringen."
+  },
+  {
+    "word": "llevarse el primer plato",
+    "translation": "das erste Gericht",
+    "example": "Voy a llevarme el primer plato.",
+    "example_german": "Ich werde das erste Gericht mitnehmen."
+  },
+  {
+    "word": "llevarse el segundo plato",
+    "translation": "das zweite Gericht",
+    "example": "Voy a llevarme el segundo plato.",
+    "example_german": "Ich werde das zweite Gericht mitnehmen."
+  },
+  {
+    "word": "servir el primer plato",
+    "translation": "das erste Gericht",
+    "example": "Voy a servir el primer plato.",
+    "example_german": "Ich werde das erste Gericht servieren."
+  },
+  {
+    "word": "servir el segundo plato",
+    "translation": "das Hauptgericht",
+    "example": "Voy a servir el segundo plato.",
+    "example_german": "Ich werde das Hauptgericht servieren."
+  },
+  {
+    "word": "tomar un aperitivo",
+    "translation": "einen Snack nehmen",
+    "example": "Vamos a tomar un aperitivo.",
+    "example_german": "Wir werden einen Snack nehmen."
+  },
+  {
+    "word": "tomar una ración",
+    "translation": "eine Portion",
+    "example": "Voy a tomar una ración de paella.",
+    "example_german": "Ich werde eine Portion Paella nehmen."
+  },
+  {
+    "word": "ir de tapas",
+    "translation": "die Tapas essen",
+    "example": "Vamos a ir de tapas esta noche.",
+    "example_german": "Wir gehen heute Abend Tapas essen."
+  },
+  {
+    "word": "para tomar aquí",
+    "translation": "zum Hiernehmen",
+    "example": "Quiero un café para tomar aquí.",
+    "example_german": "Ich möchte einen Kaffee zum Hiernehmen."
+  },
+  {
+    "word": "para llevar",
+    "translation": "zum Mitnehmen",
+    "example": "Quiero un café para llevar.",
+    "example_german": "Ich möchte einen Kaffee zum Mitnehmen."
+  }
+]

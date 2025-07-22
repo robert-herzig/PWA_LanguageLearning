@@ -1,0 +1,326 @@
+[
+  {
+    "word": "директор по кадрам",
+    "translation": "der Personalchef",
+    "example": "Директор по кадрам всегда занят.",
+    "example_german": "Der Personalchef ist immer beschäftigt."
+  },
+  {
+    "word": "директор по человеческим ресурсам",
+    "translation": "der Personalchef",
+    "example": "Директор по человеческим ресурсам очень опытный.",
+    "example_german": "Der Personalchef ist sehr erfahren."
+  },
+  {
+    "word": "банковский работник",
+    "translation": "der Bankangestellte",
+    "example": "Банковский работник помогает клиентам.",
+    "example_german": "Der Bankangestellte hilft den Kunden."
+  },
+  {
+    "word": "менеджер по продажам",
+    "translation": "der Verkaufsleiter",
+    "example": "Менеджер по продажам работает усердно.",
+    "example_german": "Der Verkaufsleiter arbeitet hart."
+  },
+  {
+    "word": "ремесло",
+    "translation": "das Handwerk",
+    "example": "Он изучал ремесло в школе.",
+    "example_german": "Er studierte ein Handwerk in der Schule."
+  },
+  {
+    "word": "либеральная профессия",
+    "translation": "die Freiberuflichkeit",
+    "example": "Она выбрала либеральную профессию.",
+    "example_german": "Sie wählte eine Freiberuflichkeit."
+  },
+  {
+    "word": "заменитель",
+    "translation": "der Ersatz",
+    "example": "Этот заменитель очень полезен.",
+    "example_german": "Dieser Ersatz ist sehr nützlich."
+  },
+  {
+    "word": "ассистент",
+    "translation": "der Assistent",
+    "example": "Ассистент помогает учителю.",
+    "example_german": "Der Assistent hilft dem Lehrer."
+  },
+  {
+    "word": "стажёр",
+    "translation": "der Praktikant",
+    "example": "Стажёр помогает команде каждый день.",
+    "example_german": "Der Praktikant hilft dem Team jeden Tag."
+  },
+  {
+    "word": "работать на транспортную компанию",
+    "translation": "die Transportfirma",
+    "example": "Я хочу работать на транспортную компанию.",
+    "example_german": "Ich möchte für die Transportfirma arbeiten."
+  },
+  {
+    "word": "работать в компании услуг",
+    "translation": "für ein Dienstleistungsunternehmen arbeiten",
+    "example": "Я хочу работать в компании услуг.",
+    "example_german": "Ich möchte für ein Dienstleistungsunternehmen arbeiten."
+  },
+  {
+    "word": "быть помощником",
+    "translation": "der Hilfsarbeiter",
+    "example": "Я работаю помощником в офисе.",
+    "example_german": "Ich arbeite als Hilfsarbeiter im Büro."
+  },
+  {
+    "word": "сидеть с детьми",
+    "translation": "der Babysitter",
+    "example": "Я буду сидеть с детьми сегодня.",
+    "example_german": "Ich werde heute mit den Kindern sitzen."
+  },
+  {
+    "word": "отдел кадров",
+    "translation": "die Personalabteilung",
+    "example": "Отдел кадров решает проблемы сотрудников.",
+    "example_german": "Die Personalabteilung löst die Probleme der Mitarbeiter."
+  },
+  {
+    "word": "бухгалтерия",
+    "translation": "das Rechnungswesen",
+    "example": "Бухгалтерия отвечает за финансы.",
+    "example_german": "Die Buchhaltung ist für die Finanzen verantwortlich."
+  },
+  {
+    "word": "отдел управления",
+    "translation": "die Verwaltungsabteilung",
+    "example": "Отдел управления отвечает за ресурсы.",
+    "example_german": "Die Verwaltungsabteilung ist verantwortlich für Ressourcen."
+  },
+  {
+    "word": "буфет",
+    "translation": "das Buffet",
+    "example": "Буфет полон вкусной еды.",
+    "example_german": "Das Buffet ist voller leckerer Speisen."
+  },
+  {
+    "word": "лаборатория",
+    "translation": "das Labor",
+    "example": "Лаборатория очень чистая.",
+    "example_german": "Das Labor ist sehr sauber."
+  },
+  {
+    "word": "делать презентацию",
+    "translation": "eine Präsentation machen",
+    "example": "Я собираюсь делать презентацию завтра.",
+    "example_german": "Ich werde morgen eine Präsentation machen."
+  },
+  {
+    "word": "составить отчет",
+    "translation": "einen Bericht machen",
+    "example": "Мне нужно составить отчет сегодня.",
+    "example_german": "Ich muss heute einen Bericht machen."
+  },
+  {
+    "word": "составить бюджет",
+    "translation": "ein Budget erstellen",
+    "example": "Мне нужно составить бюджет на год.",
+    "example_german": "Ich muss ein Budget für das Jahr erstellen."
+  },
+  {
+    "word": "сделать проект",
+    "translation": "ein Projekt machen",
+    "example": "Я хочу сделать проект.",
+    "example_german": "Ich möchte ein Projekt machen."
+  },
+  {
+    "word": "предложение",
+    "translation": "das Angebot",
+    "example": "У меня есть специальное предложение сегодня.",
+    "example_german": "Ich habe heute ein spezielles Angebot."
+  },
+  {
+    "word": "спрос",
+    "translation": "die Nachfrage",
+    "example": "Спрос на товары растёт.",
+    "example_german": "Die Nachfrage nach Waren steigt."
+  },
+  {
+    "word": "объявление о работе",
+    "translation": "die Stellenanzeige",
+    "example": "Я увидел объявление о работе.",
+    "example_german": "Ich habe eine Stellenanzeige gesehen."
+  },
+  {
+    "word": "интервьюируемый",
+    "translation": "der Interviewte",
+    "example": "Интервьюируемый рассказал о своей работе.",
+    "example_german": "Der Interviewte erzählte von seiner Arbeit."
+  },
+  {
+    "word": "интервьюер",
+    "translation": "der Interviewer",
+    "example": "Интервьюер задал несколько вопросов.",
+    "example_german": "Der Interviewer stellte mehrere Fragen."
+  },
+  {
+    "word": "иметь образование",
+    "translation": "die Ausbildung",
+    "example": "Я хочу иметь образование в этой области.",
+    "example_german": "Ich möchte eine Ausbildung in diesem Bereich haben."
+  },
+  {
+    "word": "иметь опыт",
+    "translation": "Erfahrung haben",
+    "example": "Я имею опыт в этой области.",
+    "example_german": "Ich habe Erfahrung in diesem Bereich."
+  },
+  {
+    "word": "искать работу",
+    "translation": "Arbeit suchen",
+    "example": "Я хочу искать работу.",
+    "example_german": "Ich möchte Arbeit suchen."
+  },
+  {
+    "word": "написать сопроводительное письмо",
+    "translation": "das Bewerbungsschreiben",
+    "example": "Мне нужно написать сопроводительное письмо.",
+    "example_german": "Ich muss ein Bewerbungsschreiben schreiben."
+  },
+  {
+    "word": "отправить сопроводительное письмо",
+    "translation": "das Bewerbungsschreiben",
+    "example": "Мне нужно отправить сопроводительное письмо.",
+    "example_german": "Ich muss ein Bewerbungsschreiben senden."
+  },
+  {
+    "word": "составить резюме",
+    "translation": "den Lebenslauf machen",
+    "example": "Мне нужно составить резюме.",
+    "example_german": "Ich muss den Lebenslauf machen."
+  },
+  {
+    "word": "представить резюме",
+    "translation": "der Lebenslauf präsentieren",
+    "example": "Мне нужно представить резюме.",
+    "example_german": "Ich muss den Lebenslauf präsentieren."
+  },
+  {
+    "word": "проводить собеседование",
+    "translation": "ein Vorstellungsgespräch führen",
+    "example": "Я буду проводить собеседование.",
+    "example_german": "Ich werde ein Vorstellungsgespräch führen."
+  },
+  {
+    "word": "подписать контракт",
+    "translation": "einen Vertrag unterschreiben",
+    "example": "Мне нужно подписать контракт сейчас.",
+    "example_german": "Ich muss jetzt einen Vertrag unterschreiben."
+  },
+  {
+    "word": "увольнять",
+    "translation": "der Abschied",
+    "example": "Я собираюсь уволить работника.",
+    "example_german": "Ich werde den Arbeiter entlassen."
+  },
+  {
+    "word": "контракт",
+    "translation": "der Vertrag",
+    "example": "Я подписал контракт вчера.",
+    "example_german": "Ich habe den Vertrag gestern unterschrieben."
+  },
+  {
+    "word": "общая зарплата",
+    "translation": "das Gesamteinkommen",
+    "example": "Моя общая зарплата высокая.",
+    "example_german": "Mein gesamtes Einkommen ist hoch."
+  },
+  {
+    "word": "доступность",
+    "translation": "die Verfügbarkeit",
+    "example": "Доступность товара очень важна.",
+    "example_german": "Die Verfügbarkeit des Produkts ist sehr wichtig."
+  },
+  {
+    "word": "стабильность работы",
+    "translation": "die berufliche Stabilität",
+    "example": "Стабильность работы важна для людей.",
+    "example_german": "Die berufliche Stabilität ist wichtig für Menschen."
+  },
+  {
+    "word": "гибкий график",
+    "translation": "der flexible Zeitplan",
+    "example": "У меня гибкий график работы.",
+    "example_german": "Ich habe einen flexiblen Zeitplan bei meiner Arbeit."
+  },
+  {
+    "word": "немедленное включение",
+    "translation": "die sofortige Eingliederung",
+    "example": "Нам нужно немедленное включение новых сотрудников.",
+    "example_german": "Wir benötigen die sofortige Eingliederung neuer Mitarbeiter."
+  },
+  {
+    "word": "обучение за счет компании",
+    "translation": "die Schulung auf Kosten des Unternehmens",
+    "example": "Компания предлагает обучение за счет компании.",
+    "example_german": "Das Unternehmen bietet die Schulung auf Kosten des Unternehmens an."
+  },
+  {
+    "word": "возможность повышения",
+    "translation": "die Möglichkeit der Beförderung",
+    "example": "Здесь есть возможность повышения.",
+    "example_german": "Es gibt hier die Möglichkeit der Beförderung."
+  },
+  {
+    "word": "союз",
+    "translation": "die Gewerkschaft",
+    "example": "Союз защищает права работников.",
+    "example_german": "Die Gewerkschaft schützt die Rechte der Arbeiter."
+  },
+  {
+    "word": "иметь зарплату",
+    "translation": "ein Gehalt",
+    "example": "У него есть зарплата.",
+    "example_german": "Er hat ein Gehalt."
+  },
+  {
+    "word": "заработать зарплату",
+    "translation": "ein Gehalt verdienen",
+    "example": "Он хочет заработать хорошую зарплату.",
+    "example_german": "Er möchte ein gutes Gehalt verdienen."
+  },
+  {
+    "word": "повысить зарплату",
+    "translation": "die Gehaltserhöhung",
+    "example": "Я хочу повысить зарплату в этом году.",
+    "example_german": "Ich möchte das Gehalt dieses Jahr erhöhen."
+  },
+  {
+    "word": "снизить зарплату",
+    "translation": "die Gehaltserhöhung",
+    "example": "Он хочет снизить зарплату.",
+    "example_german": "Er will das Gehalt senken."
+  },
+  {
+    "word": "быть в отпуске",
+    "translation": "in den Ferien sein",
+    "example": "Я в отпуске на море.",
+    "example_german": "Ich bin in den Ferien am Meer."
+  },
+  {
+    "word": "устраивать забастовку",
+    "translation": "der Streik",
+    "example": "Рабочие собираются устроить забастовку.",
+    "example_german": "Die Arbeiter werden streiken."
+  },
+  {
+    "word": "уходить на пенсию",
+    "translation": "die Rente",
+    "example": "Я собираюсь уйти на пенсию.",
+    "example_german": "Ich werde in die Rente gehen."
+  },
+  {
+    "word": "ленивый",
+    "translation": "der Faulenzer",
+    "example": "Он ленивый в школе.",
+    "example_german": "Er ist faul in der Schule."
+  }
+]

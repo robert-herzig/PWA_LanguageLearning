@@ -1,0 +1,428 @@
+[
+  {
+    "word": "оптимизм",
+    "translation": "der Optimismus",
+    "example": "Оптимизм помогает нам справляться с трудностями.",
+    "example_german": "Der Optimismus hilft uns, mit Schwierigkeiten umzugehen."
+  },
+  {
+    "word": "пессимизм",
+    "translation": "der Pessimismus",
+    "example": "Пессимизм не решает проблемы.",
+    "example_german": "Der Pessimismus löst keine Probleme."
+  },
+  {
+    "word": "спокойствие",
+    "translation": "die Ruhe",
+    "example": "Спокойствие важно для здоровья.",
+    "example_german": "Die Ruhe ist wichtig für die Gesundheit."
+  },
+  {
+    "word": "беспокойство",
+    "translation": "die Unruhe",
+    "example": "Я чувствую беспокойство.",
+    "example_german": "Ich fühle Unruhe."
+  },
+  {
+    "word": "терпение",
+    "translation": "die Geduld",
+    "example": "Тебе нужно терпение для успеха.",
+    "example_german": "Du brauchst Geduld, um erfolgreich zu sein."
+  },
+  {
+    "word": "нетерпение",
+    "translation": "die Ungeduld",
+    "example": "Нетерпение может вызвать проблемы.",
+    "example_german": "Die Ungeduld kann Probleme verursachen."
+  },
+  {
+    "word": "искренний",
+    "translation": "der aufrichtige",
+    "example": "Он искренний человек.",
+    "example_german": "Er ist ein aufrichtiger Mensch."
+  },
+  {
+    "word": "пациент",
+    "translation": "der Patient",
+    "example": "Пациент ждет врача.",
+    "example_german": "Der Patient wartet auf den Arzt."
+  },
+  {
+    "word": "нетерпеливый",
+    "translation": "der Ungeduldige",
+    "example": "Он очень нетерпелив.",
+    "example_german": "Er ist sehr ungeduldig."
+  },
+  {
+    "word": "интровертированный",
+    "translation": "der Introvertierte",
+    "example": "Он очень интровертированный на вечеринках.",
+    "example_german": "Er ist sehr introvertiert auf Partys."
+  },
+  {
+    "word": "ленивый",
+    "translation": "der Faulenzer",
+    "example": "Он ленивый в учебе.",
+    "example_german": "Er ist faul beim Lernen."
+  },
+  {
+    "word": "озорной",
+    "translation": "der Schelm",
+    "example": "Этот мальчик очень озорной.",
+    "example_german": "Dieser Junge ist sehr schelmisch."
+  },
+  {
+    "word": "страхование",
+    "translation": "die Versicherung",
+    "example": "Мне нужно купить страховку.",
+    "example_german": "Ich muss eine Versicherung kaufen."
+  },
+  {
+    "word": "неуверенный",
+    "translation": "unsicher",
+    "example": "Он чувствует себя неуверенно сегодня.",
+    "example_german": "Er fühlt sich heute unsicher."
+  },
+  {
+    "word": "консерватор",
+    "translation": "der Konservator",
+    "example": "Консерватор охраняет музей.",
+    "example_german": "Der Konservator schützt das Museum."
+  },
+  {
+    "word": "болтун",
+    "translation": "der Redner",
+    "example": "Он очень болтун на встречах.",
+    "example_german": "Er ist sehr rednerisch in den Besprechungen."
+  },
+  {
+    "word": "арогантный",
+    "translation": "arrogant",
+    "example": "Он сегодня очень арогантный.",
+    "example_german": "Er ist heute sehr arrogant."
+  },
+  {
+    "word": "иметь чувство юмора",
+    "translation": "der Humor",
+    "example": "У неё хорошее чувство юмора.",
+    "example_german": "Sie hat einen guten Sinn für Humor."
+  },
+  {
+    "word": "иметь много характера",
+    "translation": "viel Charakter haben",
+    "example": "У него много характера.",
+    "example_german": "Er hat viel Charakter."
+  },
+  {
+    "word": "иметь мало характера",
+    "translation": "wenig Charakter haben",
+    "example": "Она имеет мало характера на работе.",
+    "example_german": "Sie hat wenig Charakter in ihrer Arbeit."
+  },
+  {
+    "word": "иметь плохой характер",
+    "translation": "schlechten Charakter haben",
+    "example": "У него плохой характер на работе.",
+    "example_german": "Er hat am Arbeitsplatz einen schlechten Charakter."
+  },
+  {
+    "word": "иметь сильный характер",
+    "translation": "starker Charakter",
+    "example": "Она имеет сильный характер.",
+    "example_german": "Sie hat einen starken Charakter."
+  },
+  {
+    "word": "иметь слабый характер",
+    "translation": "der schwache Charakter",
+    "example": "У него слабый характер.",
+    "example_german": "Er hat einen schwachen Charakter."
+  },
+  {
+    "word": "иметь легкий характер",
+    "translation": "einen einfachen Charakter",
+    "example": "Она имеет легкий характер.",
+    "example_german": "Sie hat einen einfachen Charakter."
+  },
+  {
+    "word": "иметь трудный характер",
+    "translation": "schwierigen Charakter haben",
+    "example": "У него трудный характер.",
+    "example_german": "Er hat einen schwierigen Charakter."
+  },
+  {
+    "word": "быть слабохарактерным",
+    "translation": "der schwache Charakter",
+    "example": "Он слабохарактерный человек.",
+    "example_german": "Er ist ein schwacher Charakter."
+  },
+  {
+    "word": "быть легким по характеру",
+    "translation": "der leicht charakter",
+    "example": "Он легкий по характеру.",
+    "example_german": "Er ist von leichtem Charakter."
+  },
+  {
+    "word": "быть сложным по характеру",
+    "translation": "schwierig im Charakter sein",
+    "example": "Он сложный по характеру.",
+    "example_german": "Er ist schwierig im Charakter."
+  },
+  {
+    "word": "чувство",
+    "translation": "das Gefühl",
+    "example": "Чувство очень сильное.",
+    "example_german": "Das Gefühl ist sehr stark."
+  },
+  {
+    "word": "любовь",
+    "translation": "die Liebe",
+    "example": "Любовь делает нас счастливыми.",
+    "example_german": "Die Liebe macht uns glücklich."
+  },
+  {
+    "word": "дружба",
+    "translation": "die Freundschaft",
+    "example": "Дружба важна для нас всех.",
+    "example_german": "Die Freundschaft ist wichtig für uns alle."
+  },
+  {
+    "word": "быть скучным",
+    "translation": "langweilig sein",
+    "example": "Я скучаю дома.",
+    "example_german": "Ich bin zu Hause langweilig."
+  },
+  {
+    "word": "быть напуганным",
+    "translation": "der Angstzustand",
+    "example": "Он напуган громким звуком.",
+    "example_german": "Er hat Angst vor dem lauten Geräusch."
+  },
+  {
+    "word": "быть в стрессе",
+    "translation": "gestresst",
+    "example": "Я в стрессе из-за работы.",
+    "example_german": "Ich bin wegen der Arbeit gestresst."
+  },
+  {
+    "word": "быть в депрессии",
+    "translation": "deprimiert",
+    "example": "Он в депрессии сейчас.",
+    "example_german": "Er ist gerade deprimiert."
+  },
+  {
+    "word": "быть влюбленным",
+    "translation": "verliebt sein",
+    "example": "Я влюблен в неё.",
+    "example_german": "Ich bin in sie verliebt."
+  },
+  {
+    "word": "радоваться",
+    "translation": "sich freuen",
+    "example": "Я рад тебя видеть.",
+    "example_german": "Ich freue mich, dich zu sehen."
+  },
+  {
+    "word": "развлекаться",
+    "translation": "sich amüsieren",
+    "example": "Мы собираемся развлекаться сегодня.",
+    "example_german": "Wir werden uns heute amüsieren."
+  },
+  {
+    "word": "влюбиться",
+    "translation": "sich verlieben",
+    "example": "Я хочу влюбиться в тебя.",
+    "example_german": "Ich möchte mich in dich verlieben."
+  },
+  {
+    "word": "скучать",
+    "translation": "sich langweilen",
+    "example": "Я скучаю на уроке.",
+    "example_german": "Ich langweile mich im Unterricht."
+  },
+  {
+    "word": "депрессировать(ся)",
+    "translation": "sich deprimieren",
+    "example": "Я часто депрессируюсь зимой.",
+    "example_german": "Ich neige dazu, mich im Winter zu deprimieren."
+  },
+  {
+    "word": "разозлиться",
+    "translation": "sich ärgern",
+    "example": "Я разозлюсь, если ты опоздаешь.",
+    "example_german": "Ich ärgere mich, wenn du zu spät kommst."
+  },
+  {
+    "word": "сожалеть",
+    "translation": "das Bedauern",
+    "example": "Мне жаль потерянную кошку.",
+    "example_german": "Es tut mir leid, die verlorene Katze."
+  },
+  {
+    "word": "вызывать жалость",
+    "translation": "Mitleid erregen",
+    "example": "Мне вызывает жалость эта кошка.",
+    "example_german": "Diese Katze tut mir leid."
+  },
+  {
+    "word": "пугать",
+    "translation": "Angst machen",
+    "example": "Темнота может пугать детей.",
+    "example_german": "Die Dunkelheit kann Kinder erschrecken."
+  },
+  {
+    "word": "погрустнеть",
+    "translation": "traurig werden",
+    "example": "Он погрустнел из-за плохой погоды.",
+    "example_german": "Er wurde wegen des schlechten Wetters traurig."
+  },
+  {
+    "word": "стать счастливым",
+    "translation": "sich freuen",
+    "example": "Он становится счастливым, когда выигрывает.",
+    "example_german": "Er freut sich, wenn er gewinnt."
+  },
+  {
+    "word": "попасть в плохое настроение",
+    "translation": "schlecht gelaunt werden",
+    "example": "Он попадает в плохое настроение часто.",
+    "example_german": "Er wird oft schlecht gelaunt."
+  },
+  {
+    "word": "чувствовать себя хорошо",
+    "translation": "sich gut fühlen",
+    "example": "Я чувствую себя хорошо сегодня.",
+    "example_german": "Ich fühle mich heute gut."
+  },
+  {
+    "word": "чувствовать себя плохо",
+    "translation": "sich schlecht fühlen",
+    "example": "Я чувствую себя плохо сегодня.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "чувствовать себя ужасно",
+    "translation": "sich schlecht fühlen",
+    "example": "Я чувствую себя ужасно сегодня.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "не выносить",
+    "translation": "nicht ertragen",
+    "example": "Я не выношу шум.",
+    "example_german": "Ich kann den Lärm nicht ertragen."
+  },
+  {
+    "word": "чувствовать тепло",
+    "translation": "die Hitze",
+    "example": "Я чувствую тепло от солнца.",
+    "example_german": "Ich spüre die Hitze von der Sonne."
+  },
+  {
+    "word": "чувствовать жар",
+    "translation": "das Gefühl von Wärme",
+    "example": "Сегодня я чувствую жар в комнате.",
+    "example_german": "Heute fühle ich mich heiß im Zimmer."
+  },
+  {
+    "word": "касаться холода",
+    "translation": "kalt berühren",
+    "example": "Я хочу касаться холода рукой.",
+    "example_german": "Ich möchte mit meiner Hand kalt berühren."
+  },
+  {
+    "word": "чувствовать холод",
+    "translation": "das Kälte fühlen",
+    "example": "Я чувствую холод зимой.",
+    "example_german": "Ich fühle im Winter die Kälte."
+  },
+  {
+    "word": "касаться мечты",
+    "translation": "der Traum berühren",
+    "example": "Я хочу касаться мечты сейчас.",
+    "example_german": "Ich möchte jetzt den Traum berühren."
+  },
+  {
+    "word": "чувствовать сонливость",
+    "translation": "das Schlafgefühl",
+    "example": "Я чувствую сонливость сейчас.",
+    "example_german": "Ich fühle mich jetzt müde."
+  },
+  {
+    "word": "касаться жажды",
+    "translation": "die Berührung des Durstes",
+    "example": "Я хочу касаться жажды водой.",
+    "example_german": "Ich möchte den Durst mit Wasser stillen."
+  },
+  {
+    "word": "чувствовать жажду",
+    "translation": "der Durst",
+    "example": "Я чувствую жажду после бега.",
+    "example_german": "Ich habe nach dem Laufen Durst."
+  },
+  {
+    "word": "чувствовать голод",
+    "translation": "das Hunger haben",
+    "example": "Я начинаю чувствовать голод.",
+    "example_german": "Ich fange an, Hunger zu haben."
+  },
+  {
+    "word": "быть в порядке",
+    "translation": "nicht besonders gut",
+    "example": "Сегодня я в порядке на уроке.",
+    "example_german": "Heute bin ich nicht besonders gut im Unterricht."
+  },
+  {
+    "word": "быть плохо",
+    "translation": "schlecht sein",
+    "example": "Я чувствую себя плохо сегодня.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "устать",
+    "translation": "müde werden",
+    "example": "Я скоро устал.",
+    "example_german": "Ich werde bald müde."
+  },
+  {
+    "word": "вести себя хорошо",
+    "translation": "sich gut benehmen",
+    "example": "Дети должны вести себя хорошо.",
+    "example_german": "Die Kinder müssen sich gut benehmen."
+  },
+  {
+    "word": "плохо себя вести",
+    "translation": "sich schlecht benehmen",
+    "example": "Дети плохо себя ведут сегодня.",
+    "example_german": "Die Kinder benehmen sich heute schlecht."
+  },
+  {
+    "word": "быть вежливым",
+    "translation": "höflich sein",
+    "example": "Важно быть вежливым всегда.",
+    "example_german": "Es ist wichtig, immer höflich zu sein."
+  },
+  {
+    "word": "быть грубым",
+    "translation": "unhöflich sein",
+    "example": "Он грубый с учителем.",
+    "example_german": "Er ist unhöflich zu dem Lehrer."
+  },
+  {
+    "word": "быть удачливым",
+    "translation": "das Glück haben",
+    "example": "Сегодня мне повезло в игре.",
+    "example_german": "Heute habe ich Glück im Spiel."
+  },
+  {
+    "word": "иметь удачу",
+    "translation": "das Glück haben",
+    "example": "Я надеюсь, что мне повезет сегодня.",
+    "example_german": "Ich hoffe, dass ich heute das Glück habe."
+  },
+  {
+    "word": "иметь неудачу",
+    "translation": "das Pech haben",
+    "example": "У меня сегодня неудача в игре.",
+    "example_german": "Heute habe ich Pech im Spiel."
+  }
+]

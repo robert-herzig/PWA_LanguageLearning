@@ -1,0 +1,446 @@
+[
+  {
+    "word": "optimism",
+    "translation": "der Optimismus",
+    "example": "Optimism helps us face challenges.",
+    "example_german": "Der Optimismus hilft uns, Herausforderungen zu begegnen."
+  },
+  {
+    "word": "pessimism",
+    "translation": "der Pessimismus",
+    "example": "Pessimism can affect your happiness.",
+    "example_german": "Der Pessimismus kann dein Glück beeinflussen."
+  },
+  {
+    "word": "tranquility",
+    "translation": "die Ruhe",
+    "example": "Tranquility helps me focus better.",
+    "example_german": "Die Ruhe hilft mir, mich besser zu konzentrieren."
+  },
+  {
+    "word": "unease",
+    "translation": "die Unruhe",
+    "example": "I feel a sense of unease.",
+    "example_german": "Ich fühle ein Gefühl der Unruhe."
+  },
+  {
+    "word": "patience",
+    "translation": "die Geduld",
+    "example": "You need patience to succeed.",
+    "example_german": "Du brauchst Geduld, um erfolgreich zu sein."
+  },
+  {
+    "word": "impatience",
+    "translation": "die Ungeduld",
+    "example": "Impatience can lead to mistakes.",
+    "example_german": "Die Ungeduld kann zu Fehlern führen."
+  },
+  {
+    "word": "sincere",
+    "translation": "der aufrichtige",
+    "example": "She gave a sincere apology.",
+    "example_german": "Sie gab eine aufrichtige Entschuldigung."
+  },
+  {
+    "word": "patient",
+    "translation": "der Patient",
+    "example": "The patient is waiting for the doctor.",
+    "example_german": "Der Patient wartet auf den Arzt."
+  },
+  {
+    "word": "impatient",
+    "translation": "der Ungeduldige",
+    "example": "He is always impatient.",
+    "example_german": "Er ist immer ungeduldig."
+  },
+  {
+    "word": "introverted",
+    "translation": "der Introvertierte",
+    "example": "She is quite introverted at gatherings.",
+    "example_german": "Sie ist ziemlich introvertiert bei Versammlungen."
+  },
+  {
+    "word": "lazy",
+    "translation": "der Faulenzer",
+    "example": "He is a lazy student.",
+    "example_german": "Er ist ein fauler Schüler."
+  },
+  {
+    "word": "mischievous",
+    "translation": "der Schelm",
+    "example": "The cat is very mischievous.",
+    "example_german": "Die Katze ist sehr schelmisch."
+  },
+  {
+    "word": "insurance",
+    "translation": "die Versicherung",
+    "example": "I need to buy insurance today.",
+    "example_german": "Ich muss heute eine Versicherung kaufen."
+  },
+  {
+    "word": "insecure",
+    "translation": "unsicher",
+    "example": "She feels insecure about her skills.",
+    "example_german": "Sie fühlt sich unsicher über ihre Fähigkeiten."
+  },
+  {
+    "word": "conservative",
+    "translation": "der Konservative",
+    "example": "He is a conservative politician.",
+    "example_german": "Er ist ein konservativer Politiker."
+  },
+  {
+    "word": "talkative",
+    "translation": "der Redner",
+    "example": "She is very talkative at parties.",
+    "example_german": "Sie ist sehr rednerisch auf Partys."
+  },
+  {
+    "word": "arrogant",
+    "translation": "arrogant",
+    "example": "She is very arrogant today.",
+    "example_german": "Sie ist heute sehr arrogant."
+  },
+  {
+    "word": "to have a sense of humor",
+    "translation": "der Humor",
+    "example": "He has a great sense of humor.",
+    "example_german": "Er hat einen großartigen Sinn für Humor."
+  },
+  {
+    "word": "to have a lot of character",
+    "translation": "viel Charakter haben",
+    "example": "He has a lot of character.",
+    "example_german": "Er hat viel Charakter."
+  },
+  {
+    "word": "to have little character",
+    "translation": "wenig Charakter haben",
+    "example": "He has little character in his decisions.",
+    "example_german": "Er hat wenig Charakter in seinen Entscheidungen."
+  },
+  {
+    "word": "to have a bad character",
+    "translation": "schlechten Charakter haben",
+    "example": "He has a bad character at work.",
+    "example_german": "Er hat am Arbeitsplatz einen schlechten Charakter."
+  },
+  {
+    "word": "to have a strong character",
+    "translation": "starker Charakter",
+    "example": "He has a strong character.",
+    "example_german": "Er hat einen starken Charakter."
+  },
+  {
+    "word": "to have a weak character",
+    "translation": "der schwache Charakter",
+    "example": "He has a weak character.",
+    "example_german": "Er hat einen schwachen Charakter."
+  },
+  {
+    "word": "to have an easy character",
+    "translation": "einen einfachen Charakter",
+    "example": "He has an easy character.",
+    "example_german": "Er hat einen einfachen Charakter."
+  },
+  {
+    "word": "to have a difficult character",
+    "translation": "schwierigen Charakter haben",
+    "example": "He has a difficult character.",
+    "example_german": "Er hat einen schwierigen Charakter."
+  },
+  {
+    "word": "to be of weak character",
+    "translation": "der schwache Charakter",
+    "example": "He is of weak character.",
+    "example_german": "Er ist von schwachem Charakter."
+  },
+  {
+    "word": "to be easy-going",
+    "translation": "der leicht charakter",
+    "example": "He is easy-going and friendly.",
+    "example_german": "Er ist leicht und freundlich."
+  },
+  {
+    "word": "to be difficult in character",
+    "translation": "schwierig im Charakter sein",
+    "example": "He is difficult in character.",
+    "example_german": "Er ist schwierig im Charakter."
+  },
+  {
+    "word": "feeling",
+    "translation": "das Gefühl",
+    "example": "The feeling is very strong.",
+    "example_german": "Das Gefühl ist sehr stark."
+  },
+  {
+    "word": "love",
+    "translation": "die Liebe",
+    "example": "Love is a beautiful feeling.",
+    "example_german": "Die Liebe ist ein schönes Gefühl."
+  },
+  {
+    "word": "friendship",
+    "translation": "die Freundschaft",
+    "example": "Friendship brings us joy and support.",
+    "example_german": "Die Freundschaft bringt uns Freude und Unterstützung."
+  },
+  {
+    "word": "to be bored",
+    "translation": "langweilig sein",
+    "example": "I am bored at home.",
+    "example_german": "Ich bin zu Hause langweilig."
+  },
+  {
+    "word": "to be scared",
+    "translation": "der Angstzustand",
+    "example": "She is scared of the dark.",
+    "example_german": "Sie hat Angst vor der Dunkelheit."
+  },
+  {
+    "word": "to be stressed",
+    "translation": "gestresst",
+    "example": "I am stressed about the exam.",
+    "example_german": "Ich bin wegen der Prüfung gestresst."
+  },
+  {
+    "word": "to be depressed",
+    "translation": "deprimiert",
+    "example": "She is depressed right now.",
+    "example_german": "Sie ist gerade deprimiert."
+  },
+  {
+    "word": "to be in love",
+    "translation": "verliebt sein",
+    "example": "I am in love with her.",
+    "example_german": "Ich bin in sie verliebt."
+  },
+  {
+    "word": "to be happy",
+    "translation": "sich freuen",
+    "example": "I am happy to see you.",
+    "example_german": "Ich freue mich, dich zu sehen."
+  },
+  {
+    "word": "to have fun",
+    "translation": "sich amüsieren",
+    "example": "We are going to have fun today.",
+    "example_german": "Wir werden uns heute amüsieren."
+  },
+  {
+    "word": "to fall in love",
+    "translation": "sich verlieben",
+    "example": "I want to fall in love again.",
+    "example_german": "Ich möchte mich wieder verlieben."
+  },
+  {
+    "word": "to get bored",
+    "translation": "sich langweilen",
+    "example": "I get bored during the lecture.",
+    "example_german": "Ich langweile mich während der Vorlesung."
+  },
+  {
+    "word": "to get depressed",
+    "translation": "sich deprimieren",
+    "example": "I often get depressed in winter.",
+    "example_german": "Ich neige dazu, mich im Winter zu deprimieren."
+  },
+  {
+    "word": "to get angry",
+    "translation": "sich ärgern",
+    "example": "I get angry when it rains.",
+    "example_german": "Ich ärgere mich, wenn es regnet."
+  },
+  {
+    "word": "to feel sorry",
+    "translation": "das Bedauern",
+    "example": "I feel sorry for the lost dog.",
+    "example_german": "Ich habe Mitleid mit dem verlorenen Hund."
+  },
+  {
+    "word": "to feel pity",
+    "translation": "Mitleid erregen",
+    "example": "I feel pity for the stray dog.",
+    "example_german": "Ich habe Mitleid mit dem streunenden Hund."
+  },
+  {
+    "word": "to scare",
+    "translation": "Angst machen",
+    "example": "The dark can scare children.",
+    "example_german": "Die Dunkelheit kann Kinder erschrecken."
+  },
+  {
+    "word": "to become sad",
+    "translation": "traurig werden",
+    "example": "He becomes sad when it rains.",
+    "example_german": "Er wird traurig, wenn es regnet."
+  },
+  {
+    "word": "to become happy",
+    "translation": "sich freuen",
+    "example": "She becomes happy when she sees him.",
+    "example_german": "Sie freut sich, wenn sie ihn sieht."
+  },
+  {
+    "word": "to get in a bad mood",
+    "translation": "schlecht gelaunt werden",
+    "example": "She gets in a bad mood often.",
+    "example_german": "Sie wird oft schlecht gelaunt."
+  },
+  {
+    "word": "to feel well",
+    "translation": "sich gut fühlen",
+    "example": "I feel well today.",
+    "example_german": "Ich fühle mich heute gut."
+  },
+  {
+    "word": "to feel unwell",
+    "translation": "sich schlecht fühlen",
+    "example": "I feel unwell today.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "to feel terrible",
+    "translation": "sich schlecht fühlen",
+    "example": "I feel terrible today.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "to not stand",
+    "translation": "nicht ertragen",
+    "example": "I cannot stand the cold weather.",
+    "example_german": "Ich kann das kalte Wetter nicht ertragen."
+  },
+  {
+    "word": "to feel heat",
+    "translation": "die Hitze",
+    "example": "I can feel heat from the sun.",
+    "example_german": "Ich kann die Hitze von der Sonne spüren."
+  },
+  {
+    "word": "to feel hot",
+    "translation": "das Gefühl von Wärme",
+    "example": "I feel hot in this room.",
+    "example_german": "Ich fühle mich in diesem Raum heiß."
+  },
+  {
+    "word": "to touch cold",
+    "translation": "kalt berühren",
+    "example": "I want to touch cold water.",
+    "example_german": "Ich möchte kaltes Wasser berühren."
+  },
+  {
+    "word": "to feel cold",
+    "translation": "das Kälte fühlen",
+    "example": "I feel cold in winter.",
+    "example_german": "Ich fühle im Winter die Kälte."
+  },
+  {
+    "word": "to touch a dream",
+    "translation": "der Traum berühren",
+    "example": "I want to touch a dream today.",
+    "example_german": "Ich möchte heute den Traum berühren."
+  },
+  {
+    "word": "to feel sleepy",
+    "translation": "das Schlafgefühl",
+    "example": "I feel sleepy after lunch.",
+    "example_german": "Ich fühle mich nach dem Mittagessen müde."
+  },
+  {
+    "word": "to touch thirst",
+    "translation": "die Berührung des Durstes",
+    "example": "I want to touch thirst with water.",
+    "example_german": "Ich möchte den Durst mit Wasser stillen."
+  },
+  {
+    "word": "to feel thirsty",
+    "translation": "der Durst",
+    "example": "I feel thirsty after running.",
+    "example_german": "Ich habe nach dem Laufen Durst."
+  },
+  {
+    "word": "to feel hungry",
+    "translation": "das Hunger haben",
+    "example": "I start to feel hungry at noon.",
+    "example_german": "Ich fange an, um zwölf Uhr Hunger zu haben."
+  },
+  {
+    "word": "to be well",
+    "translation": "gut sein",
+    "example": "I am well today.",
+    "example_german": "Ich bin heute gut."
+  },
+  {
+    "word": "to be unwell",
+    "translation": "schlecht sein",
+    "example": "I feel unwell today.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "to be okay",
+    "translation": "nicht besonders gut",
+    "example": "I am okay with the results.",
+    "example_german": "Ich bin mit den Ergebnissen nicht besonders gut."
+  },
+  {
+    "word": "to feel good",
+    "translation": "sich gut fühlen",
+    "example": "I feel good today.",
+    "example_german": "Ich fühle mich heute gut."
+  },
+  {
+    "word": "to feel bad",
+    "translation": "sich schlecht fühlen",
+    "example": "I feel bad today at home.",
+    "example_german": "Ich fühle mich heute schlecht zu Hause."
+  },
+  {
+    "word": "to get tired",
+    "translation": "müde werden",
+    "example": "I will get tired soon.",
+    "example_german": "Ich werde bald müde."
+  },
+  {
+    "word": "to behave well",
+    "translation": "sich gut benehmen",
+    "example": "Children should behave well.",
+    "example_german": "Kinder sollten sich gut benehmen."
+  },
+  {
+    "word": "to misbehave",
+    "translation": "sich schlecht benehmen",
+    "example": "The dog misbehaves in the house.",
+    "example_german": "Der Hund benimmt sich schlecht im Haus."
+  },
+  {
+    "word": "to be polite",
+    "translation": "höflich sein",
+    "example": "You should always be polite.",
+    "example_german": "Du solltest immer höflich sein."
+  },
+  {
+    "word": "to be rude",
+    "translation": "unhöflich sein",
+    "example": "She is rude to her classmates.",
+    "example_german": "Sie ist unhöflich zu ihren Klassenkameraden."
+  },
+  {
+    "word": "to be lucky",
+    "translation": "das Glück haben",
+    "example": "I am lucky today in the game.",
+    "example_german": "Ich habe heute Glück im Spiel."
+  },
+  {
+    "word": "to have good luck",
+    "translation": "das Glück haben",
+    "example": "I hope to have good luck today.",
+    "example_german": "Ich hoffe, heute das Glück zu haben."
+  },
+  {
+    "word": "to have bad luck",
+    "translation": "das Pech haben",
+    "example": "I have bad luck with my exams.",
+    "example_german": "Ich habe Pech bei meinen Prüfungen."
+  }
+]

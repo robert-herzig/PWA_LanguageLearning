@@ -1,0 +1,902 @@
+[
+  {
+    "word": "healthy diet",
+    "translation": "die gesunde Ernährung",
+    "example": "A healthy diet improves your health.",
+    "example_german": "Eine gesunde Ernährung verbessert deine Gesundheit."
+  },
+  {
+    "word": "balanced diet",
+    "translation": "die ausgewogene Ernährung",
+    "example": "A balanced diet includes various foods.",
+    "example_german": "Eine ausgewogene Ernährung umfasst verschiedene Lebensmittel."
+  },
+  {
+    "word": "natural product",
+    "translation": "das Naturprodukt",
+    "example": "This is a natural product.",
+    "example_german": "Das ist ein Naturprodukt."
+  },
+  {
+    "word": "product for diabetics",
+    "translation": "das Produkt für Diabetiker",
+    "example": "This product is for diabetics.",
+    "example_german": "Dieses Produkt ist für Diabetiker."
+  },
+  {
+    "word": "heavy food",
+    "translation": "das schwere Essen",
+    "example": "I avoid heavy food at dinner.",
+    "example_german": "Ich vermeide das schwere Essen zum Abendessen."
+  },
+  {
+    "word": "light food",
+    "translation": "das leichte Lebensmittel",
+    "example": "I prefer to eat light food.",
+    "example_german": "Ich esse lieber leichte Lebensmittel."
+  },
+  {
+    "word": "light meal",
+    "translation": "die leichte Mahlzeit",
+    "example": "I prefer a light meal today.",
+    "example_german": "Ich bevorzuge heute eine leichte Mahlzeit."
+  },
+  {
+    "word": "calories",
+    "translation": "die Kalorien",
+    "example": "Calories are essential for energy.",
+    "example_german": "Die Kalorien sind wichtig für die Energie."
+  },
+  {
+    "word": "vitamins",
+    "translation": "die Vitamine",
+    "example": "Vitamins are essential for good health.",
+    "example_german": "Die Vitamine sind wichtig für die Gesundheit."
+  },
+  {
+    "word": "proteins",
+    "translation": "die Proteine",
+    "example": "Proteins are essential for muscle growth.",
+    "example_german": "Die Proteine sind essenziell für das Muskelwachstum."
+  },
+  {
+    "word": "fiber",
+    "translation": "die Faser",
+    "example": "Fiber is essential for good digestion.",
+    "example_german": "Die Faser ist wichtig für eine gute Verdauung."
+  },
+  {
+    "word": "iron",
+    "translation": "das Eisen",
+    "example": "Iron is a strong metal.",
+    "example_german": "Das Eisen ist ein starkes Metall."
+  },
+  {
+    "word": "to feed",
+    "translation": "füttern",
+    "example": "I need to feed the cat.",
+    "example_german": "Ich muss die Katze füttern."
+  },
+  {
+    "word": "to nourish oneself",
+    "translation": "sich ernähren",
+    "example": "It is important to nourish oneself.",
+    "example_german": "Es ist wichtig, sich zu ernähren."
+  },
+  {
+    "word": "linden flower infusion",
+    "translation": "die Lindenblüteninfusion",
+    "example": "I enjoy drinking linden flower infusion.",
+    "example_german": "Ich genieße es, Lindenblüteninfusion zu trinken."
+  },
+  {
+    "word": "chamomile infusion",
+    "translation": "die Kamillentee",
+    "example": "I enjoy drinking chamomile infusion.",
+    "example_german": "Ich genieße es, die Kamillentee zu trinken."
+  },
+  {
+    "word": "peppermint infusion",
+    "translation": "Pfefferminztee",
+    "example": "I enjoy drinking peppermint infusion.",
+    "example_german": "Ich genieße es, Pfefferminztee zu trinken."
+  },
+  {
+    "word": "young wine",
+    "translation": "der junge Wein",
+    "example": "I enjoy young wine.",
+    "example_german": "Ich genieße den jungen Wein."
+  },
+  {
+    "word": "house wine",
+    "translation": "der Hauswein",
+    "example": "I ordered the house wine.",
+    "example_german": "Ich habe den Hauswein bestellt."
+  },
+  {
+    "word": "a reservation",
+    "translation": "eine Reservierung",
+    "example": "I need to make a reservation today.",
+    "example_german": "Ich muss heute eine Reservierung machen."
+  },
+  {
+    "word": "to open a bottle",
+    "translation": "eine Flasche öffnen",
+    "example": "I want to open a bottle of soda.",
+    "example_german": "Ich möchte eine Flasche Limonade öffnen."
+  },
+  {
+    "word": "to serve a drink",
+    "translation": "ein Getränk servieren",
+    "example": "I want to serve a cold drink.",
+    "example_german": "Ich möchte ein kaltes Getränk servieren."
+  },
+  {
+    "word": "to try a drink",
+    "translation": "ein Getränk probieren",
+    "example": "I want to try a new drink.",
+    "example_german": "Ich möchte ein neues Getränk probieren."
+  },
+  {
+    "word": "to have a drink",
+    "translation": "ein Getränk haben",
+    "example": "Let's have a drink after work.",
+    "example_german": "Lass uns nach der Arbeit ein Getränk haben."
+  },
+  {
+    "word": "to be drunk",
+    "translation": "betrunken sein",
+    "example": "He is drunk at the party.",
+    "example_german": "Er ist auf der Party betrunken."
+  },
+  {
+    "word": "to have a hangover",
+    "translation": "der Kater",
+    "example": "I have a hangover after the party.",
+    "example_german": "Ich habe einen Kater nach der Feier."
+  },
+  {
+    "word": "seafood",
+    "translation": "der Meeresfrüchte",
+    "example": "I enjoy eating seafood dishes.",
+    "example_german": "Ich genieße es, Meeresfrüchte-Gerichte zu essen."
+  },
+  {
+    "word": "spices",
+    "translation": "die Gewürze",
+    "example": "I love using spices in cooking.",
+    "example_german": "Ich liebe es, Gewürze beim Kochen zu verwenden."
+  },
+  {
+    "word": "cold cut",
+    "translation": "die Wurst",
+    "example": "I enjoy cold cuts in my sandwich.",
+    "example_german": "Ich genieße die Wurst in meinem Sandwich."
+  },
+  {
+    "word": "loin",
+    "translation": "das Lendenstück",
+    "example": "The loin is very tender.",
+    "example_german": "Das Lendenstück ist sehr zart."
+  },
+  {
+    "word": "cured sausage",
+    "translation": "der Salchichón",
+    "example": "I enjoy eating cured sausage.",
+    "example_german": "Ich esse gerne Salchichón."
+  },
+  {
+    "word": "chorizo",
+    "translation": "der Chorizo",
+    "example": "I like to eat chorizo for breakfast.",
+    "example_german": "Ich esse gerne Chorizo zum Frühstück."
+  },
+  {
+    "word": "eggplant",
+    "translation": "die Aubergine",
+    "example": "I like to eat grilled eggplant.",
+    "example_german": "Ich esse gerne gegrillte Aubergine."
+  },
+  {
+    "word": "zucchini",
+    "translation": "der Zucchini",
+    "example": "I like to eat zucchini.",
+    "example_german": "Ich esse gern Zucchini."
+  },
+  {
+    "word": "spinach",
+    "translation": "der Spinat",
+    "example": "I eat spinach every week.",
+    "example_german": "Ich esse jede Woche Spinat."
+  },
+  {
+    "word": "peas",
+    "translation": "die Erbsen",
+    "example": "I like green peas.",
+    "example_german": "Ich mag die grünen Erbsen."
+  },
+  {
+    "word": "lentils",
+    "translation": "die Linsen",
+    "example": "I cook lentils for dinner tonight.",
+    "example_german": "Ich koche die Linsen für das Abendessen heute Abend."
+  },
+  {
+    "word": "white beans",
+    "translation": "die weißen Bohnen",
+    "example": "I like white beans.",
+    "example_german": "Ich mag die weißen Bohnen."
+  },
+  {
+    "word": "chickpeas",
+    "translation": "die Kichererbsen",
+    "example": "I like chickpeas in salads.",
+    "example_german": "Ich mag die Kichererbsen in Salaten."
+  },
+  {
+    "word": "sponge cake",
+    "translation": "der Biskuit",
+    "example": "I enjoy making sponge cake.",
+    "example_german": "Ich mache gerne Biskuit."
+  },
+  {
+    "word": "muffin",
+    "translation": "der Muffin",
+    "example": "I enjoy eating a muffin.",
+    "example_german": "Ich esse gerne einen Muffin."
+  },
+  {
+    "word": "cherry",
+    "translation": "die Kirsche",
+    "example": "I love to eat cherries in summer.",
+    "example_german": "Ich liebe es, im Sommer Kirschen zu essen."
+  },
+  {
+    "word": "pineapple",
+    "translation": "die Ananas",
+    "example": "I enjoy eating fresh pineapple.",
+    "example_german": "Ich esse gerne frische Ananas."
+  },
+  {
+    "word": "kiwi",
+    "translation": "der Kiwi",
+    "example": "I like to eat kiwi for breakfast.",
+    "example_german": "Ich esse gerne Kiwi zum Frühstück."
+  },
+  {
+    "word": "whole milk",
+    "translation": "die Vollmilch",
+    "example": "I prefer whole milk in my coffee.",
+    "example_german": "Ich bevorzuge Vollmilch in meinem Kaffee."
+  },
+  {
+    "word": "skim milk",
+    "translation": "die Magermilch",
+    "example": "I prefer skim milk in my coffee.",
+    "example_german": "Ich bevorzuge Magermilch in meinem Kaffee."
+  },
+  {
+    "word": "cream",
+    "translation": "die Sahne",
+    "example": "I put cream in my coffee.",
+    "example_german": "Ich gebe die Sahne in meinen Kaffee."
+  },
+  {
+    "word": "margarine",
+    "translation": "die Margarine",
+    "example": "I spread margarine on my toast.",
+    "example_german": "Ich streiche die Margarine auf meinen Toast."
+  },
+  {
+    "word": "natural yogurt",
+    "translation": "der Naturjoghurt",
+    "example": "I eat natural yogurt every day.",
+    "example_german": "Ich esse jeden Tag den Naturjoghurt."
+  },
+  {
+    "word": "skimmed yogurt",
+    "translation": "der fettfreie Joghurt",
+    "example": "I eat skimmed yogurt every morning.",
+    "example_german": "Ich esse jeden Morgen den fettfreien Joghurt."
+  },
+  {
+    "word": "yogurt with fruits",
+    "translation": "der Joghurt mit Früchten",
+    "example": "I enjoy yogurt with fruits.",
+    "example_german": "Ich genieße den Joghurt mit Früchten."
+  },
+  {
+    "word": "lamb rib",
+    "translation": "die Lammrippe",
+    "example": "I enjoy eating lamb rib.",
+    "example_german": "Ich genieße es, Lammrippe zu essen."
+  },
+  {
+    "word": "pork chop",
+    "translation": "die Schweinekotelett",
+    "example": "I am cooking a pork chop.",
+    "example_german": "Ich koche eine Schweinekotelett."
+  },
+  {
+    "word": "chicken breast",
+    "translation": "das Hähnchenbrustfilet",
+    "example": "I cooked a chicken breast today.",
+    "example_german": "Ich habe heute ein Hähnchenbrustfilet gekocht."
+  },
+  {
+    "word": "beef tenderloin",
+    "translation": "das Rinderfilet",
+    "example": "I enjoy beef tenderloin for dinner.",
+    "example_german": "Ich genieße das Rinderfilet zum Abendessen."
+  },
+  {
+    "word": "olive oil",
+    "translation": "das Olivenöl",
+    "example": "I use olive oil for cooking.",
+    "example_german": "Ich benutze das Olivenöl zum Kochen."
+  },
+  {
+    "word": "sunflower oil",
+    "translation": "das Sonnenblumenöl",
+    "example": "Sunflower oil is good for cooking.",
+    "example_german": "Das Sonnenblumenöl ist gut zum Kochen."
+  },
+  {
+    "word": "vinegar",
+    "translation": "der Essig",
+    "example": "Vinegar is used in salads.",
+    "example_german": "Der Essig wird in Salaten verwendet."
+  },
+  {
+    "word": "mustard",
+    "translation": "der Senf",
+    "example": "I like mustard on my sandwich.",
+    "example_german": "Ich mag den Senf in meinem Sandwich."
+  },
+  {
+    "word": "egg white",
+    "translation": "das Eiweiß",
+    "example": "The egg white is very nutritious.",
+    "example_german": "Das Eiweiß ist sehr nahrhaft."
+  },
+  {
+    "word": "egg yolk",
+    "translation": "das Eigelb",
+    "example": "The egg yolk is rich in nutrients.",
+    "example_german": "Das Eigelb ist reich an Nährstoffen."
+  },
+  {
+    "word": "eggshell",
+    "translation": "die Eierschale",
+    "example": "The eggshell is very thin.",
+    "example_german": "Die Eierschale ist sehr dünn."
+  },
+  {
+    "word": "recipe",
+    "translation": "das Rezept",
+    "example": "I found a great recipe online.",
+    "example_german": "Ich habe ein tolles Rezept online gefunden."
+  },
+  {
+    "word": "ingredients",
+    "translation": "die Zutaten",
+    "example": "The ingredients are very important.",
+    "example_german": "Die Zutaten sind sehr wichtig."
+  },
+  {
+    "word": "method of preparation",
+    "translation": "die Zubereitungsart",
+    "example": "The method of preparation matters.",
+    "example_german": "Die Zubereitungsart ist wichtig."
+  },
+  {
+    "word": "grilled meat",
+    "translation": "das gegrillte Fleisch",
+    "example": "I enjoy grilled meat for dinner.",
+    "example_german": "Ich genieße das gegrillte Fleisch zum Abendessen."
+  },
+  {
+    "word": "grilled fish",
+    "translation": "der gegrillte Fisch",
+    "example": "I enjoy grilled fish for dinner.",
+    "example_german": "Ich genieße den gegrillten Fisch zum Abendessen."
+  },
+  {
+    "word": "fried meat",
+    "translation": "das gebratene Fleisch",
+    "example": "I enjoy fried meat.",
+    "example_german": "Ich genieße das gebratene Fleisch."
+  },
+  {
+    "word": "fried fish",
+    "translation": "der gebratene Fisch",
+    "example": "I enjoy fried fish for dinner.",
+    "example_german": "Ich genieße gebratenen Fisch zum Abendessen."
+  },
+  {
+    "word": "boiled meat",
+    "translation": "das gekochte Fleisch",
+    "example": "I enjoy boiled meat for dinner.",
+    "example_german": "Ich genieße das gekochte Fleisch zum Abendessen."
+  },
+  {
+    "word": "boiled fish",
+    "translation": "der gekochte Fisch",
+    "example": "I enjoy boiled fish for dinner.",
+    "example_german": "Ich genieße den gekochten Fisch zum Abendessen."
+  },
+  {
+    "word": "soft",
+    "translation": "weich",
+    "example": "The pillow is soft and comfortable.",
+    "example_german": "Das Kissen ist weich und bequem."
+  },
+  {
+    "word": "hard",
+    "translation": "der harte",
+    "example": "This rock is very hard.",
+    "example_german": "Dieser Stein ist sehr hart."
+  },
+  {
+    "word": "raw",
+    "translation": "der rohe",
+    "example": "The meat is raw and cold.",
+    "example_german": "Das Fleisch ist roh und kalt."
+  },
+  {
+    "word": "rare",
+    "translation": "der wenig gegarte",
+    "example": "I prefer my steak rare.",
+    "example_german": "Ich bevorzuge mein Steak wenig gegart."
+  },
+  {
+    "word": "very well done",
+    "translation": "sehr gut gemacht",
+    "example": "The project is very well done.",
+    "example_german": "Das Projekt ist sehr gut gemacht."
+  },
+  {
+    "word": "salty",
+    "translation": "salzig",
+    "example": "This soup is too salty.",
+    "example_german": "Diese Suppe ist zu salzig."
+  },
+  {
+    "word": "sweet",
+    "translation": "das Süße",
+    "example": "This cake is very sweet.",
+    "example_german": "Dieser Kuchen ist sehr süß."
+  },
+  {
+    "word": "spicy",
+    "translation": "der scharfe",
+    "example": "I enjoy spicy food.",
+    "example_german": "Ich genieße das scharfe Essen."
+  },
+  {
+    "word": "bitter",
+    "translation": "der bittere",
+    "example": "The medicine tastes bitter.",
+    "example_german": "Die Medizin schmeckt bitter."
+  },
+  {
+    "word": "to fry",
+    "translation": "das Frittieren",
+    "example": "I like to fry vegetables.",
+    "example_german": "Ich mag es, Gemüse zu frittieren."
+  },
+  {
+    "word": "to boil",
+    "translation": "das Kochen",
+    "example": "I need to boil some water.",
+    "example_german": "Ich muss etwas Wasser kochen."
+  },
+  {
+    "word": "to cook",
+    "translation": "kochen",
+    "example": "I like to cook pasta.",
+    "example_german": "Ich koche gerne Pasta."
+  },
+  {
+    "word": "to roast",
+    "translation": "grillen",
+    "example": "I like to roast vegetables.",
+    "example_german": "Ich mag es, Gemüse zu grillen."
+  },
+  {
+    "word": "to dress",
+    "translation": "anrichten",
+    "example": "I like to dress my salad.",
+    "example_german": "Ich mag es, meinen Salat anzurichten."
+  },
+  {
+    "word": "to season",
+    "translation": "würzen",
+    "example": "I like to season my food.",
+    "example_german": "Ich würze mein Essen gerne."
+  },
+  {
+    "word": "to cook rice",
+    "translation": "das Reis kochen",
+    "example": "I will cook rice for dinner.",
+    "example_german": "Ich werde Reis für das Abendessen kochen."
+  },
+  {
+    "word": "to cook pasta",
+    "translation": "die Nudeln kochen",
+    "example": "I want to cook pasta tonight.",
+    "example_german": "Ich möchte heute Abend die Nudeln kochen."
+  },
+  {
+    "word": "to boil water",
+    "translation": "das Wasser kochen",
+    "example": "I need to boil water for pasta.",
+    "example_german": "Ich muss Wasser für die Nudeln kochen."
+  },
+  {
+    "word": "to boil milk",
+    "translation": "die Milch kochen",
+    "example": "I need to boil milk for the recipe.",
+    "example_german": "Ich muss die Milch für das Rezept kochen."
+  },
+  {
+    "word": "to beat eggs",
+    "translation": "die Eier schlagen",
+    "example": "I need to beat eggs for the recipe.",
+    "example_german": "Ich muss Eier für das Rezept schlagen."
+  },
+  {
+    "word": "to fry potatoes",
+    "translation": "die Kartoffeln frittieren",
+    "example": "I want to fry potatoes for dinner.",
+    "example_german": "Ich möchte die Kartoffeln zum Abendessen frittieren."
+  },
+  {
+    "word": "to fry eggs",
+    "translation": "die Eier braten",
+    "example": "I like to fry eggs in the morning.",
+    "example_german": "Ich brate gerne Eier am Morgen."
+  },
+  {
+    "word": "to peel fruit",
+    "translation": "die Frucht schälen",
+    "example": "I need to peel fruit for the salad.",
+    "example_german": "Ich muss die Frucht für den Salat schälen."
+  },
+  {
+    "word": "to peel potatoes",
+    "translation": "die Kartoffeln schälen",
+    "example": "I need to peel potatoes for dinner.",
+    "example_german": "Ich muss die Kartoffeln fürs Abendessen schälen."
+  },
+  {
+    "word": "to cut the bread",
+    "translation": "das Brot schneiden",
+    "example": "I need to cut the bread.",
+    "example_german": "Ich muss das Brot schneiden."
+  },
+  {
+    "word": "to cut the meat",
+    "translation": "das Fleisch schneiden",
+    "example": "I need to cut the meat carefully.",
+    "example_german": "Ich muss das Fleisch vorsichtig schneiden."
+  },
+  {
+    "word": "to dress a salad",
+    "translation": "einen Salat anmachen",
+    "example": "I want to dress a salad now.",
+    "example_german": "Ich möchte jetzt einen Salat anmachen."
+  },
+  {
+    "word": "to burn the food",
+    "translation": "das Essen anbrennen",
+    "example": "I often burn the food.",
+    "example_german": "Ich brenne oft das Essen an."
+  },
+  {
+    "word": "fish soup",
+    "translation": "die Fischsuppe",
+    "example": "I enjoy fish soup for dinner.",
+    "example_german": "Ich genieße die Fischsuppe zum Abendessen."
+  },
+  {
+    "word": "vegetable soup",
+    "translation": "die Gemüsesuppe",
+    "example": "I enjoy vegetable soup for lunch.",
+    "example_german": "Ich genieße die Gemüsesuppe zum Mittagessen."
+  },
+  {
+    "word": "gazpacho",
+    "translation": "der Gazpacho",
+    "example": "I enjoy gazpacho in summer.",
+    "example_german": "Ich genieße Gazpacho im Sommer."
+  },
+  {
+    "word": "stew",
+    "translation": "der Eintopf",
+    "example": "The stew is very delicious.",
+    "example_german": "Der Eintopf ist sehr lecker."
+  },
+  {
+    "word": "croquettes",
+    "translation": "die Croquettes",
+    "example": "I love eating croquettes for dinner.",
+    "example_german": "Ich liebe es, Croquettes zum Abendessen zu essen."
+  },
+  {
+    "word": "good flavor",
+    "translation": "der gute Geschmack",
+    "example": "This dish has a good flavor.",
+    "example_german": "Dieses Gericht hat einen guten Geschmack."
+  },
+  {
+    "word": "pleasant taste",
+    "translation": "der angenehme Geschmack",
+    "example": "This dish has a pleasant taste.",
+    "example_german": "Dieses Gericht hat einen angenehmen Geschmack."
+  },
+  {
+    "word": "bland",
+    "translation": "der Fade",
+    "example": "This soup is bland and tasteless.",
+    "example_german": "Diese Suppe ist fade und geschmacklos."
+  },
+  {
+    "word": "to suit",
+    "translation": "gut sitzen",
+    "example": "This dress suits you well.",
+    "example_german": "Dieses Kleid sitzt gut an dir."
+  },
+  {
+    "word": "to upset",
+    "translation": "schlecht sitzen",
+    "example": "This food does not sit well.",
+    "example_german": "Dieses Essen sitzt nicht gut."
+  },
+  {
+    "word": "spoon",
+    "translation": "der Löffel",
+    "example": "I need a spoon to eat.",
+    "example_german": "Ich brauche einen Löffel zum Essen."
+  },
+  {
+    "word": "fork",
+    "translation": "der Gabel",
+    "example": "The fork is on the table.",
+    "example_german": "Die Gabel ist auf dem Tisch."
+  },
+  {
+    "word": "knife",
+    "translation": "das Messer",
+    "example": "The knife is on the table.",
+    "example_german": "Das Messer liegt auf dem Tisch."
+  },
+  {
+    "word": "frying pan",
+    "translation": "die Pfanne",
+    "example": "I need a frying pan for cooking.",
+    "example_german": "Ich brauche eine Pfanne zum Kochen."
+  },
+  {
+    "word": "saucepan",
+    "translation": "der Kessel",
+    "example": "The saucepan is on the stove.",
+    "example_german": "Der Kessel steht auf dem Herd."
+  },
+  {
+    "word": "tablecloth",
+    "translation": "das Tischtuch",
+    "example": "The tablecloth is very beautiful.",
+    "example_german": "Das Tischtuch ist sehr schön."
+  },
+  {
+    "word": "glass of wine",
+    "translation": "das Weinglas",
+    "example": "I would like a glass of wine.",
+    "example_german": "Ich hätte gerne ein Glas Wein."
+  },
+  {
+    "word": "champagne glass",
+    "translation": "das Champagnerglas",
+    "example": "I raised a champagne glass for a toast.",
+    "example_german": "Ich hob ein Champagnerglas für einen Toast."
+  },
+  {
+    "word": "cup of coffee",
+    "translation": "die Tasse Kaffee",
+    "example": "I drink a cup of coffee.",
+    "example_german": "Ich trinke eine Tasse Kaffee."
+  },
+  {
+    "word": "cup of tea",
+    "translation": "die Tasse Tee",
+    "example": "I enjoy a cup of tea every morning.",
+    "example_german": "Ich genieße jeden Morgen eine Tasse Tee."
+  },
+  {
+    "word": "breakfast cup",
+    "translation": "die Frühstückstasse",
+    "example": "I drink coffee from my breakfast cup.",
+    "example_german": "Ich trinke Kaffee aus meiner Frühstückstasse."
+  },
+  {
+    "word": "glass of water",
+    "translation": "das Glas Wasser",
+    "example": "I need a glass of water.",
+    "example_german": "Ich brauche ein Glas Wasser."
+  },
+  {
+    "word": "jug of water",
+    "translation": "die Wasserkanne",
+    "example": "I filled the jug of water.",
+    "example_german": "Ich habe die Wasserkanne gefüllt."
+  },
+  {
+    "word": "beer mug",
+    "translation": "der Bierkrug",
+    "example": "I enjoy my beer mug at the party.",
+    "example_german": "Ich genieße meinen Bierkrug auf der Party."
+  },
+  {
+    "word": "to clean up the kitchen",
+    "translation": "die Küche aufräumen",
+    "example": "I need to clean up the kitchen.",
+    "example_german": "Ich muss die Küche aufräumen."
+  },
+  {
+    "word": "to clear the table",
+    "translation": "den Tisch abräumen",
+    "example": "I will clear the table now.",
+    "example_german": "Ich werde den Tisch jetzt abräumen."
+  },
+  {
+    "word": "to put the plates",
+    "translation": "die Teller abstellen",
+    "example": "I need to put the plates away.",
+    "example_german": "Ich muss die Teller wegstellen."
+  },
+  {
+    "word": "to set the table",
+    "translation": "den Tisch decken",
+    "example": "I need to set the table for dinner.",
+    "example_german": "Ich muss den Tisch zum Abendessen decken."
+  },
+  {
+    "word": "to clear the plates",
+    "translation": "die Teller abräumen",
+    "example": "I will clear the plates now.",
+    "example_german": "Ich werde die Teller jetzt abräumen."
+  },
+  {
+    "word": "to wash the dishes",
+    "translation": "das Geschirr spülen",
+    "example": "I need to wash the dishes tonight.",
+    "example_german": "Ich muss das Geschirr heute Abend spülen."
+  },
+  {
+    "word": "to load the dishwasher",
+    "translation": "den Geschirrspüler einräumen",
+    "example": "I need to load the dishwasher tonight.",
+    "example_german": "Ich muss den Geschirrspüler heute Abend einräumen."
+  },
+  {
+    "word": "to put the dishwasher",
+    "translation": "den Geschirrspüler",
+    "example": "I need to put the dishwasher on.",
+    "example_german": "Ich muss den Geschirrspüler einschalten."
+  },
+  {
+    "word": "simple restaurant",
+    "translation": "das einfache Restaurant",
+    "example": "I am going to a simple restaurant.",
+    "example_german": "Ich gehe zu einem einfachen Restaurant."
+  },
+  {
+    "word": "luxury restaurant",
+    "translation": "das Luxusrestaurant",
+    "example": "We are going to a luxury restaurant.",
+    "example_german": "Wir gehen zu einem Luxusrestaurant."
+  },
+  {
+    "word": "home-cooked meal",
+    "translation": "die Hausmannskost",
+    "example": "I enjoy a home-cooked meal.",
+    "example_german": "Ich genieße eine Hausmannskost."
+  },
+  {
+    "word": "traditional food",
+    "translation": "das traditionelle Essen",
+    "example": "I enjoy traditional food.",
+    "example_german": "Ich genieße das traditionelle Essen."
+  },
+  {
+    "word": "Indian cuisine",
+    "translation": "die indische Küche",
+    "example": "I enjoy Indian cuisine very much.",
+    "example_german": "Ich genieße die indische Küche sehr."
+  },
+  {
+    "word": "Andalusian cuisine",
+    "translation": "die andalusische Küche",
+    "example": "Andalusian cuisine is very tasty.",
+    "example_german": "Die andalusische Küche ist sehr schmackhaft."
+  },
+  {
+    "word": "international cuisine",
+    "translation": "die internationale Küche",
+    "example": "I enjoy international cuisine.",
+    "example_german": "Ich genieße die internationale Küche."
+  },
+  {
+    "word": "to take note",
+    "translation": "die Notiz nehmen",
+    "example": "Please take note of the instructions.",
+    "example_german": "Bitte nehmen Sie die Anweisungen zur Kenntnis."
+  },
+  {
+    "word": "to bring the first course",
+    "translation": "das erste Gericht",
+    "example": "Please bring the first course.",
+    "example_german": "Bitte bringen Sie das erste Gericht."
+  },
+  {
+    "word": "to bring the second course",
+    "translation": "das zweite Gericht",
+    "example": "I will bring the second course.",
+    "example_german": "Ich werde das zweite Gericht bringen."
+  },
+  {
+    "word": "to take the first course",
+    "translation": "das erste Gericht",
+    "example": "I want to take the first course.",
+    "example_german": "Ich möchte das erste Gericht nehmen."
+  },
+  {
+    "word": "to take the second course",
+    "translation": "das zweite Gericht",
+    "example": "I will take the second course.",
+    "example_german": "Ich werde das zweite Gericht nehmen."
+  },
+  {
+    "word": "to serve the first course",
+    "translation": "das erste Gericht",
+    "example": "I will serve the first course.",
+    "example_german": "Ich werde das erste Gericht servieren."
+  },
+  {
+    "word": "to serve the main course",
+    "translation": "das Hauptgericht",
+    "example": "I will serve the main course.",
+    "example_german": "Ich werde das Hauptgericht servieren."
+  },
+  {
+    "word": "to have a snack",
+    "translation": "einen Snack nehmen",
+    "example": "I want to have a snack.",
+    "example_german": "Ich möchte einen Snack nehmen."
+  },
+  {
+    "word": "to take a portion",
+    "translation": "eine Portion",
+    "example": "I want to take a portion of cake.",
+    "example_german": "Ich möchte eine Portion Kuchen nehmen."
+  },
+  {
+    "word": "to go for tapas",
+    "translation": "die Tapas essen",
+    "example": "We will go for tapas tonight.",
+    "example_german": "Wir gehen heute Abend Tapas essen."
+  },
+  {
+    "word": "to take here",
+    "translation": "zum Hiernehmen",
+    "example": "I would like a coffee to take here.",
+    "example_german": "Ich hätte gerne einen Kaffee zum Hiernehmen."
+  },
+  {
+    "word": "to take away",
+    "translation": "zum Mitnehmen",
+    "example": "I want to take away my food.",
+    "example_german": "Ich möchte mein Essen zum Mitnehmen."
+  }
+]

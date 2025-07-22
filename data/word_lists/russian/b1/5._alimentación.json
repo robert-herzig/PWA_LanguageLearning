@@ -1,0 +1,860 @@
+[
+  {
+    "word": "здоровое питание",
+    "translation": "die gesunde Ernährung",
+    "example": "Здоровое питание очень важно.",
+    "example_german": "Gesunde Ernährung ist sehr wichtig."
+  },
+  {
+    "word": "сбалансированное питание",
+    "translation": "die ausgewogene Ernährung",
+    "example": "Сбалансированное питание очень важно.",
+    "example_german": "Eine ausgewogene Ernährung ist sehr wichtig."
+  },
+  {
+    "word": "натуральный продукт",
+    "translation": "das Naturprodukt",
+    "example": "Это натуральный продукт.",
+    "example_german": "Das ist ein Naturprodukt."
+  },
+  {
+    "word": "продукт для диабетиков",
+    "translation": "das Produkt für Diabetiker",
+    "example": "Этот продукт для диабетиков.",
+    "example_german": "Dieses Produkt ist für Diabetiker."
+  },
+  {
+    "word": "тяжёлая еда",
+    "translation": "das schwere Essen",
+    "example": "Я не люблю тяжёлую еду.",
+    "example_german": "Ich mag das schwere Essen nicht."
+  },
+  {
+    "word": "легкая еда",
+    "translation": "die leichte Nahrung",
+    "example": "Я люблю легкую еду.",
+    "example_german": "Ich liebe leichte Nahrung."
+  },
+  {
+    "word": "калории",
+    "translation": "die Kalorien",
+    "example": "Калории важны для энергии.",
+    "example_german": "Die Kalorien sind wichtig für die Energie."
+  },
+  {
+    "word": "витамины",
+    "translation": "die Vitamine",
+    "example": "Витамины важны для здоровья.",
+    "example_german": "Die Vitamine sind wichtig für die Gesundheit."
+  },
+  {
+    "word": "белки",
+    "translation": "die Proteine",
+    "example": "Белки важны для нашего здоровья.",
+    "example_german": "Die Proteine sind wichtig für unsere Gesundheit."
+  },
+  {
+    "word": "волокно",
+    "translation": "die Faser",
+    "example": "Волокно полезно для здоровья.",
+    "example_german": "Das Volokno ist gut für die Gesundheit."
+  },
+  {
+    "word": "железо",
+    "translation": "das Eisen",
+    "example": "Железо - это прочный металл.",
+    "example_german": "Das Eisen ist ein starkes Metall."
+  },
+  {
+    "word": "кормить",
+    "translation": "füttern",
+    "example": "Я буду кормить собаку.",
+    "example_german": "Ich werde den Hund füttern."
+  },
+  {
+    "word": "питаться",
+    "translation": "sich ernähren",
+    "example": "Важно правильно питаться.",
+    "example_german": "Es ist wichtig, sich richtig zu ernähren."
+  },
+  {
+    "word": "настой цветков липы",
+    "translation": "die Lindenblüteninfusion",
+    "example": "Мне нравится пить настой цветков липы.",
+    "example_german": "Ich trinke gerne Lindenblüteninfusion."
+  },
+  {
+    "word": "ромашковый чай",
+    "translation": "die Kamillentee",
+    "example": "Я люблю пить ромашковый чай.",
+    "example_german": "Ich liebe es, die Kamillentee zu trinken."
+  },
+  {
+    "word": "настой мяты",
+    "translation": "Pfefferminztee",
+    "example": "Мне нравится пить настой мяты.",
+    "example_german": "Ich trinke gerne Pfefferminztee."
+  },
+  {
+    "word": "молодое вино",
+    "translation": "der junge Wein",
+    "example": "Я люблю молодое вино.",
+    "example_german": "Ich liebe den jungen Wein."
+  },
+  {
+    "word": "домашнее вино",
+    "translation": "der Hauswein",
+    "example": "Я заказал домашнее вино.",
+    "example_german": "Ich habe den Hauswein bestellt."
+  },
+  {
+    "word": "резервирование",
+    "translation": "eine Reservierung",
+    "example": "Я хочу сделать резервирование сейчас.",
+    "example_german": "Ich möchte jetzt eine Reservierung machen."
+  },
+  {
+    "word": "открыть бутылку",
+    "translation": "eine Flasche öffnen",
+    "example": "Я собираюсь открыть бутылку воды.",
+    "example_german": "Ich werde eine Flasche Wasser öffnen."
+  },
+  {
+    "word": "подавать напиток",
+    "translation": "ein Getränk servieren",
+    "example": "Я собираюсь подать холодный напиток.",
+    "example_german": "Ich werde ein kaltes Getränk servieren."
+  },
+  {
+    "word": "попробовать напиток",
+    "translation": "ein Getränk probieren",
+    "example": "Я хочу попробовать новый напиток.",
+    "example_german": "Ich möchte ein neues Getränk probieren."
+  },
+  {
+    "word": "выпить стакан",
+    "translation": "ein Glas trinken",
+    "example": "Мы можем выпить стакан вина.",
+    "example_german": "Wir können ein Glas Wein trinken."
+  },
+  {
+    "word": "быть пьяным",
+    "translation": "betrunken sein",
+    "example": "Он пьяный на вечеринке.",
+    "example_german": "Er ist auf der Party betrunken."
+  },
+  {
+    "word": "иметь похмелье",
+    "translation": "der Kater",
+    "example": "Сегодня у меня похмелье после вечеринки.",
+    "example_german": "Heute habe ich einen Kater nach der Feier."
+  },
+  {
+    "word": "морепродукты",
+    "translation": "der Meeresfrüchte",
+    "example": "Я люблю есть морепродукты.",
+    "example_german": "Ich liebe es, Meeresfrüchte zu essen."
+  },
+  {
+    "word": "специи",
+    "translation": "die Gewürze",
+    "example": "Я люблю использовать специи в еде.",
+    "example_german": "Ich liebe es, Gewürze im Essen zu verwenden."
+  },
+  {
+    "word": "колбаса",
+    "translation": "der Salchichón",
+    "example": "Мне нравится есть колбасу.",
+    "example_german": "Ich esse gerne Salchichón."
+  },
+  {
+    "word": "филе",
+    "translation": "das Lendenstück",
+    "example": "Филе очень нежное.",
+    "example_german": "Das Lendenstück ist sehr zart."
+  },
+  {
+    "word": "чоризо",
+    "translation": "der Chorizo",
+    "example": "Мне нравится есть чоризо на завтрак.",
+    "example_german": "Ich esse gerne Chorizo zum Frühstück."
+  },
+  {
+    "word": "баклажан",
+    "translation": "die Aubergine",
+    "example": "Я люблю есть жареный баклажан.",
+    "example_german": "Ich esse gerne gebratene Aubergine."
+  },
+  {
+    "word": "цуккини",
+    "translation": "der Zucchini",
+    "example": "Мне нравится есть цуккини.",
+    "example_german": "Ich esse gern Zucchini."
+  },
+  {
+    "word": "шпинат",
+    "translation": "der Spinat",
+    "example": "Я люблю шпинат в салате.",
+    "example_german": "Ich liebe Spinat im Salat."
+  },
+  {
+    "word": "горошек",
+    "translation": "die Erbsen",
+    "example": "Мне нравится зеленый горошек.",
+    "example_german": "Ich mag die grünen Erbsen."
+  },
+  {
+    "word": "чечевица",
+    "translation": "die Linsen",
+    "example": "Я готовлю чечевицу на ужин.",
+    "example_german": "Ich koche die Linsen zum Abendessen."
+  },
+  {
+    "word": "белая фасоль",
+    "translation": "die weißen Bohnen",
+    "example": "Мне нравится белая фасоль.",
+    "example_german": "Ich mag die weißen Bohnen."
+  },
+  {
+    "word": "нут",
+    "translation": "die Kichererbsen",
+    "example": "Мне нравятся нут в салатах.",
+    "example_german": "Ich mag die Kichererbsen in Salaten."
+  },
+  {
+    "word": "бисквит",
+    "translation": "der Biskuit",
+    "example": "Я люблю бисквит.",
+    "example_german": "Ich liebe Biskuit."
+  },
+  {
+    "word": "маффин",
+    "translation": "der Muffin",
+    "example": "Мне нравится есть маффин.",
+    "example_german": "Ich esse gerne einen Muffin."
+  },
+  {
+    "word": "вишня",
+    "translation": "die Kirsche",
+    "example": "Я люблю есть вишни летом.",
+    "example_german": "Ich liebe es, im Sommer Kirschen zu essen."
+  },
+  {
+    "word": "ананас",
+    "translation": "die Ananas",
+    "example": "Я люблю есть свежий ананас.",
+    "example_german": "Ich esse gerne frische Ananas."
+  },
+  {
+    "word": "киви",
+    "translation": "der Kiwi",
+    "example": "Я люблю есть киви на завтрак.",
+    "example_german": "Ich esse gerne Kiwi zum Frühstück."
+  },
+  {
+    "word": "цельное молоко",
+    "translation": "die Vollmilch",
+    "example": "Я люблю пить цельное молоко.",
+    "example_german": "Ich liebe es, Vollmilch zu trinken."
+  },
+  {
+    "word": "обезжиренное молоко",
+    "translation": "die Magermilch",
+    "example": "Я пью обезжиренное молоко.",
+    "example_german": "Ich trinke Magermilch."
+  },
+  {
+    "word": "сливки",
+    "translation": "die Sahne",
+    "example": "Я добавляю сливки в кофе.",
+    "example_german": "Ich gebe die Sahne in meinen Kaffee."
+  },
+  {
+    "word": "маргарин",
+    "translation": "die Margarine",
+    "example": "Я намазываю маргарин на хлеб.",
+    "example_german": "Ich streiche die Margarine auf das Brot."
+  },
+  {
+    "word": "натуральный йогурт",
+    "translation": "der Naturjoghurt",
+    "example": "Я люблю натуральный йогурт.",
+    "example_german": "Ich liebe den Naturjoghurt."
+  },
+  {
+    "word": "обезжиренный йогурт",
+    "translation": "der fettfreie Joghurt",
+    "example": "Я люблю обезжиренный йогурт.",
+    "example_german": "Ich liebe den fettfreien Joghurt."
+  },
+  {
+    "word": "йогурт с фруктами",
+    "translation": "der Joghurt mit Früchten",
+    "example": "Я люблю йогурт с фруктами.",
+    "example_german": "Ich liebe den Joghurt mit Früchten."
+  },
+  {
+    "word": "ребро ягненка",
+    "translation": "die Lammrippe",
+    "example": "Я люблю есть ребро ягненка.",
+    "example_german": "Ich liebe es, Lammrippe zu essen."
+  },
+  {
+    "word": "свинина",
+    "translation": "die Schweinekotelett",
+    "example": "Я готовлю свинину на ужин.",
+    "example_german": "Ich koche die Schweinekotelett zum Abendessen."
+  },
+  {
+    "word": "куриная грудка",
+    "translation": "das Hähnchenbrustfilet",
+    "example": "Я купил куриную грудку.",
+    "example_german": "Ich habe ein Hähnchenbrustfilet gekauft."
+  },
+  {
+    "word": "филе говядины",
+    "translation": "das Rinderfilet",
+    "example": "Я люблю филе говядины на ужин.",
+    "example_german": "Ich liebe das Rinderfilet zum Abendessen."
+  },
+  {
+    "word": "оливковое масло",
+    "translation": "das Olivenöl",
+    "example": "Я использую оливковое масло.",
+    "example_german": "Ich benutze das Olivenöl."
+  },
+  {
+    "word": "подсолнечное масло",
+    "translation": "das Sonnenblumenöl",
+    "example": "Подсолнечное масло полезно для здоровья.",
+    "example_german": "Das Sonnenblumenöl ist gesund."
+  },
+  {
+    "word": "уксус",
+    "translation": "der Essig",
+    "example": "Уксус добавляют в салаты.",
+    "example_german": "Der Essig wird in Salate hinzugefügt."
+  },
+  {
+    "word": "горчица",
+    "translation": "der Senf",
+    "example": "Мне нравится горчица в моем сэндвиче.",
+    "example_german": "Ich mag den Senf in meinem Sandwich."
+  },
+  {
+    "word": "яичный белок",
+    "translation": "das Eiweiß",
+    "example": "Яичный белок богат белком.",
+    "example_german": "Das Eiweiß ist reich an Eiweiß."
+  },
+  {
+    "word": "яичный желток",
+    "translation": "das Eigelb",
+    "example": "Яичный желток очень питательный.",
+    "example_german": "Das Eigelb ist sehr nahrhaft."
+  },
+  {
+    "word": "яичная скорлупа",
+    "translation": "die Eierschale",
+    "example": "Яичная скорлупа очень хрупкая.",
+    "example_german": "Die Eierschale ist sehr zerbrechlich."
+  },
+  {
+    "word": "рецепт",
+    "translation": "das Rezept",
+    "example": "У меня есть хороший рецепт.",
+    "example_german": "Ich habe ein gutes Rezept."
+  },
+  {
+    "word": "ингредиенты",
+    "translation": "die Zutaten",
+    "example": "Ингредиенты очень важны.",
+    "example_german": "Die Zutaten sind sehr wichtig."
+  },
+  {
+    "word": "метод приготовления",
+    "translation": "die Zubereitungsart",
+    "example": "Метод приготовления имеет значение.",
+    "example_german": "Die Zubereitungsart ist wichtig."
+  },
+  {
+    "word": "жареное мясо",
+    "translation": "das gebratene Fleisch",
+    "example": "Я люблю жареное мясо.",
+    "example_german": "Ich liebe das gebratene Fleisch."
+  },
+  {
+    "word": "жареная рыба",
+    "translation": "der gebratene Fisch",
+    "example": "Я люблю жареную рыбу.",
+    "example_german": "Ich liebe den gebratenen Fisch."
+  },
+  {
+    "word": "вареное мясо",
+    "translation": "das gekochte Fleisch",
+    "example": "Я люблю вареное мясо.",
+    "example_german": "Ich liebe das gekochte Fleisch."
+  },
+  {
+    "word": "вареная рыба",
+    "translation": "der gekochte Fisch",
+    "example": "Я люблю вареную рыбу.",
+    "example_german": "Ich liebe den gekochten Fisch."
+  },
+  {
+    "word": "мягкий",
+    "translation": "weich",
+    "example": "Подушка мягкая и удобная.",
+    "example_german": "Das Kissen ist weich und bequem."
+  },
+  {
+    "word": "жесткий",
+    "translation": "der harte",
+    "example": "Этот стол очень жесткий.",
+    "example_german": "Dieser Tisch ist sehr hart."
+  },
+  {
+    "word": "сырой",
+    "translation": "der rohe",
+    "example": "Мясо сырой и холодный.",
+    "example_german": "Das Fleisch ist roh und kalt."
+  },
+  {
+    "word": "слабо прожаренный",
+    "translation": "der wenig gegarte",
+    "example": "Я люблю стейк слабо прожаренный.",
+    "example_german": "Ich liebe das wenig gegarte Steak."
+  },
+  {
+    "word": "очень хорошо сделано",
+    "translation": "sehr gut gemacht",
+    "example": "Проект очень хорошо сделан.",
+    "example_german": "Das Projekt ist sehr gut gemacht."
+  },
+  {
+    "word": "солёный",
+    "translation": "salzig",
+    "example": "Этот суп слишком солёный.",
+    "example_german": "Diese Suppe ist zu salzig."
+  },
+  {
+    "word": "сладкий",
+    "translation": "das Süße",
+    "example": "Этот торт очень сладкий.",
+    "example_german": "Dieser Kuchen ist sehr süß."
+  },
+  {
+    "word": "острый",
+    "translation": "der scharfe",
+    "example": "Мне нравится острая еда.",
+    "example_german": "Ich mag das scharfe Essen."
+  },
+  {
+    "word": "горький",
+    "translation": "der bittere",
+    "example": "Этот шоколад очень горький.",
+    "example_german": "Diese Schokolade ist sehr bitter."
+  },
+  {
+    "word": "жарить",
+    "translation": "grillen",
+    "example": "Я люблю жарить мясо.",
+    "example_german": "Ich liebe es, Fleisch zu grillen."
+  },
+  {
+    "word": "кипятить",
+    "translation": "das Kochen",
+    "example": "Мне нужно кипятить воду.",
+    "example_german": "Ich muss Wasser kochen."
+  },
+  {
+    "word": "варить",
+    "translation": "kochen",
+    "example": "Я люблю варить суп.",
+    "example_german": "Ich koche gerne Suppe."
+  },
+  {
+    "word": "приправлять",
+    "translation": "würzen",
+    "example": "Мне нравится приправлять еду.",
+    "example_german": "Ich würze das Essen gerne."
+  },
+  {
+    "word": "варить рис",
+    "translation": "das Reis kochen",
+    "example": "Я буду варить рис на ужин.",
+    "example_german": "Ich werde Reis für das Abendessen kochen."
+  },
+  {
+    "word": "варить пасту",
+    "translation": "die Nudeln kochen",
+    "example": "Я буду варить пасту на ужин.",
+    "example_german": "Ich werde die Nudeln zum Abendessen kochen."
+  },
+  {
+    "word": "кипятить воду",
+    "translation": "das Wasser kochen",
+    "example": "Мне нужно кипятить воду для чая.",
+    "example_german": "Ich muss Wasser für den Tee kochen."
+  },
+  {
+    "word": "кипятить молоко",
+    "translation": "die Milch kochen",
+    "example": "Мне нужно кипятить молоко для чая.",
+    "example_german": "Ich muss die Milch für den Tee kochen."
+  },
+  {
+    "word": "взбивать яйца",
+    "translation": "die Eier schlagen",
+    "example": "Я буду взбивать яйца для омлета.",
+    "example_german": "Ich werde Eier für das Omelett schlagen."
+  },
+  {
+    "word": "жарить картошку",
+    "translation": "die Kartoffeln frittieren",
+    "example": "Я буду жарить картошку сегодня.",
+    "example_german": "Ich werde heute die Kartoffeln frittieren."
+  },
+  {
+    "word": "жарить яйца",
+    "translation": "die Eier braten",
+    "example": "Я люблю жарить яйца на завтрак.",
+    "example_german": "Ich liebe es, Eier zum Frühstück zu braten."
+  },
+  {
+    "word": "чистить фрукты",
+    "translation": "die Frucht schälen",
+    "example": "Я буду чистить фрукты для салата.",
+    "example_german": "Ich werde die Frucht für den Salat schälen."
+  },
+  {
+    "word": "чистить картошку",
+    "translation": "die Kartoffeln schälen",
+    "example": "Мне нужно чистить картошку.",
+    "example_german": "Ich muss die Kartoffeln schälen."
+  },
+  {
+    "word": "резать хлеб",
+    "translation": "das Brot schneiden",
+    "example": "Я буду резать хлеб.",
+    "example_german": "Ich werde das Brot schneiden."
+  },
+  {
+    "word": "резать мясо",
+    "translation": "das Fleisch schneiden",
+    "example": "Я буду резать мясо сейчас.",
+    "example_german": "Ich werde das Fleisch jetzt schneiden."
+  },
+  {
+    "word": "заправить салат",
+    "translation": "einen Salat anmachen",
+    "example": "Я хочу заправить салат сейчас.",
+    "example_german": "Ich möchte jetzt einen Salat anmachen."
+  },
+  {
+    "word": "сжечь еду",
+    "translation": "das Essen anbrennen",
+    "example": "Я часто сжигаю еду.",
+    "example_german": "Ich brenne oft das Essen an."
+  },
+  {
+    "word": "рыбный суп",
+    "translation": "die Fischsuppe",
+    "example": "Я люблю рыбный суп.",
+    "example_german": "Ich liebe die Fischsuppe."
+  },
+  {
+    "word": "овощной суп",
+    "translation": "die Gemüsesuppe",
+    "example": "Я люблю овощной суп.",
+    "example_german": "Ich liebe die Gemüsesuppe."
+  },
+  {
+    "word": "газпачо",
+    "translation": "der Gazpacho",
+    "example": "Я люблю газпачо летом.",
+    "example_german": "Ich liebe Gazpacho im Sommer."
+  },
+  {
+    "word": "тушеное мясо",
+    "translation": "der Eintopf",
+    "example": "Тушеное мясо очень вкусное.",
+    "example_german": "Das geschmorte Fleisch ist sehr lecker."
+  },
+  {
+    "word": "крокеты",
+    "translation": "die Croquettes",
+    "example": "Я люблю крокеты с картошкой.",
+    "example_german": "Ich liebe die Kartoffel-Croquettes."
+  },
+  {
+    "word": "хороший вкус",
+    "translation": "der gute Geschmack",
+    "example": "Это блюдо имеет хороший вкус.",
+    "example_german": "Dieses Gericht hat einen guten Geschmack."
+  },
+  {
+    "word": "приятный вкус",
+    "translation": "der angenehme Geschmack",
+    "example": "Это блюдо имеет приятный вкус.",
+    "example_german": "Dieses Gericht hat einen angenehmen Geschmack."
+  },
+  {
+    "word": "безвкусный",
+    "translation": "der Fade",
+    "example": "Этот суп безвкусный и пресный.",
+    "example_german": "Diese Suppe ist fade und geschmacklos."
+  },
+  {
+    "word": "подходить",
+    "translation": "gut sitzen",
+    "example": "Это платье тебе хорошо подходит.",
+    "example_german": "Dieses Kleid sitzt gut an dir."
+  },
+  {
+    "word": "плохо сидеть",
+    "translation": "schlecht sitzen",
+    "example": "Эта еда мне плохо сидит.",
+    "example_german": "Dieses Essen sitzt mir schlecht."
+  },
+  {
+    "word": "ложка",
+    "translation": "der Löffel",
+    "example": "Мне нужна ложка для еды.",
+    "example_german": "Ich brauche einen Löffel zum Essen."
+  },
+  {
+    "word": "вилка",
+    "translation": "der Gabel",
+    "example": "Вилка на столе.",
+    "example_german": "Die Gabel ist auf dem Tisch."
+  },
+  {
+    "word": "нож",
+    "translation": "das Messer",
+    "example": "Нож лежит на столе.",
+    "example_german": "Das Messer liegt auf dem Tisch."
+  },
+  {
+    "word": "сковорода",
+    "translation": "die Pfanne",
+    "example": "Мне нужна сковорода для готовки.",
+    "example_german": "Ich brauche eine Pfanne zum Kochen."
+  },
+  {
+    "word": "кастрюля",
+    "translation": "der Kessel",
+    "example": "Кастрюля стоит на плите.",
+    "example_german": "Der Kessel steht auf dem Herd."
+  },
+  {
+    "word": "скатерть",
+    "translation": "das Tischtuch",
+    "example": "Скатерть на столе белая.",
+    "example_german": "Das Tischtuch auf dem Tisch ist weiß."
+  },
+  {
+    "word": "бокал вина",
+    "translation": "das Weinglas",
+    "example": "Я хочу бокал вина.",
+    "example_german": "Ich möchte ein Glas Wein."
+  },
+  {
+    "word": "бокал шампанского",
+    "translation": "das Champagnerglas",
+    "example": "Я поднял бокал шампанского за здоровье.",
+    "example_german": "Ich hob ein Champagnerglas auf die Gesundheit."
+  },
+  {
+    "word": "чашка кофе",
+    "translation": "die Tasse Kaffee",
+    "example": "Я пью чашку кофе.",
+    "example_german": "Ich trinke eine Tasse Kaffee."
+  },
+  {
+    "word": "чашка чая",
+    "translation": "die Tasse Tee",
+    "example": "Я пью чашку чая каждый день.",
+    "example_german": "Ich trinke jeden Tag eine Tasse Tee."
+  },
+  {
+    "word": "чашка для завтрака",
+    "translation": "die Frühstückstasse",
+    "example": "Я пью чай из чашки для завтрака.",
+    "example_german": "Ich trinke Tee aus meiner Frühstückstasse."
+  },
+  {
+    "word": "стакан воды",
+    "translation": "das Glas Wasser",
+    "example": "Мне нужен стакан воды.",
+    "example_german": "Ich brauche ein Glas Wasser."
+  },
+  {
+    "word": "кувшин воды",
+    "translation": "der Wasserkrug",
+    "example": "Мне нужен кувшин воды.",
+    "example_german": "Ich brauche einen Wasserkrug."
+  },
+  {
+    "word": "пивная кружка",
+    "translation": "der Bierkrug",
+    "example": "Мне нравится пивная кружка на столе.",
+    "example_german": "Mir gefällt der Bierkrug auf dem Tisch."
+  },
+  {
+    "word": "убрать кухню",
+    "translation": "die Küche aufräumen",
+    "example": "Мне нужно убрать кухню.",
+    "example_german": "Ich muss die Küche aufräumen."
+  },
+  {
+    "word": "убрать со стола",
+    "translation": "den Tisch abräumen",
+    "example": "Я уберу со стола сейчас.",
+    "example_german": "Ich werde den Tisch jetzt abräumen."
+  },
+  {
+    "word": "поставить тарелки",
+    "translation": "die Teller abstellen",
+    "example": "Я собираюсь поставить тарелки на стол.",
+    "example_german": "Ich werde die Teller auf den Tisch stellen."
+  },
+  {
+    "word": "накрыть на стол",
+    "translation": "den Tisch decken",
+    "example": "Мне нужно накрыть на стол.",
+    "example_german": "Ich muss den Tisch decken."
+  },
+  {
+    "word": "убрать тарелки",
+    "translation": "die Teller abräumen",
+    "example": "Я уберу тарелки сейчас.",
+    "example_german": "Ich werde die Teller jetzt abräumen."
+  },
+  {
+    "word": "мыть посуду",
+    "translation": "das Geschirr spülen",
+    "example": "Я буду мыть посуду сейчас.",
+    "example_german": "Ich werde das Geschirr jetzt spülen."
+  },
+  {
+    "word": "загрузить посудомоечную машину",
+    "translation": "den Geschirrspüler einräumen",
+    "example": "Мне нужно загрузить посудомоечную машину.",
+    "example_german": "Ich muss den Geschirrspüler einräumen."
+  },
+  {
+    "word": "поставить посудомоечную машину",
+    "translation": "die Geschirrspülmaschine",
+    "example": "Мне нужно поставить посудомоечную машину.",
+    "example_german": "Ich muss die Geschirrspülmaschine einschalten."
+  },
+  {
+    "word": "простой ресторан",
+    "translation": "das einfache Restaurant",
+    "example": "Я иду в простой ресторан.",
+    "example_german": "Ich gehe zu einem einfachen Restaurant."
+  },
+  {
+    "word": "роскошный ресторан",
+    "translation": "das Luxusrestaurant",
+    "example": "Мы идем в роскошный ресторан.",
+    "example_german": "Wir gehen zu einem Luxusrestaurant."
+  },
+  {
+    "word": "домашняя еда",
+    "translation": "die Hausmannskost",
+    "example": "Я люблю домашнюю еду.",
+    "example_german": "Ich liebe die Hausmannskost."
+  },
+  {
+    "word": "традиционная еда",
+    "translation": "das traditionelle Essen",
+    "example": "Мне нравится традиционная еда.",
+    "example_german": "Ich mag das traditionelle Essen."
+  },
+  {
+    "word": "индийская кухня",
+    "translation": "die indische Küche",
+    "example": "Мне нравится индийская кухня.",
+    "example_german": "Mir gefällt die indische Küche."
+  },
+  {
+    "word": "андалузская кухня",
+    "translation": "die andalusische Küche",
+    "example": "Андалузская кухня очень вкусная.",
+    "example_german": "Die andalusische Küche ist sehr schmackhaft."
+  },
+  {
+    "word": "международная кухня",
+    "translation": "die internationale Küche",
+    "example": "Мне нравится международная кухня.",
+    "example_german": "Mir gefällt die internationale Küche."
+  },
+  {
+    "word": "делать заметку",
+    "translation": "die Notiz machen",
+    "example": "Я хочу сделать заметку об этом.",
+    "example_german": "Ich möchte darüber eine Notiz machen."
+  },
+  {
+    "word": "принести первое блюдо",
+    "translation": "das erste Gericht",
+    "example": "Принесите, пожалуйста, первое блюдо.",
+    "example_german": "Bitte bringen Sie das erste Gericht."
+  },
+  {
+    "word": "принести второе блюдо",
+    "translation": "das zweite Gericht",
+    "example": "Я принесу второе блюдо.",
+    "example_german": "Ich werde das zweite Gericht bringen."
+  },
+  {
+    "word": "взять первое блюдо",
+    "translation": "das erste Gericht",
+    "example": "Я хочу взять первое блюдо.",
+    "example_german": "Ich möchte das erste Gericht nehmen."
+  },
+  {
+    "word": "взять второе блюдо",
+    "translation": "das zweite Gericht",
+    "example": "Я возьму второе блюдо.",
+    "example_german": "Ich werde das zweite Gericht nehmen."
+  },
+  {
+    "word": "подавать первое блюдо",
+    "translation": "das erste Gericht",
+    "example": "Я буду подавать первое блюдо.",
+    "example_german": "Ich werde das erste Gericht servieren."
+  },
+  {
+    "word": "подать второе блюдо",
+    "translation": "das Hauptgericht",
+    "example": "Я подам второе блюдо.",
+    "example_german": "Ich werde das Hauptgericht servieren."
+  },
+  {
+    "word": "перекусить",
+    "translation": "einen Snack nehmen",
+    "example": "Я хочу перекусить.",
+    "example_german": "Ich möchte einen Snack nehmen."
+  },
+  {
+    "word": "взять порцию",
+    "translation": "eine Portion",
+    "example": "Я хочу взять порцию супа.",
+    "example_german": "Ich möchte eine Portion Suppe nehmen."
+  },
+  {
+    "word": "идти на тапас",
+    "translation": "die Tapas essen",
+    "example": "Мы идем на тапас сегодня вечером.",
+    "example_german": "Wir gehen heute Abend Tapas essen."
+  },
+  {
+    "word": "на вынос",
+    "translation": "zum Mitnehmen",
+    "example": "Я хочу еду на вынос.",
+    "example_german": "Ich möchte Essen zum Mitnehmen."
+  }
+]

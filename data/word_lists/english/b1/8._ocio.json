@@ -1,0 +1,554 @@
+[
+  {
+    "word": "rest",
+    "translation": "die Ruhe",
+    "example": "I need a rest after work.",
+    "example_german": "Ich brauche nach der Arbeit eine Ruhe."
+  },
+  {
+    "word": "vacation",
+    "translation": "die Vakanz",
+    "example": "I am going on vacation next week.",
+    "example_german": "Ich gehe nächste Woche in den Urlaub."
+  },
+  {
+    "word": "kitchen",
+    "translation": "die Küche",
+    "example": "I love to cook in the kitchen.",
+    "example_german": "Ich liebe es, in der Küche zu kochen."
+  },
+  {
+    "word": "gardening",
+    "translation": "die Gartenarbeit",
+    "example": "I enjoy gardening on weekends.",
+    "example_german": "Ich genieße die Gartenarbeit am Wochenende."
+  },
+  {
+    "word": "DIY",
+    "translation": "der Bricolage",
+    "example": "DIY projects can be very rewarding.",
+    "example_german": "DIY-Projekte können sehr lohnend sein."
+  },
+  {
+    "word": "to go camping",
+    "translation": "campen",
+    "example": "We like to go camping in summer.",
+    "example_german": "Wir campen gerne im Sommer."
+  },
+  {
+    "word": "to have a picnic",
+    "translation": "ein Picknick machen",
+    "example": "We want to have a picnic tomorrow.",
+    "example_german": "Wir wollen morgen ein Picknick machen."
+  },
+  {
+    "word": "to go sightseeing",
+    "translation": "Sightseeing machen",
+    "example": "I love to go sightseeing in the city.",
+    "example_german": "Ich liebe es, in der Stadt Sightseeing zu machen."
+  },
+  {
+    "word": "to join a club",
+    "translation": "einem Verein beizutreten",
+    "example": "I want to join a club.",
+    "example_german": "Ich möchte einem Verein beitreten."
+  },
+  {
+    "word": "to enroll in an association",
+    "translation": "sich in einem Verein anmelden",
+    "example": "I want to enroll in an association.",
+    "example_german": "Ich möchte mich in einem Verein anmelden."
+  },
+  {
+    "word": "to enroll in a group",
+    "translation": "sich in eine Gruppe einschreiben",
+    "example": "I want to enroll in a group.",
+    "example_german": "Ich möchte mich in eine Gruppe einschreiben."
+  },
+  {
+    "word": "to volunteer",
+    "translation": "der Freiwillige",
+    "example": "I want to volunteer at the shelter.",
+    "example_german": "Ich möchte im Tierheim als Freiwilliger arbeiten."
+  },
+  {
+    "word": "to have free time",
+    "translation": "die Freizeit haben",
+    "example": "I like to have free time.",
+    "example_german": "Ich mag es, Freizeit zu haben."
+  },
+  {
+    "word": "to be busy",
+    "translation": "beschäftigt sein",
+    "example": "I am busy right now.",
+    "example_german": "Ich bin jetzt beschäftigt."
+  },
+  {
+    "word": "to be free",
+    "translation": "frei sein",
+    "example": "I am free this afternoon.",
+    "example_german": "Ich bin heute Nachmittag frei."
+  },
+  {
+    "word": "to have a commitment",
+    "translation": "eine Verpflichtung",
+    "example": "I have a commitment this evening.",
+    "example_german": "Ich habe heute Abend eine Verpflichtung."
+  },
+  {
+    "word": "to go for drinks",
+    "translation": "das Trinken gehen",
+    "example": "Let's go for drinks after work.",
+    "example_german": "Lass uns nach der Arbeit trinken gehen."
+  },
+  {
+    "word": "to go out for tapas",
+    "translation": "die Tapas",
+    "example": "We will go out for tapas tonight.",
+    "example_german": "Wir gehen heute Abend Tapas essen."
+  },
+  {
+    "word": "to go out",
+    "translation": "das Ausgehen",
+    "example": "We are going out tonight.",
+    "example_german": "Wir gehen heute Abend ausgehen."
+  },
+  {
+    "word": "to go out for drinks",
+    "translation": "das Ausgehen",
+    "example": "We are going out for drinks tonight.",
+    "example_german": "Wir gehen heute Abend aus."
+  },
+  {
+    "word": "to go out partying",
+    "translation": "die Nacht hinausgehen",
+    "example": "We plan to go out partying tonight.",
+    "example_german": "Wir planen, heute Nacht hinauszugehen."
+  },
+  {
+    "word": "to get bored",
+    "translation": "sich langweilen",
+    "example": "I get bored during the lecture.",
+    "example_german": "Ich langweile mich während der Vorlesung."
+  },
+  {
+    "word": "to have a good time",
+    "translation": "das Vergnügen haben",
+    "example": "We always want to have a good time.",
+    "example_german": "Wir wollen immer das Vergnügen haben."
+  },
+  {
+    "word": "to have a bad time",
+    "translation": "schlecht gehen",
+    "example": "I am going to have a bad time.",
+    "example_german": "Ich werde schlecht gehen."
+  },
+  {
+    "word": "to have fun",
+    "translation": "Spaß haben",
+    "example": "We are going to have fun today.",
+    "example_german": "Wir werden heute Spaß haben."
+  },
+  {
+    "word": "to take a gardening course",
+    "translation": "einen Gartenbaukurs machen",
+    "example": "I want to take a gardening course.",
+    "example_german": "Ich möchte einen Gartenbaukurs machen."
+  },
+  {
+    "word": "to take a cooking course",
+    "translation": "einen Kochkurs machen",
+    "example": "I want to take a cooking course.",
+    "example_german": "Ich möchte einen Kochkurs machen."
+  },
+  {
+    "word": "to be a fan of doing crosswords",
+    "translation": "der Kreuzworträtsel-Fan",
+    "example": "I love to be a fan of doing crosswords.",
+    "example_german": "Ich liebe es, ein Kreuzworträtsel-Fan zu sein."
+  },
+  {
+    "word": "to collect stamps",
+    "translation": "die Briefmarkensammlung",
+    "example": "I love to collect stamps.",
+    "example_german": "Ich liebe es, Briefmarken zu sammeln."
+  },
+  {
+    "word": "to collect coins",
+    "translation": "Münzen sammeln",
+    "example": "I love to collect rare coins.",
+    "example_german": "Ich liebe es, seltene Münzen zu sammeln."
+  },
+  {
+    "word": "cinema seat",
+    "translation": "der Kinoplatz",
+    "example": "I chose a comfortable cinema seat.",
+    "example_german": "Ich habe einen bequemen Kinoplatz gewählt."
+  },
+  {
+    "word": "theater seat",
+    "translation": "der Theaterplatz",
+    "example": "I have a theater seat tonight.",
+    "example_german": "Ich habe heute Abend einen Theaterplatz."
+  },
+  {
+    "word": "row in a cinema",
+    "translation": "die Reihe im Kino",
+    "example": "We are in the row in a cinema.",
+    "example_german": "Wir sind in der Reihe im Kino."
+  },
+  {
+    "word": "row of a theater",
+    "translation": "die Reihe im Theater",
+    "example": "We are in the row of a theater.",
+    "example_german": "Wir sind in der Reihe im Theater."
+  },
+  {
+    "word": "spectator",
+    "translation": "der Zuschauer",
+    "example": "The spectator enjoyed the performance.",
+    "example_german": "Der Zuschauer genoss die Aufführung."
+  },
+  {
+    "word": "public",
+    "translation": "das Publikum",
+    "example": "The public enjoyed the performance.",
+    "example_german": "Das Publikum genoss die Aufführung."
+  },
+  {
+    "word": "scenario",
+    "translation": "das Szenario",
+    "example": "The scenario is very interesting.",
+    "example_german": "Das Szenario ist sehr interessant."
+  },
+  {
+    "word": "art gallery",
+    "translation": "die Kunstgalerie",
+    "example": "I love visiting the art gallery.",
+    "example_german": "Ich liebe es, die Kunstgalerie zu besuchen."
+  },
+  {
+    "word": "bullring",
+    "translation": "die Stierkampfarena",
+    "example": "The bullring is very famous here.",
+    "example_german": "Die Stierkampfarena ist hier sehr berühmt."
+  },
+  {
+    "word": "to put on a movie",
+    "translation": "einen Film zeigen",
+    "example": "I want to put on a movie tonight.",
+    "example_german": "Ich möchte heute Abend einen Film zeigen."
+  },
+  {
+    "word": "to queue",
+    "translation": "anstehen",
+    "example": "I need to queue for the tickets.",
+    "example_german": "Ich muss für die Tickets anstehen."
+  },
+  {
+    "word": "to be a success",
+    "translation": "ein Erfolg",
+    "example": "This event will be a success.",
+    "example_german": "Diese Veranstaltung wird ein Erfolg sein."
+  },
+  {
+    "word": "referee",
+    "translation": "der Schiedsrichter",
+    "example": "The referee makes a decision.",
+    "example_german": "Der Schiedsrichter trifft eine Entscheidung."
+  },
+  {
+    "word": "coach",
+    "translation": "der Trainer",
+    "example": "The coach motivates the team.",
+    "example_german": "Der Trainer motiviert das Team."
+  },
+  {
+    "word": "athlete",
+    "translation": "der Sportler",
+    "example": "He is a talented athlete.",
+    "example_german": "Er ist ein talentierter Sportler."
+  },
+  {
+    "word": "player",
+    "translation": "der Spieler",
+    "example": "The player scores a goal.",
+    "example_german": "Der Spieler erzielt ein Tor."
+  },
+  {
+    "word": "loser",
+    "translation": "der Verlierer",
+    "example": "He is a loser in the game.",
+    "example_german": "Er ist ein Verlierer im Spiel."
+  },
+  {
+    "word": "winner",
+    "translation": "der Gewinner",
+    "example": "The winner gets a trophy.",
+    "example_german": "Der Gewinner erhält einen Pokal."
+  },
+  {
+    "word": "soccer ball",
+    "translation": "der Fußball",
+    "example": "The soccer ball is on the field.",
+    "example_german": "Der Fußball ist auf dem Feld."
+  },
+  {
+    "word": "basketball",
+    "translation": "der Basketball",
+    "example": "The basketball is on the court.",
+    "example_german": "Der Basketball ist auf dem Platz."
+  },
+  {
+    "word": "tennis ball",
+    "translation": "der Tennisball",
+    "example": "The tennis ball is yellow.",
+    "example_german": "Der Tennisball ist gelb."
+  },
+  {
+    "word": "golf ball",
+    "translation": "der Golfball",
+    "example": "The golf ball is white.",
+    "example_german": "Der Golfball ist weiß."
+  },
+  {
+    "word": "racket",
+    "translation": "die Racket",
+    "example": "He bought a new racket today.",
+    "example_german": "Er hat heute einen neuen Schläger gekauft."
+  },
+  {
+    "word": "skis",
+    "translation": "die Skier",
+    "example": "I bought new skis for winter.",
+    "example_german": "Ich habe neue Skier für den Winter gekauft."
+  },
+  {
+    "word": "football match",
+    "translation": "das Fußballspiel",
+    "example": "The football match starts at five.",
+    "example_german": "Das Fußballspiel beginnt um fünf."
+  },
+  {
+    "word": "basketball game",
+    "translation": "das Basketballspiel",
+    "example": "I enjoy watching a basketball game.",
+    "example_german": "Ich schaue gerne ein Basketballspiel."
+  },
+  {
+    "word": "football team",
+    "translation": "die Fußballmannschaft",
+    "example": "The football team is very strong.",
+    "example_german": "Die Fußballmannschaft ist sehr stark."
+  },
+  {
+    "word": "basketball team",
+    "translation": "das Basketballteam",
+    "example": "The basketball team is very strong.",
+    "example_german": "Das Basketballteam ist sehr stark."
+  },
+  {
+    "word": "bike race",
+    "translation": "das Radrennen",
+    "example": "The bike race starts at noon.",
+    "example_german": "Das Radrennen beginnt um Mittag."
+  },
+  {
+    "word": "motorcycle race",
+    "translation": "das Motorradrennen",
+    "example": "The motorcycle race starts at noon.",
+    "example_german": "Das Motorradrennen beginnt um zwölf Uhr."
+  },
+  {
+    "word": "car race",
+    "translation": "das Autorennen",
+    "example": "The car race starts at noon.",
+    "example_german": "Das Autorennen beginnt um Mittag."
+  },
+  {
+    "word": "boxing gloves",
+    "translation": "die Boxhandschuhe",
+    "example": "I need new boxing gloves for training.",
+    "example_german": "Ich brauche neue Boxhandschuhe für das Training."
+  },
+  {
+    "word": "tracksuit",
+    "translation": "der Trainingsanzug",
+    "example": "I wear a tracksuit to exercise.",
+    "example_german": "Ich trage einen Trainingsanzug zum Trainieren."
+  },
+  {
+    "word": "sports shoes",
+    "translation": "die Sportschuhe",
+    "example": "I wear sports shoes for running.",
+    "example_german": "Ich trage die Sportschuhe zum Laufen."
+  },
+  {
+    "word": "to win",
+    "translation": "gewinnen",
+    "example": "I want to win the game.",
+    "example_german": "Ich möchte das Spiel gewinnen."
+  },
+  {
+    "word": "to lose",
+    "translation": "verlieren",
+    "example": "I do not want to lose my keys.",
+    "example_german": "Ich möchte meine Schlüssel nicht verlieren."
+  },
+  {
+    "word": "to tie",
+    "translation": "das Unentschieden",
+    "example": "The game ended in a tie.",
+    "example_german": "Das Spiel endete unentschieden."
+  },
+  {
+    "word": "to play handball",
+    "translation": "Handball (der Handball)",
+    "example": "I like to play handball.",
+    "example_german": "Ich spiele gerne Handball."
+  },
+  {
+    "word": "to play volleyball",
+    "translation": "das Volleyballspielen",
+    "example": "I like to play volleyball.",
+    "example_german": "Ich spiele gerne Volleyball."
+  },
+  {
+    "word": "to play baseball",
+    "translation": "Baseball spielen",
+    "example": "I love to play baseball.",
+    "example_german": "Ich liebe es, Baseball zu spielen."
+  },
+  {
+    "word": "to do athletics",
+    "translation": "der Leichtathletik machen",
+    "example": "I like to do athletics in summer.",
+    "example_german": "Ich mache im Sommer gerne Leichtathletik."
+  },
+  {
+    "word": "to cycle",
+    "translation": "das Radfahren",
+    "example": "I love to cycle every weekend.",
+    "example_german": "Ich liebe es, jedes Wochenende Rad zu fahren."
+  },
+  {
+    "word": "to swim",
+    "translation": "das Schwimmen",
+    "example": "I like to swim in the pool.",
+    "example_german": "Ich schwimme gerne im Schwimmbad."
+  },
+  {
+    "word": "soccer field",
+    "translation": "der Fußballplatz",
+    "example": "The soccer field is very large.",
+    "example_german": "Der Fußballplatz ist sehr groß."
+  },
+  {
+    "word": "tennis court",
+    "translation": "der Tennisplatz",
+    "example": "We will play on the tennis court.",
+    "example_german": "Wir werden auf dem Tennisplatz spielen."
+  },
+  {
+    "word": "card",
+    "translation": "die Karte",
+    "example": "I have a card for the game.",
+    "example_german": "Ich habe eine Karte für das Spiel."
+  },
+  {
+    "word": "die",
+    "translation": "der Würfel",
+    "example": "I rolled the die on the floor.",
+    "example_german": "Ich habe den Würfel auf den Boden geworfen."
+  },
+  {
+    "word": "board",
+    "translation": "das Brett",
+    "example": "The board is on the table.",
+    "example_german": "Das Brett ist auf dem Tisch."
+  },
+  {
+    "word": "box",
+    "translation": "die Box",
+    "example": "The box is on the table.",
+    "example_german": "Die Box steht auf dem Tisch."
+  },
+  {
+    "word": "competition",
+    "translation": "der Wettbewerb",
+    "example": "The competition was very exciting.",
+    "example_german": "Der Wettbewerb war sehr spannend."
+  },
+  {
+    "word": "video game",
+    "translation": "das Videospiel",
+    "example": "I enjoy playing video games every day.",
+    "example_german": "Ich spiele jeden Tag Videospiele."
+  },
+  {
+    "word": "console",
+    "translation": "die Konsole",
+    "example": "The console is very popular.",
+    "example_german": "Die Konsole ist sehr beliebt."
+  },
+  {
+    "word": "board game",
+    "translation": "das Brettspiel",
+    "example": "I enjoy playing a board game.",
+    "example_german": "Ich spiele gerne ein Brettspiel."
+  },
+  {
+    "word": "card game",
+    "translation": "das Kartenspiel",
+    "example": "I enjoy playing a card game.",
+    "example_german": "Ich spiele gerne ein Kartenspiel."
+  },
+  {
+    "word": "to bowl",
+    "translation": "das Bowling",
+    "example": "I love to bowl with friends.",
+    "example_german": "Ich liebe es, mit Freunden Bowling zu spielen."
+  },
+  {
+    "word": "to play darts",
+    "translation": "das Dartspiel",
+    "example": "I like to play darts.",
+    "example_german": "Ich spiele gerne Dart."
+  },
+  {
+    "word": "to play billiards",
+    "translation": "das Billard",
+    "example": "I like to play billiards on weekends.",
+    "example_german": "Ich spiele gerne Billard am Wochenende."
+  },
+  {
+    "word": "to play with the toys",
+    "translation": "mit den Spielzeugen spielen",
+    "example": "Children play with the toys.",
+    "example_german": "Die Kinder spielen mit den Spielzeugen."
+  },
+  {
+    "word": "to play with the ball",
+    "translation": "mit dem Ball spielen",
+    "example": "The kids play with the ball.",
+    "example_german": "Die Kinder spielen mit dem Ball."
+  },
+  {
+    "word": "to win a prize",
+    "translation": "einen Preis gewinnen",
+    "example": "I want to win a prize today.",
+    "example_german": "Ich möchte heute einen Preis gewinnen."
+  },
+  {
+    "word": "to win the Gordo",
+    "translation": "den Gordo gewinnen",
+    "example": "I hope to win the Gordo today.",
+    "example_german": "Ich hoffe, heute den Gordo zu gewinnen."
+  },
+  {
+    "word": "to win the lottery",
+    "translation": "die Lotterie gewinnen",
+    "example": "I hope to win the lottery.",
+    "example_german": "Ich hoffe, die Lotterie zu gewinnen."
+  }
+]

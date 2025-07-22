@@ -1,0 +1,224 @@
+[
+  {
+    "word": "to live in the suburbs",
+    "translation": "in den Vororten",
+    "example": "I live in the suburbs of the city.",
+    "example_german": "Ich wohne in den Vororten der Stadt."
+  },
+  {
+    "word": "to live in the center",
+    "translation": "im Zentrum leben",
+    "example": "I want to live in the center.",
+    "example_german": "Ich möchte im Zentrum leben."
+  },
+  {
+    "word": "to change direction",
+    "translation": "die Richtung wechseln",
+    "example": "I need to change direction now.",
+    "example_german": "Ich muss jetzt die Richtung wechseln."
+  },
+  {
+    "word": "newborn",
+    "translation": "der Neugeborene",
+    "example": "The newborn is very small and fragile.",
+    "example_german": "Der Neugeborene ist sehr klein und zerbrechlich."
+  },
+  {
+    "word": "elderly",
+    "translation": "der alte Mann",
+    "example": "The elderly man walks slowly.",
+    "example_german": "Der alte Mann geht langsam."
+  },
+  {
+    "word": "male",
+    "translation": "der Mann",
+    "example": "The male lion is very large.",
+    "example_german": "Der männliche Löwe ist sehr groß."
+  },
+  {
+    "word": "female",
+    "translation": "die Henne",
+    "example": "The female dog is very friendly.",
+    "example_german": "Die Hündin ist sehr freundlich."
+  },
+  {
+    "word": "masculine",
+    "translation": "der männliche",
+    "example": "He has a masculine appearance.",
+    "example_german": "Er hat ein männliches Aussehen."
+  },
+  {
+    "word": "feminine",
+    "translation": "das Weiblich",
+    "example": "The feminine form is used here.",
+    "example_german": "Die weibliche Form wird hier verwendet."
+  },
+  {
+    "word": "heterosexual",
+    "translation": "heterosexuell",
+    "example": "He identifies as heterosexual and proud.",
+    "example_german": "Er identifiziert sich als heterosexuell und stolz."
+  },
+  {
+    "word": "homosexual",
+    "translation": "der Homosexuelle",
+    "example": "She is a homosexual woman.",
+    "example_german": "Sie ist eine homosexuelle Frau."
+  },
+  {
+    "word": "bisexual",
+    "translation": "bisexuell",
+    "example": "He identifies as bisexual and proud.",
+    "example_german": "Er identifiziert sich als bisexuell und stolz."
+  },
+  {
+    "word": "transsexual",
+    "translation": "der Transsexuelle",
+    "example": "He identifies as a transsexual person.",
+    "example_german": "Er identifiziert sich als transsexuelle Person."
+  },
+  {
+    "word": "gay",
+    "translation": "der Schwule",
+    "example": "He is a gay man.",
+    "example_german": "Er ist ein schwuler Mann."
+  },
+  {
+    "word": "lesbian",
+    "translation": "die Lesbe",
+    "example": "She is a lesbian woman.",
+    "example_german": "Sie ist eine lesbische Frau."
+  },
+  {
+    "word": "civil wedding",
+    "translation": "die standesamtliche Hochzeit",
+    "example": "The civil wedding was very beautiful.",
+    "example_german": "Die standesamtliche Hochzeit war sehr schön."
+  },
+  {
+    "word": "religious wedding",
+    "translation": "die religiöse Hochzeit",
+    "example": "The religious wedding was very beautiful.",
+    "example_german": "Die religiöse Hochzeit war sehr schön."
+  },
+  {
+    "word": "divorce",
+    "translation": "der Divorce",
+    "example": "Divorce can be very challenging.",
+    "example_german": "Der Divorce kann sehr herausfordernd sein."
+  },
+  {
+    "word": "separation",
+    "translation": "die Trennung",
+    "example": "The separation caused a lot of pain.",
+    "example_german": "Die Trennung verursachte viel Schmerz."
+  },
+  {
+    "word": "same-sex marriage",
+    "translation": "die gleichgeschlechtliche Ehe",
+    "example": "Same-sex marriage is recognized in many countries.",
+    "example_german": "Die gleichgeschlechtliche Ehe wird in vielen Ländern anerkannt."
+  },
+  {
+    "word": "heterosexual marriage",
+    "translation": "die heterosexuelle Ehe",
+    "example": "Heterosexual marriage is recognized in many cultures.",
+    "example_german": "Die heterosexuelle Ehe wird in vielen Kulturen anerkannt."
+  },
+  {
+    "word": "common-law partner",
+    "translation": "die eingetragene Partnerschaft",
+    "example": "She lives with her common-law partner.",
+    "example_german": "Sie lebt mit ihrem eingetragenen Partner."
+  },
+  {
+    "word": "bureaucracy",
+    "translation": "die Bürokratie",
+    "example": "Bureaucracy often slows down progress.",
+    "example_german": "Die Bürokratie verlangsamt oft den Fortschritt."
+  },
+  {
+    "word": "official",
+    "translation": "der Beamte",
+    "example": "The official signed the document.",
+    "example_german": "Der Beamte unterschrieb das Dokument."
+  },
+  {
+    "word": "National Identity Document",
+    "translation": "der Personalausweis",
+    "example": "I need my National Identity Document.",
+    "example_german": "Ich brauche meinen Personalausweis."
+  },
+  {
+    "word": "ID card",
+    "translation": "der Personalausweis",
+    "example": "I always carry my ID card.",
+    "example_german": "Ich habe immer meinen Personalausweis dabei."
+  },
+  {
+    "word": "to have a document",
+    "translation": "ein Dokument",
+    "example": "I need to have a document ready.",
+    "example_german": "Ich muss ein Dokument bereit haben."
+  },
+  {
+    "word": "to request a document",
+    "translation": "ein Dokument anfordern",
+    "example": "I need to request a document now.",
+    "example_german": "Ich muss jetzt ein Dokument anfordern."
+  },
+  {
+    "word": "to renew a document",
+    "translation": "ein Dokument erneuern",
+    "example": "I need to renew a document today.",
+    "example_german": "Ich muss heute ein Dokument erneuern."
+  },
+  {
+    "word": "to lose a document",
+    "translation": "ein Dokument verlieren",
+    "example": "I lost an important document.",
+    "example_german": "Ich habe ein wichtiges Dokument verloren."
+  },
+  {
+    "word": "diary",
+    "translation": "das Tagebuch",
+    "example": "I write in my diary every day.",
+    "example_german": "Ich schreibe jeden Tag in mein Tagebuch."
+  },
+  {
+    "word": "photo album",
+    "translation": "das Fotoalbum",
+    "example": "I bought a new photo album.",
+    "example_german": "Ich habe ein neues Fotoalbum gekauft."
+  },
+  {
+    "word": "jewel",
+    "translation": "der Schmuck",
+    "example": "This jewel is very beautiful.",
+    "example_german": "Dieser Schmuck ist sehr schön."
+  },
+  {
+    "word": "ring",
+    "translation": "der Ring",
+    "example": "He bought a gold ring.",
+    "example_german": "Er kaufte einen goldenen Ring."
+  },
+  {
+    "word": "necklace",
+    "translation": "das Halsband",
+    "example": "The necklace is very beautiful.",
+    "example_german": "Das Halsband ist sehr schön."
+  },
+  {
+    "word": "earrings",
+    "translation": "die Ohrringe",
+    "example": "She bought new earrings yesterday.",
+    "example_german": "Sie hat gestern neue Ohrringe gekauft."
+  },
+  {
+    "word": "bracelet",
+    "translation": "die Armbanduhr",
+    "example": "She is wearing a beautiful bracelet.",
+    "example_german": "Sie trägt ein schönes Armband."
+  }
+]

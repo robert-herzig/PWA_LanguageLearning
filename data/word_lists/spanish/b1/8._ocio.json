@@ -1,0 +1,560 @@
+[
+  {
+    "word": "descanso",
+    "translation": "die Pause",
+    "example": "Necesito un descanso ahora.",
+    "example_german": "Ich brauche jetzt eine Pause."
+  },
+  {
+    "word": "vacación",
+    "translation": "die Vakanz",
+    "example": "Voy de vacaciones en julio.",
+    "example_german": "Ich gehe im Juli in den Urlaub."
+  },
+  {
+    "word": "cocina",
+    "translation": "die Küche",
+    "example": "Me gusta cocinar en la cocina.",
+    "example_german": "Ich koche gerne in der Küche."
+  },
+  {
+    "word": "jardinería",
+    "translation": "die Gartenarbeit",
+    "example": "Me gusta la jardinería en primavera.",
+    "example_german": "Ich mag die Gartenarbeit im Frühling."
+  },
+  {
+    "word": "bricolaje",
+    "translation": "der Bricolage",
+    "example": "El bricolaje es muy divertido.",
+    "example_german": "Der Bricolage macht viel Spaß."
+  },
+  {
+    "word": "ir de camping",
+    "translation": "campen",
+    "example": "Vamos a ir de camping este fin de semana.",
+    "example_german": "Wir werden dieses Wochenende campen gehen."
+  },
+  {
+    "word": "hacer un picnic",
+    "translation": "ein Picknick machen",
+    "example": "Vamos a hacer un picnic hoy.",
+    "example_german": "Wir werden heute ein Picknick machen."
+  },
+  {
+    "word": "hacer turismo",
+    "translation": "Tourismus machen",
+    "example": "Me gusta hacer turismo en verano.",
+    "example_german": "Ich mache im Sommer gerne Tourismus."
+  },
+  {
+    "word": "inscribirse en un club",
+    "translation": "sich in einem Verein anmelden",
+    "example": "Quiero inscribirme en un club.",
+    "example_german": "Ich möchte mich in einem Verein anmelden."
+  },
+  {
+    "word": "inscribirse en una asociación",
+    "translation": "sich in einem Verein anmelden",
+    "example": "Quiero inscribirme en una asociación.",
+    "example_german": "Ich möchte mich in einem Verein anmelden."
+  },
+  {
+    "word": "inscribirse en un grupo",
+    "translation": "sich in eine Gruppe einschreiben",
+    "example": "Me quiero inscribir en un grupo.",
+    "example_german": "Ich möchte mich in eine Gruppe einschreiben."
+  },
+  {
+    "word": "colaborar como voluntario",
+    "translation": "der Freiwillige",
+    "example": "Quiero colaborar como voluntario aquí.",
+    "example_german": "Ich möchte hier als Freiwilliger arbeiten."
+  },
+  {
+    "word": "tener tiempo libre",
+    "translation": "die Freizeit haben",
+    "example": "Me gusta tener tiempo libre.",
+    "example_german": "Ich mag es, Freizeit zu haben."
+  },
+  {
+    "word": "estar ocupado",
+    "translation": "beschäftigt sein",
+    "example": "Estoy ocupado ahora mismo.",
+    "example_german": "Ich bin jetzt beschäftigt."
+  },
+  {
+    "word": "estar libre",
+    "translation": "frei sein",
+    "example": "Hoy estoy libre todo el día.",
+    "example_german": "Heute bin ich den ganzen Tag frei."
+  },
+  {
+    "word": "tener un compromiso",
+    "translation": "eine Verpflichtung",
+    "example": "Tengo un compromiso esta tarde.",
+    "example_german": "Ich habe heute Nachmittag eine Verpflichtung."
+  },
+  {
+    "word": "ir de copas",
+    "translation": "das Trinken gehen",
+    "example": "Vamos a ir de copas esta noche.",
+    "example_german": "Wir gehen heute Abend trinken."
+  },
+  {
+    "word": "ir de tapas",
+    "translation": "die Tapas essen",
+    "example": "Vamos a ir de tapas esta noche.",
+    "example_german": "Wir gehen heute Abend Tapas essen."
+  },
+  {
+    "word": "ir de marcha",
+    "translation": "das Ausgehen",
+    "example": "Vamos a ir de marcha esta noche.",
+    "example_german": "Wir gehen heute Abend ausgehen."
+  },
+  {
+    "word": "salir de copas",
+    "translation": "das Ausgehen",
+    "example": "Vamos a salir de copas esta noche.",
+    "example_german": "Wir gehen heute Abend aus."
+  },
+  {
+    "word": "salir de tapas",
+    "translation": "die Tapas",
+    "example": "Vamos a salir de tapas esta noche.",
+    "example_german": "Wir gehen heute Abend Tapas essen."
+  },
+  {
+    "word": "salir de marcha",
+    "translation": "die Nacht hinausgehen",
+    "example": "Vamos a salir de marcha esta noche.",
+    "example_german": "Wir werden heute Nacht hinausgehen."
+  },
+  {
+    "word": "aburrirse",
+    "translation": "sich langweilen",
+    "example": "Me aburro en la clase.",
+    "example_german": "Ich langweile mich im Unterricht."
+  },
+  {
+    "word": "pasarlo bien",
+    "translation": "das Vergnügen haben",
+    "example": "Siempre trato de pasarlo bien.",
+    "example_german": "Ich versuche immer, das Vergnügen zu haben."
+  },
+  {
+    "word": "pasarlo mal",
+    "translation": "schlecht gehen",
+    "example": "Hoy voy a pasarlo mal.",
+    "example_german": "Heute werde ich schlecht gehen."
+  },
+  {
+    "word": "divertirse",
+    "translation": "sich amüsieren",
+    "example": "Nosotros vamos a divertirnos hoy.",
+    "example_german": "Wir werden heute Spaß haben."
+  },
+  {
+    "word": "hacer un curso de jardinería",
+    "translation": "einen Gartenbaukurs machen",
+    "example": "Quiero hacer un curso de jardinería.",
+    "example_german": "Ich möchte einen Gartenbaukurs machen."
+  },
+  {
+    "word": "hacer un curso de cocina",
+    "translation": "einen Kochkurs machen",
+    "example": "Voy a hacer un curso de cocina.",
+    "example_german": "Ich werde einen Kochkurs machen."
+  },
+  {
+    "word": "ser aficionado a hacer crucigramas",
+    "translation": "der Kreuzworträtsel-Fan",
+    "example": "Me gusta ser aficionado a hacer crucigramas.",
+    "example_german": "Ich mag es, ein Kreuzworträtsel-Fan zu sein."
+  },
+  {
+    "word": "coleccionar sellos",
+    "translation": "die Briefmarkensammlung",
+    "example": "Me gusta coleccionar sellos antiguos.",
+    "example_german": "Ich sammle gerne alte Briefmarken."
+  },
+  {
+    "word": "coleccionar monedas",
+    "translation": "Münzen sammeln",
+    "example": "Me gusta coleccionar monedas antiguas.",
+    "example_german": "Ich sammle gerne alte Münzen."
+  },
+  {
+    "word": "asiento de un cine",
+    "translation": "der Kinoplatz",
+    "example": "Me gusta mi asiento de un cine.",
+    "example_german": "Ich mag meinen Kinoplatz."
+  },
+  {
+    "word": "asiento de un teatro",
+    "translation": "der Theaterplatz",
+    "example": "Me gusta mi asiento de un teatro.",
+    "example_german": "Ich mag meinen Theaterplatz."
+  },
+  {
+    "word": "fila de un cine",
+    "translation": "die Reihe im Kino",
+    "example": "Estamos en la fila de un cine.",
+    "example_german": "Wir stehen in der Reihe im Kino."
+  },
+  {
+    "word": "fila de un teatro",
+    "translation": "die Reihe im Theater",
+    "example": "Estamos en la fila de un teatro.",
+    "example_german": "Wir sind in der Reihe im Theater."
+  },
+  {
+    "word": "espectador",
+    "translation": "der Zuschauer",
+    "example": "El espectador aplaudió al final.",
+    "example_german": "Der Zuschauer applaudierte am Ende."
+  },
+  {
+    "word": "público",
+    "translation": "das Publikum",
+    "example": "El público aplaudió al final.",
+    "example_german": "Das Publikum applaudierte am Ende."
+  },
+  {
+    "word": "escenario",
+    "translation": "das Szenario",
+    "example": "El escenario es muy bonito.",
+    "example_german": "Das Szenario ist sehr schön."
+  },
+  {
+    "word": "galería de arte",
+    "translation": "die Kunstgalerie",
+    "example": "Visité la galería de arte ayer.",
+    "example_german": "Ich besuchte die Kunstgalerie gestern."
+  },
+  {
+    "word": "plaza de toros",
+    "translation": "die Stierkampfarena",
+    "example": "La plaza de toros está llena hoy.",
+    "example_german": "Die Stierkampfarena ist heute voll."
+  },
+  {
+    "word": "poner una película",
+    "translation": "einen Film zeigen",
+    "example": "Voy a poner una película hoy.",
+    "example_german": "Ich werde heute einen Film zeigen."
+  },
+  {
+    "word": "hacer cola",
+    "translation": "anstehen",
+    "example": "Voy a hacer cola en la tienda.",
+    "example_german": "Ich werde in dem Geschäft anstehen."
+  },
+  {
+    "word": "ser un éxito",
+    "translation": "ein Erfolg",
+    "example": "El proyecto va a ser un éxito.",
+    "example_german": "Das Projekt wird ein Erfolg sein."
+  },
+  {
+    "word": "árbitro",
+    "translation": "der Schiedsrichter",
+    "example": "El árbitro controla el partido.",
+    "example_german": "Der Schiedsrichter kontrolliert das Spiel."
+  },
+  {
+    "word": "entrenador",
+    "translation": "der Trainer",
+    "example": "El entrenador enseña a los jugadores.",
+    "example_german": "Der Trainer lehrt die Spieler."
+  },
+  {
+    "word": "deportista",
+    "translation": "der Sportler",
+    "example": "Ella es una gran deportista.",
+    "example_german": "Sie ist eine großartige Sportlerin."
+  },
+  {
+    "word": "jugador",
+    "translation": "der Spieler",
+    "example": "El jugador corre rápido.",
+    "example_german": "Der Spieler läuft schnell."
+  },
+  {
+    "word": "perdedor",
+    "translation": "der Verlierer",
+    "example": "Él es un perdedor en el juego.",
+    "example_german": "Er ist ein Verlierer im Spiel."
+  },
+  {
+    "word": "ganador",
+    "translation": "der Gewinner",
+    "example": "El ganador recibió un premio.",
+    "example_german": "Der Gewinner erhielt einen Preis."
+  },
+  {
+    "word": "balón de fútbol",
+    "translation": "der Fußball",
+    "example": "El balón de fútbol es redondo.",
+    "example_german": "Der Fußball ist rund."
+  },
+  {
+    "word": "balón de baloncesto",
+    "translation": "der Basketball",
+    "example": "El balón de baloncesto es naranja.",
+    "example_german": "Der Basketball ist orange."
+  },
+  {
+    "word": "pelota de tenis",
+    "translation": "der Tennisball",
+    "example": "La pelota de tenis es verde.",
+    "example_german": "Der Tennisball ist grün."
+  },
+  {
+    "word": "pelota de golf",
+    "translation": "der Golfball",
+    "example": "La pelota de golf es verde.",
+    "example_german": "Der Golfball ist grün."
+  },
+  {
+    "word": "raqueta",
+    "translation": "die Racket",
+    "example": "Ella tiene una raqueta nueva.",
+    "example_german": "Sie hat einen neuen Schläger."
+  },
+  {
+    "word": "esquíes",
+    "translation": "die Skier",
+    "example": "Yo tengo mis esquíes nuevos.",
+    "example_german": "Ich habe meine neuen Skier."
+  },
+  {
+    "word": "partido de fútbol",
+    "translation": "das Fußballspiel",
+    "example": "El partido de fútbol es emocionante.",
+    "example_german": "Das Fußballspiel ist spannend."
+  },
+  {
+    "word": "partido de baloncesto",
+    "translation": "das Basketballspiel",
+    "example": "Voy a ver un partido de baloncesto.",
+    "example_german": "Ich werde ein Basketballspiel sehen."
+  },
+  {
+    "word": "equipo de fútbol",
+    "translation": "die Fußballmannschaft",
+    "example": "El equipo de fútbol juega hoy.",
+    "example_german": "Die Fußballmannschaft spielt heute."
+  },
+  {
+    "word": "equipo de baloncesto",
+    "translation": "das Basketballteam",
+    "example": "El equipo de baloncesto ganó el partido.",
+    "example_german": "Das Basketballteam hat das Spiel gewonnen."
+  },
+  {
+    "word": "carrera ciclista",
+    "translation": "das Radrennen",
+    "example": "La carrera ciclista es emocionante.",
+    "example_german": "Das Radrennen ist spannend."
+  },
+  {
+    "word": "carrera de motos",
+    "translation": "das Motorradrennen",
+    "example": "La carrera de motos es emocionante.",
+    "example_german": "Das Motorradrennen ist spannend."
+  },
+  {
+    "word": "carrera de coches",
+    "translation": "das Autorennen",
+    "example": "La carrera de coches es emocionante.",
+    "example_german": "Das Autorennen ist spannend."
+  },
+  {
+    "word": "guantes de boxeo",
+    "translation": "die Boxhandschuhe",
+    "example": "Los guantes de boxeo son importantes.",
+    "example_german": "Die Boxhandschuhe sind wichtig."
+  },
+  {
+    "word": "chándal",
+    "translation": "der Trainingsanzug",
+    "example": "Me gusta llevar un chándal cómodo.",
+    "example_german": "Ich trage gerne einen bequemen Trainingsanzug."
+  },
+  {
+    "word": "zapatos deportivos",
+    "translation": "die Sportschuhe",
+    "example": "Me gustan los zapatos deportivos.",
+    "example_german": "Ich mag die Sportschuhe."
+  },
+  {
+    "word": "ganar",
+    "translation": "gewinnen",
+    "example": "Quiero ganar el juego.",
+    "example_german": "Ich möchte das Spiel gewinnen."
+  },
+  {
+    "word": "perder",
+    "translation": "verlieren",
+    "example": "Voy a perder el juego.",
+    "example_german": "Ich werde das Spiel verlieren."
+  },
+  {
+    "word": "empatar",
+    "translation": "das Unentschieden",
+    "example": "El partido terminó en empate.",
+    "example_german": "Das Spiel endete unentschieden."
+  },
+  {
+    "word": "jugar al balonmano",
+    "translation": "Handball (der Handball)",
+    "example": "Me gusta jugar al balonmano.",
+    "example_german": "Ich spiele gerne Handball."
+  },
+  {
+    "word": "jugar al voleibol",
+    "translation": "das Volleyballspielen",
+    "example": "Me gusta jugar al voleibol.",
+    "example_german": "Ich spiele gerne Volleyball."
+  },
+  {
+    "word": "jugar al béisbol",
+    "translation": "Baseball spielen",
+    "example": "Me gusta jugar al béisbol.",
+    "example_german": "Ich spiele gerne Baseball."
+  },
+  {
+    "word": "hacer atletismo",
+    "translation": "der Leichtathletik machen",
+    "example": "Me gusta hacer atletismo en verano.",
+    "example_german": "Ich mache im Sommer gerne Leichtathletik."
+  },
+  {
+    "word": "hacer ciclismo",
+    "translation": "das Radfahren",
+    "example": "Me gusta hacer ciclismo en verano.",
+    "example_german": "Ich mache im Sommer Radfahren."
+  },
+  {
+    "word": "hacer natación",
+    "translation": "das Schwimmen",
+    "example": "Me gusta hacer natación en verano.",
+    "example_german": "Ich schwimme im Sommer gerne."
+  },
+  {
+    "word": "campo de fútbol",
+    "translation": "der Fußballplatz",
+    "example": "El campo de fútbol está ocupado.",
+    "example_german": "Der Fußballplatz ist besetzt."
+  },
+  {
+    "word": "pista de tenis",
+    "translation": "der Tennisplatz",
+    "example": "Vamos a jugar en la pista de tenis.",
+    "example_german": "Wir werden auf dem Tennisplatz spielen."
+  },
+  {
+    "word": "ficha",
+    "translation": "die Karteikarte",
+    "example": "Necesito una ficha para el examen.",
+    "example_german": "Ich brauche eine Karteikarte für die Prüfung."
+  },
+  {
+    "word": "dado",
+    "translation": "der Würfel",
+    "example": "El dado está en la mesa.",
+    "example_german": "Der Würfel liegt auf dem Tisch."
+  },
+  {
+    "word": "tablero",
+    "translation": "das Brett",
+    "example": "El tablero está en la mesa.",
+    "example_german": "Das Brett ist auf dem Tisch."
+  },
+  {
+    "word": "casilla",
+    "translation": "die Box",
+    "example": "La casilla está llena de libros.",
+    "example_german": "Die Box ist voller Bücher."
+  },
+  {
+    "word": "concurso",
+    "translation": "der Wettbewerb",
+    "example": "El concurso fue muy emocionante.",
+    "example_german": "Der Wettbewerb war sehr spannend."
+  },
+  {
+    "word": "videojuego",
+    "translation": "das Videospiel",
+    "example": "Me gusta jugar videojuegos con amigos.",
+    "example_german": "Ich spiele gerne Videospiele mit Freunden."
+  },
+  {
+    "word": "consola",
+    "translation": "die Konsole",
+    "example": "La consola está encendida.",
+    "example_german": "Die Konsole ist eingeschaltet."
+  },
+  {
+    "word": "juego de mesa",
+    "translation": "das Brettspiel",
+    "example": "Me gusta jugar un juego de mesa.",
+    "example_german": "Ich spiele gerne ein Brettspiel."
+  },
+  {
+    "word": "juego de cartas",
+    "translation": "das Kartenspiel",
+    "example": "Me gusta jugar un juego de cartas.",
+    "example_german": "Ich spiele gerne ein Kartenspiel."
+  },
+  {
+    "word": "jugar a los bolos",
+    "translation": "Bowling",
+    "example": "Me gusta jugar a los bolos.",
+    "example_german": "Ich spiele gerne Bowling."
+  },
+  {
+    "word": "jugar a los dardos",
+    "translation": "das Dartspiel",
+    "example": "Me gusta jugar a los dardos.",
+    "example_german": "Ich spiele gerne Dart."
+  },
+  {
+    "word": "jugar al billar",
+    "translation": "das Billard",
+    "example": "Me gusta jugar al billar con amigos.",
+    "example_german": "Ich spiele gerne Billard mit Freunden."
+  },
+  {
+    "word": "jugar con los juguetes",
+    "translation": "mit den Spielzeugen spielen",
+    "example": "Los niños juegan con los juguetes.",
+    "example_german": "Die Kinder spielen mit den Spielzeugen."
+  },
+  {
+    "word": "jugar con la pelota",
+    "translation": "mit dem Ball spielen",
+    "example": "Los niños juegan con la pelota.",
+    "example_german": "Die Kinder spielen mit dem Ball."
+  },
+  {
+    "word": "tocar un premio",
+    "translation": "einen Preis gewinnen",
+    "example": "Quiero tocar un premio hoy.",
+    "example_german": "Ich möchte heute einen Preis gewinnen."
+  },
+  {
+    "word": "tocar el Gordo",
+    "translation": "den Gordo gewinnen",
+    "example": "Hoy quiero tocar el Gordo.",
+    "example_german": "Heute möchte ich den Gordo gewinnen."
+  },
+  {
+    "word": "tocar la lotería",
+    "translation": "die Lotterie gewinnen",
+    "example": "Él quiere tocar la lotería.",
+    "example_german": "Er möchte die Lotterie gewinnen."
+  }
+]

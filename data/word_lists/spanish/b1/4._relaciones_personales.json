@@ -1,0 +1,512 @@
+[
+  {
+    "word": "matrimonio homosexual",
+    "translation": "die homosexuelle Ehe",
+    "example": "El matrimonio homosexual es legal aquí.",
+    "example_german": "Die homosexuelle Ehe ist hier legal."
+  },
+  {
+    "word": "matrimonio heterosexual",
+    "translation": "die heterosexuelle Ehe",
+    "example": "El matrimonio heterosexual es común en muchas culturas.",
+    "example_german": "Die heterosexuelle Ehe ist in vielen Kulturen verbreitet."
+  },
+  {
+    "word": "pareja de hecho",
+    "translation": "die eingetragene Partnerschaft",
+    "example": "Ellos son una pareja de hecho.",
+    "example_german": "Sie sind eine eingetragene Partnerschaft."
+  },
+  {
+    "word": "madre soltera",
+    "translation": "die alleinerziehende Mutter",
+    "example": "Ella es una madre soltera.",
+    "example_german": "Sie ist eine alleinerziehende Mutter."
+  },
+  {
+    "word": "niño adoptado",
+    "translation": "der adoptierte Junge",
+    "example": "El niño adoptado es muy feliz.",
+    "example_german": "Der adoptierte Junge ist sehr glücklich."
+  },
+  {
+    "word": "adoptar un niño",
+    "translation": "ein Kind adoptieren",
+    "example": "Quiero adoptar un niño este año.",
+    "example_german": "Ich möchte dieses Jahr ein Kind adoptieren."
+  },
+  {
+    "word": "educar a un hijo",
+    "translation": "einen Sohn erziehen",
+    "example": "Es importante educar a un hijo.",
+    "example_german": "Es ist wichtig, einen Sohn zu erziehen."
+  },
+  {
+    "word": "convivir con la pareja",
+    "translation": "mit dem Partner leben",
+    "example": "Es importante convivir con la pareja.",
+    "example_german": "Es ist wichtig, mit dem Partner zu leben."
+  },
+  {
+    "word": "convivir con el novio",
+    "translation": "mit dem Freund zusammenleben",
+    "example": "Ella quiere convivir con el novio.",
+    "example_german": "Sie möchte mit dem Freund zusammenleben."
+  },
+  {
+    "word": "vivir con la pareja",
+    "translation": "mit dem Partner leben",
+    "example": "Vivo con la pareja en casa.",
+    "example_german": "Ich lebe mit dem Partner zu Hause."
+  },
+  {
+    "word": "vivir con el novio",
+    "translation": "mit dem Freund leben",
+    "example": "Ella quiere vivir con el novio.",
+    "example_german": "Sie möchte mit dem Freund leben."
+  },
+  {
+    "word": "llevar años juntos",
+    "translation": "zusammen sein seit Jahren",
+    "example": "Llevamos años juntos y somos felices.",
+    "example_german": "Wir sind seit Jahren zusammen und glücklich."
+  },
+  {
+    "word": "llevar años en pareja",
+    "translation": "in einer Beziehung sein",
+    "example": "Llevamos años en pareja felices.",
+    "example_german": "Wir sind seit Jahren glücklich in einer Beziehung."
+  },
+  {
+    "word": "llevar años viviendo juntos",
+    "translation": "zusammenleben seit Jahren",
+    "example": "Llevamos años viviendo juntos en esta casa.",
+    "example_german": "Wir leben seit Jahren zusammen in diesem Haus."
+  },
+  {
+    "word": "llevar años conviviendo juntos",
+    "translation": "zusammen leben seit Jahren",
+    "example": "Llevamos años conviviendo juntos.",
+    "example_german": "Wir leben seit Jahren zusammen."
+  },
+  {
+    "word": "obedecer a los padres",
+    "translation": "den Eltern gehorchen",
+    "example": "Los niños deben obedecer a los padres.",
+    "example_german": "Die Kinder müssen den Eltern gehorchen."
+  },
+  {
+    "word": "desobedecer a los padres",
+    "translation": "die Eltern missachten",
+    "example": "Los niños desobedecen a los padres.",
+    "example_german": "Die Kinder missachten die Eltern."
+  },
+  {
+    "word": "discutir con los padres",
+    "translation": "mit den Eltern diskutieren",
+    "example": "Voy a discutir con los padres.",
+    "example_german": "Ich werde mit den Eltern diskutieren."
+  },
+  {
+    "word": "discutir con los hermanos",
+    "translation": "mit den Brüdern diskutieren",
+    "example": "Voy a discutir con los hermanos.",
+    "example_german": "Ich werde mit den Brüdern diskutieren."
+  },
+  {
+    "word": "discutir con los hijos",
+    "translation": "mit den Kindern diskutieren",
+    "example": "Es importante discutir con los hijos.",
+    "example_german": "Es ist wichtig, mit den Kindern zu diskutieren."
+  },
+  {
+    "word": "crecer feliz",
+    "translation": "das glückliche Wachsen",
+    "example": "Los niños crecen felices en el parque.",
+    "example_german": "Die Kinder wachsen glücklich im Park."
+  },
+  {
+    "word": "crecer fuerte",
+    "translation": "stark wachsen",
+    "example": "Quiero crecer fuerte y saludable.",
+    "example_german": "Ich möchte stark und gesund wachsen."
+  },
+  {
+    "word": "crecer sano",
+    "translation": "gesund wachsen",
+    "example": "Los niños deben crecer sanos.",
+    "example_german": "Die Kinder müssen gesund wachsen."
+  },
+  {
+    "word": "colega",
+    "translation": "der Kollege",
+    "example": "Mi colega es muy amable.",
+    "example_german": "Mein Kollege ist sehr freundlich."
+  },
+  {
+    "word": "amigo de la infancia",
+    "translation": "der Freund aus der Kindheit",
+    "example": "Él es mi amigo de la infancia.",
+    "example_german": "Er ist mein Freund aus der Kindheit."
+  },
+  {
+    "word": "amigo de universidad",
+    "translation": "der Universitätsfreund",
+    "example": "Él es mi amigo de universidad.",
+    "example_german": "Er ist mein Universitätsfreund."
+  },
+  {
+    "word": "buen amigo",
+    "translation": "der gute Freund",
+    "example": "Él es un buen amigo.",
+    "example_german": "Er ist ein guter Freund."
+  },
+  {
+    "word": "gran amigo",
+    "translation": "der gute Freund",
+    "example": "Él es un gran amigo.",
+    "example_german": "Er ist ein guter Freund."
+  },
+  {
+    "word": "tener novio",
+    "translation": "einen Freund haben",
+    "example": "Ella quiere tener novio este año.",
+    "example_german": "Sie möchte dieses Jahr einen Freund haben."
+  },
+  {
+    "word": "tener pareja",
+    "translation": "eine Partnerin / einen Partner haben",
+    "example": "Ella quiere tener pareja pronto.",
+    "example_german": "Sie möchte bald eine Partnerin haben."
+  },
+  {
+    "word": "tener una aventura",
+    "translation": "eine Abenteuer",
+    "example": "Quiero tener una aventura emocionante.",
+    "example_german": "Ich möchte ein aufregendes Abenteuer haben."
+  },
+  {
+    "word": "tener una relación",
+    "translation": "eine Beziehung haben",
+    "example": "Ellos quieren tener una relación.",
+    "example_german": "Sie wollen eine Beziehung haben."
+  },
+  {
+    "word": "tener una relación de amistad",
+    "translation": "eine Freundschaft haben",
+    "example": "Nosotros tenemos una relación de amistad.",
+    "example_german": "Wir haben eine Freundschaft."
+  },
+  {
+    "word": "tener una relación de amor",
+    "translation": "eine Liebesbeziehung",
+    "example": "Ellos quieren tener una relación de amor.",
+    "example_german": "Sie wollen eine Liebesbeziehung haben."
+  },
+  {
+    "word": "tener una relación de trabajo",
+    "translation": "die Arbeitsbeziehung",
+    "example": "Ella tiene una relación de trabajo buena.",
+    "example_german": "Sie hat eine gute Arbeitsbeziehung."
+  },
+  {
+    "word": "empezar una relación",
+    "translation": "eine Beziehung anfangen",
+    "example": "Quiero empezar una relación seria.",
+    "example_german": "Ich möchte eine ernsthafte Beziehung anfangen."
+  },
+  {
+    "word": "acabar una relación",
+    "translation": "eine Beziehung beenden",
+    "example": "Decidí acabar una relación difícil.",
+    "example_german": "Ich habe beschlossen, eine schwierige Beziehung zu beenden."
+  },
+  {
+    "word": "terminar una relación",
+    "translation": "eine Beziehung beenden",
+    "example": "Decidí terminar una relación difícil.",
+    "example_german": "Ich habe beschlossen, eine schwierige Beziehung zu beenden."
+  },
+  {
+    "word": "salir con alguien",
+    "translation": "mit jemandem ausgehen",
+    "example": "Ella quiere salir con alguien especial.",
+    "example_german": "Sie möchte mit jemandem Besonderem ausgehen."
+  },
+  {
+    "word": "romper con alguien",
+    "translation": "mit jemandem Schluss machen",
+    "example": "Ella decidió romper con él.",
+    "example_german": "Sie entschied sich, mit ihm Schluss zu machen."
+  },
+  {
+    "word": "caer bien",
+    "translation": "gut gefallen",
+    "example": "Me cae bien tu amigo.",
+    "example_german": "Dein Freund gefällt mir gut."
+  },
+  {
+    "word": "caer mal",
+    "translation": "schlecht ankommen",
+    "example": "No me cae bien esa persona.",
+    "example_german": "Diese Person kommt mir nicht gut an."
+  },
+  {
+    "word": "llevarse bien",
+    "translation": "sich gut verstehen",
+    "example": "Nos llevamos bien en el trabajo.",
+    "example_german": "Wir verstehen uns gut bei der Arbeit."
+  },
+  {
+    "word": "llevarse mal",
+    "translation": "sich schlecht verstehen",
+    "example": "Ellos siempre se llevan mal.",
+    "example_german": "Sie verstehen sich immer schlecht."
+  },
+  {
+    "word": "dar la mano",
+    "translation": "die Hand geben",
+    "example": "Voy a dar la mano a Juan.",
+    "example_german": "Ich werde Juan die Hand geben."
+  },
+  {
+    "word": "dar un abrazo",
+    "translation": "umarmung geben",
+    "example": "Quiero dar un abrazo a mi amigo.",
+    "example_german": "Ich möchte meinem Freund eine Umarmung geben."
+  },
+  {
+    "word": "dar un beso",
+    "translation": "einen Kuss geben",
+    "example": "Voy a dar un beso a mi madre.",
+    "example_german": "Ich werde meiner Mutter einen Kuss geben."
+  },
+  {
+    "word": "abrazarse",
+    "translation": "sich umarmen",
+    "example": "Nos gusta abrazarnos después de jugar.",
+    "example_german": "Wir umarmen uns gerne nach dem Spielen."
+  },
+  {
+    "word": "besarse",
+    "translation": "sich küssen",
+    "example": "Ellos se besan en el parque.",
+    "example_german": "Sie küssen sich im Park."
+  },
+  {
+    "word": "ligar",
+    "translation": "das Anbandeln",
+    "example": "Ella quiere ligar en la fiesta.",
+    "example_german": "Sie möchte auf der Party anbandeln."
+  },
+  {
+    "word": "fiesta típica",
+    "translation": "die typische Feier",
+    "example": "La fiesta típica es muy divertida.",
+    "example_german": "Die typische Feier ist sehr lustig."
+  },
+  {
+    "word": "fiesta popular",
+    "translation": "das Volksfest",
+    "example": "La fiesta popular es muy divertida.",
+    "example_german": "Das Volksfest macht viel Spaß."
+  },
+  {
+    "word": "fiesta tradicional",
+    "translation": "die traditionelle Feier",
+    "example": "La fiesta tradicional es muy divertida.",
+    "example_german": "Die traditionelle Feier macht viel Spaß."
+  },
+  {
+    "word": "fiesta de disfraces",
+    "translation": "die Kostümparty",
+    "example": "Vamos a la fiesta de disfraces.",
+    "example_german": "Wir gehen zur Kostümparty."
+  },
+  {
+    "word": "comida de Navidad",
+    "translation": "das Weihnachtsessen",
+    "example": "La comida de Navidad es deliciosa.",
+    "example_german": "Das Weihnachtsessen ist köstlich."
+  },
+  {
+    "word": "comida de familia",
+    "translation": "das Familienessen",
+    "example": "Nos gusta la comida de familia.",
+    "example_german": "Wir mögen das Familienessen."
+  },
+  {
+    "word": "comida de negocios",
+    "translation": "das Geschäftsessen",
+    "example": "Tuvimos una comida de negocios hoy.",
+    "example_german": "Wir hatten heute ein Geschäftsessen."
+  },
+  {
+    "word": "fiesta formal",
+    "translation": "die formelle Feier",
+    "example": "Vamos a una fiesta formal este sábado.",
+    "example_german": "Wir gehen am Samstag zu einer formellen Feier."
+  },
+  {
+    "word": "fiesta informal",
+    "translation": "die informelle Feier",
+    "example": "Vamos a una fiesta informal este sábado.",
+    "example_german": "Wir gehen diesen Samstag zu einer informellen Feier."
+  },
+  {
+    "word": "reunión formal",
+    "translation": "die formelle Sitzung",
+    "example": "La reunión formal es mañana.",
+    "example_german": "Die formelle Sitzung ist morgen."
+  },
+  {
+    "word": "reunión informal",
+    "translation": "die informelle Sitzung",
+    "example": "Tendremos una reunión informal mañana.",
+    "example_german": "Wir werden morgen eine informelle Sitzung haben."
+  },
+  {
+    "word": "despedida de soltero",
+    "translation": "der Junggesellenabschied",
+    "example": "La despedida de soltero fue divertida.",
+    "example_german": "Der Junggesellenabschied war lustig."
+  },
+  {
+    "word": "boda",
+    "translation": "die Hochzeit",
+    "example": "La boda fue muy hermosa.",
+    "example_german": "Die Hochzeit war sehr schön."
+  },
+  {
+    "word": "cumplir años",
+    "translation": "das Geburtstag haben",
+    "example": "Hoy cumplo años y estoy feliz.",
+    "example_german": "Heute habe ich Geburtstag und ich bin glücklich."
+  },
+  {
+    "word": "hacer una despedida de soltero",
+    "translation": "der Junggesellenabschied",
+    "example": "Voy a hacer una despedida de soltero.",
+    "example_german": "Ich werde einen Junggesellenabschied machen."
+  },
+  {
+    "word": "dar una despedida de soltero",
+    "translation": "der Junggesellenabschied",
+    "example": "Vamos a dar una despedida de soltero.",
+    "example_german": "Wir werden einen Junggesellenabschied feiern."
+  },
+  {
+    "word": "invitar a una despedida de soltero",
+    "translation": "die Junggesellenabschiedseinladung",
+    "example": "Voy a invitar a una despedida de soltero.",
+    "example_german": "Ich werde zu einem Junggesellenabschied einladen."
+  },
+  {
+    "word": "hacer una fiesta de fin de curso",
+    "translation": "die Abschlussfeier",
+    "example": "Vamos a hacer una fiesta de fin de curso.",
+    "example_german": "Wir werden eine Abschlussfeier machen."
+  },
+  {
+    "word": "irse de viaje de novios",
+    "translation": "die Hochzeitsreise",
+    "example": "Ellos van a irse de viaje de novios.",
+    "example_german": "Sie werden auf die Hochzeitsreise gehen."
+  },
+  {
+    "word": "irse de luna de miel",
+    "translation": "die Hochzeitsreise",
+    "example": "Ellos se van de luna de miel.",
+    "example_german": "Sie fahren in die Hochzeitsreise."
+  },
+  {
+    "word": "estar de viaje de novios",
+    "translation": "die Hochzeitsreise",
+    "example": "Estamos de viaje de novios en Italia.",
+    "example_german": "Wir sind auf der Hochzeitsreise in Italien."
+  },
+  {
+    "word": "estar de luna de miel",
+    "translation": "die Hochzeitsreise",
+    "example": "Estamos de luna de miel en París.",
+    "example_german": "Wir sind auf der Hochzeitsreise in Paris."
+  },
+  {
+    "word": "felicitar",
+    "translation": "die Gratulation",
+    "example": "Voy a felicitar a mi amigo.",
+    "example_german": "Ich werde meinen Freund gratulieren."
+  },
+  {
+    "word": "hacer un regalo",
+    "translation": "ein Geschenk machen",
+    "example": "Voy a hacer un regalo hoy.",
+    "example_german": "Ich werde heute ein Geschenk machen."
+  },
+  {
+    "word": "envolver un regalo",
+    "translation": "ein Geschenk einpacken",
+    "example": "Voy a envolver un regalo hoy.",
+    "example_german": "Ich werde heute ein Geschenk einpacken."
+  },
+  {
+    "word": "abrir un regalo",
+    "translation": "ein Geschenk öffnen",
+    "example": "Voy a abrir un regalo ahora.",
+    "example_german": "Ich werde jetzt ein Geschenk öffnen."
+  },
+  {
+    "word": "actitud agradable",
+    "translation": "die angenehme Einstellung",
+    "example": "Ella tiene una actitud agradable.",
+    "example_german": "Sie hat eine angenehme Einstellung."
+  },
+  {
+    "word": "actitud positiva",
+    "translation": "die positive Einstellung",
+    "example": "Ella tiene una actitud positiva.",
+    "example_german": "Sie hat eine positive Einstellung."
+  },
+  {
+    "word": "actitud extraña",
+    "translation": "die seltsame Einstellung",
+    "example": "Ella tiene una actitud extraña hoy.",
+    "example_german": "Sie hat heute eine seltsame Einstellung."
+  },
+  {
+    "word": "portarse bien",
+    "translation": "sich gut benehmen",
+    "example": "Los niños deben portarse bien.",
+    "example_german": "Die Kinder müssen sich gut benehmen."
+  },
+  {
+    "word": "portarse mal",
+    "translation": "sich schlecht benehmen",
+    "example": "Los niños se portan mal en clase.",
+    "example_german": "Die Kinder benehmen sich schlecht im Unterricht."
+  },
+  {
+    "word": "tratar bien a alguien",
+    "translation": "jemanden gut behandeln",
+    "example": "Siempre trato bien a mis amigos.",
+    "example_german": "Ich behandle meine Freunde immer gut."
+  },
+  {
+    "word": "tratar mal a alguien",
+    "translation": "jemanden schlecht behandeln",
+    "example": "No debes tratar mal a tu amigo.",
+    "example_german": "Du solltest deinen Freund nicht schlecht behandeln."
+  },
+  {
+    "word": "tener una buena actitud",
+    "translation": "eine gute Einstellung",
+    "example": "Ella siempre tiene una buena actitud.",
+    "example_german": "Sie hat immer eine gute Einstellung."
+  },
+  {
+    "word": "tener una mala actitud",
+    "translation": "eine schlechte Einstellung",
+    "example": "Ella siempre tiene una mala actitud.",
+    "example_german": "Sie hat immer eine schlechte Einstellung."
+  }
+]

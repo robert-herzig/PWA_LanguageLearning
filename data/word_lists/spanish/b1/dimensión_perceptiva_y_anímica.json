@@ -1,0 +1,458 @@
+[
+  {
+    "word": "optimismo",
+    "translation": "der Optimismus",
+    "example": "El optimismo es importante para la vida.",
+    "example_german": "Der Optimismus ist wichtig für das Leben."
+  },
+  {
+    "word": "pesimismo",
+    "translation": "der Pessimismus",
+    "example": "El pesimismo no ayuda a nadie.",
+    "example_german": "Der Pessimismus hilft niemandem."
+  },
+  {
+    "word": "tranquilidad",
+    "translation": "die Ruhe",
+    "example": "La tranquilidad es muy importante.",
+    "example_german": "Die Ruhe ist sehr wichtig."
+  },
+  {
+    "word": "intranquilidad",
+    "translation": "die Unruhe",
+    "example": "Siento una intranquilidad constante.",
+    "example_german": "Ich fühle eine ständige Unruhe."
+  },
+  {
+    "word": "paciencia",
+    "translation": "die Geduld",
+    "example": "Necesitas paciencia para aprender.",
+    "example_german": "Du brauchst Geduld, um zu lernen."
+  },
+  {
+    "word": "impaciencia",
+    "translation": "die Ungeduld",
+    "example": "La impaciencia puede causar problemas.",
+    "example_german": "Die Ungeduld kann Probleme verursachen."
+  },
+  {
+    "word": "sincero",
+    "translation": "der aufrichtige",
+    "example": "Él es muy sincero conmigo.",
+    "example_german": "Er ist sehr aufrichtig zu mir."
+  },
+  {
+    "word": "paciente",
+    "translation": "der Patient",
+    "example": "El paciente está en la sala.",
+    "example_german": "Der Patient ist im Raum."
+  },
+  {
+    "word": "impaciente",
+    "translation": "der Ungeduldige",
+    "example": "Ella es muy impaciente.",
+    "example_german": "Sie ist sehr ungeduldig."
+  },
+  {
+    "word": "introvertido",
+    "translation": "der Introvertierte",
+    "example": "Él es muy introvertido en las fiestas.",
+    "example_german": "Er ist sehr introvertiert auf Partys."
+  },
+  {
+    "word": "vago",
+    "translation": "der Faulenzer",
+    "example": "Él es un vago en la escuela.",
+    "example_german": "Er ist ein Faulenzer in der Schule."
+  },
+  {
+    "word": "travieso",
+    "translation": "der Schelm",
+    "example": "El niño es muy travieso.",
+    "example_german": "Der Junge ist sehr schelmisch."
+  },
+  {
+    "word": "seguro",
+    "translation": "der Versicherung",
+    "example": "Tengo un seguro de salud.",
+    "example_german": "Ich habe eine Krankenversicherung."
+  },
+  {
+    "word": "inseguro",
+    "translation": "unsicher",
+    "example": "Él se siente inseguro hoy.",
+    "example_german": "Er fühlt sich heute unsicher."
+  },
+  {
+    "word": "conservador",
+    "translation": "der Konservator",
+    "example": "El conservador cuida el museo.",
+    "example_german": "Der Konservator kümmert sich um das Museum."
+  },
+  {
+    "word": "hablador",
+    "translation": "der Redner",
+    "example": "Él es muy hablador en las reuniones.",
+    "example_german": "Er ist sehr rednerisch in den Besprechungen."
+  },
+  {
+    "word": "arrogante",
+    "translation": "arrogant",
+    "example": "Él es muy arrogante hoy.",
+    "example_german": "Er ist heute sehr arrogant."
+  },
+  {
+    "word": "tener sentido del humor",
+    "translation": "der Humor",
+    "example": "Ella tiene un buen sentido del humor.",
+    "example_german": "Sie hat einen guten Sinn für Humor."
+  },
+  {
+    "word": "tener mucho carácter",
+    "translation": "viel Charakter haben",
+    "example": "Ella tiene mucho carácter.",
+    "example_german": "Sie hat viel Charakter."
+  },
+  {
+    "word": "tener poco carácter",
+    "translation": "wenig Charakter haben",
+    "example": "Ella tiene poco carácter en su trabajo.",
+    "example_german": "Sie hat wenig Charakter in ihrer Arbeit."
+  },
+  {
+    "word": "tener mal carácter",
+    "translation": "schlechten Charakter haben",
+    "example": "Ella tiene mal carácter a veces.",
+    "example_german": "Sie hat manchmal einen schlechten Charakter."
+  },
+  {
+    "word": "tener carácter fuerte",
+    "translation": "starker Charakter",
+    "example": "Ella tiene un carácter fuerte.",
+    "example_german": "Sie hat einen starken Charakter."
+  },
+  {
+    "word": "tener carácter débil",
+    "translation": "der schwache Charakter",
+    "example": "Ella tiene un carácter débil.",
+    "example_german": "Sie hat einen schwachen Charakter."
+  },
+  {
+    "word": "tener carácter fácil",
+    "translation": "einen einfachen Charakter",
+    "example": "Ella tiene un carácter fácil.",
+    "example_german": "Sie hat einen einfachen Charakter."
+  },
+  {
+    "word": "tener carácter difícil",
+    "translation": "schwierigen Charakter haben",
+    "example": "Ella tiene un carácter difícil.",
+    "example_german": "Sie hat einen schwierigen Charakter."
+  },
+  {
+    "word": "ser de carácter fuerte",
+    "translation": "starker Charakter",
+    "example": "Ella es de carácter fuerte.",
+    "example_german": "Sie hat einen starken Charakter."
+  },
+  {
+    "word": "ser de carácter débil",
+    "translation": "der schwache Charakter",
+    "example": "Ella tiene un carácter débil.",
+    "example_german": "Sie hat einen schwachen Charakter."
+  },
+  {
+    "word": "ser de carácter fácil",
+    "translation": "der leicht charakter",
+    "example": "Ella es de carácter fácil.",
+    "example_german": "Sie ist von leichtem Charakter."
+  },
+  {
+    "word": "ser de carácter difícil",
+    "translation": "schwierig im Charakter sein",
+    "example": "Ella es de carácter difícil.",
+    "example_german": "Sie ist schwierig im Charakter."
+  },
+  {
+    "word": "sentimiento",
+    "translation": "das Gefühl",
+    "example": "El sentimiento es muy fuerte.",
+    "example_german": "Das Gefühl ist sehr stark."
+  },
+  {
+    "word": "amor",
+    "translation": "die Liebe",
+    "example": "El amor es muy importante.",
+    "example_german": "Die Liebe ist sehr wichtig."
+  },
+  {
+    "word": "amistad",
+    "translation": "die Freundschaft",
+    "example": "La amistad es muy importante.",
+    "example_german": "Die Freundschaft ist sehr wichtig."
+  },
+  {
+    "word": "estar aburrido",
+    "translation": "langweilig sein",
+    "example": "Estoy aburrido en casa.",
+    "example_german": "Ich bin zu Hause langweilig."
+  },
+  {
+    "word": "estar asustado",
+    "translation": "der Angstzustand",
+    "example": "Él está asustado por la película.",
+    "example_german": "Er ist wegen des Films erschrocken."
+  },
+  {
+    "word": "estar estresado",
+    "translation": "gestresst",
+    "example": "Estoy estresado por el trabajo.",
+    "example_german": "Ich bin wegen der Arbeit gestresst."
+  },
+  {
+    "word": "estar deprimido",
+    "translation": "deprimiert",
+    "example": "Él está deprimido hoy.",
+    "example_german": "Er ist heute deprimiert."
+  },
+  {
+    "word": "estar enamorado",
+    "translation": "verliebt sein",
+    "example": "Estoy enamorado de ella.",
+    "example_german": "Ich bin in sie verliebt."
+  },
+  {
+    "word": "alegrarse",
+    "translation": "sich freuen",
+    "example": "Me alegra verte hoy.",
+    "example_german": "Es freut mich, dich heute zu sehen."
+  },
+  {
+    "word": "divertirse",
+    "translation": "sich amüsieren",
+    "example": "Nosotros vamos a divertirnos hoy.",
+    "example_german": "Wir werden uns heute amüsieren."
+  },
+  {
+    "word": "enamorarse",
+    "translation": "sich verlieben",
+    "example": "Me voy a enamorar de ti.",
+    "example_german": "Ich werde mich in dich verlieben."
+  },
+  {
+    "word": "aburrirse",
+    "translation": "sich langweilen",
+    "example": "Me aburro en la clase.",
+    "example_german": "Ich langweile mich im Unterricht."
+  },
+  {
+    "word": "deprimirse",
+    "translation": "sich deprimieren",
+    "example": "Me suelo deprimirme en invierno.",
+    "example_german": "Ich neige dazu, mich im Winter zu deprimieren."
+  },
+  {
+    "word": "enfadarse",
+    "translation": "sich ärgern",
+    "example": "Me enfado cuando hay ruido.",
+    "example_german": "Ich ärgere mich, wenn es Lärm gibt."
+  },
+  {
+    "word": "dar pena",
+    "translation": "das Bedauern",
+    "example": "Me da pena verlo triste.",
+    "example_german": "Es tut mir leid, ihn traurig zu sehen."
+  },
+  {
+    "word": "dar lástima",
+    "translation": "Mitleid erregen",
+    "example": "Me da lástima su situación.",
+    "example_german": "Es tut mir leid um seine Situation."
+  },
+  {
+    "word": "dar miedo",
+    "translation": "Angst machen",
+    "example": "Las películas de terror dan miedo.",
+    "example_german": "Die Horrorfilme machen Angst."
+  },
+  {
+    "word": "ponerse triste",
+    "translation": "sich traurig fühlen",
+    "example": "Ella se pone triste a veces.",
+    "example_german": "Sie wird manchmal traurig."
+  },
+  {
+    "word": "ponerse contento",
+    "translation": "sich freuen",
+    "example": "Él se pone contento al ganar.",
+    "example_german": "Er freut sich, wenn er gewinnt."
+  },
+  {
+    "word": "ponerse de mal humor",
+    "translation": "schlecht gelaunt werden",
+    "example": "Él se pone de mal humor fácilmente.",
+    "example_german": "Er wird leicht schlecht gelaunt."
+  },
+  {
+    "word": "encontrarse bien",
+    "translation": "sich gut fühlen",
+    "example": "Me encuentro bien hoy.",
+    "example_german": "Ich fühle mich heute gut."
+  },
+  {
+    "word": "encontrarse mal",
+    "translation": "sich schlecht fühlen",
+    "example": "Me encuentro mal hoy.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "encontrarse fatal",
+    "translation": "sich schlecht fühlen",
+    "example": "Me encuentro fatal hoy.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "no soportar",
+    "translation": "nicht ertragen",
+    "example": "No soporto el ruido fuerte.",
+    "example_german": "Ich kann den lauten Lärm nicht ertragen."
+  },
+  {
+    "word": "tocar calor",
+    "translation": "die Hitze",
+    "example": "Voy a tocar calor en la playa.",
+    "example_german": "Ich werde die Hitze am Strand spüren."
+  },
+  {
+    "word": "sentir calor",
+    "translation": "das Gefühl von Wärme",
+    "example": "Hoy siento calor en la casa.",
+    "example_german": "Heute fühle ich Wärme im Haus."
+  },
+  {
+    "word": "tocar frío",
+    "translation": "kalt berühren",
+    "example": "Voy a tocar frío con mi mano.",
+    "example_german": "Ich werde kalt mit meiner Hand berühren."
+  },
+  {
+    "word": "sentir frío",
+    "translation": "das Kälte fühlen",
+    "example": "Yo siento frío en invierno.",
+    "example_german": "Ich fühle im Winter die Kälte."
+  },
+  {
+    "word": "tocar sueño",
+    "translation": "der Traum berühren",
+    "example": "Voy a tocar sueño ahora.",
+    "example_german": "Ich werde jetzt den Traum berühren."
+  },
+  {
+    "word": "sentir sueño",
+    "translation": "das Schlafgefühl",
+    "example": "Hoy siento mucho sueño.",
+    "example_german": "Heute fühle ich mich sehr müde."
+  },
+  {
+    "word": "tocar sed",
+    "translation": "die Berührung des Durstes",
+    "example": "Voy a tocar sed con agua.",
+    "example_german": "Ich werde den Durst mit Wasser stillen."
+  },
+  {
+    "word": "sentir sed",
+    "translation": "der Durst",
+    "example": "Tengo que sentir sed ahora.",
+    "example_german": "Ich muss jetzt Durst haben."
+  },
+  {
+    "word": "tocar hambre",
+    "translation": "das Hungergefühl",
+    "example": "A veces, me toca hambre en la tarde.",
+    "example_german": "Manchmal habe ich am Nachmittag Hunger."
+  },
+  {
+    "word": "sentir hambre",
+    "translation": "das Hunger haben",
+    "example": "Tengo que sentir hambre ahora.",
+    "example_german": "Ich muss jetzt Hunger haben."
+  },
+  {
+    "word": "estar bien",
+    "translation": "gut sein",
+    "example": "Estoy bien hoy.",
+    "example_german": "Ich bin heute gut."
+  },
+  {
+    "word": "estar mal",
+    "translation": "schlecht sein",
+    "example": "Me siento mal hoy.",
+    "example_german": "Ich fühle mich heute schlecht."
+  },
+  {
+    "word": "estar regular",
+    "translation": "nicht besonders gut",
+    "example": "Hoy estoy regular en clase.",
+    "example_german": "Heute bin ich nicht besonders gut in der Klasse."
+  },
+  {
+    "word": "sentirse bien",
+    "translation": "sich gut fühlen",
+    "example": "Me siento bien hoy.",
+    "example_german": "Ich fühle mich heute gut."
+  },
+  {
+    "word": "sentirse mal",
+    "translation": "sich schlecht fühlen",
+    "example": "Hoy me siento mal en casa.",
+    "example_german": "Heute fühle ich mich schlecht zu Hause."
+  },
+  {
+    "word": "cansarse",
+    "translation": "sich müde werden",
+    "example": "Me voy a cansar pronto.",
+    "example_german": "Ich werde bald müde."
+  },
+  {
+    "word": "portarse bien",
+    "translation": "sich gut benehmen",
+    "example": "Los niños deben portarse bien.",
+    "example_german": "Die Kinder müssen sich gut benehmen."
+  },
+  {
+    "word": "portarse mal",
+    "translation": "sich schlecht benehmen",
+    "example": "Los niños se portan mal hoy.",
+    "example_german": "Die Kinder benehmen sich heute schlecht."
+  },
+  {
+    "word": "ser educado",
+    "translation": "höflich sein",
+    "example": "Es importante ser educado siempre.",
+    "example_german": "Es ist wichtig, immer höflich zu sein."
+  },
+  {
+    "word": "ser maleducado",
+    "translation": "unhöflich sein",
+    "example": "Él es maleducado con sus amigos.",
+    "example_german": "Er ist unhöflich zu seinen Freunden."
+  },
+  {
+    "word": "tener suerte",
+    "translation": "das Glück haben",
+    "example": "Hoy tengo suerte en el juego.",
+    "example_german": "Heute habe ich Glück im Spiel."
+  },
+  {
+    "word": "tener buena suerte",
+    "translation": "das Glück haben",
+    "example": "Espero tener buena suerte hoy.",
+    "example_german": "Ich hoffe, heute das Glück zu haben."
+  },
+  {
+    "word": "tener mala suerte",
+    "translation": "das Pech haben",
+    "example": "Hoy tengo mala suerte en el juego.",
+    "example_german": "Heute habe ich Pech im Spiel."
+  }
+]

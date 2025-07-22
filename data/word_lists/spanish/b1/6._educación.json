@@ -1,0 +1,800 @@
+[
+  {
+    "word": "campus",
+    "translation": "der Campus",
+    "example": "El campus tiene muchas bibliotecas.",
+    "example_german": "Der Campus hat viele Bibliotheken."
+  },
+  {
+    "word": "secretaría",
+    "translation": "die Sekretariats",
+    "example": "La secretaria trabaja en la oficina.",
+    "example_german": "Die Sekretärin arbeitet im Büro."
+  },
+  {
+    "word": "administración",
+    "translation": "die Verwaltung",
+    "example": "La administración es muy importante.",
+    "example_german": "Die Verwaltung ist sehr wichtig."
+  },
+  {
+    "word": "centro de recursos",
+    "translation": "das Ressourcen-Zentrum",
+    "example": "El centro de recursos está abierto hoy.",
+    "example_german": "Das Ressourcen-Zentrum ist heute geöffnet."
+  },
+  {
+    "word": "aula multimedia",
+    "translation": "das Multimedia-Aula",
+    "example": "El aula multimedia tiene muchos recursos.",
+    "example_german": "Das Multimedia-Aula hat viele Ressourcen."
+  },
+  {
+    "word": "colegio público",
+    "translation": "die öffentliche Schule",
+    "example": "El colegio público es muy grande.",
+    "example_german": "Die öffentliche Schule ist sehr groß."
+  },
+  {
+    "word": "colegio privado",
+    "translation": "die Privatschule",
+    "example": "Mi hijo asiste a un colegio privado.",
+    "example_german": "Mein Sohn besucht eine Privatschule."
+  },
+  {
+    "word": "colegio concertado",
+    "translation": "die Privatschule",
+    "example": "El colegio concertado es muy bueno.",
+    "example_german": "Die Privatschule ist sehr gut."
+  },
+  {
+    "word": "guardería",
+    "translation": "die Kindertagesstätte",
+    "example": "La guardería está cerca de mi casa.",
+    "example_german": "Die Kindertagesstätte ist in der Nähe meines Hauses."
+  },
+  {
+    "word": "jardín de infancia",
+    "translation": "der Kindergarten",
+    "example": "Los niños juegan en el jardín de infancia.",
+    "example_german": "Die Kinder spielen im Kindergarten."
+  },
+  {
+    "word": "asignatura teórica",
+    "translation": "die theoretische Fach",
+    "example": "La asignatura teórica es interesante.",
+    "example_german": "Das theoretische Fach ist interessant."
+  },
+  {
+    "word": "asignatura práctica",
+    "translation": "das Praktikum",
+    "example": "La asignatura práctica es muy interesante.",
+    "example_german": "Das Praktikum ist sehr interessant."
+  },
+  {
+    "word": "clase teórica",
+    "translation": "die theoretische Klasse",
+    "example": "Hoy tengo una clase teórica.",
+    "example_german": "Heute habe ich eine theoretische Klasse."
+  },
+  {
+    "word": "clase práctica",
+    "translation": "die praktische Klasse",
+    "example": "Hoy tenemos una clase práctica.",
+    "example_german": "Heute haben wir eine praktische Klasse."
+  },
+  {
+    "word": "matrícula",
+    "translation": "die Einschreibung",
+    "example": "La matrícula es muy importante.",
+    "example_german": "Die Einschreibung ist sehr wichtig."
+  },
+  {
+    "word": "beca",
+    "translation": "das Stipendium",
+    "example": "Ella recibió una beca para estudiar.",
+    "example_german": "Sie erhielt ein Stipendium zum Studieren."
+  },
+  {
+    "word": "conferencia",
+    "translation": "die Konferenz",
+    "example": "La conferencia es a las diez.",
+    "example_german": "Die Konferenz ist um zehn Uhr."
+  },
+  {
+    "word": "matricularse",
+    "translation": "sich immatrikulieren",
+    "example": "Quiero matricularme en la universidad.",
+    "example_german": "Ich möchte mich an der Universität immatrikulieren."
+  },
+  {
+    "word": "devolver la matrícula",
+    "translation": "die Rückerstattung der Einschreibung",
+    "example": "Necesito devolver la matrícula hoy.",
+    "example_german": "Ich muss die Einschreibung heute zurückgeben."
+  },
+  {
+    "word": "pedir una beca",
+    "translation": "ein Stipendium beantragen",
+    "example": "Voy a pedir una beca hoy.",
+    "example_german": "Ich werde heute ein Stipendium beantragen."
+  },
+  {
+    "word": "dar una beca",
+    "translation": "ein Stipendium geben",
+    "example": "La universidad va a dar una beca.",
+    "example_german": "Die Universität wird ein Stipendium geben."
+  },
+  {
+    "word": "ganar una beca",
+    "translation": "ein Stipendium gewinnen",
+    "example": "Ella quiere ganar una beca.",
+    "example_german": "Sie möchte ein Stipendium gewinnen."
+  },
+  {
+    "word": "hacer un intercambio",
+    "translation": "einen Austausch machen",
+    "example": "Quiero hacer un intercambio cultural.",
+    "example_german": "Ich möchte einen kulturellen Austausch machen."
+  },
+  {
+    "word": "hacer unas prácticas",
+    "translation": "ein Praktikum machen",
+    "example": "Quiero hacer unas prácticas este verano.",
+    "example_german": "Ich möchte dieses Sommer ein Praktikum machen."
+  },
+  {
+    "word": "saber de memoria",
+    "translation": "auswendig wissen",
+    "example": "Él sabe de memoria la canción.",
+    "example_german": "Er weiß das Lied auswendig."
+  },
+  {
+    "word": "aprender de memoria",
+    "translation": "auswendig lernen",
+    "example": "Necesito aprender de memoria esta lección.",
+    "example_german": "Ich muss diese Lektion auswendig lernen."
+  },
+  {
+    "word": "estudiar de memoria",
+    "translation": "auswendig lernen",
+    "example": "Necesito estudiar de memoria esta lección.",
+    "example_german": "Ich muss diese Lektion auswendig lernen."
+  },
+  {
+    "word": "pensar",
+    "translation": "denken",
+    "example": "Yo pienso en mis amigos.",
+    "example_german": "Ich denke an meine Freunde."
+  },
+  {
+    "word": "recordar",
+    "translation": "erinnern",
+    "example": "Necesito recordar la fecha.",
+    "example_german": "Ich muss das Datum erinnern."
+  },
+  {
+    "word": "olvidar",
+    "translation": "vergessen",
+    "example": "Olvidar es fácil a veces.",
+    "example_german": "Vergessen ist manchmal einfach."
+  },
+  {
+    "word": "enseñar",
+    "translation": "lehren",
+    "example": "Voy a enseñar matemáticas hoy.",
+    "example_german": "Ich werde heute Mathematik lehren."
+  },
+  {
+    "word": "test",
+    "translation": "der Test",
+    "example": "El test es muy importante.",
+    "example_german": "Der Test ist sehr wichtig."
+  },
+  {
+    "word": "control",
+    "translation": "der Kontrolle",
+    "example": "Necesito más control sobre la situación.",
+    "example_german": "Ich brauche mehr Kontrolle über die Situation."
+  },
+  {
+    "word": "hacer un examen oral",
+    "translation": "eine mündliche Prüfung",
+    "example": "Voy a hacer un examen oral.",
+    "example_german": "Ich werde eine mündliche Prüfung machen."
+  },
+  {
+    "word": "hacer un test escrito",
+    "translation": "einen schriftlichen Test machen",
+    "example": "Voy a hacer un test escrito hoy.",
+    "example_german": "Ich werde heute einen schriftlichen Test machen."
+  },
+  {
+    "word": "hacer un control",
+    "translation": "eine Kontrolle machen",
+    "example": "Voy a hacer un control médico.",
+    "example_german": "Ich werde eine medizinische Kontrolle machen."
+  },
+  {
+    "word": "tener un examen oral",
+    "translation": "eine mündliche Prüfung",
+    "example": "Tengo un examen oral mañana.",
+    "example_german": "Ich habe morgen eine mündliche Prüfung."
+  },
+  {
+    "word": "tener un test escrito",
+    "translation": "einen schriftlichen Test",
+    "example": "Voy a tener un test escrito mañana.",
+    "example_german": "Ich werde morgen einen schriftlichen Test haben."
+  },
+  {
+    "word": "tener un control",
+    "translation": "die Kontrolle haben",
+    "example": "Es importante tener un control.",
+    "example_german": "Es ist wichtig, die Kontrolle zu haben."
+  },
+  {
+    "word": "aprobar un examen oral",
+    "translation": "die mündliche Prüfung bestehen",
+    "example": "Voy a aprobar un examen oral.",
+    "example_german": "Ich werde die mündliche Prüfung bestehen."
+  },
+  {
+    "word": "aprobar un test escrito",
+    "translation": "einen schriftlichen Test bestehen",
+    "example": "Ella quiere aprobar un test escrito.",
+    "example_german": "Sie möchte einen schriftlichen Test bestehen."
+  },
+  {
+    "word": "aprobar un control",
+    "translation": "eine Kontrolle bestehen",
+    "example": "Voy a aprobar un control hoy.",
+    "example_german": "Ich werde heute eine Kontrolle bestehen."
+  },
+  {
+    "word": "suspender un examen oral",
+    "translation": "das mündliche Examen ablegen",
+    "example": "Voy a suspender un examen oral.",
+    "example_german": "Ich werde ein mündliches Examen ablegen."
+  },
+  {
+    "word": "suspender un test escrito",
+    "translation": "einen schriftlichen Test ablegen",
+    "example": "Voy a suspender un test escrito.",
+    "example_german": "Ich werde einen schriftlichen Test ablegen."
+  },
+  {
+    "word": "suspender un control",
+    "translation": "die Kontrolle aufheben",
+    "example": "Voy a suspender un control hoy.",
+    "example_german": "Ich werde heute die Kontrolle aufheben."
+  },
+  {
+    "word": "corregir un examen",
+    "translation": "eine Prüfung korrigieren",
+    "example": "Voy a corregir un examen hoy.",
+    "example_german": "Ich werde heute eine Prüfung korrigieren."
+  },
+  {
+    "word": "tener un notable",
+    "translation": "einen bemerkenswerten",
+    "example": "Él tiene un notable talento.",
+    "example_german": "Er hat ein bemerkenswertes Talent."
+  },
+  {
+    "word": "tener un sobresaliente",
+    "translation": "eine Eins",
+    "example": "Él tiene un sobresaliente en matemáticas.",
+    "example_german": "Er hat eine Eins in Mathe."
+  },
+  {
+    "word": "tener buena nota",
+    "translation": "eine gute Note",
+    "example": "Ella quiere tener buena nota.",
+    "example_german": "Sie möchte eine gute Note haben."
+  },
+  {
+    "word": "tener mala nota",
+    "translation": "eine schlechte Note",
+    "example": "Ella tiene mala nota en matemáticas.",
+    "example_german": "Sie hat eine schlechte Note in Mathe."
+  },
+  {
+    "word": "aprobar el curso",
+    "translation": "den Kurs bestehen",
+    "example": "Quiero aprobar el curso este año.",
+    "example_german": "Ich möchte den Kurs dieses Jahr bestehen."
+  },
+  {
+    "word": "repetir el curso",
+    "translation": "den Kurs wiederholen",
+    "example": "Él necesita repetir el curso.",
+    "example_german": "Er muss den Kurs wiederholen."
+  },
+  {
+    "word": "bachillerato",
+    "translation": "das Abitur",
+    "example": "El bachillerato es muy importante.",
+    "example_german": "Das Abitur ist sehr wichtig."
+  },
+  {
+    "word": "carrera",
+    "translation": "die Karriere",
+    "example": "Ella estudia para su carrera.",
+    "example_german": "Sie studiert für ihre Karriere."
+  },
+  {
+    "word": "máster",
+    "translation": "der Master",
+    "example": "Ella tiene un máster en biología.",
+    "example_german": "Sie hat einen Master in Biologie."
+  },
+  {
+    "word": "doctorado",
+    "translation": "der Doktorgrad",
+    "example": "Ella tiene un doctorado en biología.",
+    "example_german": "Sie hat einen Doktorgrad in Biologie."
+  },
+  {
+    "word": "licenciado",
+    "translation": "der Lizenzierte",
+    "example": "El licenciado trabaja en la oficina.",
+    "example_german": "Der Lizenzierte arbeitet im Büro."
+  },
+  {
+    "word": "doctor",
+    "translation": "der Arzt",
+    "example": "El doctor me ayudó mucho.",
+    "example_german": "Der Arzt hat mir sehr geholfen."
+  },
+  {
+    "word": "estudiar el bachillerato",
+    "translation": "das Abitur",
+    "example": "Voy a estudiar el bachillerato este año.",
+    "example_german": "Ich werde dieses Jahr das Abitur machen."
+  },
+  {
+    "word": "estudiar una carrera",
+    "translation": "eine Karriere studieren",
+    "example": "Quiero estudiar una carrera interesante.",
+    "example_german": "Ich möchte eine interessante Karriere studieren."
+  },
+  {
+    "word": "estudiar un máster",
+    "translation": "einen Master studieren",
+    "example": "Quiero estudiar un máster este año.",
+    "example_german": "Ich möchte dieses Jahr einen Master studieren."
+  },
+  {
+    "word": "estudiar un doctorado",
+    "translation": "ein Doktorat",
+    "example": "Quiero estudiar un doctorado.",
+    "example_german": "Ich möchte ein Doktorat studieren."
+  },
+  {
+    "word": "hacer el bachillerato",
+    "translation": "das Abitur",
+    "example": "Voy a hacer el bachillerato este año.",
+    "example_german": "Ich werde dieses Jahr das Abitur machen."
+  },
+  {
+    "word": "hacer una carrera",
+    "translation": "eine Karriere machen",
+    "example": "Quiero hacer una carrera exitosa.",
+    "example_german": "Ich möchte eine erfolgreiche Karriere machen."
+  },
+  {
+    "word": "hacer un máster",
+    "translation": "einen Master machen",
+    "example": "Quiero hacer un máster este año.",
+    "example_german": "Ich möchte dieses Jahr einen Master machen."
+  },
+  {
+    "word": "hacer un doctorado",
+    "translation": "einen Doktortitel machen",
+    "example": "Ella quiere hacer un doctorado.",
+    "example_german": "Sie möchte einen Doktortitel machen."
+  },
+  {
+    "word": "tener el bachillerato",
+    "translation": "das Abitur",
+    "example": "Ella tiene el bachillerato.",
+    "example_german": "Sie hat das Abitur."
+  },
+  {
+    "word": "tener una carrera",
+    "translation": "eine Karriere haben",
+    "example": "Quiero tener una carrera exitosa.",
+    "example_german": "Ich möchte eine erfolgreiche Karriere haben."
+  },
+  {
+    "word": "tener un máster",
+    "translation": "einen Master",
+    "example": "Ella quiere tener un máster.",
+    "example_german": "Sie möchte einen Master haben."
+  },
+  {
+    "word": "tener un doctorado",
+    "translation": "einen Doktortitel",
+    "example": "Ella tiene un doctorado en biología.",
+    "example_german": "Sie hat einen Doktortitel in Biologie."
+  },
+  {
+    "word": "empezar el bachillerato",
+    "translation": "das Abitur beginnen",
+    "example": "Voy a empezar el bachillerato este año.",
+    "example_german": "Ich werde dieses Jahr das Abitur beginnen."
+  },
+  {
+    "word": "empezar una carrera",
+    "translation": "eine Karriere beginnen",
+    "example": "Quiero empezar una carrera en medicina.",
+    "example_german": "Ich möchte eine Karriere in der Medizin beginnen."
+  },
+  {
+    "word": "empezar un máster",
+    "translation": "ein Master beginnen",
+    "example": "Voy a empezar un máster este año.",
+    "example_german": "Ich werde dieses Jahr einen Master beginnen."
+  },
+  {
+    "word": "empezar un doctorado",
+    "translation": "ein Doktorat beginnen",
+    "example": "Voy a empezar un doctorado este año.",
+    "example_german": "Ich werde dieses Jahr ein Doktorat beginnen."
+  },
+  {
+    "word": "acabar el bachillerato",
+    "translation": "das Abitur",
+    "example": "Ella quiere acabar el bachillerato.",
+    "example_german": "Sie möchte das Abitur machen."
+  },
+  {
+    "word": "acabar una carrera",
+    "translation": "das Studium abschließen",
+    "example": "Ella quiere acabar una carrera.",
+    "example_german": "Sie möchte ein Studium abschließen."
+  },
+  {
+    "word": "acabar un máster",
+    "translation": "einen Master abschließen",
+    "example": "Voy a acabar un máster este año.",
+    "example_german": "Ich werde diesen Jahr einen Master abschließen."
+  },
+  {
+    "word": "acabar un doctorado",
+    "translation": "der Doktor",
+    "example": "Ella quiere acabar un doctorado.",
+    "example_german": "Sie möchte einen Doktor machen."
+  },
+  {
+    "word": "terminar el bachillerato",
+    "translation": "das Abitur",
+    "example": "Quiero terminar el bachillerato este año.",
+    "example_german": "Ich möchte das Abitur in diesem Jahr machen."
+  },
+  {
+    "word": "terminar una carrera",
+    "translation": "eine Karriere beenden",
+    "example": "Quiero terminar una carrera pronto.",
+    "example_german": "Ich möchte eine Karriere bald beenden."
+  },
+  {
+    "word": "terminar un máster",
+    "translation": "einen Masterabschluss machen",
+    "example": "Voy a terminar un máster este año.",
+    "example_german": "Ich werde diesen Jahr einen Masterabschluss machen."
+  },
+  {
+    "word": "terminar un doctorado",
+    "translation": "einen Doktortitel erwerben",
+    "example": "Ella quiere terminar un doctorado.",
+    "example_german": "Sie möchte einen Doktortitel erwerben."
+  },
+  {
+    "word": "no tener estudios",
+    "translation": "keine Ausbildung haben",
+    "example": "Ella no tiene estudios formales.",
+    "example_german": "Sie hat keine formale Ausbildung."
+  },
+  {
+    "word": "tener estudios",
+    "translation": "die Ausbildung",
+    "example": "Ella tiene estudios en biología.",
+    "example_german": "Sie hat eine Ausbildung in Biologie."
+  },
+  {
+    "word": "tener una duda",
+    "translation": "eine Frage",
+    "example": "Tengo una duda sobre la tarea.",
+    "example_german": "Ich habe eine Frage zur Aufgabe."
+  },
+  {
+    "word": "equivocarse",
+    "translation": "sich irren",
+    "example": "Me equivoqué en la respuesta.",
+    "example_german": "Ich habe mich bei der Antwort geirrt."
+  },
+  {
+    "word": "hacer una actividad en parejas",
+    "translation": "eine Aktivität in Paaren",
+    "example": "Vamos a hacer una actividad en parejas.",
+    "example_german": "Wir werden eine Aktivität in Paaren machen."
+  },
+  {
+    "word": "hacer una actividad en grupos",
+    "translation": "eine Aktivität in Gruppen machen",
+    "example": "Vamos a hacer una actividad en grupos.",
+    "example_german": "Wir werden eine Aktivität in Gruppen machen."
+  },
+  {
+    "word": "hacer una actividad de forma individual",
+    "translation": "eine Aktivität individuell machen",
+    "example": "Voy a hacer una actividad individual.",
+    "example_german": "Ich werde eine individuelle Aktivität machen."
+  },
+  {
+    "word": "hacer un esquema",
+    "translation": "ein Schema machen",
+    "example": "Voy a hacer un esquema hoy.",
+    "example_german": "Ich werde heute ein Schema machen."
+  },
+  {
+    "word": "hacer un resumen",
+    "translation": "eine Zusammenfassung machen",
+    "example": "Voy a hacer un resumen hoy.",
+    "example_german": "Ich werde heute eine Zusammenfassung machen."
+  },
+  {
+    "word": "buscar en un libro",
+    "translation": "in einem Buch suchen",
+    "example": "Voy a buscar en un libro.",
+    "example_german": "Ich werde in einem Buch suchen."
+  },
+  {
+    "word": "buscar en un diccionario",
+    "translation": "im Wörterbuch suchen",
+    "example": "Necesito buscar en un diccionario.",
+    "example_german": "Ich muss im Wörterbuch suchen."
+  },
+  {
+    "word": "mirar en un libro",
+    "translation": "in einem Buch schauen",
+    "example": "Voy a mirar en un libro.",
+    "example_german": "Ich werde in einem Buch schauen."
+  },
+  {
+    "word": "mirar en un diccionario",
+    "translation": "im Wörterbuch nachschlagen",
+    "example": "Debes mirar en un diccionario.",
+    "example_german": "Du musst im Wörterbuch nachschlagen."
+  },
+  {
+    "word": "tomar notas",
+    "translation": "Notizen nehmen",
+    "example": "Voy a tomar notas en clase.",
+    "example_german": "Ich werde in der Klasse Notizen nehmen."
+  },
+  {
+    "word": "tomar apuntes",
+    "translation": "Not applicable",
+    "example": "Voy a tomar apuntes en clase.",
+    "example_german": "Ich werde in der Klasse Notizen machen."
+  },
+  {
+    "word": "subrayar un libro",
+    "translation": "ein Buch unterstreichen",
+    "example": "Voy a subrayar un libro hoy.",
+    "example_german": "Ich werde heute ein Buch unterstreichen."
+  },
+  {
+    "word": "escoger un tema",
+    "translation": "ein Thema auswählen",
+    "example": "Voy a escoger un tema interesante.",
+    "example_german": "Ich werde ein interessantes Thema auswählen."
+  },
+  {
+    "word": "escoger un compañero",
+    "translation": "einen Partner wählen",
+    "example": "Voy a escoger un compañero hoy.",
+    "example_german": "Ich werde heute einen Partner wählen."
+  },
+  {
+    "word": "escoger un libro",
+    "translation": "ein Buch auswählen",
+    "example": "Voy a escoger un libro hoy.",
+    "example_german": "Ich werde heute ein Buch auswählen."
+  },
+  {
+    "word": "elegir un tema",
+    "translation": "ein Thema wählen",
+    "example": "Voy a elegir un tema interesante.",
+    "example_german": "Ich werde ein interessantes Thema wählen."
+  },
+  {
+    "word": "elegir un compañero",
+    "translation": "einen Partner wählen",
+    "example": "Voy a elegir un compañero hoy.",
+    "example_german": "Ich werde heute einen Partner wählen."
+  },
+  {
+    "word": "elegir un libro",
+    "translation": "ein Buch wählen",
+    "example": "Voy a elegir un libro interesante.",
+    "example_german": "Ich werde ein interessantes Buch wählen."
+  },
+  {
+    "word": "cambiar de libro",
+    "translation": "das Buch wechseln",
+    "example": "Necesito cambiar de libro ahora.",
+    "example_german": "Ich muss jetzt das Buch wechseln."
+  },
+  {
+    "word": "cambiar de tema",
+    "translation": "das Thema wechseln",
+    "example": "Vamos a cambiar de tema ahora.",
+    "example_german": "Lass uns jetzt das Thema wechseln."
+  },
+  {
+    "word": "cambiar de compañero",
+    "translation": "den Partner wechseln",
+    "example": "Voy a cambiar de compañero hoy.",
+    "example_german": "Ich werde heute den Partner wechseln."
+  },
+  {
+    "word": "levantar la mano",
+    "translation": "die Hand heben",
+    "example": "Voy a levantar la mano.",
+    "example_german": "Ich werde die Hand heben."
+  },
+  {
+    "word": "levantarse",
+    "translation": "aufstehen",
+    "example": "Me gusta levantarse temprano.",
+    "example_german": "Ich mag es, früh aufzustehen."
+  },
+  {
+    "word": "cambiar de sitio",
+    "translation": "den Platz wechseln",
+    "example": "Voy a cambiar de sitio ahora.",
+    "example_german": "Ich werde jetzt den Platz wechseln."
+  },
+  {
+    "word": "cambiarse de sitio",
+    "translation": "sich umsetzen",
+    "example": "Voy a cambiarme de sitio.",
+    "example_german": "Ich werde mich umsetzen."
+  },
+  {
+    "word": "salir voluntario a la pizarra",
+    "translation": "der freiwillige Auftritt an der Tafel",
+    "example": "Voy a salir voluntario a la pizarra.",
+    "example_german": "Ich werde freiwillig an die Tafel gehen."
+  },
+  {
+    "word": "salir voluntaria a la pizarra",
+    "translation": "die freiwillige Tafel",
+    "example": "Ella quiere salir voluntaria a la pizarra.",
+    "example_german": "Sie möchte freiwillig an die Tafel gehen."
+  },
+  {
+    "word": "explicar un tema",
+    "translation": "ein Thema erklären",
+    "example": "Voy a explicar un tema hoy.",
+    "example_german": "Ich werde heute ein Thema erklären."
+  },
+  {
+    "word": "explicar una lección",
+    "translation": "eine Lektion erklären",
+    "example": "El profesor explica una lección.",
+    "example_german": "Der Lehrer erklärt eine Lektion."
+  },
+  {
+    "word": "hablar sobre un tema",
+    "translation": "ein Thema besprechen",
+    "example": "Quiero hablar sobre un tema interesante.",
+    "example_german": "Ich möchte über ein interessantes Thema sprechen."
+  },
+  {
+    "word": "charlar sobre un tema",
+    "translation": "über ein Thema reden",
+    "example": "Me gusta charlar sobre un tema interesante.",
+    "example_german": "Ich rede gerne über ein interessantes Thema."
+  },
+  {
+    "word": "relacionar",
+    "translation": "verknüpfen",
+    "example": "Es difícil relacionar estos conceptos.",
+    "example_german": "Es ist schwierig, diese Konzepte zu verknüpfen."
+  },
+  {
+    "word": "comparar",
+    "translation": "vergleichen",
+    "example": "Voy a comparar los precios.",
+    "example_german": "Ich werde die Preise vergleichen."
+  },
+  {
+    "word": "buscar diferencias",
+    "translation": "die Unterschiede suchen",
+    "example": "Vamos a buscar diferencias en las imágenes.",
+    "example_german": "Wir werden die Unterschiede in den Bildern suchen."
+  },
+  {
+    "word": "corregir una redacción",
+    "translation": "eine Korrektur der Aufsatz",
+    "example": "Voy a corregir una redacción.",
+    "example_german": "Ich werde einen Aufsatz korrigieren."
+  },
+  {
+    "word": "corregir un ejercicio",
+    "translation": "eine Übung korrigieren",
+    "example": "Voy a corregir un ejercicio.",
+    "example_german": "Ich werde eine Übung korrigieren."
+  },
+  {
+    "word": "corregir los deberes",
+    "translation": "die Hausaufgaben korrigieren",
+    "example": "Voy a corregir los deberes ahora.",
+    "example_german": "Ich werde die Hausaufgaben jetzt korrigieren."
+  },
+  {
+    "word": "hacer un descanso",
+    "translation": "eine Pause machen",
+    "example": "Vamos a hacer un descanso ahora.",
+    "example_german": "Wir werden jetzt eine Pause machen."
+  },
+  {
+    "word": "hacer una pausa",
+    "translation": "eine Pause machen",
+    "example": "Necesitamos hacer una pausa ahora.",
+    "example_german": "Wir müssen jetzt eine Pause machen."
+  },
+  {
+    "word": "enciclopedia",
+    "translation": "die Enzyklopädie",
+    "example": "La enciclopedia tiene mucha información.",
+    "example_german": "Die Enzyklopädie hat viele Informationen."
+  },
+  {
+    "word": "apuntes",
+    "translation": "die Aufzeichnungen",
+    "example": "Mis apuntes son muy útiles.",
+    "example_german": "Meine Aufzeichnungen sind sehr nützlich."
+  },
+  {
+    "word": "folio",
+    "translation": "das Blatt",
+    "example": "El folio está en la mesa.",
+    "example_german": "Das Blatt liegt auf dem Tisch."
+  },
+  {
+    "word": "papel reciclado",
+    "translation": "das Recyclingpapier",
+    "example": "El papel reciclado es muy útil.",
+    "example_german": "Das Recyclingpapier ist sehr nützlich."
+  },
+  {
+    "word": "papel de impresora",
+    "translation": "das Druckerpapier",
+    "example": "Necesito papel de impresora hoy.",
+    "example_german": "Ich brauche heute das Druckerpapier."
+  },
+  {
+    "word": "carpeta",
+    "translation": "die Mappe",
+    "example": "Tengo una carpeta roja.",
+    "example_german": "Ich habe eine rote Mappe."
+  },
+  {
+    "word": "tinta para impresora",
+    "translation": "die Druckertinte",
+    "example": "Necesito tinta para la impresora.",
+    "example_german": "Ich brauche die Druckertinte."
+  },
+  {
+    "word": "tinta de impresora",
+    "translation": "die Druckertinte",
+    "example": "Necesito comprar tinta de impresora.",
+    "example_german": "Ich muss die Druckertinte kaufen."
+  }
+]

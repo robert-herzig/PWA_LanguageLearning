@@ -1,0 +1,488 @@
+[
+  {
+    "word": "same-sex marriage",
+    "translation": "die gleichgeschlechtliche Ehe",
+    "example": "Same-sex marriage is recognized in many countries.",
+    "example_german": "Die gleichgeschlechtliche Ehe wird in vielen Ländern anerkannt."
+  },
+  {
+    "word": "heterosexual marriage",
+    "translation": "die heterosexuelle Ehe",
+    "example": "Heterosexual marriage is recognized in many countries.",
+    "example_german": "Die heterosexuelle Ehe wird in vielen Ländern anerkannt."
+  },
+  {
+    "word": "common-law partner",
+    "translation": "die eingetragene Partnerschaft",
+    "example": "She lives with her common-law partner.",
+    "example_german": "Sie lebt mit ihrer eingetragenen Partnerschaft."
+  },
+  {
+    "word": "single mother",
+    "translation": "die alleinerziehende Mutter",
+    "example": "She is a single mother.",
+    "example_german": "Sie ist eine alleinerziehende Mutter."
+  },
+  {
+    "word": "adopted child",
+    "translation": "das adoptierte Kind",
+    "example": "The adopted child loves his new home.",
+    "example_german": "Das adoptierte Kind liebt sein neues Zuhause."
+  },
+  {
+    "word": "to adopt a child",
+    "translation": "ein Kind adoptieren",
+    "example": "They want to adopt a child soon.",
+    "example_german": "Sie wollen bald ein Kind adoptieren."
+  },
+  {
+    "word": "to educate a child",
+    "translation": "ein Kind erziehen",
+    "example": "Parents need to educate a child.",
+    "example_german": "Eltern müssen ein Kind erziehen."
+  },
+  {
+    "word": "to live with a partner",
+    "translation": "mit dem Partner leben",
+    "example": "I want to live with my partner.",
+    "example_german": "Ich möchte mit meinem Partner leben."
+  },
+  {
+    "word": "to live with the boyfriend",
+    "translation": "mit dem Freund leben",
+    "example": "She wants to live with the boyfriend.",
+    "example_german": "Sie möchte mit dem Freund leben."
+  },
+  {
+    "word": "to live with the partner",
+    "translation": "mit dem Partner leben",
+    "example": "I live with my partner happily.",
+    "example_german": "Ich lebe glücklich mit meinem Partner."
+  },
+  {
+    "word": "to be together for years",
+    "translation": "zusammen sein seit Jahren",
+    "example": "We have been together for years.",
+    "example_german": "Wir sind seit Jahren zusammen."
+  },
+  {
+    "word": "to be in a relationship for years",
+    "translation": "in einer Beziehung sein",
+    "example": "They have been in a relationship for years.",
+    "example_german": "Sie sind seit Jahren in einer Beziehung."
+  },
+  {
+    "word": "to have been living together for years",
+    "translation": "zusammen leben seit Jahren",
+    "example": "We have been living together for years.",
+    "example_german": "Wir leben seit Jahren zusammen."
+  },
+  {
+    "word": "to obey parents",
+    "translation": "den Eltern gehorchen",
+    "example": "Children should obey their parents.",
+    "example_german": "Kinder sollten den Eltern gehorchen."
+  },
+  {
+    "word": "to disobey parents",
+    "translation": "die Eltern missachten",
+    "example": "Children disobey their parents.",
+    "example_german": "Kinder missachten ihre Eltern."
+  },
+  {
+    "word": "to discuss with the parents",
+    "translation": "mit den Eltern diskutieren",
+    "example": "I want to discuss with the parents.",
+    "example_german": "Ich möchte mit den Eltern diskutieren."
+  },
+  {
+    "word": "to discuss with the brothers",
+    "translation": "mit den Brüdern diskutieren",
+    "example": "I want to discuss with the brothers.",
+    "example_german": "Ich möchte mit den Brüdern diskutieren."
+  },
+  {
+    "word": "to discuss with the children",
+    "translation": "mit den Kindern diskutieren",
+    "example": "I need to discuss with the children.",
+    "example_german": "Ich muss mit den Kindern diskutieren."
+  },
+  {
+    "word": "to grow happy",
+    "translation": "das glückliche Wachsen",
+    "example": "Children grow happy in the park.",
+    "example_german": "Die Kinder wachsen glücklich im Park."
+  },
+  {
+    "word": "to grow strong",
+    "translation": "stark wachsen",
+    "example": "I want to grow strong and healthy.",
+    "example_german": "Ich möchte stark und gesund wachsen."
+  },
+  {
+    "word": "to grow healthy",
+    "translation": "gesund zu wachsen",
+    "example": "Children need to grow healthy.",
+    "example_german": "Kinder müssen gesund wachsen."
+  },
+  {
+    "word": "colleague",
+    "translation": "der Kollege",
+    "example": "My colleague is very friendly.",
+    "example_german": "Mein Kollege ist sehr freundlich."
+  },
+  {
+    "word": "childhood friend",
+    "translation": "der Freund aus der Kindheit",
+    "example": "She is my childhood friend.",
+    "example_german": "Sie ist meine Freundin aus der Kindheit."
+  },
+  {
+    "word": "university friend",
+    "translation": "der Universitätsfreund",
+    "example": "She is my university friend.",
+    "example_german": "Sie ist meine Universitätsfreundin."
+  },
+  {
+    "word": "good friend",
+    "translation": "der gute Freund",
+    "example": "She is a good friend.",
+    "example_german": "Sie ist eine gute Freundin."
+  },
+  {
+    "word": "great friend",
+    "translation": "der gute Freund",
+    "example": "He is a great friend.",
+    "example_german": "Er ist ein guter Freund."
+  },
+  {
+    "word": "to have a boyfriend",
+    "translation": "einen Freund haben",
+    "example": "She wants to have a boyfriend this year.",
+    "example_german": "Sie möchte dieses Jahr einen Freund haben."
+  },
+  {
+    "word": "to have a partner",
+    "translation": "eine Partnerin / einen Partner haben",
+    "example": "I want to have a partner soon.",
+    "example_german": "Ich möchte bald einen Partner haben."
+  },
+  {
+    "word": "to have an adventure",
+    "translation": "ein Abenteuer",
+    "example": "I want to have an adventure today.",
+    "example_german": "Ich möchte heute ein Abenteuer haben."
+  },
+  {
+    "word": "to have a relationship",
+    "translation": "eine Beziehung haben",
+    "example": "They want to have a relationship.",
+    "example_german": "Sie wollen eine Beziehung haben."
+  },
+  {
+    "word": "to have a friendship",
+    "translation": "eine Freundschaft haben",
+    "example": "They have a strong friendship.",
+    "example_german": "Sie haben eine starke Freundschaft."
+  },
+  {
+    "word": "to have a love relationship",
+    "translation": "eine Liebesbeziehung",
+    "example": "They want to have a love relationship.",
+    "example_german": "Sie wollen eine Liebesbeziehung haben."
+  },
+  {
+    "word": "to have a working relationship",
+    "translation": "die Arbeitsbeziehung",
+    "example": "They have a good working relationship.",
+    "example_german": "Sie haben eine gute Arbeitsbeziehung."
+  },
+  {
+    "word": "to start a relationship",
+    "translation": "eine Beziehung anfangen",
+    "example": "They decided to start a relationship.",
+    "example_german": "Sie beschlossen, eine Beziehung anzufangen."
+  },
+  {
+    "word": "to end a relationship",
+    "translation": "eine Beziehung beenden",
+    "example": "I want to end a relationship now.",
+    "example_german": "Ich möchte jetzt eine Beziehung beenden."
+  },
+  {
+    "word": "to date someone",
+    "translation": "mit jemandem ausgehen",
+    "example": "I want to date someone nice.",
+    "example_german": "Ich möchte mit jemandem Nettem ausgehen."
+  },
+  {
+    "word": "to break up with someone",
+    "translation": "mit jemandem Schluss machen",
+    "example": "I want to break up with her.",
+    "example_german": "Ich möchte mit ihr Schluss machen."
+  },
+  {
+    "word": "to get along well",
+    "translation": "gut gefallen",
+    "example": "I get along well with her.",
+    "example_german": "Ich komme gut mit ihr aus."
+  },
+  {
+    "word": "to dislike",
+    "translation": "schlecht ankommen",
+    "example": "I dislike that person.",
+    "example_german": "Diese Person kommt mir nicht gut an."
+  },
+  {
+    "word": "to get along",
+    "translation": "sich gut verstehen",
+    "example": "They get along very well together.",
+    "example_german": "Sie verstehen sich sehr gut miteinander."
+  },
+  {
+    "word": "to get along badly",
+    "translation": "sich schlecht verstehen",
+    "example": "They get along badly with each other.",
+    "example_german": "Sie verstehen sich schlecht miteinander."
+  },
+  {
+    "word": "to shake hands",
+    "translation": "die Hand geben",
+    "example": "I want to shake hands with you.",
+    "example_german": "Ich möchte dir die Hand geben."
+  },
+  {
+    "word": "to give a hug",
+    "translation": "umarmung geben",
+    "example": "I want to give a hug to my friend.",
+    "example_german": "Ich möchte meinem Freund eine Umarmung geben."
+  },
+  {
+    "word": "to give a kiss",
+    "translation": "einen Kuss geben",
+    "example": "I want to give a kiss to her.",
+    "example_german": "Ich möchte ihr einen Kuss geben."
+  },
+  {
+    "word": "to hug",
+    "translation": "umarmen",
+    "example": "They like to hug each other often.",
+    "example_german": "Sie umarmen sich oft gerne."
+  },
+  {
+    "word": "to kiss",
+    "translation": "sich küssen",
+    "example": "They kiss in the park.",
+    "example_german": "Sie küssen sich im Park."
+  },
+  {
+    "word": "to flirt",
+    "translation": "das Flirten",
+    "example": "He likes to flirt with her.",
+    "example_german": "Er flirtet gerne mit ihr."
+  },
+  {
+    "word": "typical party",
+    "translation": "die typische Feier",
+    "example": "The typical party is very fun.",
+    "example_german": "Die typische Feier ist sehr lustig."
+  },
+  {
+    "word": "popular festival",
+    "translation": "das Volksfest",
+    "example": "The popular festival attracts many visitors.",
+    "example_german": "Das Volksfest zieht viele Besucher an."
+  },
+  {
+    "word": "traditional party",
+    "translation": "die traditionelle Feier",
+    "example": "The traditional party is very fun.",
+    "example_german": "Die traditionelle Feier macht viel Spaß."
+  },
+  {
+    "word": "costume party",
+    "translation": "die Kostümparty",
+    "example": "We are going to a costume party.",
+    "example_german": "Wir gehen zu einer Kostümparty."
+  },
+  {
+    "word": "Christmas food",
+    "translation": "das Weihnachtsessen",
+    "example": "Christmas food brings everyone together.",
+    "example_german": "Das Weihnachtsessen bringt alle zusammen."
+  },
+  {
+    "word": "family meal",
+    "translation": "das Familienessen",
+    "example": "We enjoy having a family meal.",
+    "example_german": "Wir genießen es, ein Familienessen zu haben."
+  },
+  {
+    "word": "business meal",
+    "translation": "das Geschäftsessen",
+    "example": "We had a business meal yesterday.",
+    "example_german": "Wir hatten gestern ein Geschäftsessen."
+  },
+  {
+    "word": "formal party",
+    "translation": "die formelle Feier",
+    "example": "We are going to a formal party tonight.",
+    "example_german": "Wir gehen heute Abend zu einer formellen Feier."
+  },
+  {
+    "word": "informal party",
+    "translation": "die informelle Feier",
+    "example": "We are having an informal party tonight.",
+    "example_german": "Wir haben heute Abend eine informelle Feier."
+  },
+  {
+    "word": "formal meeting",
+    "translation": "die formelle Sitzung",
+    "example": "The formal meeting starts at ten.",
+    "example_german": "Die formelle Sitzung beginnt um zehn."
+  },
+  {
+    "word": "informal meeting",
+    "translation": "die informelle Sitzung",
+    "example": "We will have an informal meeting soon.",
+    "example_german": "Wir werden bald eine informelle Sitzung haben."
+  },
+  {
+    "word": "bachelor party",
+    "translation": "der Junggesellenabschied",
+    "example": "The bachelor party was exciting.",
+    "example_german": "Der Junggesellenabschied war aufregend."
+  },
+  {
+    "word": "wedding",
+    "translation": "die Hochzeit",
+    "example": "The wedding was very beautiful.",
+    "example_german": "Die Hochzeit war sehr schön."
+  },
+  {
+    "word": "to have a birthday",
+    "translation": "das Geburtstag haben",
+    "example": "I have a birthday party this weekend.",
+    "example_german": "Ich habe am Wochenende eine Geburtstagsparty."
+  },
+  {
+    "word": "to have a bachelor party",
+    "translation": "der Junggesellenabschied",
+    "example": "We are going to have a bachelor party.",
+    "example_german": "Wir werden einen Junggesellenabschied haben."
+  },
+  {
+    "word": "to throw a bachelor party",
+    "translation": "der Junggesellenabschied",
+    "example": "We will throw a bachelor party tonight.",
+    "example_german": "Wir werden heute Abend einen Junggesellenabschied feiern."
+  },
+  {
+    "word": "to invite to a bachelor party",
+    "translation": "die Junggesellenabschiedseinladung",
+    "example": "I want to invite to a bachelor party.",
+    "example_german": "Ich möchte zu einem Junggesellenabschied einladen."
+  },
+  {
+    "word": "to have a graduation party",
+    "translation": "die Abschlussfeier",
+    "example": "We are going to have a graduation party.",
+    "example_german": "Wir werden eine Abschlussfeier haben."
+  },
+  {
+    "word": "to go on a honeymoon",
+    "translation": "die Hochzeitsreise",
+    "example": "They are going on a honeymoon.",
+    "example_german": "Sie gehen in die Hochzeitsreise."
+  },
+  {
+    "word": "to be on a honeymoon",
+    "translation": "die Hochzeitsreise",
+    "example": "They are on a honeymoon in Hawaii.",
+    "example_german": "Sie sind auf der Hochzeitsreise in Hawaii."
+  },
+  {
+    "word": "to be on honeymoon",
+    "translation": "die Hochzeitsreise",
+    "example": "They are on their honeymoon in Hawaii.",
+    "example_german": "Sie sind auf ihrer Hochzeitsreise in Hawaii."
+  },
+  {
+    "word": "to congratulate",
+    "translation": "die Gratulation",
+    "example": "I want to congratulate my friend.",
+    "example_german": "Ich möchte meinen Freund gratulieren."
+  },
+  {
+    "word": "to make a gift",
+    "translation": "ein Geschenk machen",
+    "example": "I want to make a gift for her.",
+    "example_german": "Ich möchte ihr ein Geschenk machen."
+  },
+  {
+    "word": "to wrap a gift",
+    "translation": "ein Geschenk einpacken",
+    "example": "I need to wrap a gift now.",
+    "example_german": "Ich muss jetzt ein Geschenk einpacken."
+  },
+  {
+    "word": "to open a gift",
+    "translation": "ein Geschenk öffnen",
+    "example": "I want to open a gift today.",
+    "example_german": "Ich möchte heute ein Geschenk öffnen."
+  },
+  {
+    "word": "pleasant attitude",
+    "translation": "die angenehme Einstellung",
+    "example": "He always has a pleasant attitude.",
+    "example_german": "Er hat immer eine angenehme Einstellung."
+  },
+  {
+    "word": "positive attitude",
+    "translation": "die positive Einstellung",
+    "example": "He always has a positive attitude.",
+    "example_german": "Er hat immer eine positive Einstellung."
+  },
+  {
+    "word": "strange attitude",
+    "translation": "die seltsame Einstellung",
+    "example": "He showed a strange attitude yesterday.",
+    "example_german": "Er zeigte gestern eine seltsame Einstellung."
+  },
+  {
+    "word": "to behave well",
+    "translation": "sich gut benehmen",
+    "example": "Children should behave well.",
+    "example_german": "Kinder sollten sich gut benehmen."
+  },
+  {
+    "word": "to misbehave",
+    "translation": "sich schlecht benehmen",
+    "example": "Children often misbehave at school.",
+    "example_german": "Kinder benehmen sich oft schlecht in der Schule."
+  },
+  {
+    "word": "to treat someone well",
+    "translation": "jemanden gut behandeln",
+    "example": "I always treat my friends well.",
+    "example_german": "Ich behandle meine Freunde immer gut."
+  },
+  {
+    "word": "to treat someone badly",
+    "translation": "jemanden schlecht behandeln",
+    "example": "You should not treat your friend badly.",
+    "example_german": "Du solltest deinen Freund nicht schlecht behandeln."
+  },
+  {
+    "word": "to have a good attitude",
+    "translation": "eine gute Einstellung",
+    "example": "He tries to have a good attitude.",
+    "example_german": "Er versucht, eine gute Einstellung zu haben."
+  },
+  {
+    "word": "to have a bad attitude",
+    "translation": "eine schlechte Einstellung",
+    "example": "He has a bad attitude today.",
+    "example_german": "Er hat heute eine schlechte Einstellung."
+  }
+]

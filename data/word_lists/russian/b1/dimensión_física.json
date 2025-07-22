@@ -1,0 +1,368 @@
+[
+  {
+    "word": "мышца",
+    "translation": "der Muskel",
+    "example": "Мышца важна для движения.",
+    "example_german": "Der Muskel ist wichtig für die Bewegung."
+  },
+  {
+    "word": "кость",
+    "translation": "der Knochen",
+    "example": "Собака грызет кость.",
+    "example_german": "Der Hund nagt an dem Knochen."
+  },
+  {
+    "word": "кожа",
+    "translation": "die Haut",
+    "example": "Кожа нуждается в уходе.",
+    "example_german": "Die Haut benötigt Pflege."
+  },
+  {
+    "word": "сердце",
+    "translation": "das Herz",
+    "example": "Сердце бьется в груди.",
+    "example_german": "Das Herz schlägt in der Brust."
+  },
+  {
+    "word": "легкое",
+    "translation": "die Lunge",
+    "example": "Легкое помогает нам дышать.",
+    "example_german": "Die Lunge hilft uns zu atmen."
+  },
+  {
+    "word": "шея",
+    "translation": "der Hals",
+    "example": "Шея очень важна.",
+    "example_german": "Der Hals ist sehr wichtig."
+  },
+  {
+    "word": "плечи",
+    "translation": "die Schultern",
+    "example": "Мои плечи устали после тренировки.",
+    "example_german": "Meine Schultern sind nach dem Training müde."
+  },
+  {
+    "word": "грудь",
+    "translation": "die Brust",
+    "example": "Грудь очень сильная.",
+    "example_german": "Die Brust ist sehr stark."
+  },
+  {
+    "word": "талия",
+    "translation": "die Taille",
+    "example": "У неё тонкая талия.",
+    "example_german": "Sie hat eine schlanke Taille."
+  },
+  {
+    "word": "живот",
+    "translation": "der Bauch",
+    "example": "У меня болит живот сегодня.",
+    "example_german": "Heute tut mir der Bauch weh."
+  },
+  {
+    "word": "колено",
+    "translation": "das Knie",
+    "example": "У меня болит колено.",
+    "example_german": "Mein Knie tut weh."
+  },
+  {
+    "word": "щиколотка",
+    "translation": "der Knöchel",
+    "example": "У меня болит щиколотка.",
+    "example_german": "Mein Knöchel tut weh."
+  },
+  {
+    "word": "локоть",
+    "translation": "der Ellbogen",
+    "example": "У меня болит локоть сегодня.",
+    "example_german": "Mein Ellbogen tut heute weh."
+  },
+  {
+    "word": "кукла",
+    "translation": "die Puppe",
+    "example": "Кукла очень красивая.",
+    "example_german": "Die Puppe ist sehr schön."
+  },
+  {
+    "word": "поза",
+    "translation": "die Haltung",
+    "example": "У неё хорошая поза.",
+    "example_german": "Sie hat eine gute Haltung."
+  },
+  {
+    "word": "взгляд",
+    "translation": "der Blick",
+    "example": "Её взгляд был очень глубоким.",
+    "example_german": "Ihr Blick war sehr tief."
+  },
+  {
+    "word": "походить",
+    "translation": "ähneln",
+    "example": "Они очень похожи.",
+    "example_german": "Sie ähneln sich sehr."
+  },
+  {
+    "word": "иметь светлую кожу",
+    "translation": "die helle Haut",
+    "example": "У нее светлая кожа.",
+    "example_german": "Sie hat die helle Haut."
+  },
+  {
+    "word": "иметь тёмную кожу",
+    "translation": "die dunkle Haut",
+    "example": "У неё тёмная кожа.",
+    "example_german": "Sie hat die dunkle Haut."
+  },
+  {
+    "word": "иметь чувствительную кожу",
+    "translation": "die empfindliche Haut",
+    "example": "У меня чувствительная кожа.",
+    "example_german": "Ich habe die empfindliche Haut."
+  },
+  {
+    "word": "иметь мягкую кожу",
+    "translation": "die weiche Haut",
+    "example": "У неё мягкая кожа.",
+    "example_german": "Sie hat die weiche Haut."
+  },
+  {
+    "word": "быть загорелым",
+    "translation": "der/die/das braun sein",
+    "example": "Он загорелый после отпуска.",
+    "example_german": "Er ist braun nach dem Urlaub."
+  },
+  {
+    "word": "быть белым",
+    "translation": "weiß sein",
+    "example": "Стена должна быть белой.",
+    "example_german": "Die Wand muss weiß sein."
+  },
+  {
+    "word": "быть брюнетом",
+    "translation": "der braune",
+    "example": "Он брюнет и спортсмен.",
+    "example_german": "Er ist braunhaarig und Sportler."
+  },
+  {
+    "word": "быть привлекательным",
+    "translation": "gut aussehend",
+    "example": "Он привлекательный и добрый человек.",
+    "example_german": "Er ist ein gut aussehender und netter Mensch."
+  },
+  {
+    "word": "выглядеть плохо",
+    "translation": "schlecht aussehen",
+    "example": "Он выглядит плохо сегодня.",
+    "example_german": "Er sieht heute schlecht aus."
+  },
+  {
+    "word": "иметь хорошую фигуру",
+    "translation": "eine gute Figur haben",
+    "example": "Она имеет хорошую фигуру.",
+    "example_german": "Sie hat eine gute Figur."
+  },
+  {
+    "word": "иметь плохую фигуру",
+    "translation": "eine schlechte Figur haben",
+    "example": "Она говорит, что имеет плохую фигуру.",
+    "example_german": "Sie sagt, dass sie eine schlechte Figur hat."
+  },
+  {
+    "word": "иметь хороший стиль",
+    "translation": "einen guten Stil haben",
+    "example": "У него хороший стиль в одежде.",
+    "example_german": "Er hat einen guten Stil in der Kleidung."
+  },
+  {
+    "word": "иметь плохой стиль",
+    "translation": "schlechten Stil haben",
+    "example": "У него плохой стиль в одежде.",
+    "example_german": "Er hat einen schlechten Stil in seiner Kleidung."
+  },
+  {
+    "word": "иметь хорошую презентацию",
+    "translation": "eine gute Präsenz haben",
+    "example": "Она имеет хорошую презентацию на встрече.",
+    "example_german": "Sie hat eine gute Präsenz in der Sitzung."
+  },
+  {
+    "word": "иметь плохое присутствие",
+    "translation": "schlechte Präsenz",
+    "example": "У него плохое присутствие на встрече.",
+    "example_german": "Er hat eine schlechte Präsenz in der Sitzung."
+  },
+  {
+    "word": "ходить",
+    "translation": "gehen",
+    "example": "Мне нравится ходить в парке.",
+    "example_german": "Ich gehe gerne im Park spazieren."
+  },
+  {
+    "word": "прогуляться",
+    "translation": "einen Spaziergang machen",
+    "example": "Я хочу прогуляться по парку.",
+    "example_german": "Ich möchte einen Spaziergang im Park machen."
+  },
+  {
+    "word": "прыгать",
+    "translation": "springen",
+    "example": "Я люблю прыгать высоко.",
+    "example_german": "Ich liebe es, hoch zu springen."
+  },
+  {
+    "word": "сидеть",
+    "translation": "sitzen",
+    "example": "Я сижу на стуле.",
+    "example_german": "Ich sitze auf dem Stuhl."
+  },
+  {
+    "word": "стоять",
+    "translation": "stehen",
+    "example": "Я стою в классе.",
+    "example_german": "Ich stehe in der Klasse."
+  },
+  {
+    "word": "дышать",
+    "translation": "atmen",
+    "example": "Я люблю дышать свежим воздухом.",
+    "example_german": "Ich liebe es, frische Luft zu atmen."
+  },
+  {
+    "word": "плакать",
+    "translation": "weinen",
+    "example": "Она начинает плакать сейчас.",
+    "example_german": "Sie fängt jetzt an zu weinen."
+  },
+  {
+    "word": "нюхать",
+    "translation": "riechen",
+    "example": "Мне нравится нюхать цветы.",
+    "example_german": "Ich rieche gerne die Blumen."
+  },
+  {
+    "word": "касаться",
+    "translation": "berühren",
+    "example": "Я хочу коснуться этой книги.",
+    "example_german": "Ich möchte dieses Buch berühren."
+  },
+  {
+    "word": "целовать",
+    "translation": "küssen",
+    "example": "Я хочу поцеловать друга.",
+    "example_german": "Ich möchte meinen Freund küssen."
+  },
+  {
+    "word": "обнимать",
+    "translation": "umarmen",
+    "example": "Я люблю обнимать своих друзей.",
+    "example_german": "Ich umarme gerne meine Freunde."
+  },
+  {
+    "word": "поднять руки",
+    "translation": "die Arme heben",
+    "example": "Он собирается поднять руки.",
+    "example_german": "Er wird die Arme heben."
+  },
+  {
+    "word": "поднять голову",
+    "translation": "den Kopf heben",
+    "example": "Она должна поднять голову.",
+    "example_german": "Sie muss den Kopf heben."
+  },
+  {
+    "word": "опустить руки",
+    "translation": "die Hände senken",
+    "example": "Тебе нужно опустить руки сейчас.",
+    "example_german": "Du musst jetzt die Hände senken."
+  },
+  {
+    "word": "сдаваться",
+    "translation": "aufzugeben",
+    "example": "Ты не должен сдаваться.",
+    "example_german": "Du solltest nicht aufgeben."
+  },
+  {
+    "word": "опустить голову",
+    "translation": "den Kopf senken",
+    "example": "Она решила опустить голову.",
+    "example_german": "Sie beschloss, den Kopf zu senken."
+  },
+  {
+    "word": "двигать руками",
+    "translation": "die Arme bewegen",
+    "example": "Она хочет двигать руками.",
+    "example_german": "Sie möchte die Arme bewegen."
+  },
+  {
+    "word": "двигать головой",
+    "translation": "den Kopf bewegen",
+    "example": "Она двигает головой в знак согласия.",
+    "example_german": "Sie bewegt den Kopf, um zuzustimmen."
+  },
+  {
+    "word": "отпустить",
+    "translation": "loslassen",
+    "example": "Я хочу отпустить собаку.",
+    "example_german": "Ich möchte den Hund loslassen."
+  },
+  {
+    "word": "жизнь",
+    "translation": "das Leben",
+    "example": "Жизнь прекрасна.",
+    "example_german": "Das Leben ist schön."
+  },
+  {
+    "word": "смерть",
+    "translation": "der Tod",
+    "example": "Смерть — это часть жизни.",
+    "example_german": "Der Tod ist Teil des Lebens."
+  },
+  {
+    "word": "быть беременной",
+    "translation": "schwanger sein",
+    "example": "Она беременна уже три месяца.",
+    "example_german": "Sie ist schon im dritten Monat schwanger."
+  },
+  {
+    "word": "ожидать ребенка",
+    "translation": "ein Kind erwarten",
+    "example": "Она ожидает ребенка.",
+    "example_german": "Sie erwartet ein Kind."
+  },
+  {
+    "word": "быть девственницей",
+    "translation": "die Jungfrau",
+    "example": "Она хочет быть девственницей до брака.",
+    "example_german": "Sie möchte bis zur Ehe Jungfrau sein."
+  },
+  {
+    "word": "заниматься любовью",
+    "translation": "die Liebe machen",
+    "example": "Они хотят заниматься любовью.",
+    "example_german": "Sie wollen die Liebe machen."
+  },
+  {
+    "word": "заниматься сексом",
+    "translation": "sexuelle Beziehungen haben",
+    "example": "Они хотят заниматься сексом.",
+    "example_german": "Sie wollen sexuelle Beziehungen haben."
+  },
+  {
+    "word": "принимать таблетку",
+    "translation": "die Pille nehmen",
+    "example": "Ей нужно принимать таблетку.",
+    "example_german": "Sie muss die Pille nehmen."
+  },
+  {
+    "word": "использовать презервативы",
+    "translation": "die Kondome benutzen",
+    "example": "Важно использовать презервативы.",
+    "example_german": "Es ist wichtig, Kondome zu benutzen."
+  },
+  {
+    "word": "иметь менструацию",
+    "translation": "die Regel haben",
+    "example": "Она имеет менструацию в этом месяце.",
+    "example_german": "Sie hat diesen Monat die Regel."
+  }
+]

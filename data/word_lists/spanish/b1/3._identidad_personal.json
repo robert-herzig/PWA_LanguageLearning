@@ -1,0 +1,224 @@
+[
+  {
+    "word": "vivir en las afueras",
+    "translation": "in den Vororten",
+    "example": "Vivo en las afueras de la ciudad.",
+    "example_german": "Ich wohne in den Vororten der Stadt."
+  },
+  {
+    "word": "vivir en el centro",
+    "translation": "im Zentrum leben",
+    "example": "Me gusta vivir en el centro.",
+    "example_german": "Ich mag es, im Zentrum zu leben."
+  },
+  {
+    "word": "cambiar de dirección",
+    "translation": "die Richtung wechseln",
+    "example": "Necesito cambiar de dirección ahora.",
+    "example_german": "Ich muss jetzt die Richtung wechseln."
+  },
+  {
+    "word": "recién nacido",
+    "translation": "der Neugeborene",
+    "example": "El recién nacido duerme en su cuna.",
+    "example_german": "Der Neugeborene schläft in seinem Bett."
+  },
+  {
+    "word": "anciano",
+    "translation": "der alte Mann",
+    "example": "El anciano lee un libro.",
+    "example_german": "Der alte Mann liest ein Buch."
+  },
+  {
+    "word": "varón",
+    "translation": "der Mann",
+    "example": "El varón es fuerte y valiente.",
+    "example_german": "Der Mann ist stark und mutig."
+  },
+  {
+    "word": "hembra",
+    "translation": "die Henne",
+    "example": "La hembra del pájaro es hermosa.",
+    "example_german": "Die Henne des Vogels ist schön."
+  },
+  {
+    "word": "masculino",
+    "translation": "der männliche",
+    "example": "El perro es masculino.",
+    "example_german": "Der Hund ist männlich."
+  },
+  {
+    "word": "femenino",
+    "translation": "das Weiblich",
+    "example": "El género femenino es importante.",
+    "example_german": "Das weibliche Geschlecht ist wichtig."
+  },
+  {
+    "word": "heterosexual",
+    "translation": "heterosexuell",
+    "example": "Ella es heterosexual y feliz.",
+    "example_german": "Sie ist heterosexuell und glücklich."
+  },
+  {
+    "word": "homosexual",
+    "translation": "der Homosexuelle",
+    "example": "Él es un hombre homosexual.",
+    "example_german": "Er ist ein homosexueller Mann."
+  },
+  {
+    "word": "bisexual",
+    "translation": "bisexuell",
+    "example": "Ella es bisexual y feliz.",
+    "example_german": "Sie ist bisexuell und glücklich."
+  },
+  {
+    "word": "transexual",
+    "translation": "der Transsexuelle",
+    "example": "Ella es una mujer transexual.",
+    "example_german": "Sie ist eine transsexuelle Frau."
+  },
+  {
+    "word": "gay",
+    "translation": "der Schwule",
+    "example": "Él es un hombre gay.",
+    "example_german": "Er ist ein schwuler Mann."
+  },
+  {
+    "word": "lesbiana",
+    "translation": "die Lesbe",
+    "example": "Ella es una mujer lesbiana.",
+    "example_german": "Sie ist eine lesbische Frau."
+  },
+  {
+    "word": "boda civil",
+    "translation": "die standesamtliche Hochzeit",
+    "example": "La boda civil fue muy hermosa.",
+    "example_german": "Die standesamtliche Hochzeit war sehr schön."
+  },
+  {
+    "word": "boda religiosa",
+    "translation": "die religiöse Hochzeit",
+    "example": "La boda religiosa fue muy hermosa.",
+    "example_german": "Die religiöse Hochzeit war sehr schön."
+  },
+  {
+    "word": "divorcio",
+    "translation": "der Divorce",
+    "example": "El divorcio es un proceso difícil.",
+    "example_german": "Der Divorce ist ein schwieriger Prozess."
+  },
+  {
+    "word": "separación",
+    "translation": "die Trennung",
+    "example": "La separación fue difícil para todos.",
+    "example_german": "Die Trennung war für alle schwierig."
+  },
+  {
+    "word": "matrimonio homosexual",
+    "translation": "die homosexuelle Ehe",
+    "example": "El matrimonio homosexual es legal aquí.",
+    "example_german": "Die homosexuelle Ehe ist hier legal."
+  },
+  {
+    "word": "matrimonio heterosexual",
+    "translation": "die heterosexuelle Ehe",
+    "example": "El matrimonio heterosexual es común en muchos países.",
+    "example_german": "Die heterosexuelle Ehe ist in vielen Ländern verbreitet."
+  },
+  {
+    "word": "pareja de hecho",
+    "translation": "die eingetragene Partnerschaft",
+    "example": "Ellos son una pareja de hecho.",
+    "example_german": "Sie sind ein eingetragenes Paar."
+  },
+  {
+    "word": "burocracia",
+    "translation": "die Bürokratie",
+    "example": "La burocracia puede ser muy lenta.",
+    "example_german": "Die Bürokratie kann sehr langsam sein."
+  },
+  {
+    "word": "funcionario",
+    "translation": "der Beamte",
+    "example": "El funcionario trabaja en la oficina.",
+    "example_german": "Der Beamte arbeitet im Büro."
+  },
+  {
+    "word": "Documento Nacional de Identidad",
+    "translation": "der Personalausweis",
+    "example": "Necesito mi Documento Nacional de Identidad.",
+    "example_german": "Ich brauche meinen Personalausweis."
+  },
+  {
+    "word": "DNI",
+    "translation": "der Personalausweis",
+    "example": "Necesito mi DNI para viajar.",
+    "example_german": "Ich brauche meinen Personalausweis zum Reisen."
+  },
+  {
+    "word": "tener un documento",
+    "translation": "ein Dokument",
+    "example": "Necesito tener un documento aquí.",
+    "example_german": "Ich muss ein Dokument hier haben."
+  },
+  {
+    "word": "solicitar un documento",
+    "translation": "ein Dokument anfordern",
+    "example": "Voy a solicitar un documento hoy.",
+    "example_german": "Ich werde heute ein Dokument anfordern."
+  },
+  {
+    "word": "renovar un documento",
+    "translation": "ein Dokument erneuern",
+    "example": "Necesito renovar un documento hoy.",
+    "example_german": "Ich muss heute ein Dokument erneuern."
+  },
+  {
+    "word": "perder un documento",
+    "translation": "ein Dokument verlieren",
+    "example": "He perdido un documento importante.",
+    "example_german": "Ich habe ein wichtiges Dokument verloren."
+  },
+  {
+    "word": "diario",
+    "translation": "das Tagebuch",
+    "example": "Escribo en mi diario cada día.",
+    "example_german": "Ich schreibe jeden Tag in mein Tagebuch."
+  },
+  {
+    "word": "álbum de fotos",
+    "translation": "das Fotoalbum",
+    "example": "Tengo un álbum de fotos hermoso.",
+    "example_german": "Ich habe ein schönes Fotoalbum."
+  },
+  {
+    "word": "joya",
+    "translation": "der Schmuck",
+    "example": "Esta joya es muy hermosa.",
+    "example_german": "Dieser Schmuck ist sehr schön."
+  },
+  {
+    "word": "anillo",
+    "translation": "der Ring",
+    "example": "Ella lleva un anillo hermoso.",
+    "example_german": "Sie trägt einen schönen Ring."
+  },
+  {
+    "word": "collar",
+    "translation": "das Halsband",
+    "example": "El collar es muy bonito.",
+    "example_german": "Das Halsband ist sehr schön."
+  },
+  {
+    "word": "pendientes",
+    "translation": "die Ohrringe",
+    "example": "Me gustan mucho los pendientes.",
+    "example_german": "Ich mag die Ohrringe sehr."
+  },
+  {
+    "word": "pulsera",
+    "translation": "die Armbanduhr",
+    "example": "Ella lleva una pulsera bonita.",
+    "example_german": "Sie trägt ein schönes Armband."
+  }
+]

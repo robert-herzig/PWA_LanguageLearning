@@ -1,0 +1,332 @@
+[
+  {
+    "word": "director de RR. HH.",
+    "translation": "der Personalchef",
+    "example": "El director de RR. HH. es amable.",
+    "example_german": "Der Personalchef ist freundlich."
+  },
+  {
+    "word": "director de Recursos Humanos",
+    "translation": "der Personalchef",
+    "example": "El director de Recursos Humanos es amable.",
+    "example_german": "Der Personalchef ist freundlich."
+  },
+  {
+    "word": "empleado de banca",
+    "translation": "der Bankangestellte",
+    "example": "El empleado de banca ayuda a los clientes.",
+    "example_german": "Der Bankangestellte hilft den Kunden."
+  },
+  {
+    "word": "responsable de ventas",
+    "translation": "der Verkaufsleiter",
+    "example": "El responsable de ventas es muy amable.",
+    "example_german": "Der Verkaufsleiter ist sehr freundlich."
+  },
+  {
+    "word": "oficio",
+    "translation": "das Handwerk",
+    "example": "El oficio de carpintero es interesante.",
+    "example_german": "Das Handwerk des Tischlers ist interessant."
+  },
+  {
+    "word": "profesión liberal",
+    "translation": "die Freiberuflichkeit",
+    "example": "Ella eligió una profesión liberal.",
+    "example_german": "Sie wählte eine Freiberuflichkeit."
+  },
+  {
+    "word": "sustituto",
+    "translation": "der Ersatz",
+    "example": "El sustituto llegó a tiempo.",
+    "example_german": "Der Ersatz kam pünktlich an."
+  },
+  {
+    "word": "ayudante",
+    "translation": "der Assistent",
+    "example": "El ayudante ayuda al profesor.",
+    "example_german": "Der Assistent hilft dem Lehrer."
+  },
+  {
+    "word": "estudiante en prácticas",
+    "translation": "der Praktikant",
+    "example": "El estudiante en prácticas aprende mucho.",
+    "example_german": "Der Praktikant lernt viel."
+  },
+  {
+    "word": "trabajar para una empresa de transportes",
+    "translation": "die Transportfirma",
+    "example": "Yo quiero trabajar para una empresa de transportes.",
+    "example_german": "Ich möchte für die Transportfirma arbeiten."
+  },
+  {
+    "word": "trabajar para una empresa de servicios",
+    "translation": "für ein Dienstleistungsunternehmen arbeiten",
+    "example": "Yo quiero trabajar para una empresa de servicios.",
+    "example_german": "Ich möchte für ein Dienstleistungsunternehmen arbeiten."
+  },
+  {
+    "word": "estar de auxiliar",
+    "translation": "der Hilfsarbeiter",
+    "example": "Estoy de auxiliar en la oficina.",
+    "example_german": "Ich bin als Hilfsarbeiter im Büro."
+  },
+  {
+    "word": "estar de canguro",
+    "translation": "der Babysitter",
+    "example": "Voy a estar de canguro esta noche.",
+    "example_german": "Ich werde heute Abend der Babysitter sein."
+  },
+  {
+    "word": "departamento de recursos humanos",
+    "translation": "der Personalabteilung",
+    "example": "El departamento de recursos humanos ayuda a los empleados.",
+    "example_german": "Die Personalabteilung hilft den Mitarbeitern."
+  },
+  {
+    "word": "departamento de contabilidad",
+    "translation": "das Rechnungswesen",
+    "example": "El departamento de contabilidad es importante.",
+    "example_german": "Das Rechnungswesen ist wichtig."
+  },
+  {
+    "word": "departamento de administración",
+    "translation": "das Verwaltungsabteilung",
+    "example": "El departamento de administración es importante.",
+    "example_german": "Die Verwaltungsabteilung ist wichtig."
+  },
+  {
+    "word": "bufete",
+    "translation": "das Buffet",
+    "example": "El bufete está lleno de comida.",
+    "example_german": "Das Buffet ist voller Essen."
+  },
+  {
+    "word": "laboratorio",
+    "translation": "das Labor",
+    "example": "El laboratorio está muy limpio.",
+    "example_german": "Das Labor ist sehr sauber."
+  },
+  {
+    "word": "hacer una presentación",
+    "translation": "eine Präsentation machen",
+    "example": "Voy a hacer una presentación mañana.",
+    "example_german": "Ich werde morgen eine Präsentation machen."
+  },
+  {
+    "word": "hacer un informe",
+    "translation": "einen Bericht machen",
+    "example": "Voy a hacer un informe hoy.",
+    "example_german": "Ich werde heute einen Bericht machen."
+  },
+  {
+    "word": "hacer un presupuesto",
+    "translation": "ein Budget machen",
+    "example": "Voy a hacer un presupuesto hoy.",
+    "example_german": "Ich werde heute ein Budget machen."
+  },
+  {
+    "word": "hacer un proyecto",
+    "translation": "ein Projekt machen",
+    "example": "Voy a hacer un proyecto hoy.",
+    "example_german": "Ich werde heute ein Projekt machen."
+  },
+  {
+    "word": "oferta",
+    "translation": "das Angebot",
+    "example": "Tengo una oferta especial hoy.",
+    "example_german": "Ich habe heute ein spezielles Angebot."
+  },
+  {
+    "word": "demanda",
+    "translation": "die Nachfrage",
+    "example": "La demanda de productos ha aumentado.",
+    "example_german": "Die Nachfrage nach Produkten ist gestiegen."
+  },
+  {
+    "word": "anuncio de trabajo",
+    "translation": "die Stellenanzeige",
+    "example": "Vi un anuncio de trabajo interesante.",
+    "example_german": "Ich habe eine interessante Stellenanzeige gesehen."
+  },
+  {
+    "word": "entrevistado",
+    "translation": "der Interviewte",
+    "example": "El entrevistado compartió su experiencia.",
+    "example_german": "Der Interviewte teilte seine Erfahrung mit."
+  },
+  {
+    "word": "entrevistador",
+    "translation": "der Interviewer",
+    "example": "El entrevistador hizo muchas preguntas.",
+    "example_german": "Der Interviewer stellte viele Fragen."
+  },
+  {
+    "word": "tener formación",
+    "translation": "die Ausbildung",
+    "example": "Ella quiere tener formación profesional.",
+    "example_german": "Sie möchte eine berufliche Ausbildung haben."
+  },
+  {
+    "word": "tener experiencia",
+    "translation": "Erfahrung haben",
+    "example": "Yo tengo experiencia en este campo.",
+    "example_german": "Ich habe Erfahrung in diesem Bereich."
+  },
+  {
+    "word": "buscar trabajo",
+    "translation": "Arbeit suchen",
+    "example": "Necesito buscar trabajo pronto.",
+    "example_german": "Ich muss bald Arbeit suchen."
+  },
+  {
+    "word": "escribir una carta de presentación",
+    "translation": "das Bewerbungsschreiben",
+    "example": "Voy a escribir una carta de presentación.",
+    "example_german": "Ich werde ein Bewerbungsschreiben schreiben."
+  },
+  {
+    "word": "enviar una carta de presentación",
+    "translation": "das Bewerbungsschreiben",
+    "example": "Voy a enviar una carta de presentación.",
+    "example_german": "Ich werde ein Bewerbungsschreiben senden."
+  },
+  {
+    "word": "hacer el currículum vítae",
+    "translation": "den Lebenslauf machen",
+    "example": "Voy a hacer el currículum vítae.",
+    "example_german": "Ich werde den Lebenslauf machen."
+  },
+  {
+    "word": "presentar el currículum vítae",
+    "translation": "der Lebenslauf präsentieren",
+    "example": "Voy a presentar el currículum vítae.",
+    "example_german": "Ich werde den Lebenslauf präsentieren."
+  },
+  {
+    "word": "hacer una entrevista de trabajo",
+    "translation": "ein Vorstellungsgespräch führen",
+    "example": "Voy a hacer una entrevista de trabajo.",
+    "example_german": "Ich werde ein Vorstellungsgespräch führen."
+  },
+  {
+    "word": "realizar una entrevista de trabajo",
+    "translation": "ein Vorstellungsgespräch führen",
+    "example": "Voy a realizar una entrevista de trabajo.",
+    "example_german": "Ich werde ein Vorstellungsgespräch führen."
+  },
+  {
+    "word": "firmar un contrato",
+    "translation": "einen Vertrag unterschreiben",
+    "example": "Voy a firmar un contrato hoy.",
+    "example_german": "Ich werde heute einen Vertrag unterschreiben."
+  },
+  {
+    "word": "despedir",
+    "translation": "der Abschied",
+    "example": "Voy a despedir a mi amigo.",
+    "example_german": "Ich werde meinen Freund verabschieden."
+  },
+  {
+    "word": "contrato",
+    "translation": "der Vertrag",
+    "example": "Firmé el contrato ayer.",
+    "example_german": "Ich habe den Vertrag gestern unterschrieben."
+  },
+  {
+    "word": "sueldo total",
+    "translation": "das Gesamteinkommen",
+    "example": "Mi sueldo total es suficiente.",
+    "example_german": "Mein gesamtes Einkommen ist ausreichend."
+  },
+  {
+    "word": "disponibilidad",
+    "translation": "die Verfügbarkeit",
+    "example": "La disponibilidad del producto es alta.",
+    "example_german": "Die Verfügbarkeit des Produkts ist hoch."
+  },
+  {
+    "word": "estabilidad laboral",
+    "translation": "die berufliche Stabilität",
+    "example": "La estabilidad laboral es importante hoy.",
+    "example_german": "Die berufliche Stabilität ist heute wichtig."
+  },
+  {
+    "word": "horario flexible",
+    "translation": "der flexible Zeitplan",
+    "example": "Tengo un horario flexible en mi trabajo.",
+    "example_german": "Ich habe einen flexiblen Zeitplan bei meiner Arbeit."
+  },
+  {
+    "word": "incorporación inmediata",
+    "translation": "die sofortige Eingliederung",
+    "example": "Buscamos una incorporación inmediata.",
+    "example_german": "Wir suchen eine sofortige Eingliederung."
+  },
+  {
+    "word": "formación a cargo de la empresa",
+    "translation": "die Schulung auf Kosten des Unternehmens",
+    "example": "La empresa ofrece formación a cargo de la empresa.",
+    "example_german": "Das Unternehmen bietet die Schulung auf Kosten des Unternehmens an."
+  },
+  {
+    "word": "posibilidad de promoción",
+    "translation": "die Möglichkeit der Beförderung",
+    "example": "Hay una posibilidad de promoción aquí.",
+    "example_german": "Es gibt hier die Möglichkeit der Beförderung."
+  },
+  {
+    "word": "sindicato",
+    "translation": "der Gewerkschaft",
+    "example": "El sindicato protege los derechos laborales.",
+    "example_german": "Die Gewerkschaft schützt die Arbeitsrechte."
+  },
+  {
+    "word": "tener un sueldo",
+    "translation": "ein Gehalt",
+    "example": "Yo tengo un sueldo estable.",
+    "example_german": "Ich habe ein stabiles Gehalt."
+  },
+  {
+    "word": "ganar un sueldo",
+    "translation": "ein Gehalt verdienen",
+    "example": "Ella quiere ganar un sueldo alto.",
+    "example_german": "Sie möchte ein hohes Gehalt verdienen."
+  },
+  {
+    "word": "subir el sueldo",
+    "translation": "die Gehaltserhöhung",
+    "example": "Quiero subir el sueldo este año.",
+    "example_german": "Ich möchte das Gehalt dieses Jahr erhöhen."
+  },
+  {
+    "word": "bajar el sueldo",
+    "translation": "die Gehaltserhöhung",
+    "example": "El jefe quiere bajar el sueldo.",
+    "example_german": "Der Chef will das Gehalt senken."
+  },
+  {
+    "word": "estar de vacaciones",
+    "translation": "in den Ferien sein",
+    "example": "Estoy de vacaciones en la playa.",
+    "example_german": "Ich bin in den Ferien am Strand."
+  },
+  {
+    "word": "hacer huelga",
+    "translation": "die Streik",
+    "example": "Los trabajadores van a hacer huelga.",
+    "example_german": "Die Arbeiter werden streiken."
+  },
+  {
+    "word": "jubilarse",
+    "translation": "die Rente",
+    "example": "Quiero jubilarme pronto.",
+    "example_german": "Ich möchte bald in die Rente gehen."
+  },
+  {
+    "word": "vago",
+    "translation": "der Faulenzer",
+    "example": "Él es un vago en la clase.",
+    "example_german": "Er ist ein Faulenzer in der Klasse."
+  }
+]

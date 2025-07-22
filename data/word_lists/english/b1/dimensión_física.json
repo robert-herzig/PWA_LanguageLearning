@@ -1,0 +1,380 @@
+[
+  {
+    "word": "muscle",
+    "translation": "der Muskel",
+    "example": "The muscle helps with movement.",
+    "example_german": "Der Muskel hilft bei der Bewegung."
+  },
+  {
+    "word": "bone",
+    "translation": "der Knochen",
+    "example": "The dog chews the bone.",
+    "example_german": "Der Hund kaut den Knochen."
+  },
+  {
+    "word": "skin",
+    "translation": "die Haut",
+    "example": "The skin protects our body.",
+    "example_german": "Die Haut schützt unseren Körper."
+  },
+  {
+    "word": "heart",
+    "translation": "das Herz",
+    "example": "The heart pumps blood in the body.",
+    "example_german": "Das Herz pumpt Blut im Körper."
+  },
+  {
+    "word": "lung",
+    "translation": "die Lunge",
+    "example": "The lung helps us breathe air.",
+    "example_german": "Die Lunge hilft uns, Luft zu atmen."
+  },
+  {
+    "word": "neck",
+    "translation": "der Hals",
+    "example": "The neck is very important.",
+    "example_german": "Der Hals ist sehr wichtig."
+  },
+  {
+    "word": "shoulders",
+    "translation": "die Schultern",
+    "example": "My shoulders feel tense after work.",
+    "example_german": "Meine Schultern fühlen sich nach der Arbeit angespannt an."
+  },
+  {
+    "word": "chest",
+    "translation": "der Brust",
+    "example": "The chest is very strong.",
+    "example_german": "Die Brust ist sehr stark."
+  },
+  {
+    "word": "waist",
+    "translation": "die Taille",
+    "example": "He measured his waist size carefully.",
+    "example_german": "Er maß seine Taillengröße sorgfältig."
+  },
+  {
+    "word": "belly",
+    "translation": "der Bauch",
+    "example": "My belly is full after lunch.",
+    "example_german": "Mein Bauch ist nach dem Mittagessen voll."
+  },
+  {
+    "word": "knee",
+    "translation": "das Knie",
+    "example": "I hurt my knee yesterday.",
+    "example_german": "Gestern habe ich mir das Knie verletzt."
+  },
+  {
+    "word": "ankle",
+    "translation": "der Knöchel",
+    "example": "I twisted my ankle yesterday.",
+    "example_german": "Ich habe mir gestern den Knöchel verstaucht."
+  },
+  {
+    "word": "elbow",
+    "translation": "der Ellbogen",
+    "example": "I bumped my elbow on the table.",
+    "example_german": "Ich habe meinen Ellbogen am Tisch gestoßen."
+  },
+  {
+    "word": "doll",
+    "translation": "die Puppe",
+    "example": "The doll is very pretty.",
+    "example_german": "Die Puppe ist sehr schön."
+  },
+  {
+    "word": "posture",
+    "translation": "die Haltung",
+    "example": "He maintains a correct posture.",
+    "example_german": "Er hält eine korrekte Haltung."
+  },
+  {
+    "word": "glance",
+    "translation": "der Blick",
+    "example": "She gave him a quick glance.",
+    "example_german": "Sie warf ihm einen schnellen Blick zu."
+  },
+  {
+    "word": "to resemble",
+    "translation": "ähneln",
+    "example": "They resemble each other closely.",
+    "example_german": "Sie ähneln sich sehr."
+  },
+  {
+    "word": "to have fair skin",
+    "translation": "die helle Haut",
+    "example": "She has fair skin.",
+    "example_german": "Sie hat die helle Haut."
+  },
+  {
+    "word": "to have dark skin",
+    "translation": "die dunkle Haut",
+    "example": "He has dark skin.",
+    "example_german": "Er hat die dunkle Haut."
+  },
+  {
+    "word": "to have sensitive skin",
+    "translation": "die empfindliche Haut",
+    "example": "I have sensitive skin.",
+    "example_german": "Ich habe die empfindliche Haut."
+  },
+  {
+    "word": "to have soft skin",
+    "translation": "die weiche Haut",
+    "example": "She has soft skin.",
+    "example_german": "Sie hat die weiche Haut."
+  },
+  {
+    "word": "to be tanned",
+    "translation": "der/die/das braun sein",
+    "example": "She is tanned from the beach.",
+    "example_german": "Sie ist braun vom Strand."
+  },
+  {
+    "word": "to be white",
+    "translation": "weiß sein",
+    "example": "The wall is white.",
+    "example_german": "Die Wand ist weiß."
+  },
+  {
+    "word": "to be dark-haired",
+    "translation": "der braune",
+    "example": "She is dark-haired and friendly.",
+    "example_german": "Sie ist braunhaarig und freundlich."
+  },
+  {
+    "word": "to be good-looking",
+    "translation": "gut aussehend",
+    "example": "He is good-looking and very kind.",
+    "example_german": "Er sieht gut aus und ist sehr nett."
+  },
+  {
+    "word": "to look bad",
+    "translation": "schlecht aussehen",
+    "example": "She looks bad today.",
+    "example_german": "Sie sieht heute schlecht aus."
+  },
+  {
+    "word": "to have a good figure",
+    "translation": "eine gute Figur haben",
+    "example": "She has a good figure.",
+    "example_german": "Sie hat eine gute Figur."
+  },
+  {
+    "word": "to have a bad figure",
+    "translation": "eine schlechte Figur haben",
+    "example": "He thinks he has a bad figure.",
+    "example_german": "Er denkt, dass er eine schlechte Figur hat."
+  },
+  {
+    "word": "to have good style",
+    "translation": "einen guten Stil haben",
+    "example": "He has good style in fashion.",
+    "example_german": "Er hat einen guten Stil in der Mode."
+  },
+  {
+    "word": "to have bad style",
+    "translation": "schlechten Stil haben",
+    "example": "He has bad style in his clothes.",
+    "example_german": "Er hat einen schlechten Stil in seiner Kleidung."
+  },
+  {
+    "word": "to have a good presence",
+    "translation": "eine gute Präsenz haben",
+    "example": "He has a good presence at work.",
+    "example_german": "Er hat eine gute Präsenz bei der Arbeit."
+  },
+  {
+    "word": "to have a bad presence",
+    "translation": "schlechte Präsenz",
+    "example": "He has a bad presence in interviews.",
+    "example_german": "Er hat eine schlechte Präsenz in Vorstellungsgesprächen."
+  },
+  {
+    "word": "to walk",
+    "translation": "gehen",
+    "example": "I like to walk in the park.",
+    "example_german": "Ich gehe gerne im Park spazieren."
+  },
+  {
+    "word": "to take a walk",
+    "translation": "einen Spaziergang machen",
+    "example": "I like to take a walk in the evening.",
+    "example_german": "Ich gehe gerne am Abend einen Spaziergang machen."
+  },
+  {
+    "word": "to jump",
+    "translation": "springen",
+    "example": "I like to jump high.",
+    "example_german": "Ich springe gerne hoch."
+  },
+  {
+    "word": "to be sitting",
+    "translation": "sitzen",
+    "example": "I am sitting on the chair.",
+    "example_german": "Ich sitze auf dem Stuhl."
+  },
+  {
+    "word": "to stand",
+    "translation": "stehen",
+    "example": "I am standing in the room.",
+    "example_german": "Ich stehe im Raum."
+  },
+  {
+    "word": "to breathe",
+    "translation": "atmen",
+    "example": "I need to breathe fresh air.",
+    "example_german": "Ich muss frische Luft atmen."
+  },
+  {
+    "word": "to cry",
+    "translation": "weinen",
+    "example": "The baby begins to cry loudly.",
+    "example_german": "Das Baby beginnt laut zu weinen."
+  },
+  {
+    "word": "to smell",
+    "translation": "riechen",
+    "example": "I love to smell fresh bread.",
+    "example_german": "Ich liebe es, frisches Brot zu riechen."
+  },
+  {
+    "word": "to touch",
+    "translation": "berühren",
+    "example": "I want to touch the painting.",
+    "example_german": "Ich möchte das Gemälde berühren."
+  },
+  {
+    "word": "to kiss",
+    "translation": "küssen",
+    "example": "I want to kiss my friend.",
+    "example_german": "Ich möchte meinen Freund küssen."
+  },
+  {
+    "word": "to embrace",
+    "translation": "umarmen",
+    "example": "I want to embrace my family.",
+    "example_german": "Ich möchte meine Familie umarmen."
+  },
+  {
+    "word": "to raise the hands",
+    "translation": "die Hände heben",
+    "example": "Students raise their hands in class.",
+    "example_german": "Die Schüler heben die Hände im Unterricht."
+  },
+  {
+    "word": "to raise the arms",
+    "translation": "die Arme heben",
+    "example": "She wants to raise the arms.",
+    "example_german": "Sie möchte die Arme heben."
+  },
+  {
+    "word": "to lift one's head",
+    "translation": "den Kopf heben",
+    "example": "He decided to lift his head.",
+    "example_german": "Er beschloss, den Kopf zu heben."
+  },
+  {
+    "word": "to lower the hands",
+    "translation": "die Hände senken",
+    "example": "You need to lower the hands now.",
+    "example_german": "Du musst jetzt die Hände senken."
+  },
+  {
+    "word": "to give up",
+    "translation": "aufzugeben",
+    "example": "You should never give up.",
+    "example_german": "Du solltest niemals aufgeben."
+  },
+  {
+    "word": "to lower the head",
+    "translation": "den Kopf senken",
+    "example": "He chose to lower his head.",
+    "example_german": "Er entschied sich, den Kopf zu senken."
+  },
+  {
+    "word": "to move the hands",
+    "translation": "die Hände bewegen",
+    "example": "He likes to move the hands.",
+    "example_german": "Er bewegt gerne die Hände."
+  },
+  {
+    "word": "to move the arms",
+    "translation": "die Arme bewegen",
+    "example": "He likes to move the arms.",
+    "example_german": "Er bewegt gerne die Arme."
+  },
+  {
+    "word": "to move the head",
+    "translation": "den Kopf bewegen",
+    "example": "He moves his head to agree.",
+    "example_german": "Er bewegt den Kopf, um zuzustimmen."
+  },
+  {
+    "word": "to release",
+    "translation": "loslassen",
+    "example": "I want to release the balloon.",
+    "example_german": "Ich möchte den Ballon loslassen."
+  },
+  {
+    "word": "life",
+    "translation": "das Leben",
+    "example": "Life is beautiful.",
+    "example_german": "Das Leben ist schön."
+  },
+  {
+    "word": "death",
+    "translation": "der Tod",
+    "example": "Death is a natural part of life.",
+    "example_german": "Der Tod ist ein natürlicher Teil des Lebens."
+  },
+  {
+    "word": "to be pregnant",
+    "translation": "schwanger sein",
+    "example": "She is pregnant with her first child.",
+    "example_german": "Sie ist mit ihrem ersten Kind schwanger."
+  },
+  {
+    "word": "to expect a child",
+    "translation": "ein Kind erwarten",
+    "example": "They are expecting a child.",
+    "example_german": "Sie erwarten ein Kind."
+  },
+  {
+    "word": "to be a virgin",
+    "translation": "die Jungfrau",
+    "example": "She wants to be a virgin until marriage.",
+    "example_german": "Sie möchte bis zur Ehe Jungfrau sein."
+  },
+  {
+    "word": "to make love",
+    "translation": "die Liebe machen",
+    "example": "They want to make love.",
+    "example_german": "Sie wollen die Liebe machen."
+  },
+  {
+    "word": "to have sexual relations",
+    "translation": "sexuelle Beziehungen haben",
+    "example": "They want to have sexual relations.",
+    "example_german": "Sie wollen sexuelle Beziehungen haben."
+  },
+  {
+    "word": "to take the pill",
+    "translation": "die Pille nehmen",
+    "example": "She needs to take the pill.",
+    "example_german": "Sie muss die Pille nehmen."
+  },
+  {
+    "word": "to use condoms",
+    "translation": "die Kondome benutzen",
+    "example": "It is important to use condoms.",
+    "example_german": "Es ist wichtig, Kondome zu benutzen."
+  },
+  {
+    "word": "to have one's period",
+    "translation": "die Regel haben",
+    "example": "She has her period this month.",
+    "example_german": "Sie hat diesen Monat die Regel."
+  }
+]

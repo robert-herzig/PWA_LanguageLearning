@@ -1,0 +1,710 @@
+[
+  {
+    "word": "кампус",
+    "translation": "der Campus",
+    "example": "Кампус очень красивый.",
+    "example_german": "Der Campus ist sehr schön."
+  },
+  {
+    "word": "секретарь",
+    "translation": "der Sekretär",
+    "example": "Секретарь отвечает на звонки.",
+    "example_german": "Der Sekretär beantwortet die Anrufe."
+  },
+  {
+    "word": "администрация",
+    "translation": "die Verwaltung",
+    "example": "Администрация принимает важные решения.",
+    "example_german": "Die Verwaltung trifft wichtige Entscheidungen."
+  },
+  {
+    "word": "центр ресурсов",
+    "translation": "das Ressourcen-Zentrum",
+    "example": "Центр ресурсов помогает многим людям.",
+    "example_german": "Das Ressourcen-Zentrum hilft vielen Menschen."
+  },
+  {
+    "word": "мультимедийный класс",
+    "translation": "das Multimedia-Aula",
+    "example": "Мультимедийный класс оборудован новыми технологиями.",
+    "example_german": "Das Multimedia-Aula ist mit neuer Technologie ausgestattet."
+  },
+  {
+    "word": "государственная школа",
+    "translation": "die öffentliche Schule",
+    "example": "Государственная школа очень большая.",
+    "example_german": "Die öffentliche Schule ist sehr groß."
+  },
+  {
+    "word": "частная школа",
+    "translation": "die Privatschule",
+    "example": "Частная школа предлагает хорошие программы.",
+    "example_german": "Die Privatschule bietet gute Programme an."
+  },
+  {
+    "word": "детский сад",
+    "translation": "der Kindergarten",
+    "example": "Дети играют в детском саду.",
+    "example_german": "Die Kinder spielen im Kindergarten."
+  },
+  {
+    "word": "теоретический предмет",
+    "translation": "das theoretische Fach",
+    "example": "Теоретический предмет очень важен.",
+    "example_german": "Das theoretische Fach ist sehr wichtig."
+  },
+  {
+    "word": "практический предмет",
+    "translation": "das Fachpraktikum",
+    "example": "Практический предмет очень важен.",
+    "example_german": "Das Fachpraktikum ist sehr wichtig."
+  },
+  {
+    "word": "теоретический класс",
+    "translation": "die theoretische Klasse",
+    "example": "Сегодня у меня теоретический класс.",
+    "example_german": "Heute habe ich einen theoretischen Klasse."
+  },
+  {
+    "word": "практическое занятие",
+    "translation": "die praktische Klasse",
+    "example": "Сегодня у нас практическое занятие.",
+    "example_german": "Heute haben wir ein praktisches Unterricht."
+  },
+  {
+    "word": "регистрация",
+    "translation": "die Einschreibung",
+    "example": "Регистрация начинается в понедельник.",
+    "example_german": "Die Einschreibung beginnt am Montag."
+  },
+  {
+    "word": "стипендия",
+    "translation": "das Stipendium",
+    "example": "Она получила стипендию для учебы.",
+    "example_german": "Sie erhielt ein Stipendium zum Studieren."
+  },
+  {
+    "word": "конференция",
+    "translation": "die Konferenz",
+    "example": "Конференция начинается в десять.",
+    "example_german": "Die Konferenz beginnt um zehn Uhr."
+  },
+  {
+    "word": "записаться",
+    "translation": "sich immatrikulieren",
+    "example": "Я хочу записаться на курс.",
+    "example_german": "Ich möchte mich für den Kurs immatrikulieren."
+  },
+  {
+    "word": "возврат регистрации",
+    "translation": "die Rückerstattung der Einschreibung",
+    "example": "Мне нужно вернуть регистрацию сегодня.",
+    "example_german": "Ich muss die Einschreibung heute zurückgeben."
+  },
+  {
+    "word": "подать заявку на стипендию",
+    "translation": "ein Stipendium beantragen",
+    "example": "Я хочу подать заявку на стипендию.",
+    "example_german": "Ich möchte ein Stipendium beantragen."
+  },
+  {
+    "word": "дать стипендию",
+    "translation": "ein Stipendium geben",
+    "example": "Университет хочет дать стипендию.",
+    "example_german": "Die Universität möchte ein Stipendium geben."
+  },
+  {
+    "word": "выиграть стипендию",
+    "translation": "ein Stipendium gewinnen",
+    "example": "Я хочу выиграть стипендию.",
+    "example_german": "Ich möchte ein Stipendium gewinnen."
+  },
+  {
+    "word": "делать обмен",
+    "translation": "einen Austausch machen",
+    "example": "Я хочу сделать обмен культурой.",
+    "example_german": "Ich möchte einen kulturellen Austausch machen."
+  },
+  {
+    "word": "практика",
+    "translation": "ein Praktikum machen",
+    "example": "Я хочу пройти практику этим летом.",
+    "example_german": "Ich möchte dieses Sommer ein Praktikum machen."
+  },
+  {
+    "word": "знать наизусть",
+    "translation": "auswendig wissen",
+    "example": "Он знает стихотворение наизусть.",
+    "example_german": "Er weiß das Gedicht auswendig."
+  },
+  {
+    "word": "запоминать",
+    "translation": "auswendig lernen",
+    "example": "Мне нужно запомнить этот урок.",
+    "example_german": "Ich muss diese Lektion auswendig lernen."
+  },
+  {
+    "word": "учить наизусть",
+    "translation": "auswendig lernen",
+    "example": "Мне нужно учить наизусть этот урок.",
+    "example_german": "Ich muss diese Lektion auswendig lernen."
+  },
+  {
+    "word": "думать",
+    "translation": "denken",
+    "example": "Я думаю о будущем.",
+    "example_german": "Ich denke an die Zukunft."
+  },
+  {
+    "word": "вспоминать",
+    "translation": "erinnern",
+    "example": "Я хочу вспомнить это.",
+    "example_german": "Ich möchte das erinnern."
+  },
+  {
+    "word": "забывать",
+    "translation": "vergessen",
+    "example": "Я часто забываю о встречах.",
+    "example_german": "Ich vergesse oft die Treffen."
+  },
+  {
+    "word": "учить",
+    "translation": "lehren",
+    "example": "Я хочу учить детей.",
+    "example_german": "Ich möchte Kinder lehren."
+  },
+  {
+    "word": "тест",
+    "translation": "der Test",
+    "example": "Мне нужно сдать тест сегодня.",
+    "example_german": "Ich muss heute den Test ablegen."
+  },
+  {
+    "word": "контроль",
+    "translation": "die Kontrolle",
+    "example": "Мне нужен контроль над ситуацией.",
+    "example_german": "Ich brauche Kontrolle über die Situation."
+  },
+  {
+    "word": "сдать устный экзамен",
+    "translation": "die mündliche Prüfung bestehen",
+    "example": "Я хочу сдать устный экзамен.",
+    "example_german": "Ich möchte die mündliche Prüfung bestehen."
+  },
+  {
+    "word": "сдать письменный тест",
+    "translation": "einen schriftlichen Test bestehen",
+    "example": "Я хочу сдать письменный тест.",
+    "example_german": "Ich möchte einen schriftlichen Test bestehen."
+  },
+  {
+    "word": "сделать проверку",
+    "translation": "eine Kontrolle machen",
+    "example": "Мне нужно сделать проверку сегодня.",
+    "example_german": "Ich muss heute eine Kontrolle machen."
+  },
+  {
+    "word": "иметь устный экзамен",
+    "translation": "eine mündliche Prüfung",
+    "example": "У меня устный экзамен завтра.",
+    "example_german": "Ich habe morgen eine mündliche Prüfung."
+  },
+  {
+    "word": "иметь письменный тест",
+    "translation": "einen schriftlichen Test",
+    "example": "У меня будет письменный тест завтра.",
+    "example_german": "Ich werde morgen einen schriftlichen Test haben."
+  },
+  {
+    "word": "иметь контроль",
+    "translation": "die Kontrolle haben",
+    "example": "Важно иметь контроль над ситуацией.",
+    "example_german": "Es ist wichtig, die Kontrolle über die Situation zu haben."
+  },
+  {
+    "word": "сдать контрольную",
+    "translation": "eine Kontrolle bestehen",
+    "example": "Я хочу сдать контрольную завтра.",
+    "example_german": "Ich möchte morgen eine Kontrolle bestehen."
+  },
+  {
+    "word": "провалить устный экзамен",
+    "translation": "das mündliche Examen ablegen",
+    "example": "Я могу провалить устный экзамен.",
+    "example_german": "Ich könnte ein mündliches Examen ablegen."
+  },
+  {
+    "word": "провалить письменный тест",
+    "translation": "einen schriftlichen Test ablegen",
+    "example": "Я собираюсь провалить письменный тест.",
+    "example_german": "Ich werde einen schriftlichen Test ablegen."
+  },
+  {
+    "word": "приостановить контроль",
+    "translation": "die Kontrolle aufheben",
+    "example": "Мне нужно приостановить контроль сейчас.",
+    "example_german": "Ich muss jetzt die Kontrolle aufheben."
+  },
+  {
+    "word": "исправить экзамен",
+    "translation": "eine Prüfung korrigieren",
+    "example": "Мне нужно исправить экзамен сейчас.",
+    "example_german": "Ich muss jetzt eine Prüfung korrigieren."
+  },
+  {
+    "word": "иметь замечательный",
+    "translation": "einen bemerkenswerten",
+    "example": "У него есть замечательный дар.",
+    "example_german": "Er hat ein bemerkenswertes Talent."
+  },
+  {
+    "word": "иметь отличную оценку",
+    "translation": "eine Eins",
+    "example": "Он имеет отличную оценку по истории.",
+    "example_german": "Er hat eine Eins in Geschichte."
+  },
+  {
+    "word": "иметь хорошую оценку",
+    "translation": "eine gute Note",
+    "example": "Я хочу иметь хорошую оценку.",
+    "example_german": "Ich möchte eine gute Note haben."
+  },
+  {
+    "word": "иметь плохую оценку",
+    "translation": "eine schlechte Note",
+    "example": "У меня плохая оценка по истории.",
+    "example_german": "Ich habe eine schlechte Note in Geschichte."
+  },
+  {
+    "word": "сдать курс",
+    "translation": "den Kurs bestehen",
+    "example": "Я хочу сдать курс в этом году.",
+    "example_german": "Ich möchte den Kurs in diesem Jahr bestehen."
+  },
+  {
+    "word": "повторить курс",
+    "translation": "den Kurs wiederholen",
+    "example": "Он должен повторить курс.",
+    "example_german": "Er muss den Kurs wiederholen."
+  },
+  {
+    "word": "аттестат зрелости",
+    "translation": "das Abitur",
+    "example": "Аттестат зрелости нужен для университета.",
+    "example_german": "Das Abitur ist für die Universität notwendig."
+  },
+  {
+    "word": "карьера",
+    "translation": "die Karriere",
+    "example": "Она строит свою карьеру.",
+    "example_german": "Sie baut ihre Karriere auf."
+  },
+  {
+    "word": "магистр",
+    "translation": "der Master",
+    "example": "Она получила степень магистра в университете.",
+    "example_german": "Sie hat an der Universität einen Master gemacht."
+  },
+  {
+    "word": "докторат",
+    "translation": "der Doktorgrad",
+    "example": "Она получила докторскую степень по математике.",
+    "example_german": "Sie hat einen Doktorgrad in Mathematik erhalten."
+  },
+  {
+    "word": "выпускник",
+    "translation": "der Lizenzierte",
+    "example": "Выпускник учится в университете.",
+    "example_german": "Der Lizenzierte studiert an der Universität."
+  },
+  {
+    "word": "доктор",
+    "translation": "der Arzt",
+    "example": "Доктор помогает людям каждый день.",
+    "example_german": "Der Arzt hilft den Menschen jeden Tag."
+  },
+  {
+    "word": "учиться на аттестат зрелости",
+    "translation": "das Abitur",
+    "example": "Я хочу учиться на аттестат зрелости.",
+    "example_german": "Ich möchte das Abitur machen."
+  },
+  {
+    "word": "изучать карьеру",
+    "translation": "eine Karriere studieren",
+    "example": "Я хочу изучать карьеру врача.",
+    "example_german": "Ich möchte eine Karriere als Arzt studieren."
+  },
+  {
+    "word": "учиться на магистратуре",
+    "translation": "einen Master studieren",
+    "example": "Я хочу учиться на магистратуре.",
+    "example_german": "Ich möchte einen Master studieren."
+  },
+  {
+    "word": "изучать докторскую степень",
+    "translation": "ein Doktorat",
+    "example": "Я хочу изучать докторскую степень.",
+    "example_german": "Ich möchte ein Doktorat studieren."
+  },
+  {
+    "word": "закончить среднюю школу",
+    "translation": "das Abitur",
+    "example": "Я хочу закончить среднюю школу в этом году.",
+    "example_german": "Ich möchte das Abitur in diesem Jahr machen."
+  },
+  {
+    "word": "делать карьеру",
+    "translation": "eine Karriere machen",
+    "example": "Я хочу делать карьеру в бизнесе.",
+    "example_german": "Ich möchte eine Karriere im Geschäft machen."
+  },
+  {
+    "word": "делать магистратуру",
+    "translation": "einen Master machen",
+    "example": "Я хочу делать магистратуру в этом году.",
+    "example_german": "Ich möchte dieses Jahr einen Master machen."
+  },
+  {
+    "word": "делать докторскую степень",
+    "translation": "einen Doktortitel machen",
+    "example": "Она хочет делать докторскую степень.",
+    "example_german": "Sie möchte einen Doktortitel machen."
+  },
+  {
+    "word": "иметь аттестат о среднем образовании",
+    "translation": "das Abitur",
+    "example": "Она имеет аттестат о среднем образовании.",
+    "example_german": "Sie hat das Abitur."
+  },
+  {
+    "word": "иметь карьеру",
+    "translation": "eine Karriere haben",
+    "example": "Я хочу иметь успешную карьеру.",
+    "example_german": "Ich möchte eine erfolgreiche Karriere haben."
+  },
+  {
+    "word": "иметь степень магистра",
+    "translation": "einen Master",
+    "example": "Она хочет иметь степень магистра.",
+    "example_german": "Sie möchte einen Master haben."
+  },
+  {
+    "word": "иметь докторскую степень",
+    "translation": "einen Doktortitel",
+    "example": "Она имеет докторскую степень по математике.",
+    "example_german": "Sie hat einen Doktortitel in Mathematik."
+  },
+  {
+    "word": "начать старшую школу",
+    "translation": "das Abitur beginnen",
+    "example": "Я хочу начать старшую школу в следующем году.",
+    "example_german": "Ich möchte nächstes Jahr das Abitur beginnen."
+  },
+  {
+    "word": "начать карьеру",
+    "translation": "eine Karriere beginnen",
+    "example": "Я хочу начать карьеру в бизнесе.",
+    "example_german": "Ich möchte eine Karriere im Geschäft beginnen."
+  },
+  {
+    "word": "начать магистратуру",
+    "translation": "ein Master beginnen",
+    "example": "Я хочу начать магистратуру.",
+    "example_german": "Ich möchte einen Master beginnen."
+  },
+  {
+    "word": "начать докторскую степень",
+    "translation": "ein Doktorat beginnen",
+    "example": "Я хочу начать докторскую степень в этом году.",
+    "example_german": "Ich möchte dieses Jahr ein Doktorat beginnen."
+  },
+  {
+    "word": "закончить учебу",
+    "translation": "das Studium abschließen",
+    "example": "Я хочу закончить учебу.",
+    "example_german": "Ich möchte ein Studium abschließen."
+  },
+  {
+    "word": "закончить магистратуру",
+    "translation": "einen Masterabschluss machen",
+    "example": "Я хочу закончить магистратуру.",
+    "example_german": "Ich möchte einen Masterabschluss machen."
+  },
+  {
+    "word": "закончить докторскую степень",
+    "translation": "einen Doktortitel erwerben",
+    "example": "Она хочет закончить докторскую степень.",
+    "example_german": "Sie möchte einen Doktortitel erwerben."
+  },
+  {
+    "word": "закончить карьеру",
+    "translation": "eine Karriere beenden",
+    "example": "Я хочу закончить карьеру скоро.",
+    "example_german": "Ich möchte eine Karriere bald beenden."
+  },
+  {
+    "word": "не иметь образования",
+    "translation": "keine Ausbildung haben",
+    "example": "Она не имеет образования.",
+    "example_german": "Sie hat keine Ausbildung."
+  },
+  {
+    "word": "иметь образование",
+    "translation": "die Ausbildung",
+    "example": "Она имеет образование в медицине.",
+    "example_german": "Sie hat eine Ausbildung in Medizin."
+  },
+  {
+    "word": "иметь сомнение",
+    "translation": "eine Frage",
+    "example": "У меня есть сомнение по этому вопросу.",
+    "example_german": "Ich habe eine Frage zu diesem Thema."
+  },
+  {
+    "word": "ошибаться",
+    "translation": "sich irren",
+    "example": "Я ошибся в ответе.",
+    "example_german": "Ich habe mich bei der Antwort geirrt."
+  },
+  {
+    "word": "делать задание в парах",
+    "translation": "eine Aktivität in Paaren",
+    "example": "Мы будем делать задание в парах.",
+    "example_german": "Wir werden eine Aktivität in Paaren machen."
+  },
+  {
+    "word": "делать деятельность в группах",
+    "translation": "eine Aktivität in Gruppen machen",
+    "example": "Мы будем делать деятельность в группах.",
+    "example_german": "Wir werden eine Aktivität in Gruppen machen."
+  },
+  {
+    "word": "делать активность индивидуально",
+    "translation": "eine Aktivität individuell machen",
+    "example": "Я хочу делать активность индивидуально.",
+    "example_german": "Ich möchte eine Aktivität individuell machen."
+  },
+  {
+    "word": "составить схему",
+    "translation": "ein Schema erstellen",
+    "example": "Мне нужно составить схему сейчас.",
+    "example_german": "Ich muss jetzt ein Schema erstellen."
+  },
+  {
+    "word": "сделать резюме",
+    "translation": "eine Zusammenfassung machen",
+    "example": "Мне нужно сделать резюме сейчас.",
+    "example_german": "Ich muss jetzt eine Zusammenfassung machen."
+  },
+  {
+    "word": "искать в книге",
+    "translation": "in einem Buch suchen",
+    "example": "Я хочу искать в книге.",
+    "example_german": "Ich möchte in einem Buch suchen."
+  },
+  {
+    "word": "искать в словаре",
+    "translation": "im Wörterbuch nachschlagen",
+    "example": "Ты должен искать в словаре.",
+    "example_german": "Du musst im Wörterbuch nachschlagen."
+  },
+  {
+    "word": "смотреть в книге",
+    "translation": "in einem Buch schauen",
+    "example": "Я хочу смотреть в книге.",
+    "example_german": "Ich möchte in einem Buch schauen."
+  },
+  {
+    "word": "делать заметки",
+    "translation": "Not applicable",
+    "example": "Я буду делать заметки на уроке.",
+    "example_german": "Ich werde im Unterricht Notizen machen."
+  },
+  {
+    "word": "подчеркнуть книгу",
+    "translation": "ein Buch unterstreichen",
+    "example": "Мне нужно подчеркнуть книгу для урока.",
+    "example_german": "Ich muss ein Buch für den Unterricht unterstreichen."
+  },
+  {
+    "word": "выбрать тему",
+    "translation": "ein Thema wählen",
+    "example": "Я хочу выбрать тему для проекта.",
+    "example_german": "Ich möchte ein Thema für das Projekt wählen."
+  },
+  {
+    "word": "выбрать партнёра",
+    "translation": "einen Partner wählen",
+    "example": "Мне нужно выбрать партнёра сейчас.",
+    "example_german": "Ich muss jetzt einen Partner wählen."
+  },
+  {
+    "word": "выбрать книгу",
+    "translation": "ein Buch wählen",
+    "example": "Я хочу выбрать интересную книгу.",
+    "example_german": "Ich möchte ein interessantes Buch wählen."
+  },
+  {
+    "word": "поменять книгу",
+    "translation": "das Buch wechseln",
+    "example": "Мне нужно поменять книгу сейчас.",
+    "example_german": "Ich muss jetzt das Buch wechseln."
+  },
+  {
+    "word": "сменить тему",
+    "translation": "das Thema wechseln",
+    "example": "Давайте сменим тему сейчас.",
+    "example_german": "Lass uns jetzt das Thema wechseln."
+  },
+  {
+    "word": "поменять партнера",
+    "translation": "den Partner wechseln",
+    "example": "Я хочу поменять партнера на уроке.",
+    "example_german": "Ich möchte den Partner im Unterricht wechseln."
+  },
+  {
+    "word": "поднять руку",
+    "translation": "die Hand heben",
+    "example": "Я хочу поднять руку.",
+    "example_german": "Ich möchte die Hand heben."
+  },
+  {
+    "word": "вставать",
+    "translation": "aufstehen",
+    "example": "Я люблю вставать рано.",
+    "example_german": "Ich liebe es, früh aufzustehen."
+  },
+  {
+    "word": "поменять место",
+    "translation": "sich umsetzen",
+    "example": "Я хочу поменять место.",
+    "example_german": "Ich möchte mich umsetzen."
+  },
+  {
+    "word": "выходить добровольно к доске",
+    "translation": "der freiwillige Auftritt an der Tafel",
+    "example": "Я хочу выйти добровольно к доске.",
+    "example_german": "Ich möchte freiwillig an die Tafel gehen."
+  },
+  {
+    "word": "выйти добровольно к доске",
+    "translation": "die freiwillige Tafel",
+    "example": "Я выйду добровольно к доске.",
+    "example_german": "Ich werde freiwillig an die Tafel gehen."
+  },
+  {
+    "word": "объяснить тему",
+    "translation": "ein Thema erklären",
+    "example": "Я должен объяснить тему урока.",
+    "example_german": "Ich muss ein Thema der Lektion erklären."
+  },
+  {
+    "word": "объяснить урок",
+    "translation": "eine Lektion erklären",
+    "example": "Я хочу объяснить урок.",
+    "example_german": "Ich möchte eine Lektion erklären."
+  },
+  {
+    "word": "говорить о теме",
+    "translation": "ein Thema besprechen",
+    "example": "Я хочу говорить о теме.",
+    "example_german": "Ich möchte über ein Thema sprechen."
+  },
+  {
+    "word": "обсуждать тему",
+    "translation": "über ein Thema reden",
+    "example": "Мне нравится обсуждать интересную тему.",
+    "example_german": "Ich bespreche gerne ein interessantes Thema."
+  },
+  {
+    "word": "связывать",
+    "translation": "verknüpfen",
+    "example": "Я хочу связать эти идеи.",
+    "example_german": "Ich möchte diese Ideen verknüpfen."
+  },
+  {
+    "word": "сравнивать",
+    "translation": "vergleichen",
+    "example": "Я хочу сравнить эти два товара.",
+    "example_german": "Ich möchte diese beiden Waren vergleichen."
+  },
+  {
+    "word": "искать различия",
+    "translation": "die Unterschiede suchen",
+    "example": "Мы должны искать различия в текстах.",
+    "example_german": "Wir müssen die Unterschiede in den Texten suchen."
+  },
+  {
+    "word": "исправить сочинение",
+    "translation": "eine Korrektur des Aufsatz",
+    "example": "Мне нужно исправить сочинение.",
+    "example_german": "Ich muss einen Aufsatz korrigieren."
+  },
+  {
+    "word": "исправить упражнение",
+    "translation": "eine Übung korrigieren",
+    "example": "Мне нужно исправить упражнение.",
+    "example_german": "Ich muss eine Übung korrigieren."
+  },
+  {
+    "word": "исправить домашние задания",
+    "translation": "die Hausaufgaben korrigieren",
+    "example": "Я должен исправить домашние задания.",
+    "example_german": "Ich muss die Hausaufgaben korrigieren."
+  },
+  {
+    "word": "сделать перерыв",
+    "translation": "eine Pause machen",
+    "example": "Мне нужно сделать перерыв сейчас.",
+    "example_german": "Ich muss jetzt eine Pause machen."
+  },
+  {
+    "word": "сделать паузу",
+    "translation": "eine Pause machen",
+    "example": "Мне нужно сделать паузу сейчас.",
+    "example_german": "Ich muss jetzt eine Pause machen."
+  },
+  {
+    "word": "энциклопедия",
+    "translation": "die Enzyklopädie",
+    "example": "Энциклопедия содержит много информации.",
+    "example_german": "Die Enzyklopädie enthält viele Informationen."
+  },
+  {
+    "word": "заметки",
+    "translation": "die Notizen",
+    "example": "Я записал заметки на уроке.",
+    "example_german": "Ich habe im Unterricht Notizen gemacht."
+  },
+  {
+    "word": "лист",
+    "translation": "das Blatt",
+    "example": "Лист на столе.",
+    "example_german": "Das Blatt liegt auf dem Tisch."
+  },
+  {
+    "word": "переработанная бумага",
+    "translation": "das Recyclingpapier",
+    "example": "Переработанная бумага помогает природе.",
+    "example_german": "Das Recyclingpapier hilft der Natur."
+  },
+  {
+    "word": "бумага для принтера",
+    "translation": "das Druckerpapier",
+    "example": "Мне нужна бумага для принтера.",
+    "example_german": "Ich brauche das Druckerpapier."
+  },
+  {
+    "word": "папка",
+    "translation": "die Mappe",
+    "example": "Мне нужна новая папка.",
+    "example_german": "Ich brauche eine neue Mappe."
+  },
+  {
+    "word": "чернила для принтера",
+    "translation": "die Druckertinte",
+    "example": "Мне нужно купить чернила для принтера.",
+    "example_german": "Ich muss die Druckertinte kaufen."
+  }
+]

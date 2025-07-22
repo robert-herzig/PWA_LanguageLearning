@@ -1,0 +1,380 @@
+[
+  {
+    "word": "músculo",
+    "translation": "der Muskel",
+    "example": "El músculo es importante para el movimiento.",
+    "example_german": "Der Muskel ist wichtig für die Bewegung."
+  },
+  {
+    "word": "hueso",
+    "translation": "der Knochen",
+    "example": "El perro muerde el hueso.",
+    "example_german": "Der Hund beißt den Knochen."
+  },
+  {
+    "word": "piel",
+    "translation": "die Haut",
+    "example": "La piel es muy sensible.",
+    "example_german": "Die Haut ist sehr empfindlich."
+  },
+  {
+    "word": "corazón",
+    "translation": "das Herz",
+    "example": "El corazón es muy importante.",
+    "example_german": "Das Herz ist sehr wichtig."
+  },
+  {
+    "word": "pulmón",
+    "translation": "der Lunge",
+    "example": "El pulmón es un órgano vital.",
+    "example_german": "Die Lunge ist ein lebenswichtiges Organ."
+  },
+  {
+    "word": "cuello",
+    "translation": "der Hals",
+    "example": "El cuello es muy importante.",
+    "example_german": "Der Hals ist sehr wichtig."
+  },
+  {
+    "word": "hombros",
+    "translation": "die Schultern",
+    "example": "Mis hombros están cansados hoy.",
+    "example_german": "Meine Schultern sind heute müde."
+  },
+  {
+    "word": "pecho",
+    "translation": "der Brust",
+    "example": "El pecho es muy fuerte.",
+    "example_german": "Die Brust ist sehr stark."
+  },
+  {
+    "word": "cintura",
+    "translation": "die Taille",
+    "example": "Ella tiene una cintura delgada.",
+    "example_german": "Sie hat eine schlanke Taille."
+  },
+  {
+    "word": "barriga",
+    "translation": "der Bauch",
+    "example": "Me duele la barriga hoy.",
+    "example_german": "Heute tut mir der Bauch weh."
+  },
+  {
+    "word": "rodilla",
+    "translation": "das Knie",
+    "example": "Me duele la rodilla hoy.",
+    "example_german": "Heute tut mir das Knie weh."
+  },
+  {
+    "word": "tobillo",
+    "translation": "der Knöchel",
+    "example": "Me duele el tobillo hoy.",
+    "example_german": "Mein Knöchel tut heute weh."
+  },
+  {
+    "word": "codo",
+    "translation": "der Ellbogen",
+    "example": "Me duele el codo hoy.",
+    "example_german": "Mein Ellbogen tut heute weh."
+  },
+  {
+    "word": "muñeca",
+    "translation": "die Puppe",
+    "example": "La muñeca es muy bonita.",
+    "example_german": "Die Puppe ist sehr schön."
+  },
+  {
+    "word": "postura",
+    "translation": "die Haltung",
+    "example": "Ella tiene una buena postura.",
+    "example_german": "Sie hat eine gute Haltung."
+  },
+  {
+    "word": "mirada",
+    "translation": "der Blick",
+    "example": "Su mirada es muy intensa.",
+    "example_german": "Ihr Blick ist sehr intensiv."
+  },
+  {
+    "word": "parecerse",
+    "translation": "sich ähneln",
+    "example": "Ellos se parecen mucho.",
+    "example_german": "Sie ähneln sich sehr."
+  },
+  {
+    "word": "tener la piel clara",
+    "translation": "die helle Haut",
+    "example": "Ella tiene la piel clara.",
+    "example_german": "Sie hat die helle Haut."
+  },
+  {
+    "word": "tener la piel oscura",
+    "translation": "die dunkle Haut",
+    "example": "Ella tiene la piel oscura.",
+    "example_german": "Sie hat die dunkle Haut."
+  },
+  {
+    "word": "tener la piel sensible",
+    "translation": "die empfindliche Haut",
+    "example": "Ella tiene la piel sensible.",
+    "example_german": "Sie hat die empfindliche Haut."
+  },
+  {
+    "word": "tener la piel suave",
+    "translation": "die weiche Haut",
+    "example": "Ella tiene la piel suave.",
+    "example_german": "Sie hat die weiche Haut."
+  },
+  {
+    "word": "estar moreno",
+    "translation": "der/die/das braun sein",
+    "example": "Él está moreno por el sol.",
+    "example_german": "Er ist braun von der Sonne."
+  },
+  {
+    "word": "ser blanco",
+    "translation": "weiß sein",
+    "example": "El papel debe ser blanco.",
+    "example_german": "Das Papier muss weiß sein."
+  },
+  {
+    "word": "ser moreno",
+    "translation": "der braune",
+    "example": "Él es moreno y alto.",
+    "example_german": "Er ist braunhaarig und groß."
+  },
+  {
+    "word": "tener buen tipo",
+    "translation": "gut aussehend",
+    "example": "Ella tiene buen tipo y es feliz.",
+    "example_german": "Sie sieht gut aus und ist glücklich."
+  },
+  {
+    "word": "tener mal tipo",
+    "translation": "schlecht aussehen",
+    "example": "Él tiene mal tipo hoy.",
+    "example_german": "Er sieht heute schlecht aus."
+  },
+  {
+    "word": "tener buena figura",
+    "translation": "eine gute Figur haben",
+    "example": "Ella tiene buena figura.",
+    "example_german": "Sie hat eine gute Figur."
+  },
+  {
+    "word": "tener mala figura",
+    "translation": "eine schlechte Figur haben",
+    "example": "Ella dice que tiene mala figura.",
+    "example_german": "Sie sagt, dass sie eine schlechte Figur hat."
+  },
+  {
+    "word": "tener buen estilo",
+    "translation": "einen guten Stil haben",
+    "example": "Ella siempre tiene buen estilo.",
+    "example_german": "Sie hat immer einen guten Stil."
+  },
+  {
+    "word": "tener mal estilo",
+    "translation": "schlechten Stil haben",
+    "example": "Ella tiene mal estilo en la moda.",
+    "example_german": "Sie hat einen schlechten Stil in der Mode."
+  },
+  {
+    "word": "tener buena presencia",
+    "translation": "eine gute Präsenz haben",
+    "example": "Ella tiene buena presencia en la reunión.",
+    "example_german": "Sie hat eine gute Präsenz in der Sitzung."
+  },
+  {
+    "word": "tener mala presencia",
+    "translation": "schlechte Präsenz",
+    "example": "Ella tiene mala presencia en la reunión.",
+    "example_german": "Sie hat eine schlechte Präsenz in der Sitzung."
+  },
+  {
+    "word": "caminar",
+    "translation": "gehen",
+    "example": "Me gusta caminar por el parque.",
+    "example_german": "Ich gehe gerne im Park spazieren."
+  },
+  {
+    "word": "dar un paseo",
+    "translation": "einen Spaziergang machen",
+    "example": "Voy a dar un paseo por el parque.",
+    "example_german": "Ich werde einen Spaziergang im Park machen."
+  },
+  {
+    "word": "saltar",
+    "translation": "springen",
+    "example": "Voy a saltar en el parque.",
+    "example_german": "Ich werde im Park springen."
+  },
+  {
+    "word": "estar sentado",
+    "translation": "sitzen",
+    "example": "Estoy sentado en la silla.",
+    "example_german": "Ich sitze auf dem Stuhl."
+  },
+  {
+    "word": "estar de pie",
+    "translation": "stehen",
+    "example": "Estoy de pie en la clase.",
+    "example_german": "Ich stehe in der Klasse."
+  },
+  {
+    "word": "respirar",
+    "translation": "atmen",
+    "example": "Es importante respirar profundamente.",
+    "example_german": "Es ist wichtig, tief zu atmen."
+  },
+  {
+    "word": "llorar",
+    "translation": "weinen",
+    "example": "Ella empieza a llorar ahora.",
+    "example_german": "Sie fängt jetzt an zu weinen."
+  },
+  {
+    "word": "oler",
+    "translation": "riechen",
+    "example": "Me gusta oler las flores.",
+    "example_german": "Ich rieche gerne die Blumen."
+  },
+  {
+    "word": "tocar",
+    "translation": "berühren",
+    "example": "Voy a tocar la guitarra.",
+    "example_german": "Ich werde die Gitarre berühren."
+  },
+  {
+    "word": "besar",
+    "translation": "küssen",
+    "example": "Voy a besar a mi amigo.",
+    "example_german": "Ich werde meinen Freund küssen."
+  },
+  {
+    "word": "abrazar",
+    "translation": "umarmen",
+    "example": "Me gusta abrazar a mis amigos.",
+    "example_german": "Ich umarme gerne meine Freunde."
+  },
+  {
+    "word": "levantar las manos",
+    "translation": "die Hände heben",
+    "example": "Los niños levantan las manos.",
+    "example_german": "Die Kinder heben die Hände."
+  },
+  {
+    "word": "levantar los brazos",
+    "translation": "die Arme heben",
+    "example": "Él va a levantar los brazos.",
+    "example_german": "Er wird die Arme heben."
+  },
+  {
+    "word": "levantar la cabeza",
+    "translation": "den Kopf heben",
+    "example": "Ella necesita levantar la cabeza.",
+    "example_german": "Sie muss den Kopf heben."
+  },
+  {
+    "word": "bajar las manos",
+    "translation": "die Hände senken",
+    "example": "Debes bajar las manos ahora.",
+    "example_german": "Du musst jetzt die Hände senken."
+  },
+  {
+    "word": "bajar los brazos",
+    "translation": "die Arme senken",
+    "example": "No debes bajar los brazos nunca.",
+    "example_german": "Du darfst die Arme niemals senken."
+  },
+  {
+    "word": "bajar la cabeza",
+    "translation": "den Kopf senken",
+    "example": "Ella decidió bajar la cabeza.",
+    "example_german": "Sie beschloss, den Kopf zu senken."
+  },
+  {
+    "word": "mover las manos",
+    "translation": "die Hände bewegen",
+    "example": "Ella quiere mover las manos.",
+    "example_german": "Sie möchte die Hände bewegen."
+  },
+  {
+    "word": "mover los brazos",
+    "translation": "die Arme bewegen",
+    "example": "Ella quiere mover los brazos.",
+    "example_german": "Sie möchte die Arme bewegen."
+  },
+  {
+    "word": "mover la cabeza",
+    "translation": "den Kopf bewegen",
+    "example": "Ella mueve la cabeza para decir no.",
+    "example_german": "Sie bewegt den Kopf, um nein zu sagen."
+  },
+  {
+    "word": "soltar",
+    "translation": "loslassen",
+    "example": "Voy a soltar la cuerda.",
+    "example_german": "Ich werde das Seil loslassen."
+  },
+  {
+    "word": "vida",
+    "translation": "das Leben",
+    "example": "La vida es hermosa.",
+    "example_german": "Das Leben ist schön."
+  },
+  {
+    "word": "muerte",
+    "translation": "der Tod",
+    "example": "La muerte es parte de la vida.",
+    "example_german": "Der Tod ist Teil des Lebens."
+  },
+  {
+    "word": "estar embarazada",
+    "translation": "schwanger sein",
+    "example": "Ella está embarazada de cinco meses.",
+    "example_german": "Sie ist im fünften Monat schwanger."
+  },
+  {
+    "word": "esperar un hijo",
+    "translation": "ein Kind erwarten",
+    "example": "Ella está esperando un hijo.",
+    "example_german": "Sie erwartet ein Kind."
+  },
+  {
+    "word": "ser virgen",
+    "translation": "die Jungfrau",
+    "example": "Ella quiere ser virgen hasta el matrimonio.",
+    "example_german": "Sie möchte bis zur Ehe Jungfrau sein."
+  },
+  {
+    "word": "hacer el amor",
+    "translation": "die Liebe machen",
+    "example": "Ellos quieren hacer el amor.",
+    "example_german": "Sie wollen die Liebe machen."
+  },
+  {
+    "word": "tener relaciones sexuales",
+    "translation": "sexuelle Beziehungen haben",
+    "example": "Ellos quieren tener relaciones sexuales.",
+    "example_german": "Sie wollen sexuelle Beziehungen haben."
+  },
+  {
+    "word": "tomar la píldora",
+    "translation": "die Pille nehmen",
+    "example": "Ella necesita tomar la píldora.",
+    "example_german": "Sie muss die Pille nehmen."
+  },
+  {
+    "word": "usar preservativos",
+    "translation": "die Kondome benutzen",
+    "example": "Es importante usar preservativos.",
+    "example_german": "Es ist wichtig, Kondome zu benutzen."
+  },
+  {
+    "word": "tener la regla",
+    "translation": "die Regel haben",
+    "example": "Ella tiene la regla este mes.",
+    "example_german": "Sie hat diesen Monat die Regel."
+  }
+]

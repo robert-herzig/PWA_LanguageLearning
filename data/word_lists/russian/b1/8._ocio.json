@@ -1,0 +1,560 @@
+[
+  {
+    "word": "отдых",
+    "translation": "die Ruhe",
+    "example": "Мне нужен отдых сейчас.",
+    "example_german": "Ich brauche jetzt eine Ruhe."
+  },
+  {
+    "word": "отпуск",
+    "translation": "die Vakanz",
+    "example": "Я еду в отпуск в августе.",
+    "example_german": "Ich fahre im August in den Urlaub."
+  },
+  {
+    "word": "кухня",
+    "translation": "die Küche",
+    "example": "Я люблю готовить на кухне.",
+    "example_german": "Ich liebe es, in der Küche zu kochen."
+  },
+  {
+    "word": "садоводство",
+    "translation": "die Gartenarbeit",
+    "example": "Я люблю садоводство летом.",
+    "example_german": "Ich liebe die Gartenarbeit im Sommer."
+  },
+  {
+    "word": "домашний ремонт",
+    "translation": "der Bricolage",
+    "example": "Домашний ремонт требует терпения.",
+    "example_german": "Der Heimwerker benötigt Geduld."
+  },
+  {
+    "word": "идти в поход",
+    "translation": "campen",
+    "example": "Мы собираемся идти в поход на выходных.",
+    "example_german": "Wir werden am Wochenende campen gehen."
+  },
+  {
+    "word": "пикник",
+    "translation": "ein Picknick",
+    "example": "Мы собираемся на пикник в парке.",
+    "example_german": "Wir gehen im Park zu einem Picknick."
+  },
+  {
+    "word": "заниматься туризмом",
+    "translation": "Tourismus machen",
+    "example": "Я люблю заниматься туризмом летом.",
+    "example_german": "Ich liebe es, im Sommer Tourismus zu machen."
+  },
+  {
+    "word": "записаться в клуб",
+    "translation": "sich in einem Verein anmelden",
+    "example": "Я хочу записаться в клуб.",
+    "example_german": "Ich möchte mich in einem Verein anmelden."
+  },
+  {
+    "word": "записаться в ассоциацию",
+    "translation": "sich in einem Verein anmelden",
+    "example": "Я хочу записаться в ассоциацию.",
+    "example_german": "Ich möchte mich in einem Verein anmelden."
+  },
+  {
+    "word": "записаться в группу",
+    "translation": "sich in eine Gruppe einschreiben",
+    "example": "Я хочу записаться в группу.",
+    "example_german": "Ich möchte mich in eine Gruppe einschreiben."
+  },
+  {
+    "word": "волонтерствовать",
+    "translation": "der Freiwillige",
+    "example": "Я хочу волонтерствовать в этом центре.",
+    "example_german": "Ich möchte in diesem Zentrum als Freiwilliger arbeiten."
+  },
+  {
+    "word": "иметь свободное время",
+    "translation": "die Freizeit haben",
+    "example": "Мне нравится иметь свободное время.",
+    "example_german": "Ich mag es, Freizeit zu haben."
+  },
+  {
+    "word": "быть занятым",
+    "translation": "beschäftigt sein",
+    "example": "Я сейчас занят.",
+    "example_german": "Ich bin jetzt beschäftigt."
+  },
+  {
+    "word": "быть свободным",
+    "translation": "frei sein",
+    "example": "Я сегодня свободен весь день.",
+    "example_german": "Ich bin heute den ganzen Tag frei."
+  },
+  {
+    "word": "иметь обязательство",
+    "translation": "eine Verpflichtung",
+    "example": "У меня есть обязательство сегодня.",
+    "example_german": "Ich habe heute ein Verpflichtung."
+  },
+  {
+    "word": "идти пить",
+    "translation": "das Trinken gehen",
+    "example": "Мы идем пить вечером.",
+    "example_german": "Wir gehen am Abend trinken."
+  },
+  {
+    "word": "идти на тапас",
+    "translation": "die Tapas essen",
+    "example": "Мы собираемся идти на тапас сегодня.",
+    "example_german": "Wir gehen heute Tapas essen."
+  },
+  {
+    "word": "выходить",
+    "translation": "das Ausgehen",
+    "example": "Мы собираемся выйти сегодня вечером.",
+    "example_german": "Wir gehen heute Abend ausgehen."
+  },
+  {
+    "word": "выйти на выпивку",
+    "translation": "das Ausgehen",
+    "example": "Мы выйдем на выпивку сегодня вечером.",
+    "example_german": "Wir gehen heute Abend aus."
+  },
+  {
+    "word": "пойти на тапас",
+    "translation": "die Tapas",
+    "example": "Мы пойдем на тапас сегодня вечером.",
+    "example_german": "Wir gehen heute Abend Tapas essen."
+  },
+  {
+    "word": "выходить на вечеринку",
+    "translation": "die Nacht hinausgehen",
+    "example": "Мы собираемся выходить на вечеринку сегодня.",
+    "example_german": "Wir werden heute Abend hinausgehen."
+  },
+  {
+    "word": "скучать",
+    "translation": "sich langweilen",
+    "example": "Я скучаю на уроке.",
+    "example_german": "Ich langweile mich im Unterricht."
+  },
+  {
+    "word": "хорошо провести время",
+    "translation": "das Vergnügen haben",
+    "example": "Мы всегда хотим хорошо провести время.",
+    "example_german": "Wir wollen immer das Vergnügen haben."
+  },
+  {
+    "word": "плохо провести время",
+    "translation": "schlecht gehen",
+    "example": "Сегодня я плохо проведу время.",
+    "example_german": "Heute werde ich schlecht gehen."
+  },
+  {
+    "word": "развлекаться",
+    "translation": "sich amüsieren",
+    "example": "Мы собираемся развлекаться сегодня.",
+    "example_german": "Wir werden heute Spaß haben."
+  },
+  {
+    "word": "пройти курс садоводства",
+    "translation": "einen Gartenbaukurs machen",
+    "example": "Я хочу пройти курс садоводства.",
+    "example_german": "Ich möchte einen Gartenbaukurs machen."
+  },
+  {
+    "word": "пройти курс кулинарии",
+    "translation": "einen Kochkurs machen",
+    "example": "Я хочу пройти курс кулинарии.",
+    "example_german": "Ich möchte einen Kochkurs machen."
+  },
+  {
+    "word": "быть поклонником разгадывания кроссвордов",
+    "translation": "der Kreuzworträtsel-Fan",
+    "example": "Я люблю быть поклонником разгадывания кроссвордов.",
+    "example_german": "Ich liebe es, ein Kreuzworträtsel-Fan zu sein."
+  },
+  {
+    "word": "коллекционировать марки",
+    "translation": "die Briefmarkensammlung",
+    "example": "Я люблю коллекционировать марки.",
+    "example_german": "Ich liebe es, Briefmarken zu sammeln."
+  },
+  {
+    "word": "коллекционировать монеты",
+    "translation": "Münzen sammeln",
+    "example": "Я люблю коллекционировать старые монеты.",
+    "example_german": "Ich liebe es, alte Münzen zu sammeln."
+  },
+  {
+    "word": "кинозал",
+    "translation": "der Kinoplatz",
+    "example": "Я сел на место в кино.",
+    "example_german": "Ich habe mich auf den Platz im Kino gesetzt."
+  },
+  {
+    "word": "театрское место",
+    "translation": "der Theaterplatz",
+    "example": "У меня есть театрское место на сегодня.",
+    "example_german": "Ich habe heute einen Theaterplatz."
+  },
+  {
+    "word": "ряд в кино",
+    "translation": "die Reihe im Kino",
+    "example": "Мы в ряду в кино.",
+    "example_german": "Wir sind in der Reihe im Kino."
+  },
+  {
+    "word": "ряд в театре",
+    "translation": "die Reihe im Theater",
+    "example": "Мы сидим в ряду в театре.",
+    "example_german": "Wir sitzen in der Reihe im Theater."
+  },
+  {
+    "word": "зритель",
+    "translation": "der Zuschauer",
+    "example": "Зритель смотрел на сцену.",
+    "example_german": "Der Zuschauer schaute auf die Bühne."
+  },
+  {
+    "word": "публика",
+    "translation": "das Publikum",
+    "example": "Публика была очень довольна.",
+    "example_german": "Das Publikum war sehr zufrieden."
+  },
+  {
+    "word": "сценарий",
+    "translation": "das Szenario",
+    "example": "Сценарий очень интересный.",
+    "example_german": "Das Szenario ist sehr interessant."
+  },
+  {
+    "word": "художественная галерея",
+    "translation": "die Kunstgalerie",
+    "example": "Я посетил художественную галерею вчера.",
+    "example_german": "Ich besuchte die Kunstgalerie gestern."
+  },
+  {
+    "word": "арена для быков",
+    "translation": "die Stierkampfarena",
+    "example": "Арена для быков открыта для зрителей.",
+    "example_german": "Die Stierkampfarena ist für Zuschauer geöffnet."
+  },
+  {
+    "word": "поставить фильм",
+    "translation": "einen Film zeigen",
+    "example": "Я хочу поставить фильм сегодня.",
+    "example_german": "Ich möchte heute einen Film zeigen."
+  },
+  {
+    "word": "стоять в очереди",
+    "translation": "anstehen",
+    "example": "Я буду стоять в очереди в магазине.",
+    "example_german": "Ich werde in dem Geschäft anstehen."
+  },
+  {
+    "word": "быть успехом",
+    "translation": "ein Erfolg",
+    "example": "Этот проект будет успехом.",
+    "example_german": "Dieses Projekt wird ein Erfolg sein."
+  },
+  {
+    "word": "арбитр",
+    "translation": "der Schiedsrichter",
+    "example": "Арбитр следит за игрой.",
+    "example_german": "Der Schiedsrichter beobachtet das Spiel."
+  },
+  {
+    "word": "тренер",
+    "translation": "der Trainer",
+    "example": "Тренер помогает спортсменам.",
+    "example_german": "Der Trainer hilft den Sportlern."
+  },
+  {
+    "word": "спортсмен",
+    "translation": "der Sportler",
+    "example": "Он хороший спортсмен.",
+    "example_german": "Er ist ein guter Sportler."
+  },
+  {
+    "word": "игрок",
+    "translation": "der Spieler",
+    "example": "Игрок забивает гол.",
+    "example_german": "Der Spieler erzielt ein Tor."
+  },
+  {
+    "word": "проигравший",
+    "translation": "der Verlierer",
+    "example": "Он проигравший в игре.",
+    "example_german": "Er ist ein Verlierer im Spiel."
+  },
+  {
+    "word": "победитель",
+    "translation": "der Gewinner",
+    "example": "Победитель получил приз.",
+    "example_german": "Der Gewinner erhielt einen Preis."
+  },
+  {
+    "word": "футбольный мяч",
+    "translation": "der Fußball",
+    "example": "Футбольный мяч находится на поле.",
+    "example_german": "Der Fußball ist auf dem Feld."
+  },
+  {
+    "word": "баскетбольный мяч",
+    "translation": "der Basketball",
+    "example": "Баскетбольный мяч в корзине.",
+    "example_german": "Der Basketball ist im Korb."
+  },
+  {
+    "word": "теннисный мяч",
+    "translation": "der Tennisball",
+    "example": "Теннисный мяч зеленый.",
+    "example_german": "Der Tennisball ist grün."
+  },
+  {
+    "word": "гольф-мяч",
+    "translation": "der Golfball",
+    "example": "Гольф-мяч белый.",
+    "example_german": "Der Golfball ist weiß."
+  },
+  {
+    "word": "ракетка",
+    "translation": "die Racket",
+    "example": "У него есть новая ракетка.",
+    "example_german": "Er hat einen neuen Schläger."
+  },
+  {
+    "word": "лыжи",
+    "translation": "die Skier",
+    "example": "У меня новые лыжи для зимы.",
+    "example_german": "Ich habe neue Skier für den Winter."
+  },
+  {
+    "word": "футбольный матч",
+    "translation": "das Fußballspiel",
+    "example": "Футбольный матч проходит в субботу.",
+    "example_german": "Das Fußballspiel findet am Samstag statt."
+  },
+  {
+    "word": "баскетбольный матч",
+    "translation": "das Basketballspiel",
+    "example": "Я люблю смотреть баскетбольный матч.",
+    "example_german": "Ich liebe es, ein Basketballspiel zu sehen."
+  },
+  {
+    "word": "футбольная команда",
+    "translation": "die Fußballmannschaft",
+    "example": "Футбольная команда выиграла матч.",
+    "example_german": "Die Fußballmannschaft hat das Spiel gewonnen."
+  },
+  {
+    "word": "баскетбольная команда",
+    "translation": "das Basketballteam",
+    "example": "Баскетбольная команда выиграла матч.",
+    "example_german": "Das Basketballteam hat das Spiel gewonnen."
+  },
+  {
+    "word": "велогонка",
+    "translation": "das Radrennen",
+    "example": "Велогонка проходит в нашем городе.",
+    "example_german": "Das Radrennen findet in unserer Stadt statt."
+  },
+  {
+    "word": "мотогонка",
+    "translation": "das Motorradrennen",
+    "example": "Мотогонка проходит в выходные.",
+    "example_german": "Das Motorradrennen findet am Wochenende statt."
+  },
+  {
+    "word": "автогонка",
+    "translation": "das Autorennen",
+    "example": "Автогонка проходит в выходные.",
+    "example_german": "Das Autorennen findet am Wochenende statt."
+  },
+  {
+    "word": "боксерские перчатки",
+    "translation": "die Boxhandschuhe",
+    "example": "Мне нужны боксерские перчатки для тренировок.",
+    "example_german": "Ich brauche Boxhandschuhe für das Training."
+  },
+  {
+    "word": "тренировочный костюм",
+    "translation": "der Trainingsanzug",
+    "example": "Я ношу тренировочный костюм дома.",
+    "example_german": "Ich trage einen Trainingsanzug zu Hause."
+  },
+  {
+    "word": "спортивная обувь",
+    "translation": "die Sportschuhe",
+    "example": "Я ношу спортивную обувь для бега.",
+    "example_german": "Ich trage die Sportschuhe zum Laufen."
+  },
+  {
+    "word": "выиграть",
+    "translation": "gewinnen",
+    "example": "Я хочу выиграть игру.",
+    "example_german": "Ich möchte das Spiel gewinnen."
+  },
+  {
+    "word": "терять",
+    "translation": "verlieren",
+    "example": "Я не хочу терять время.",
+    "example_german": "Ich möchte keine Zeit verlieren."
+  },
+  {
+    "word": "ничья",
+    "translation": "das Unentschieden",
+    "example": "Игра закончилась вничью.",
+    "example_german": "Das Spiel endete unentschieden."
+  },
+  {
+    "word": "играть в гандбол",
+    "translation": "Handball (der Handball)",
+    "example": "Мне нравится играть в гандбол.",
+    "example_german": "Ich spiele gerne Handball."
+  },
+  {
+    "word": "играть в волейбол",
+    "translation": "das Volleyballspielen",
+    "example": "Мне нравится играть в волейбол.",
+    "example_german": "Ich spiele gerne Volleyball."
+  },
+  {
+    "word": "играть в бейсбол",
+    "translation": "Baseball spielen",
+    "example": "Я люблю играть в бейсбол.",
+    "example_german": "Ich liebe es, Baseball zu spielen."
+  },
+  {
+    "word": "заниматься легкой атлетикой",
+    "translation": "der Leichtathletik machen",
+    "example": "Я люблю заниматься легкой атлетикой летом.",
+    "example_german": "Ich mache im Sommer gerne Leichtathletik."
+  },
+  {
+    "word": "кататься на велосипеде",
+    "translation": "das Radfahren",
+    "example": "Я люблю кататься на велосипеде летом.",
+    "example_german": "Ich liebe es, im Sommer Rad zu fahren."
+  },
+  {
+    "word": "плавать",
+    "translation": "das Schwimmen",
+    "example": "Я люблю плавать в реке.",
+    "example_german": "Ich schwimme gerne im Fluss."
+  },
+  {
+    "word": "футбольное поле",
+    "translation": "der Fußballplatz",
+    "example": "Футбольное поле очень красивое.",
+    "example_german": "Der Fußballplatz ist sehr schön."
+  },
+  {
+    "word": "теннисный корт",
+    "translation": "der Tennisplatz",
+    "example": "Мы будем играть на теннисном корте.",
+    "example_german": "Wir werden auf dem Tennisplatz spielen."
+  },
+  {
+    "word": "карточка",
+    "translation": "die Karte",
+    "example": "Мне нужна карточка для игры.",
+    "example_german": "Ich brauche eine Karte für das Spiel."
+  },
+  {
+    "word": "кубик",
+    "translation": "der Würfel",
+    "example": "Я бросил кубик на стол.",
+    "example_german": "Ich habe den Würfel auf den Tisch geworfen."
+  },
+  {
+    "word": "доска",
+    "translation": "das Brett",
+    "example": "Доска лежит на столе.",
+    "example_german": "Das Brett liegt auf dem Tisch."
+  },
+  {
+    "word": "коробка",
+    "translation": "die Box",
+    "example": "Коробка полна игрушек.",
+    "example_german": "Die Box ist voller Spielzeuge."
+  },
+  {
+    "word": "конкурс",
+    "translation": "der Wettbewerb",
+    "example": "Конкурс был очень захватывающим.",
+    "example_german": "Der Wettbewerb war sehr spannend."
+  },
+  {
+    "word": "видеоигра",
+    "translation": "das Videospiel",
+    "example": "Я люблю играть в видеоигры с друзьями.",
+    "example_german": "Ich spiele gerne Videospiele mit Freunden."
+  },
+  {
+    "word": "консоль",
+    "translation": "die Konsole",
+    "example": "Консоль работает отлично.",
+    "example_german": "Die Konsole funktioniert hervorragend."
+  },
+  {
+    "word": "настольная игра",
+    "translation": "das Brettspiel",
+    "example": "Мне нравится играть в настольную игру.",
+    "example_german": "Ich spiele gerne ein Brettspiel."
+  },
+  {
+    "word": "карточная игра",
+    "translation": "das Kartenspiel",
+    "example": "Мне нравится играть в карточную игру.",
+    "example_german": "Ich spiele gerne ein Kartenspiel."
+  },
+  {
+    "word": "играть в боулинг",
+    "translation": "das Bowling",
+    "example": "Я люблю играть в боулинг.",
+    "example_german": "Ich liebe es, Bowling zu spielen."
+  },
+  {
+    "word": "играть в дартс",
+    "translation": "das Dartspiel",
+    "example": "Мне нравится играть в дартс.",
+    "example_german": "Ich spiele gerne Dart."
+  },
+  {
+    "word": "играть в бильярд",
+    "translation": "das Billard",
+    "example": "Я люблю играть в бильярд с друзьями.",
+    "example_german": "Ich spiele gerne Billard mit Freunden."
+  },
+  {
+    "word": "играть с игрушками",
+    "translation": "mit den Spielzeugen spielen",
+    "example": "Дети играют с игрушками.",
+    "example_german": "Die Kinder spielen mit den Spielzeugen."
+  },
+  {
+    "word": "играть с мячом",
+    "translation": "mit dem Ball spielen",
+    "example": "Дети играют с мячом.",
+    "example_german": "Die Kinder spielen mit dem Ball."
+  },
+  {
+    "word": "выиграть приз",
+    "translation": "einen Preis gewinnen",
+    "example": "Я хочу выиграть приз сегодня.",
+    "example_german": "Ich möchte heute einen Preis gewinnen."
+  },
+  {
+    "word": "выиграть Гордo",
+    "translation": "den Gordo gewinnen",
+    "example": "Я хочу выиграть Гордo сегодня.",
+    "example_german": "Ich möchte heute den Gordo gewinnen."
+  },
+  {
+    "word": "выиграть в лотерею",
+    "translation": "die Lotterie gewinnen",
+    "example": "Я хочу выиграть в лотерею.",
+    "example_german": "Ich möchte die Lotterie gewinnen."
+  }
+]

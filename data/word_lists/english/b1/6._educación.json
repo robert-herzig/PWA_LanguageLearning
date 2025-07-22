@@ -1,0 +1,728 @@
+[
+  {
+    "word": "campus",
+    "translation": "der Campus",
+    "example": "The campus is very large.",
+    "example_german": "Der Campus ist sehr groß."
+  },
+  {
+    "word": "secretary",
+    "translation": "die Sekretärin",
+    "example": "The secretary answers the phone.",
+    "example_german": "Die Sekretärin beantwortet das Telefon."
+  },
+  {
+    "word": "administration",
+    "translation": "die Verwaltung",
+    "example": "The administration manages the school.",
+    "example_german": "Die Verwaltung leitet die Schule."
+  },
+  {
+    "word": "resource center",
+    "translation": "das Ressourcen-Zentrum",
+    "example": "The resource center provides many services.",
+    "example_german": "Das Ressourcen-Zentrum bietet viele Dienstleistungen an."
+  },
+  {
+    "word": "multimedia classroom",
+    "translation": "das Multimedia-Aula",
+    "example": "The multimedia classroom is very modern.",
+    "example_german": "Das Multimedia-Aula ist sehr modern."
+  },
+  {
+    "word": "public school",
+    "translation": "die öffentliche Schule",
+    "example": "The public school is very big.",
+    "example_german": "Die öffentliche Schule ist sehr groß."
+  },
+  {
+    "word": "private school",
+    "translation": "die Privatschule",
+    "example": "The private school has many students.",
+    "example_german": "Die Privatschule hat viele Schüler."
+  },
+  {
+    "word": "nursery",
+    "translation": "die Kindertagesstätte",
+    "example": "The nursery is open every day.",
+    "example_german": "Die Kindertagesstätte hat jeden Tag geöffnet."
+  },
+  {
+    "word": "kindergarten",
+    "translation": "der Kindergarten",
+    "example": "The children play in the kindergarten.",
+    "example_german": "Die Kinder spielen im Kindergarten."
+  },
+  {
+    "word": "the theoretical subject",
+    "translation": "das theoretische Fach",
+    "example": "The theoretical subject is important.",
+    "example_german": "Das theoretische Fach ist wichtig."
+  },
+  {
+    "word": "practical subject",
+    "translation": "das Fachpraktikum",
+    "example": "The practical subject is very useful.",
+    "example_german": "Das Fachpraktikum ist sehr nützlich."
+  },
+  {
+    "word": "theoretical class",
+    "translation": "die theoretische Klasse",
+    "example": "I have a theoretical class today.",
+    "example_german": "Ich habe heute eine theoretische Klasse."
+  },
+  {
+    "word": "practical class",
+    "translation": "die praktische Klasse",
+    "example": "We have a practical class today.",
+    "example_german": "Wir haben heute eine praktische Klasse."
+  },
+  {
+    "word": "registration",
+    "translation": "die Einschreibung",
+    "example": "The registration is due tomorrow.",
+    "example_german": "Die Einschreibung ist bis morgen fällig."
+  },
+  {
+    "word": "scholarship",
+    "translation": "das Stipendium",
+    "example": "He applied for a scholarship to college.",
+    "example_german": "Er beantragte ein Stipendium für die Hochschule."
+  },
+  {
+    "word": "conference",
+    "translation": "die Konferenz",
+    "example": "The conference starts at ten.",
+    "example_german": "Die Konferenz beginnt um zehn Uhr."
+  },
+  {
+    "word": "to enroll",
+    "translation": "sich immatrikulieren",
+    "example": "I want to enroll in the course.",
+    "example_german": "Ich möchte mich für den Kurs immatrikulieren."
+  },
+  {
+    "word": "to refund the enrollment",
+    "translation": "die Rückerstattung der Einschreibung",
+    "example": "I want to refund the enrollment fee.",
+    "example_german": "Ich möchte die Einschreibungskosten zurückerstatten."
+  },
+  {
+    "word": "to apply for a scholarship",
+    "translation": "ein Stipendium beantragen",
+    "example": "I want to apply for a scholarship.",
+    "example_german": "Ich möchte ein Stipendium beantragen."
+  },
+  {
+    "word": "to give a scholarship",
+    "translation": "ein Stipendium geben",
+    "example": "They want to give a scholarship.",
+    "example_german": "Sie wollen ein Stipendium geben."
+  },
+  {
+    "word": "to win a scholarship",
+    "translation": "ein Stipendium gewinnen",
+    "example": "I hope to win a scholarship.",
+    "example_german": "Ich hoffe, ein Stipendium zu gewinnen."
+  },
+  {
+    "word": "to make an exchange",
+    "translation": "einen Austausch machen",
+    "example": "I want to make an exchange today.",
+    "example_german": "Ich möchte heute einen Austausch machen."
+  },
+  {
+    "word": "to do an internship",
+    "translation": "ein Praktikum machen",
+    "example": "I want to do an internship this summer.",
+    "example_german": "Ich möchte dieses Sommer ein Praktikum machen."
+  },
+  {
+    "word": "to know by heart",
+    "translation": "auswendig wissen",
+    "example": "She knows the poem by heart.",
+    "example_german": "Sie weiß das Gedicht auswendig."
+  },
+  {
+    "word": "to memorize",
+    "translation": "auswendig lernen",
+    "example": "I need to memorize this lesson.",
+    "example_german": "Ich muss diese Lektion auswendig lernen."
+  },
+  {
+    "word": "to study by heart",
+    "translation": "auswendig lernen",
+    "example": "I need to study this lesson by heart.",
+    "example_german": "Ich muss diese Lektion auswendig lernen."
+  },
+  {
+    "word": "to think",
+    "translation": "denken",
+    "example": "I think about my family.",
+    "example_german": "Ich denke an meine Familie."
+  },
+  {
+    "word": "to remember",
+    "translation": "erinnern",
+    "example": "I want to remember this moment.",
+    "example_german": "Ich möchte diesen Moment erinnern."
+  },
+  {
+    "word": "to forget",
+    "translation": "vergessen",
+    "example": "I tend to forget my keys.",
+    "example_german": "Ich vergesse oft meine Schlüssel."
+  },
+  {
+    "word": "to teach",
+    "translation": "lehren",
+    "example": "I want to teach you something new.",
+    "example_german": "Ich möchte dir etwas Neues lehren."
+  },
+  {
+    "word": "test",
+    "translation": "der Test",
+    "example": "I need to take the test today.",
+    "example_german": "Ich muss heute den Test machen."
+  },
+  {
+    "word": "control",
+    "translation": "die Kontrolle",
+    "example": "I need to maintain control of the project.",
+    "example_german": "Ich muss die Kontrolle über das Projekt behalten."
+  },
+  {
+    "word": "to take an oral exam",
+    "translation": "eine mündliche Prüfung",
+    "example": "I need to take an oral exam.",
+    "example_german": "Ich muss eine mündliche Prüfung ablegen."
+  },
+  {
+    "word": "to take a written test",
+    "translation": "einen schriftlichen Test machen",
+    "example": "I need to take a written test tomorrow.",
+    "example_german": "Ich muss morgen einen schriftlichen Test machen."
+  },
+  {
+    "word": "to do a check",
+    "translation": "eine Kontrolle machen",
+    "example": "I need to do a check today.",
+    "example_german": "Ich muss heute eine Kontrolle machen."
+  },
+  {
+    "word": "to have an oral exam",
+    "translation": "eine mündliche Prüfung",
+    "example": "I have an oral exam tomorrow.",
+    "example_german": "Ich habe morgen eine mündliche Prüfung."
+  },
+  {
+    "word": "to have a written test",
+    "translation": "einen schriftlichen Test",
+    "example": "I have a written test next week.",
+    "example_german": "Ich habe nächste Woche einen schriftlichen Test."
+  },
+  {
+    "word": "to have control",
+    "translation": "die Kontrolle haben",
+    "example": "You need to have control now.",
+    "example_german": "Du musst jetzt die Kontrolle haben."
+  },
+  {
+    "word": "to pass an oral exam",
+    "translation": "die mündliche Prüfung bestehen",
+    "example": "I want to pass an oral exam.",
+    "example_german": "Ich möchte die mündliche Prüfung bestehen."
+  },
+  {
+    "word": "to pass a written test",
+    "translation": "einen schriftlichen Test bestehen",
+    "example": "I hope to pass a written test.",
+    "example_german": "Ich hoffe, einen schriftlichen Test zu bestehen."
+  },
+  {
+    "word": "to pass a test",
+    "translation": "eine Prüfung bestehen",
+    "example": "I want to pass a test tomorrow.",
+    "example_german": "Ich möchte morgen eine Prüfung bestehen."
+  },
+  {
+    "word": "to fail an oral exam",
+    "translation": "das mündliche Examen ablegen",
+    "example": "I might fail an oral exam.",
+    "example_german": "Ich könnte ein mündliches Examen ablegen."
+  },
+  {
+    "word": "to fail a written test",
+    "translation": "einen schriftlichen Test ablegen",
+    "example": "I am going to fail a written test.",
+    "example_german": "Ich werde einen schriftlichen Test ablegen."
+  },
+  {
+    "word": "to suspend a control",
+    "translation": "die Kontrolle aufheben",
+    "example": "I need to suspend a control now.",
+    "example_german": "Ich muss jetzt die Kontrolle aufheben."
+  },
+  {
+    "word": "to correct an exam",
+    "translation": "eine Prüfung korrigieren",
+    "example": "I need to correct an exam now.",
+    "example_german": "Ich muss jetzt eine Prüfung korrigieren."
+  },
+  {
+    "word": "to have a remarkable",
+    "translation": "einen bemerkenswerten",
+    "example": "She has a remarkable ability.",
+    "example_german": "Sie hat eine bemerkenswerte Fähigkeit."
+  },
+  {
+    "word": "to have an excellent grade",
+    "translation": "eine Eins",
+    "example": "She has an excellent grade in science.",
+    "example_german": "Sie hat eine Eins in Naturwissenschaften."
+  },
+  {
+    "word": "to have a good grade",
+    "translation": "eine gute Note",
+    "example": "I hope to have a good grade.",
+    "example_german": "Ich hoffe, eine gute Note zu haben."
+  },
+  {
+    "word": "to have a bad grade",
+    "translation": "eine schlechte Note",
+    "example": "I have a bad grade in science.",
+    "example_german": "Ich habe eine schlechte Note in Naturwissenschaften."
+  },
+  {
+    "word": "to pass the course",
+    "translation": "den Kurs bestehen",
+    "example": "I hope to pass the course this semester.",
+    "example_german": "Ich hoffe, den Kurs dieses Semester zu bestehen."
+  },
+  {
+    "word": "to repeat the course",
+    "translation": "den Kurs wiederholen",
+    "example": "She decided to repeat the course.",
+    "example_german": "Sie hat beschlossen, den Kurs zu wiederholen."
+  },
+  {
+    "word": "high school diploma",
+    "translation": "das Abitur",
+    "example": "A high school diploma is essential.",
+    "example_german": "Ein Abitur ist wichtig."
+  },
+  {
+    "word": "career",
+    "translation": "die Karriere",
+    "example": "He is building his career now.",
+    "example_german": "Er baut jetzt seine Karriere auf."
+  },
+  {
+    "word": "master's degree",
+    "translation": "der Master",
+    "example": "He earned a master's degree last year.",
+    "example_german": "Er hat letztes Jahr einen Master gemacht."
+  },
+  {
+    "word": "doctorate",
+    "translation": "der Doktorgrad",
+    "example": "He earned his doctorate in physics.",
+    "example_german": "Er hat seinen Doktorgrad in Physik erworben."
+  },
+  {
+    "word": "graduate",
+    "translation": "der Lizenzierte",
+    "example": "The graduate received his diploma today.",
+    "example_german": "Der Lizenzierte hat heute sein Diplom erhalten."
+  },
+  {
+    "word": "doctor",
+    "translation": "der Arzt",
+    "example": "The doctor is very kind.",
+    "example_german": "Der Arzt ist sehr freundlich."
+  },
+  {
+    "word": "to study the high school diploma",
+    "translation": "das Abitur",
+    "example": "I want to study the high school diploma.",
+    "example_german": "Ich möchte das Abitur machen."
+  },
+  {
+    "word": "to study a career",
+    "translation": "eine Karriere studieren",
+    "example": "I want to study a career in science.",
+    "example_german": "Ich möchte eine Karriere in der Wissenschaft studieren."
+  },
+  {
+    "word": "to study a master's",
+    "translation": "einen Master studieren",
+    "example": "I want to study a master's degree.",
+    "example_german": "Ich möchte einen Masterstudiengang studieren."
+  },
+  {
+    "word": "to study a doctorate",
+    "translation": "ein Doktorat",
+    "example": "I want to study a doctorate.",
+    "example_german": "Ich möchte ein Doktorat studieren."
+  },
+  {
+    "word": "to complete high school",
+    "translation": "das Abitur",
+    "example": "I want to complete high school next year.",
+    "example_german": "Ich möchte nächstes Jahr das Abitur machen."
+  },
+  {
+    "word": "to make a career",
+    "translation": "eine Karriere machen",
+    "example": "I want to make a career in art.",
+    "example_german": "Ich möchte eine Karriere in der Kunst machen."
+  },
+  {
+    "word": "to do a master's",
+    "translation": "einen Master machen",
+    "example": "I want to do a master's this year.",
+    "example_german": "Ich möchte dieses Jahr einen Master machen."
+  },
+  {
+    "word": "to do a doctorate",
+    "translation": "einen Doktortitel machen",
+    "example": "He plans to do a doctorate.",
+    "example_german": "Er plant, einen Doktortitel zu machen."
+  },
+  {
+    "word": "to have a high school diploma",
+    "translation": "das Abitur",
+    "example": "He has a high school diploma.",
+    "example_german": "Er hat das Abitur."
+  },
+  {
+    "word": "to have a career",
+    "translation": "eine Karriere haben",
+    "example": "I want to have a successful career.",
+    "example_german": "Ich möchte eine erfolgreiche Karriere haben."
+  },
+  {
+    "word": "to have a master's degree",
+    "translation": "einen Master",
+    "example": "He wants to have a master's degree.",
+    "example_german": "Er möchte einen Master haben."
+  },
+  {
+    "word": "to have a doctorate",
+    "translation": "einen Doktortitel",
+    "example": "He has a doctorate in physics.",
+    "example_german": "Er hat einen Doktortitel in Physik."
+  },
+  {
+    "word": "to start high school",
+    "translation": "das Abitur beginnen",
+    "example": "I want to start high school next year.",
+    "example_german": "Ich möchte nächstes Jahr das Abitur beginnen."
+  },
+  {
+    "word": "to start a career",
+    "translation": "eine Karriere beginnen",
+    "example": "I want to start a career in teaching.",
+    "example_german": "Ich möchte eine Karriere im Unterricht beginnen."
+  },
+  {
+    "word": "to start a master's degree",
+    "translation": "ein Master beginnen",
+    "example": "I want to start a master's degree.",
+    "example_german": "Ich möchte einen Master beginnen."
+  },
+  {
+    "word": "to start a doctorate",
+    "translation": "ein Doktorat beginnen",
+    "example": "I want to start a doctorate this year.",
+    "example_german": "Ich möchte dieses Jahr ein Doktorat beginnen."
+  },
+  {
+    "word": "to finish high school",
+    "translation": "das Abitur",
+    "example": "I want to finish high school this year.",
+    "example_german": "Ich möchte das Abitur in diesem Jahr machen."
+  },
+  {
+    "word": "to finish a degree",
+    "translation": "einen Abschluss machen",
+    "example": "I want to finish a degree soon.",
+    "example_german": "Ich möchte einen Abschluss bald machen."
+  },
+  {
+    "word": "to finish a master's degree",
+    "translation": "einen Master abschließen",
+    "example": "I want to finish a master's degree.",
+    "example_german": "Ich möchte einen Master abschließen."
+  },
+  {
+    "word": "to complete a doctorate",
+    "translation": "einen Doktortitel erwerben",
+    "example": "He plans to complete a doctorate.",
+    "example_german": "Er plant, einen Doktortitel zu erwerben."
+  },
+  {
+    "word": "to complete a master's degree",
+    "translation": "einen Masterabschluss machen",
+    "example": "I want to complete a master's degree.",
+    "example_german": "Ich möchte einen Masterabschluss machen."
+  },
+  {
+    "word": "to have no education",
+    "translation": "keine Ausbildung haben",
+    "example": "He has no education or training.",
+    "example_german": "Er hat keine Ausbildung oder Schulung."
+  },
+  {
+    "word": "to have education",
+    "translation": "die Ausbildung",
+    "example": "He has education in engineering.",
+    "example_german": "Er hat eine Ausbildung in Ingenieurwesen."
+  },
+  {
+    "word": "to have a doubt",
+    "translation": "eine Frage",
+    "example": "I have a doubt about this topic.",
+    "example_german": "Ich habe eine Frage zu diesem Thema."
+  },
+  {
+    "word": "to make a mistake",
+    "translation": "einen Fehler machen",
+    "example": "I made a mistake in my calculations.",
+    "example_german": "Ich habe einen Fehler in meinen Berechnungen gemacht."
+  },
+  {
+    "word": "to do an activity in pairs",
+    "translation": "eine Aktivität in Paaren",
+    "example": "We will do an activity in pairs.",
+    "example_german": "Wir werden eine Aktivität in Paaren machen."
+  },
+  {
+    "word": "to do an activity in groups",
+    "translation": "eine Aktivität in Gruppen machen",
+    "example": "We will do an activity in groups.",
+    "example_german": "Wir werden eine Aktivität in Gruppen machen."
+  },
+  {
+    "word": "to do an activity individually",
+    "translation": "eine Aktivität individuell machen",
+    "example": "I want to do an activity individually.",
+    "example_german": "Ich möchte eine Aktivität individuell machen."
+  },
+  {
+    "word": "to make a diagram",
+    "translation": "ein Diagramm machen",
+    "example": "I need to make a diagram now.",
+    "example_german": "Ich muss jetzt ein Diagramm machen."
+  },
+  {
+    "word": "to make a summary",
+    "translation": "eine Zusammenfassung machen",
+    "example": "I need to make a summary now.",
+    "example_german": "Ich muss jetzt eine Zusammenfassung machen."
+  },
+  {
+    "word": "to search in a book",
+    "translation": "in einem Buch suchen",
+    "example": "I want to search in a book.",
+    "example_german": "Ich möchte in einem Buch suchen."
+  },
+  {
+    "word": "to look up in a dictionary",
+    "translation": "im Wörterbuch nachschlagen",
+    "example": "You should look up in a dictionary.",
+    "example_german": "Du solltest im Wörterbuch nachschlagen."
+  },
+  {
+    "word": "to look in a book",
+    "translation": "in einem Buch schauen",
+    "example": "I want to look in a book.",
+    "example_german": "Ich möchte in einem Buch schauen."
+  },
+  {
+    "word": "to take notes",
+    "translation": "Not applicable",
+    "example": "I need to take notes during the lecture.",
+    "example_german": "Ich muss während der Vorlesung Notizen machen."
+  },
+  {
+    "word": "to underline a book",
+    "translation": "ein Buch unterstreichen",
+    "example": "I need to underline a book for class.",
+    "example_german": "Ich muss ein Buch für den Unterricht unterstreichen."
+  },
+  {
+    "word": "to choose a topic",
+    "translation": "ein Thema wählen",
+    "example": "I want to choose a topic today.",
+    "example_german": "Ich möchte heute ein Thema wählen."
+  },
+  {
+    "word": "to choose a partner",
+    "translation": "einen Partner wählen",
+    "example": "I need to choose a partner now.",
+    "example_german": "Ich muss jetzt einen Partner wählen."
+  },
+  {
+    "word": "to choose a book",
+    "translation": "ein Buch wählen",
+    "example": "I want to choose a good book.",
+    "example_german": "Ich möchte ein gutes Buch wählen."
+  },
+  {
+    "word": "to change books",
+    "translation": "das Buch wechseln",
+    "example": "I want to change books now.",
+    "example_german": "Ich möchte jetzt das Buch wechseln."
+  },
+  {
+    "word": "to change the subject",
+    "translation": "das Thema wechseln",
+    "example": "I want to change the subject now.",
+    "example_german": "Ich möchte jetzt das Thema wechseln."
+  },
+  {
+    "word": "to change partner",
+    "translation": "den Partner wechseln",
+    "example": "I want to change partner for class.",
+    "example_german": "Ich möchte den Partner für den Unterricht wechseln."
+  },
+  {
+    "word": "to raise the hand",
+    "translation": "die Hand heben",
+    "example": "I want to raise my hand.",
+    "example_german": "Ich möchte die Hand heben."
+  },
+  {
+    "word": "to get up",
+    "translation": "aufstehen",
+    "example": "I need to get up early.",
+    "example_german": "Ich muss früh aufstehen."
+  },
+  {
+    "word": "to change places",
+    "translation": "den Platz wechseln",
+    "example": "I want to change places with you.",
+    "example_german": "Ich möchte den Platz mit dir wechseln."
+  },
+  {
+    "word": "to change seats",
+    "translation": "sich umsetzen",
+    "example": "I want to change seats.",
+    "example_german": "Ich möchte mich umsetzen."
+  },
+  {
+    "word": "to volunteer to go to the board",
+    "translation": "die freiwillige Tafel",
+    "example": "I will volunteer to go to the board.",
+    "example_german": "Ich werde freiwillig an die Tafel gehen."
+  },
+  {
+    "word": "to explain a topic",
+    "translation": "ein Thema erklären",
+    "example": "I need to explain a topic clearly.",
+    "example_german": "Ich muss ein Thema klar erklären."
+  },
+  {
+    "word": "to explain a lesson",
+    "translation": "eine Lektion erklären",
+    "example": "I want to explain a lesson.",
+    "example_german": "Ich möchte eine Lektion erklären."
+  },
+  {
+    "word": "to talk about a topic",
+    "translation": "ein Thema besprechen",
+    "example": "I want to talk about a topic.",
+    "example_german": "Ich möchte über ein Thema sprechen."
+  },
+  {
+    "word": "to chat about a topic",
+    "translation": "über ein Thema reden",
+    "example": "I like to chat about a fun topic.",
+    "example_german": "Ich rede gerne über ein lustiges Thema."
+  },
+  {
+    "word": "to relate",
+    "translation": "verknüpfen",
+    "example": "I want to relate these ideas.",
+    "example_german": "Ich möchte diese Ideen verknüpfen."
+  },
+  {
+    "word": "to compare",
+    "translation": "vergleichen",
+    "example": "I want to compare these two items.",
+    "example_german": "Ich möchte diese beiden Gegenstände vergleichen."
+  },
+  {
+    "word": "to look for differences",
+    "translation": "die Unterschiede suchen",
+    "example": "We need to look for differences in the data.",
+    "example_german": "Wir müssen die Unterschiede in den Daten suchen."
+  },
+  {
+    "word": "to correct an essay",
+    "translation": "eine Korrektur des Aufsatz",
+    "example": "I need to correct an essay.",
+    "example_german": "Ich muss einen Aufsatz korrigieren."
+  },
+  {
+    "word": "to correct an exercise",
+    "translation": "eine Übung korrigieren",
+    "example": "I need to correct an exercise.",
+    "example_german": "Ich muss eine Übung korrigieren."
+  },
+  {
+    "word": "to correct the homework",
+    "translation": "die Hausaufgaben korrigieren",
+    "example": "I need to correct the homework today.",
+    "example_german": "Ich muss die Hausaufgaben heute korrigieren."
+  },
+  {
+    "word": "to take a break",
+    "translation": "eine Pause machen",
+    "example": "I want to take a break now.",
+    "example_german": "Ich möchte jetzt eine Pause machen."
+  },
+  {
+    "word": "encyclopedia",
+    "translation": "die Enzyklopädie",
+    "example": "The encyclopedia contains a lot of knowledge.",
+    "example_german": "Die Enzyklopädie enthält viel Wissen."
+  },
+  {
+    "word": "notes",
+    "translation": "die Notizen",
+    "example": "I took notes during the lecture.",
+    "example_german": "Ich habe während der Vorlesung Notizen gemacht."
+  },
+  {
+    "word": "sheet",
+    "translation": "das Blatt",
+    "example": "The sheet is on the table.",
+    "example_german": "Das Blatt liegt auf dem Tisch."
+  },
+  {
+    "word": "recycled paper",
+    "translation": "das Recyclingpapier",
+    "example": "Recycled paper is eco-friendly.",
+    "example_german": "Das Recyclingpapier ist umweltfreundlich."
+  },
+  {
+    "word": "printer paper",
+    "translation": "das Druckerpapier",
+    "example": "I bought printer paper yesterday.",
+    "example_german": "Ich habe gestern das Druckerpapier gekauft."
+  },
+  {
+    "word": "folder",
+    "translation": "die Mappe",
+    "example": "I need a new folder.",
+    "example_german": "Ich brauche eine neue Mappe."
+  },
+  {
+    "word": "printer ink",
+    "translation": "die Druckertinte",
+    "example": "I need to buy printer ink.",
+    "example_german": "Ich muss die Druckertinte kaufen."
+  }
+]
