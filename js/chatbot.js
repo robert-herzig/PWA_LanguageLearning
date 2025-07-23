@@ -549,15 +549,15 @@ class LanguageChatbot {
         if (this.vocabularyWords.length < 3) {
             const greetings = {
                 'spanish': {
-                    text: `¡Hola! Hoy vamos a hablar sobre ${this.getTopicDisplayName(this.currentTopic)}. ¡Es un tema muy interesante!`,
+                    text: `¡Hola! Hoy vamos a hablar sobre ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)}. ¡Es un tema muy interesante!`,
                     question: '¿Qué sabes ya sobre este tema? ¡Cuéntame!'
                 },
                 'english': {
-                    text: `Hello! Today we're going to talk about ${this.getTopicDisplayName(this.currentTopic)}. It's a very interesting topic!`,
+                    text: `Hello! Today we're going to talk about ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)}. It's a very interesting topic!`,
                     question: 'What do you already know about this topic? Tell me about it!'
                 },
                 'russian': {
-                    text: `Привет! Сегодня мы поговорим о ${this.getTopicDisplayName(this.currentTopic)}. Это очень интересная тема!`,
+                    text: `Привет! Сегодня мы поговорим о ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)}. Это очень интересная тема!`,
                     question: 'Что вы уже знаете об этой теме? Расскажите мне!'
                 }
             };
@@ -571,16 +571,16 @@ class LanguageChatbot {
         
         const storyTemplates = {
             'spanish': {
-                'b1': `¡Hablemos sobre ${this.getTopicDisplayName(this.currentTopic)}! Hoy he pensado en diferentes palabras: ${targetWords}. Estas palabras son muy importantes para nuestro tema.`,
-                'b2': `El tema de ${this.getTopicDisplayName(this.currentTopic)} es muy variado. Cuando consideramos términos como ${targetWords}, vemos la complejidad de este campo. Cada palabra tiene su propio significado y contexto.`
+                'b1': `¡Hablemos sobre ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)}! Hoy he pensado en diferentes palabras: ${targetWords}. Estas palabras son muy importantes para nuestro tema.`,
+                'b2': `El tema de ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)} es muy variado. Cuando consideramos términos como ${targetWords}, vemos la complejidad de este campo. Cada palabra tiene su propio significado y contexto.`
             },
             'english': {
-                'b1': `Let's talk about ${this.getTopicDisplayName(this.currentTopic)}! Today I've been thinking about different words: ${targetWords}. These words are very important for our topic.`,
-                'b2': `The topic of ${this.getTopicDisplayName(this.currentTopic)} is very diverse. When we consider terms like ${targetWords}, we see the complexity of this field. Each word has its own meaning and context.`
+                'b1': `Let's talk about ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)}! Today I've been thinking about different words: ${targetWords}. These words are very important for our topic.`,
+                'b2': `The topic of ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)} is very diverse. When we consider terms like ${targetWords}, we see the complexity of this field. Each word has its own meaning and context.`
             },
             'russian': {
-                'b1': `Давайте поговорим о ${this.getTopicDisplayName(this.currentTopic)}! Сегодня я думал о разных словах: ${targetWords}. Эти слова очень важны для нашей темы.`,
-                'b2': `Тема ${this.getTopicDisplayName(this.currentTopic)} очень разнообразна. Когда мы рассматриваем такие термины, как ${targetWords}, мы видим сложность этой области.`
+                'b1': `Давайте поговорим о ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)}! Сегодня я думал о разных словах: ${targetWords}. Эти слова очень важны для нашей темы.`,
+                'b2': `Тема ${this.getTopicNameInTargetLanguage(this.currentTopic, targetLanguage)} очень разнообразна. Когда мы рассматриваем такие термины, как ${targetWords}, мы видим сложность этой области.`
             }
         };
         
@@ -597,6 +597,44 @@ class LanguageChatbot {
             text: text,
             question: questions[targetLanguage] || questions['spanish']
         };
+    }
+    
+    // Get topic name in the target language (not German)
+    getTopicNameInTargetLanguage(topic, targetLanguage) {
+        const topicTranslations = {
+            'food': {
+                'spanish': 'comida',
+                'english': 'food',
+                'russian': 'еда'
+            },
+            'travel': {
+                'spanish': 'viaje',
+                'english': 'travel', 
+                'russian': 'путешествие'
+            },
+            'work': {
+                'spanish': 'trabajo',
+                'english': 'work',
+                'russian': 'работа'
+            },
+            'environment': {
+                'spanish': 'medio ambiente',
+                'english': 'environment',
+                'russian': 'окружающая среда'
+            },
+            'health': {
+                'spanish': 'salud',
+                'english': 'health',
+                'russian': 'здоровье'
+            },
+            'technology': {
+                'spanish': 'tecnología',
+                'english': 'technology',
+                'russian': 'технология'
+            }
+        };
+        
+        return topicTranslations[topic]?.[targetLanguage] || topic;
     }
     
     // Determine target language based on loaded vocabulary

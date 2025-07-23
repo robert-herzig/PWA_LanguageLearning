@@ -75,6 +75,65 @@ if (!process.env.OPENAI_API_KEY) {
   process.exit(1);
 }
 
+// Function to determine target language based on vocabulary
+function determineTargetLanguage(vocabularyWords) {
+  if (!vocabularyWords || vocabularyWords.length === 0) {
+    return 'spanish'; // Default
+  }
+  
+  // Check for Spanish characters
+  const hasSpanishChars = vocabularyWords.some(word => 
+    /[ñáéíóúü¡¿]/.test(word) || /[ñáéíóúü¡¿]/.test(JSON.stringify(word))
+  );
+  
+  // Check for Cyrillic characters (Russian)
+  const hasRussianChars = vocabularyWords.some(word => 
+    /[а-яё]/i.test(word) || /[а-яё]/i.test(JSON.stringify(word))
+  );
+  
+  if (hasRussianChars) return 'russian';
+  if (hasSpanishChars) return 'spanish';
+  return 'english';
+}
+
+// Function to get topic name in the target language
+function getTopicNameInTargetLanguage(topic, targetLanguage) {
+  const topicTranslations = {
+    'food': {
+      'spanish': 'comida',
+      'english': 'food',
+      'russian': 'еда'
+    },
+    'travel': {
+      'spanish': 'viaje',
+      'english': 'travel', 
+      'russian': 'путешествие'
+    },
+    'work': {
+      'spanish': 'trabajo',
+      'english': 'work',
+      'russian': 'работа'
+    },
+    'environment': {
+      'spanish': 'medio ambiente',
+      'english': 'environment',
+      'russian': 'окружающая среда'
+    },
+    'health': {
+      'spanish': 'salud',
+      'english': 'health',
+      'russian': 'здоровье'
+    },
+    'technology': {
+      'spanish': 'tecnología',
+      'english': 'technology',
+      'russian': 'технология'
+    }
+  };
+  
+  return topicTranslations[topic]?.[targetLanguage] || topic;
+}
+
 // System prompts for different levels with vocabulary focus
 const systemPrompts = {
   A2: "You are a friendly German language teacher for A2 (elementary) level students. Use simple vocabulary and basic grammar structures. Keep sentences short and clear. Use present tense primarily, with some past tense. When introducing new vocabulary, provide context and examples. Encourage the student and provide gentle corrections. Create simple stories or scenarios to make vocabulary memorable.",
@@ -121,9 +180,11 @@ app.post('/api/chat', chatbotLimiter, async (req, res) => {
     
     // Build vocabulary context with story-based approach
     let vocabContext = '';
+    const topicInTargetLanguage = getTopicNameInTargetLanguage(topic, targetLanguage);
+    
     if (vocabularyWords && vocabularyWords.length > 0) {
       const words = vocabularyWords.slice(0, 8); // Use first 8 words for context
-      vocabContext = `Use vocabulary from the topic "${topic}". 
+      vocabContext = `Use vocabulary from the topic "${topicInTargetLanguage}". 
       
       Key vocabulary to incorporate naturally: ${words.join(', ')}.
       
@@ -135,7 +196,7 @@ app.post('/api/chat', chatbotLimiter, async (req, res) => {
       
       If this is the start of conversation, consider beginning with a short story or scenario using several of these vocabulary words.`;
     } else {
-      vocabContext = `Focus on the topic "${topic}" and encourage practical conversation.`;
+      vocabContext = `Focus on the topic "${topicInTargetLanguage}" and encourage practical conversation.`;
     }
     
     // Create context-aware prompt with target language
