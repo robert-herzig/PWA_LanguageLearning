@@ -6,6 +6,32 @@ require('dotenv').config();
 
 const app = express();
 
+// Determine target language based on topic and vocabulary
+function determineTargetLanguage(topic, vocabularyWords) {
+  // Check topic for Spanish indicators (underscores suggest Spanish topics)
+  if (topic && topic.includes('_')) {
+    return 'spanish';
+  }
+  
+  // Check vocabulary for language indicators
+  if (vocabularyWords && vocabularyWords.length > 0) {
+    const firstWord = vocabularyWords[0];
+    
+    // Check for Spanish characters
+    if (/[ñáéíóúü]/i.test(firstWord)) {
+      return 'spanish';
+    }
+    
+    // Check for Cyrillic characters
+    if (/[а-яё]/i.test(firstWord)) {
+      return 'russian';
+    }
+  }
+  
+  // Default to English if no specific markers found
+  return 'english';
+}
+
 // CORS configuration for your frontend
 const corsOptions = {
   origin: process.env.ALLOWED_ORIGINS ? process.env.ALLOWED_ORIGINS.split(',') : [
@@ -80,6 +106,9 @@ app.post('/api/chat', chatbotLimiter, async (req, res) => {
     // Generate a simple user ID if not provided (for anonymous users)
     const effectiveUserId = userId || `anon_${req.ip.replace(/\./g, '_')}`;
     
+    // Determine target language based on topic and vocabulary
+    const targetLanguage = determineTargetLanguage(topic, vocabularyWords);
+    
     // Check daily cost limit
     const userDailyCost = userCosts.get(effectiveUserId) || 0;
     if (userDailyCost >= MAX_DAILY_COST) {
@@ -109,17 +138,27 @@ app.post('/api/chat', chatbotLimiter, async (req, res) => {
       vocabContext = `Focus on the topic "${topic}" and encourage practical conversation.`;
     }
     
-    // Create context-aware prompt
+    // Create context-aware prompt with target language
+    const languageNames = {
+      'spanish': 'Spanish',
+      'english': 'English',
+      'russian': 'Russian'
+    };
+    
+    const targetLanguageName = languageNames[targetLanguage];
+    
     const systemPrompt = `${systemPrompts[level]} ${vocabContext} 
     
     Important guidelines:
-    - Respond in German only
-    - If the student makes mistakes, gently correct them by showing the correct version
+    - Respond ONLY in ${targetLanguageName}
+    - You are helping a German speaker learn ${targetLanguageName}
+    - If the student makes mistakes, gently correct them by showing the correct version in ${targetLanguageName}
     - Keep responses conversational and engaging
-    - Ask follow-up questions to continue the conversation
+    - Ask follow-up questions to continue the conversation in ${targetLanguageName}
     - Use stories, scenarios, or real-life examples to make vocabulary memorable
     - Adapt your complexity to the student's level: ${level}
-    - Be encouraging and supportive`;
+    - Be encouraging and supportive
+    - Never respond in German - always use ${targetLanguageName}`;
     
     const response = await openai.chat.completions.create({
       model: 'gpt-4o-mini', // More cost-effective than gpt-3.5-turbo

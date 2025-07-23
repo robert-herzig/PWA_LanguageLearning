@@ -69,7 +69,20 @@ class LanguageChatbot {
         document.addEventListener('click', (e) => {
             const vocabChip = e.target.closest('.vocab-chip');
             if (vocabChip) {
-                this.insertVocabWord(vocabChip.textContent);
+                const wordText = vocabChip.textContent.replace('🔊', '').trim();
+                this.insertVocabWord(wordText);
+                this.speakText(wordText); // Add TTS
+            }
+        });
+        
+        // Message click for TTS
+        document.addEventListener('click', (e) => {
+            const message = e.target.closest('.message');
+            if (message && message.classList.contains('ai-message')) {
+                const messageContent = message.querySelector('.message-content p');
+                if (messageContent) {
+                    this.speakText(messageContent.textContent);
+                }
             }
         });
     }
@@ -439,9 +452,9 @@ class LanguageChatbot {
         // Show first 8 vocabulary words as hints
         this.vocabularyWords.slice(0, 8).forEach(wordObj => {
             const chip = document.createElement('span');
-            chip.className = 'vocab-chip';
-            chip.textContent = wordObj.word;
-            chip.title = `Klicken zum Einfügen: ${wordObj.word} (${wordObj.translation})`;
+            chip.className = 'vocab-chip clickable-chip';
+            chip.innerHTML = `${wordObj.word} <span class="tts-icon">🔊</span>`;
+            chip.title = `Klicken zum Einfügen und Vorlesen: ${wordObj.word} (${wordObj.translation})`;
             vocabContainer.appendChild(chip);
         });
     }
@@ -465,39 +478,64 @@ class LanguageChatbot {
     
     // Create contextual stories based on topic and level
     createStoryForTopic(topicId, level) {
+        // Determine target language based on vocabulary
+        const targetLanguage = this.getTargetLanguage();
+        
         const stories = {
-            'alimentación': {
-                'b1': {
-                    text: 'Heute war ich im Supermarkt und habe verschiedene Lebensmittel gekauft. Ich habe frisches Gemüse wie Spinat und Garbanzos gesehen. Am Fleischstand gab es Chorizo und Lomo. Für das Frühstück habe ich Magdalenas und ein Bizcocho gewählt.',
-                    question: 'Was isst du gern zum Frühstück? Verwendest du auch Nata oder Margarina auf deinem Brot?'
+            'spanish': {
+                'alimentación': {
+                    'b1': {
+                        text: 'Hoy fui al supermercado y compré diferentes alimentos. Vi verduras frescas como espinacas y garbanzos. En la carnicería había chorizo y lomo. Para el desayuno elegí magdalenas y un bizcocho.',
+                        question: '¿Qué te gusta comer en el desayuno? ¿También usas nata o margarina en tu pan?'
+                    },
+                    'b2': {
+                        text: 'La alimentación saludable es un tema complejo. Una alimentación equilibrada incluye nutrientes importantes como proteínas, vitaminas y fibra. Muchas personas prefieren productos naturales y evitan alimentos pesados. El equilibrio correcto entre calorías y actividad física es crucial.',
+                        question: '¿Qué tan importante es para ti una alimentación saludable? ¿Prestas atención a las calorías de tu comida?'
+                    }
                 },
-                'b2': {
-                    text: 'Gesunde Ernährung ist ein komplexes Thema. Eine ausgewogene Alimentación umfasst wichtige Nährstoffe wie Proteínas, Vitaminas und Fibra. Viele Menschen bevorzugen Productos naturales und vermeiden schwere Alimentos. Die richtige Balance zwischen Calorías und körperlicher Aktivität ist entscheidend.',
-                    question: 'Wie wichtig ist dir eine gesunde Ernährung? Achtest du auf die Calorías in deinem Essen?'
+                'educación': {
+                    'b1': {
+                        text: 'Mi amigo estudia en la universidad. El campus es muy grande y moderno. Solicitó una beca y quiere hacer un máster. Sus clases teóricas son interesantes, pero le gustan más las materias prácticas.',
+                        question: '¿También estudias? ¿Qué materias te gustan más - las teóricas o las prácticas?'
+                    },
+                    'b2': {
+                        text: 'El sistema educativo experimenta cambios constantes. Desde la registration hasta el doctorate, los estudiantes deben superar varios desafíos. Las scholarships permiten a muchos acceder a la educación superior. El equilibrio entre administration y libertad académica es un tema importante.',
+                        question: '¿Qué piensas sobre el sistema educativo actual? ¿Deberían estar disponibles más scholarships?'
+                    }
+                },
+                'relaciones_personales': {
+                    'b1': {
+                        text: 'Las relaciones personales son muy importantes en la vida. Tengo muchos amigos y familiares que me apoyan. Mi mejor amigo es muy divertido y siempre me hace reír. También tengo una buena relación con mis padres.',
+                        question: '¿Cómo son tus relaciones familiares? ¿Tienes un mejor amigo o amiga?'
+                    }
                 }
             },
-            'educación': {
-                'b1': {
-                    text: 'Mein Freund studiert an der Universität. Der Campus ist sehr groß und modern. Er hat sich für ein Stipendium beworben und möchte einen Master machen. Seine theoretischen Klassen sind interessant, aber die praktischen Fächer gefallen ihm mehr.',
-                    question: 'Studierst du auch? Welche Fächer gefallen dir am besten - theoretische oder praktische?'
-                },
-                'b2': {
-                    text: 'Das Bildungssystem durchläuft ständige Veränderungen. Von der Registration bis zum Doctorate müssen Studenten verschiedene Herausforderungen meistern. Scholarships ermöglichen vielen den Zugang zur höheren Bildung. Die Balance zwischen Administration und akademischer Freiheit ist ein wichtiges Thema.',
-                    question: 'Was denkst du über das aktuelle Bildungssystem? Sollten mehr Scholarships verfügbar sein?'
+            'english': {
+                'work': {
+                    'b1': {
+                        text: 'I work in an office downtown. My job is interesting but sometimes stressful. I have meetings with colleagues and clients every week. I like my boss - she is very supportive and understanding.',
+                        question: 'What kind of work do you do? Do you enjoy your job?'
+                    },
+                    'b2': {
+                        text: 'The modern workplace is rapidly evolving. Remote work has become increasingly popular, offering flexibility but also presenting challenges for collaboration. Companies are investing in digital transformation and employee development programs.',
+                        question: 'How has remote work affected your productivity? What do you think about the future of work?'
+                    }
                 }
             },
-            'dimensión_física': {
-                'b1': {
-                    text: 'Beim Sport ist es wichtig, auf den Körper zu achten. Meine Músculos sind nach dem Training müde. Manchmal tut mir das Cuello oder die Rodilla weh. Ich achte auf meine Postura und bewege regelmäßig meine Hombros.',
-                    question: 'Machst du gern Sport? Welche Teile deines Körpers werden beim Training am meisten beansprucht?'
+            'russian': {
+                'работа': {
+                    'b1': {
+                        text: 'Я работаю в офисе в центре города. Моя работа интересная, но иногда стрессовая. У меня есть встречи с коллегами и клиентами каждую неделю. Мне нравится мой начальник - она очень поддерживающая.',
+                        question: 'Какую работу вы делаете? Вам нравится ваша работа?'
+                    }
                 }
             }
         };
         
         // Get specific story or create generic one
-        const topicStories = stories[topicId];
-        if (topicStories && topicStories[level.toLowerCase()]) {
-            return topicStories[level.toLowerCase()];
+        const languageStories = stories[targetLanguage];
+        if (languageStories && languageStories[topicId] && languageStories[topicId][level.toLowerCase()]) {
+            return languageStories[topicId][level.toLowerCase()];
         }
         
         // Generate generic story using available vocabulary
@@ -506,28 +544,87 @@ class LanguageChatbot {
     
     // Generate generic story when no specific template exists
     generateGenericStory() {
+        const targetLanguage = this.getTargetLanguage();
+        
         if (this.vocabularyWords.length < 3) {
-            return {
-                text: `Hallo! Heute sprechen wir über ${this.getTopicDisplayName(this.currentTopic)}. Das ist ein interessantes Thema!`,
-                question: 'Was weißt du schon über dieses Thema? Erzähle mir davon!'
+            const greetings = {
+                'spanish': {
+                    text: `¡Hola! Hoy vamos a hablar sobre ${this.getTopicDisplayName(this.currentTopic)}. ¡Es un tema muy interesante!`,
+                    question: '¿Qué sabes ya sobre este tema? ¡Cuéntame!'
+                },
+                'english': {
+                    text: `Hello! Today we're going to talk about ${this.getTopicDisplayName(this.currentTopic)}. It's a very interesting topic!`,
+                    question: 'What do you already know about this topic? Tell me about it!'
+                },
+                'russian': {
+                    text: `Привет! Сегодня мы поговорим о ${this.getTopicDisplayName(this.currentTopic)}. Это очень интересная тема!`,
+                    question: 'Что вы уже знаете об этой теме? Расскажите мне!'
+                }
             };
+            
+            return greetings[targetLanguage] || greetings['spanish'];
         }
         
         // Use first few vocabulary words to create a simple story
         const words = this.vocabularyWords.slice(0, 5);
-        const germanWords = words.map(w => w.translation).join(', ');
+        const targetWords = words.map(w => w.word).join(', ');
         
         const storyTemplates = {
-            'b1': `Lass uns über ${this.getTopicDisplayName(this.currentTopic)} sprechen! Heute habe ich über verschiedene Wörter nachgedacht: ${germanWords}. Diese Wörter sind sehr wichtig für unser Thema.`,
-            'b2': `Das Thema ${this.getTopicDisplayName(this.currentTopic)} ist sehr vielfältig. Wenn wir Begriffe wie ${germanWords} betrachten, sehen wir die Komplexität dieses Bereichs. Jedes Wort hat seine eigene Bedeutung und seinen Kontext.`
+            'spanish': {
+                'b1': `¡Hablemos sobre ${this.getTopicDisplayName(this.currentTopic)}! Hoy he pensado en diferentes palabras: ${targetWords}. Estas palabras son muy importantes para nuestro tema.`,
+                'b2': `El tema de ${this.getTopicDisplayName(this.currentTopic)} es muy variado. Cuando consideramos términos como ${targetWords}, vemos la complejidad de este campo. Cada palabra tiene su propio significado y contexto.`
+            },
+            'english': {
+                'b1': `Let's talk about ${this.getTopicDisplayName(this.currentTopic)}! Today I've been thinking about different words: ${targetWords}. These words are very important for our topic.`,
+                'b2': `The topic of ${this.getTopicDisplayName(this.currentTopic)} is very diverse. When we consider terms like ${targetWords}, we see the complexity of this field. Each word has its own meaning and context.`
+            },
+            'russian': {
+                'b1': `Давайте поговорим о ${this.getTopicDisplayName(this.currentTopic)}! Сегодня я думал о разных словах: ${targetWords}. Эти слова очень важны для нашей темы.`,
+                'b2': `Тема ${this.getTopicDisplayName(this.currentTopic)} очень разнообразна. Когда мы рассматриваем такие термины, как ${targetWords}, мы видим сложность этой области.`
+            }
         };
         
-        const text = storyTemplates[this.currentLevel.toLowerCase()] || storyTemplates['b1'];
+        const languageTemplates = storyTemplates[targetLanguage] || storyTemplates['spanish'];
+        const text = languageTemplates[this.currentLevel.toLowerCase()] || languageTemplates['b1'];
+        
+        const questions = {
+            'spanish': '¿Cuál es tu opinión sobre este tema? ¿Conoces otras palabras importantes?',
+            'english': 'What is your opinion on this topic? Do you know other important words?',
+            'russian': 'Какое у вас мнение по этой теме? Знаете ли вы другие важные слова?'
+        };
         
         return {
             text: text,
-            question: `Was ist deine Meinung zu diesem Thema? Kennst du andere wichtige Wörter?`
+            question: questions[targetLanguage] || questions['spanish']
         };
+    }
+    
+    // Determine target language based on loaded vocabulary
+    getTargetLanguage() {
+        if (this.vocabularyWords.length === 0) {
+            return 'spanish'; // Default fallback
+        }
+        
+        // Check the structure of vocabulary to determine language
+        const firstWord = this.vocabularyWords[0];
+        
+        // Spanish words typically have Spanish characters or are in Spanish files
+        if (this.currentTopic && this.currentTopic.includes('_')) {
+            return 'spanish';
+        }
+        
+        // Check if word contains Spanish characters
+        if (firstWord.word && /[ñáéíóúü]/i.test(firstWord.word)) {
+            return 'spanish';
+        }
+        
+        // Check if word contains Cyrillic characters
+        if (firstWord.word && /[а-яё]/i.test(firstWord.word)) {
+            return 'russian';
+        }
+        
+        // Default to English if no specific markers found
+        return 'english';
     }
     
     insertVocabWord(word) {
@@ -549,6 +646,42 @@ class LanguageChatbot {
         const newCursorPos = cursorPos + spacePrefix.length + word.length + 1;
         input.setSelectionRange(newCursorPos, newCursorPos);
         input.focus();
+    }
+    
+    // Text-to-Speech functionality
+    speakText(text) {
+        if ('speechSynthesis' in window) {
+            // Cancel any ongoing speech
+            speechSynthesis.cancel();
+            
+            const utterance = new SpeechSynthesisUtterance(text);
+            
+            // Set language based on target language
+            const targetLanguage = this.getTargetLanguage();
+            const languageCodes = {
+                'spanish': 'es-ES',
+                'english': 'en-US',
+                'russian': 'ru-RU'
+            };
+            
+            utterance.lang = languageCodes[targetLanguage] || 'es-ES';
+            utterance.rate = 0.9; // Slightly slower for learning
+            utterance.pitch = 1.0;
+            
+            // Try to find a voice in the target language
+            const voices = speechSynthesis.getVoices();
+            const targetVoice = voices.find(voice => 
+                voice.lang.startsWith(languageCodes[targetLanguage].split('-')[0])
+            );
+            
+            if (targetVoice) {
+                utterance.voice = targetVoice;
+            }
+            
+            speechSynthesis.speak(utterance);
+        } else {
+            console.warn('Text-to-speech not supported in this browser');
+        }
     }
     
     async sendMessage() {
@@ -671,6 +804,13 @@ class LanguageChatbot {
     async callOpenAIDirectly(message) {
         // This would only be used if the secure API is not available
         // and the user has provided their own API key
+        const targetLanguage = this.getTargetLanguage();
+        const languageNames = {
+            'spanish': 'Spanish',
+            'english': 'English', 
+            'russian': 'Russian'
+        };
+        
         const response = await fetch('https://api.openai.com/v1/chat/completions', {
             method: 'POST',
             headers: {
@@ -682,7 +822,7 @@ class LanguageChatbot {
                 messages: [
                     { 
                         role: 'system', 
-                        content: `You are a friendly German language teacher for ${this.currentLevel} level students. Focus on the topic "${this.currentTopic}". Respond in German only and be encouraging.` 
+                        content: `You are a friendly ${languageNames[targetLanguage]} language teacher for ${this.currentLevel} level students. Focus on the topic "${this.currentTopic}". Respond ONLY in ${languageNames[targetLanguage]} and be encouraging. Help students practice ${languageNames[targetLanguage]} conversation.` 
                     },
                     { role: 'user', content: message }
                 ],
@@ -741,14 +881,36 @@ class LanguageChatbot {
     
     // Generate contextual responses based on current topic and vocabulary
     generateContextualResponses() {
+        const targetLanguage = this.getTargetLanguage();
+        
         const baseResponses = {
-            general: [
-                "Das ist sehr interessant! Erzähle mir mehr davon.",
-                "Gut gesagt! Wie denkst du darüber?",
-                "Das verstehe ich. Was ist deine Meinung dazu?",
-                "Sehr schön! Kannst du das weiter erklären?"
-            ]
+            'spanish': {
+                general: [
+                    "¡Eso es muy interesante! Cuéntame más sobre eso.",
+                    "¡Bien dicho! ¿Qué piensas sobre eso?",
+                    "Lo entiendo. ¿Cuál es tu opinión?",
+                    "¡Muy bien! ¿Puedes explicar más?"
+                ]
+            },
+            'english': {
+                general: [
+                    "That's very interesting! Tell me more about that.",
+                    "Well said! What do you think about that?",
+                    "I understand. What's your opinion?",
+                    "Very good! Can you explain more?"
+                ]
+            },
+            'russian': {
+                general: [
+                    "Это очень интересно! Расскажите мне больше об этом.",
+                    "Хорошо сказано! Что вы думаете об этом?",
+                    "Понимаю. Какое ваше мнение?",
+                    "Очень хорошо! Можете объяснить больше?"
+                ]
+            }
         };
+        
+        const responses = baseResponses[targetLanguage] || baseResponses['spanish'];
         
         // Add topic-specific responses based on loaded vocabulary
         const topicKey = this.currentTopic;
@@ -756,39 +918,88 @@ class LanguageChatbot {
         if (this.vocabularyWords.length > 0) {
             // Create topic-specific responses using vocabulary
             const words = this.vocabularyWords.slice(0, 3);
-            const germanWords = words.map(w => w.translation);
+            const targetWords = words.map(w => w.word);
             
-            baseResponses[topicKey] = [
-                `Interessant! In diesem Bereich sind Begriffe wie ${germanWords.join(', ')} sehr wichtig.`,
-                `Das ist ein gutes Thema! Hast du Erfahrung mit ${germanWords[0]}?`,
-                `Sehr gut! Lass uns mehr über ${germanWords[1]} sprechen.`,
-                `Das klingt spannend! Was weißt du über ${germanWords[2]}?`
-            ];
+            const topicResponses = {
+                'spanish': [
+                    `¡Interesante! En este tema, palabras como ${targetWords.join(', ')} son muy importantes.`,
+                    `¡Es un buen tema! ¿Tienes experiencia con ${targetWords[0]}?`,
+                    `¡Muy bien! Hablemos más sobre ${targetWords[1]}.`,
+                    `¡Suena emocionante! ¿Qué sabes sobre ${targetWords[2]}?`
+                ],
+                'english': [
+                    `Interesting! In this area, terms like ${targetWords.join(', ')} are very important.`,
+                    `That's a good topic! Do you have experience with ${targetWords[0]}?`,
+                    `Very good! Let's talk more about ${targetWords[1]}.`,
+                    `That sounds exciting! What do you know about ${targetWords[2]}?`
+                ],
+                'russian': [
+                    `Интересно! В этой области такие слова, как ${targetWords.join(', ')}, очень важны.`,
+                    `Это хорошая тема! У вас есть опыт с ${targetWords[0]}?`,
+                    `Очень хорошо! Давайте поговорим больше о ${targetWords[1]}.`,
+                    `Звучит захватывающе! Что вы знаете о ${targetWords[2]}?`
+                ]
+            };
+            
+            responses[topicKey] = topicResponses[targetLanguage] || topicResponses['spanish'];
         }
         
-        return baseResponses;
+        return responses;
     }
     
     // Generate praise response when user uses vocabulary correctly
     getVocabularyPraiseResponse(wordObj) {
-        const praiseResponses = [
-            `Sehr gut! Du hast "${wordObj.word}" (${wordObj.translation}) richtig verwendet!`,
-            `Ausgezeichnet! Das Wort "${wordObj.word}" passt perfekt hier.`,
-            `Prima! Ich sehe, dass du "${wordObj.word}" verstehst.`,
-            `Toll gemacht! "${wordObj.word}" ist ein wichtiges Wort in diesem Thema.`
-        ];
+        const targetLanguage = this.getTargetLanguage();
         
-        const praise = praiseResponses[Math.floor(Math.random() * praiseResponses.length)];
+        const praiseResponses = {
+            'spanish': [
+                `¡Muy bien! Has usado "${wordObj.word}" correctamente.`,
+                `¡Excelente! La palabra "${wordObj.word}" encaja perfectamente aquí.`,
+                `¡Perfecto! Veo que entiendes "${wordObj.word}".`,
+                `¡Bien hecho! "${wordObj.word}" es una palabra importante en este tema.`
+            ],
+            'english': [
+                `Very good! You used "${wordObj.word}" correctly.`,
+                `Excellent! The word "${wordObj.word}" fits perfectly here.`,
+                `Perfect! I see that you understand "${wordObj.word}".`,
+                `Well done! "${wordObj.word}" is an important word in this topic.`
+            ],
+            'russian': [
+                `Очень хорошо! Вы правильно использовали "${wordObj.word}".`,
+                `Отлично! Слово "${wordObj.word}" идеально подходит здесь.`,
+                `Прекрасно! Я вижу, что вы понимаете "${wordObj.word}".`,
+                `Хорошо сделано! "${wordObj.word}" - важное слово в этой теме.`
+            ]
+        };
+        
+        const responses = praiseResponses[targetLanguage] || praiseResponses['spanish'];
+        const praise = responses[Math.floor(Math.random() * responses.length)];
         
         // Add follow-up question
-        const followUps = [
-            " Kannst du mir ein anderes Beispiel geben?",
-            " Was ist deine Erfahrung damit?",
-            " Wie oft benutzt du das in deinem Alltag?",
-            " Gibt es ähnliche Begriffe, die du kennst?"
-        ];
+        const followUps = {
+            'spanish': [
+                " ¿Puedes darme otro ejemplo?",
+                " ¿Cuál es tu experiencia con esto?",
+                " ¿Con qué frecuencia usas esto en tu vida diaria?",
+                " ¿Hay términos similares que conozcas?"
+            ],
+            'english': [
+                " Can you give me another example?",
+                " What is your experience with this?",
+                " How often do you use this in your daily life?",
+                " Are there similar terms you know?"
+            ],
+            'russian': [
+                " Можете привести другой пример?",
+                " Какой у вас опыт с этим?",
+                " Как часто вы используете это в повседневной жизни?",
+                " Есть ли похожие термины, которые вы знаете?"
+            ]
+        };
         
-        return praise + followUps[Math.floor(Math.random() * followUps.length)];
+        const followUpList = followUps[targetLanguage] || followUps['spanish'];
+        
+        return praise + followUpList[Math.floor(Math.random() * followUpList.length)];
     }
     
     addMessage(content, sender, isError = false) {
@@ -796,12 +1007,19 @@ class LanguageChatbot {
         const messageDiv = document.createElement('div');
         messageDiv.className = `message ${sender}-message ${isError ? 'error-message' : ''}`;
         
+        // Add clickable class for AI messages
+        if (sender === 'ai') {
+            messageDiv.classList.add('clickable-message');
+            messageDiv.title = 'Klicken zum Vorlesen / Click to listen';
+        }
+        
         const now = new Date();
         const timeString = now.toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' });
         
         messageDiv.innerHTML = `
             <div class="message-content">
                 <p>${content}</p>
+                ${sender === 'ai' ? '<span class="tts-icon">🔊</span>' : ''}
             </div>
             <div class="message-time">${timeString}</div>
         `;
