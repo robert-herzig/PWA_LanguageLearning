@@ -135,8 +135,17 @@ class LanguageChatbot {
         // Load vocabulary for this topic
         await this.loadTopicVocabulary(topicId);
         
-        // Show API configuration
-        document.getElementById('api-step').style.display = 'block';
+        // Check if we're in production with secure API
+        const isProduction = window.location.hostname.includes('github.io');
+        
+        if (isProduction) {
+            // In production, skip API key step and go straight to chat
+            console.log('Production environment detected - using secure API');
+            this.startChatting();
+        } else {
+            // In development, show API configuration
+            document.getElementById('api-step').style.display = 'block';
+        }
         
         console.log(`Selected topic: ${topicId}`);
     }
@@ -322,10 +331,21 @@ class LanguageChatbot {
     }
     
     startChatting() {
-        // Get API key if provided
-        const apiKeyInput = document.getElementById('api-key-input');
-        this.apiKey = apiKeyInput.value.trim();
-        this.isDemo = !this.apiKey;
+        // Check if we're in production (using secure API)
+        const isProduction = window.location.hostname.includes('github.io');
+        
+        if (isProduction) {
+            // In production, we use the secure API with hosted key
+            this.apiKey = null; // No user API key needed
+            this.isDemo = false; // Not demo mode - we have secure API
+            console.log('Using secure API in production');
+        } else {
+            // In development, get API key if provided
+            const apiKeyInput = document.getElementById('api-key-input');
+            this.apiKey = apiKeyInput?.value.trim() || null;
+            this.isDemo = !this.apiKey;
+            console.log('Development mode:', this.isDemo ? 'Demo mode' : 'User API key');
+        }
         
         // Check daily limits
         if (this.dailyUsage >= this.maxDailyMessages || this.dailyCost >= this.maxDailyCost) {
