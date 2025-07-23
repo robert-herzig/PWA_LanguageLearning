@@ -522,6 +522,19 @@ class LanguageChatbot {
         // Try to use the secure API first (your hosted API with your key)
         try {
             console.log('Attempting to call secure API:', `${apiBaseUrl}/api/chat`);
+            
+            // Ensure we have required fields
+            const level = this.currentLevel || 'beginner';
+            const topic = this.currentTopic || 'general';
+            
+            console.log('API request data:', {
+                message: message,
+                level: level,
+                topic: topic,
+                vocabularyWords: this.vocabularyWords?.length || 0,
+                userId: this.userId
+            });
+            
             const apiResponse = await fetch(`${apiBaseUrl}/api/chat`, {
                 method: 'POST',
                 headers: {
@@ -529,9 +542,9 @@ class LanguageChatbot {
                 },
                 body: JSON.stringify({
                     message: message,
-                    level: this.currentLevel,
-                    topic: this.currentTopic,
-                    vocabularyWords: this.vocabularyWords.map(w => w.word),
+                    level: level,
+                    topic: topic,
+                    vocabularyWords: this.vocabularyWords?.map(w => w.word) || [],
                     userId: this.userId
                 })
             });
@@ -544,17 +557,19 @@ class LanguageChatbot {
                 this.saveDailyCost();
                 this.updateUsageDisplay();
                 
-                console.log('Used secure API with hosted key');
+                console.log('Used secure API with hosted key, cost:', data.estimatedCost);
                 return data.response;
-            } else if (apiResponse.status === 404) {
-                // API not available, try user's API key if provided
-                console.log('Secure API not available, checking for user API key');
             } else {
-                const error = await apiResponse.json();
-                throw new Error(error.error || 'API request failed');
+                const errorText = await apiResponse.text();
+                console.error('API Error:', {
+                    status: apiResponse.status,
+                    statusText: apiResponse.statusText,
+                    error: errorText
+                });
+                throw new Error(`API request failed: ${apiResponse.status} - ${errorText}`);
             }
         } catch (error) {
-            console.log('Secure API error, falling back:', error.message);
+            console.error('Secure API error, falling back:', error.message);
         }
         
         // Fallback to user's API key if provided
