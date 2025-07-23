@@ -60,6 +60,11 @@ class LanguageChatbot {
             this.resetChat();
         });
         
+        // Switch topic
+        document.getElementById('switch-topic')?.addEventListener('click', () => {
+            this.switchTopic();
+        });
+        
         // Vocabulary chip clicks
         document.addEventListener('click', (e) => {
             const vocabChip = e.target.closest('.vocab-chip');
@@ -236,6 +241,50 @@ class LanguageChatbot {
     // Format topic ID into human-readable name
     formatTopicName(topicId) {
         const topicNames = {
+            // Spanish topics with proper German translations
+            '1._dimensión_física': 'Körperliche Dimension',
+            '2._dimensión_perceptiva_y_anímica': 'Wahrnehmung und Gefühle', 
+            '3._identidad_personal': 'Persönliche Identität',
+            '4._relaciones_personales': 'Persönliche Beziehungen',
+            '5._alimentación': 'Ernährung',
+            '6._educación': 'Bildung',
+            '7._trabajo': 'Arbeit',
+            '8._ocio_y_tiempo_libre': 'Freizeit',
+            '9._información_y_medios_de_comunicación': 'Information und Medien',
+            '10._vivienda': 'Wohnen',
+            '11._servicios': 'Dienstleistungen',
+            '12._compras,_tiendas_y_establecimientos': 'Einkaufen und Geschäfte',
+            '13._salud_e_higiene': 'Gesundheit und Hygiene',
+            '14._viajes,_alojamiento_y_transporte': 'Reisen und Transport',
+            '15._economía_e_industria': 'Wirtschaft und Industrie',
+            '16._ciencia_y_tecnología': 'Wissenschaft und Technologie',
+            '17._gobierno,_política_y_sociedad': 'Politik und Gesellschaft',
+            '18._actividades_artísticas': 'Künstlerische Aktivitäten',
+            '19._religión_y_filosofía': 'Religion und Philosophie',
+            '20._geografía_y_naturaleza': 'Geografie und Natur',
+            
+            // Without prefixes
+            'dimensión_física': 'Körperliche Dimension',
+            'dimensión_perceptiva_y_anímica': 'Wahrnehmung und Gefühle',
+            'identidad_personal': 'Persönliche Identität',
+            'relaciones_personales': 'Persönliche Beziehungen',
+            'alimentación': 'Ernährung',
+            'educación': 'Bildung',
+            'trabajo': 'Arbeit',
+            'ocio_y_tiempo_libre': 'Freizeit',
+            'información_y_medios_de_comunicación': 'Information und Medien',
+            'vivienda': 'Wohnen',
+            'servicios': 'Dienstleistungen',
+            'compras,_tiendas_y_establecimientos': 'Einkaufen und Geschäfte',
+            'salud_e_higiene': 'Gesundheit und Hygiene',
+            'viajes,_alojamiento_y_transporte': 'Reisen und Transport',
+            'economía_e_industria': 'Wirtschaft und Industrie',
+            'ciencia_y_tecnología': 'Wissenschaft und Technologie',
+            'gobierno,_política_y_sociedad': 'Politik und Gesellschaft',
+            'actividades_artísticas': 'Künstlerische Aktivitäten',
+            'religión_y_filosofía': 'Religion und Philosophie',
+            'geografía_y_naturaleza': 'Geografie und Natur',
+            
             // English topics
             'work': 'Arbeit',
             'travel': 'Reisen',
@@ -256,21 +305,7 @@ class LanguageChatbot {
             'home': 'Zuhause',
             'emotions': 'Gefühle',
             
-            // Spanish topics (already in German)
-            'dimensión_física': 'Körperliche Dimension',
-            'dimensión_perceptiva_y_anímica': 'Wahrnehmung und Gefühle',
-            'identidad_personal': 'Persönliche Identität',
-            'relaciones_personales': 'Persönliche Beziehungen',
-            'alimentación': 'Ernährung',
-            'educación': 'Bildung',
-            '6._educación': 'Bildung',
-            '3._identidad_personal': 'Persönliche Identität',
-            '4._relaciones_personales': 'Persönliche Beziehungen',
-            '5._alimentación': 'Ernährung',
-            '1._dimensión_física': 'Körperliche Dimension',
-            '2._dimensión_perceptiva_y_anímica': 'Wahrnehmung und Gefühle',
-            
-            // Russian topics (translated to German)
+            // Russian topics (transliterated)
             'работа': 'Arbeit',
             'путешествия': 'Reisen',
             'еда': 'Essen',
@@ -278,27 +313,32 @@ class LanguageChatbot {
             'здоровье': 'Gesundheit',
             'образование': 'Bildung',
             'спорт': 'Sport',
-            'культура': 'Kultur',
-            
-            // Common variations and cleaned versions
-            'alimentacion': 'Ernährung',
-            'educacion': 'Bildung',
-            'identidad personal': 'Persönliche Identität',
-            'relaciones personales': 'Persönliche Beziehungen',
-            'dimension fisica': 'Körperliche Dimension',
-            'dimension perceptiva y animica': 'Wahrnehmung und Gefühle'
+            'культура': 'Kultur'
         };
         
         // Clean up the topic ID (remove prefixes, underscores, etc.)
         let cleanId = topicId.replace(/^#+\s*\d*\.?\s*/, '').replace(/_/g, ' ').toLowerCase().trim();
         let originalId = topicId.toLowerCase().trim();
         
-        // Try different variations to find a match
-        return topicNames[originalId] || 
-               topicNames[cleanId] || 
-               topicNames[topicId] ||
-               // Fallback: capitalize first letter of cleaned ID
-               cleanId.charAt(0).toUpperCase() + cleanId.slice(1);
+        // Try to find exact matches first
+        if (topicNames[originalId]) {
+            return topicNames[originalId];
+        }
+        
+        if (topicNames[cleanId]) {
+            return topicNames[cleanId];
+        }
+        
+        // Try without number prefix
+        const withoutPrefix = originalId.replace(/^\d+\._/, '');
+        if (topicNames[withoutPrefix]) {
+            return topicNames[withoutPrefix];
+        }
+        
+        // Fallback: capitalize first letter and clean up underscores
+        return cleanId.split(' ').map(word => 
+            word.charAt(0).toUpperCase() + word.slice(1)
+        ).join(' ').replace(/[,_]/g, '');
     }
     
     // Fallback topics if dynamic discovery fails
@@ -370,6 +410,26 @@ class LanguageChatbot {
         
         // Focus input
         document.getElementById('chat-input').focus();
+    }
+    
+    switchTopic() {
+        // Hide chat interface and show topic selection
+        document.getElementById('chatbot-interface').style.display = 'none';
+        document.getElementById('chatbot-setup').style.display = 'block';
+        
+        // Reset current topic
+        this.currentTopic = null;
+        this.vocabularyWords = [];
+        
+        // Clear any selected topic buttons
+        document.querySelectorAll('.topic-btn-chat').forEach(btn => {
+            btn.classList.remove('selected');
+        });
+        
+        // Refresh topics if needed
+        this.loadTopics();
+        
+        console.log('Switched back to topic selection');
     }
     
     loadVocabularyHints() {
@@ -788,15 +848,7 @@ class LanguageChatbot {
     }
     
     getTopicDisplayName(topicId) {
-        const topicNames = {
-            work: 'Arbeit',
-            travel: 'Reisen', 
-            food: 'Essen',
-            technology: 'Technologie',
-            health: 'Gesundheit',
-            environment: 'Umwelt'
-        };
-        return topicNames[topicId] || topicId;
+        return this.formatTopicName(topicId);
     }
     
     // Storage methods

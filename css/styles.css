@@ -1648,6 +1648,13 @@ chatbot-placeholder li {
   gap: 1rem;
 }
 
+.chat-actions {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.action-btn,
 .reset-btn {
   padding: 0.5rem 1rem;
   background: var(--secondary-color);
@@ -1657,6 +1664,15 @@ chatbot-placeholder li {
   cursor: pointer;
   font-size: 0.9rem;
   transition: var(--transition);
+}
+
+.action-btn {
+  background: var(--primary-color);
+}
+
+.action-btn:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
 }
 
 .reset-btn:hover {
