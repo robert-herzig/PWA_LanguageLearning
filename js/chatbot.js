@@ -1064,7 +1064,7 @@ class LanguageChatbot {
         
         messagesContainer.appendChild(messageDiv);
         
-        // Ensure smooth scrolling to bottom
+        // Ensure smooth scrolling to bottom with proper scrollbar visibility
         this.scrollToBottom();
     }
     
@@ -1073,7 +1073,19 @@ class LanguageChatbot {
         if (messagesContainer) {
             // Use requestAnimationFrame to ensure DOM has updated
             requestAnimationFrame(() => {
-                messagesContainer.scrollTop = messagesContainer.scrollHeight;
+                // Calculate the correct scroll position
+                const scrollHeight = messagesContainer.scrollHeight;
+                const clientHeight = messagesContainer.clientHeight;
+                const maxScrollTop = scrollHeight - clientHeight;
+                
+                // Set scroll position to show latest messages while keeping scrollbar visible
+                messagesContainer.scrollTop = Math.max(0, maxScrollTop);
+                
+                // Double-check after a small delay to ensure all content has rendered
+                setTimeout(() => {
+                    const finalMaxScrollTop = messagesContainer.scrollHeight - messagesContainer.clientHeight;
+                    messagesContainer.scrollTop = Math.max(0, finalMaxScrollTop);
+                }, 50);
             });
         }
     }

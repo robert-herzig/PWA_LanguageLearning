@@ -1623,10 +1623,12 @@ chatbot-placeholder li {
   flex-direction: column;
   height: calc(100vh - 160px); /* More space utilization */
   min-height: 500px; /* Minimum height instead of max-height */
+  max-height: calc(100vh - 120px); /* Prevent interface from exceeding viewport */
   background: var(--surface-color);
   border-radius: var(--border-radius);
   overflow: hidden;
   border: 1px solid var(--border-color);
+  position: relative; /* Ensure proper positioning */
 }
 
 .chat-header {
@@ -1686,6 +1688,7 @@ chatbot-placeholder li {
 .chat-messages {
   flex: 1; /* Take all available space */
   overflow-y: auto;
+  overflow-x: hidden; /* Prevent horizontal scroll */
   padding: 1.5rem;
   display: flex;
   flex-direction: column;
@@ -1693,6 +1696,28 @@ chatbot-placeholder li {
   background: var(--background-color);
   scroll-behavior: smooth;
   min-height: 0; /* Allow flex child to shrink */
+  max-height: calc(100vh - 300px); /* Ensure container doesn't exceed viewport */
+  position: relative; /* Ensure proper positioning for scrollbar */
+}
+
+/* Chat messages scrollbar styling */
+.chat-messages::-webkit-scrollbar {
+  width: 8px;
+}
+
+.chat-messages::-webkit-scrollbar-track {
+  background: var(--surface-color);
+  border-radius: 4px;
+}
+
+.chat-messages::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+  transition: var(--transition);
+}
+
+.chat-messages::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-light);
 }
 
 .message {
