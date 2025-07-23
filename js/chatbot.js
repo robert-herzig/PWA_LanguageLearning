@@ -807,7 +807,19 @@ class LanguageChatbot {
         `;
         
         messagesContainer.appendChild(messageDiv);
-        messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        
+        // Ensure smooth scrolling to bottom
+        this.scrollToBottom();
+    }
+    
+    scrollToBottom() {
+        const messagesContainer = document.getElementById('chat-messages');
+        if (messagesContainer) {
+            // Use requestAnimationFrame to ensure DOM has updated
+            requestAnimationFrame(() => {
+                messagesContainer.scrollTop = messagesContainer.scrollHeight;
+            });
+        }
     }
     
     showTypingIndicator() {
