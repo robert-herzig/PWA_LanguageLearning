@@ -1621,11 +1621,12 @@ chatbot-placeholder li {
 .chatbot-interface {
   display: flex;
   flex-direction: column;
-  height: calc(100vh - 120px);
-  max-height: 600px;
+  height: calc(100vh - 160px); /* More space utilization */
+  min-height: 500px; /* Minimum height instead of max-height */
   background: var(--surface-color);
   border-radius: var(--border-radius);
   overflow: hidden;
+  border: 1px solid var(--border-color);
 }
 
 .chat-header {
@@ -1636,6 +1637,7 @@ chatbot-placeholder li {
   background: var(--primary-color);
   color: white;
   border-bottom: 1px solid var(--border-color);
+  flex-shrink: 0; /* Prevent header from shrinking */
 }
 
 .chat-info {
@@ -1682,7 +1684,7 @@ chatbot-placeholder li {
 }
 
 .chat-messages {
-  flex: 1;
+  flex: 1; /* Take all available space */
   overflow-y: auto;
   padding: 1.5rem;
   display: flex;
@@ -1690,6 +1692,7 @@ chatbot-placeholder li {
   gap: 1rem;
   background: var(--background-color);
   scroll-behavior: smooth;
+  min-height: 0; /* Allow flex child to shrink */
 }
 
 .message {
@@ -1744,11 +1747,16 @@ chatbot-placeholder li {
 .chat-input-container {
   border-top: 1px solid var(--border-color);
   background: var(--surface-color);
+  flex-shrink: 0; /* Prevent input container from shrinking */
+  display: flex;
+  flex-direction: column;
 }
 
 .vocabulary-hints {
   padding: 1rem 1.5rem;
   border-bottom: 1px solid var(--border-color);
+  max-height: 120px; /* Limit vocabulary section height */
+  overflow-y: auto; /* Scroll if too many vocabulary words */
 }
 
 .vocabulary-hints h5 {
@@ -1865,6 +1873,8 @@ chatbot-placeholder li {
   background: var(--surface-elevated);
   color: var(--text-secondary);
   font-size: 0.9rem;
+  border-top: 1px solid var(--border-color);
+  flex-shrink: 0; /* Prevent status from shrinking */
 }
 
 .typing-indicator {
@@ -1913,20 +1923,20 @@ chatbot-placeholder li {
 /* Mobile Chatbot Styles */
 @media (max-width: 768px) {
   .chatbot-container {
-    height: calc(100vh - 160px);
+    height: calc(100vh - 140px);
     overflow: hidden;
   }
   
   .chatbot-interface {
-    height: calc(100vh - 160px);
-    max-height: none;
+    height: calc(100vh - 140px);
+    min-height: 400px;
   }
   
   .chatbot-setup {
     padding: 1rem;
     gap: 1.5rem;
     overflow-y: auto;
-    max-height: calc(100vh - 200px);
+    max-height: calc(100vh - 180px);
   }
   
   .setup-step {
@@ -1976,12 +1986,19 @@ chatbot-placeholder li {
     font-size: 0.75rem;
   }
   
+  .chat-messages {
+    padding: 1rem;
+    flex: 1;
+    min-height: 0;
+  }
+  
   .message {
     max-width: 85%;
   }
   
   .vocabulary-hints {
     padding: 0.75rem 1rem;
+    max-height: 100px; /* Smaller on mobile */
   }
   
   .vocab-chips {
@@ -2000,10 +2017,42 @@ chatbot-placeholder li {
   
   .input-area textarea {
     min-height: 50px;
+    max-height: 100px;
+  }
+  
+  .input-area textarea {
+    min-height: 50px;
+    max-height: 100px;
   }
   
   .send-btn {
     padding: 0.6rem 1rem;
     font-size: 0.8rem;
   }
+}
+
+/* Additional layout improvements */
+.chatbot-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}
+
+.chatbot-setup {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem;
+}
+
+/* Ensure proper flexbox behavior */
+.chat-input-container > * {
+  flex-shrink: 0;
+}
+
+/* Prevent text overflow in messages */
+.message-content p {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  max-width: 100%;
 }
