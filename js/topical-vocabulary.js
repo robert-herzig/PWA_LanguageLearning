@@ -8,6 +8,32 @@ class TopicalVocabulary {
     this.currentTopicVocabulary = [];
   }
 
+  // Spanish to English topic key mapping
+  getSpanishToEnglishTopicMapping() {
+    return {
+      'dimensión_física': 'physical_dimension',
+      'dimensión_perceptiva_y_anímica': 'perception_and_emotions',
+      '3._identidad_personal': 'personal_identity',
+      '4._relaciones_personales': 'personal_relationships',
+      '5._alimentación': 'food_and_nutrition',
+      '6._educación': 'education',
+      '7._trabajo': 'work',
+      '8._ocio': 'leisure',
+      'información_y_medios': 'information_and_media',
+      'vivienda': 'housing',
+      'servicios': 'services',
+      'compras_y_tiendas': 'shopping_and_stores',
+      'salud_e_higiene': 'health_and_hygiene',
+      'viajes_y_transporte': 'travel_and_transport',
+      'economía_e_industria': 'economy_and_industry',
+      'ciencia_y_tecnología': 'science_and_technology',
+      'gobierno_y_sociedad': 'government_and_society',
+      'artes_y_cultura': 'arts_and_culture',
+      'religión_y_filosofía': 'religion_and_philosophy',
+      'geografía_y_naturaleza': 'geography_and_nature'
+    };
+  }
+
   // Topic categories mapping with English names
   getTopicCategories() {
     return {
@@ -210,12 +236,19 @@ class TopicalVocabulary {
     
     // Get the vocabulary data and add topic info to each word
     const vocabData = this.vocabulary[key][topic];
-    const topicName = vocabData.topic || topic; // Use the topic name from JSON or fallback to key
+    const spanishToEnglish = this.getSpanishToEnglishTopicMapping();
+    const englishKey = spanishToEnglish[topic] || topic;
+    const topicCategories = this.getTopicCategories();
+    const topicInfo = topicCategories[englishKey];
+    const topicName = topicInfo ? topicInfo.title : (vocabData.topic || topic);
     
-    return vocabData.words.map(word => ({
+    // Handle both old format (with words array) and new format (direct array)
+    const words = vocabData.words || vocabData;
+    
+    return words.map(word => ({
       ...word,
-      topic: topicName, // Add topic name to each word
-      target: word.word // Ensure target is set from word field
+      topic: topicName, // Add German topic name to each word
+      target: word.word || word.target // Ensure target is set from word field
     }));
   }
 
@@ -229,16 +262,23 @@ class TopicalVocabulary {
     
     const topics = Object.keys(this.vocabulary[key]);
     const topicCategories = this.getTopicCategories();
+    const spanishToEnglish = this.getSpanishToEnglishTopicMapping();
     
-    const result = topics.map(topic => ({
-      key: topic,
-      ...topicCategories[topic] || {
-        title: topic.charAt(0).toUpperCase() + topic.slice(1),
-        description: 'Vocabulary topic',
-        icon: '📝'
-      },
-      wordCount: this.vocabulary[key][topic].words.length
-    }));
+    const result = topics.map(topic => {
+      // Map Spanish topic key to English key
+      const englishKey = spanishToEnglish[topic] || topic;
+      
+      return {
+        key: topic, // Keep original key for data access
+        englishKey: englishKey, // Add English key for reference
+        ...topicCategories[englishKey] || {
+          title: topic.charAt(0).toUpperCase() + topic.slice(1).replace(/_/g, ' '),
+          description: 'Vocabulary topic',
+          icon: '📝'
+        },
+        wordCount: this.vocabulary[key][topic].words ? this.vocabulary[key][topic].words.length : (Array.isArray(this.vocabulary[key][topic]) ? this.vocabulary[key][topic].length : 0)
+      };
+    });
     
     console.log(`Found ${result.length} topics for ${language} ${level}`);
     return result;
