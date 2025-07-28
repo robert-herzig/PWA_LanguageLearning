@@ -34,107 +34,107 @@ class TopicalVocabulary {
     };
   }
 
-  // Topic categories mapping with English names
+  // Topic categories mapping with German titles
   getTopicCategories() {
     return {
       'physical_dimension': {
-        title: 'Physical Dimension',
-        description: 'Body parts, physical appearance, and movements',
+        title: 'Körperliche Dimension',
+        description: 'Körperteile, körperliches Aussehen und Bewegungen',
         icon: '👤'
       },
       'perception_and_emotions': {
-        title: 'Perception & Emotions',
-        description: 'Feelings, emotions, and personality traits',
+        title: 'Wahrnehmung & Emotionen',
+        description: 'Gefühle, Emotionen und Persönlichkeitsmerkmale',
         icon: '🧠'
       },
       'personal_identity': {
-        title: 'Personal Identity',
-        description: 'Personal information and identity documents',
+        title: 'Persönliche Identität',
+        description: 'Persönliche Informationen und Ausweisdokumente',
         icon: '🆔'
       },
       'personal_relationships': {
-        title: 'Personal Relationships',
-        description: 'Family, friends, and social relationships',
+        title: 'Persönliche Beziehungen',
+        description: 'Familie, Freunde und soziale Beziehungen',
         icon: '👨‍👩‍👧‍👦'
       },
       'food_and_nutrition': {
-        title: 'Food & Nutrition',
-        description: 'Food, cooking, restaurants, and nutrition',
+        title: 'Essen & Ernährung',
+        description: 'Lebensmittel, Kochen, Restaurants und Ernährung',
         icon: '🍽️'
       },
       'education': {
-        title: 'Education',
-        description: 'School, university, learning, and studying',
+        title: 'Bildung',
+        description: 'Schule, Universität, Lernen und Studieren',
         icon: '🎓'
       },
       'work': {
-        title: 'Work',
-        description: 'Jobs, professions, and workplace',
+        title: 'Arbeit',
+        description: 'Jobs, Berufe und Arbeitsplatz',
         icon: '💼'
       },
       'leisure': {
-        title: 'Leisure',
-        description: 'Entertainment, sports, and hobbies',
+        title: 'Freizeit',
+        description: 'Unterhaltung, Sport und Hobbys',
         icon: '🎯'
       },
       'information_and_media': {
-        title: 'Information & Media',
-        description: 'Communication, media, and technology',
+        title: 'Information & Medien',
+        description: 'Kommunikation, Medien und Technologie',
         icon: '📱'
       },
       'housing': {
-        title: 'Housing',
-        description: 'Home, furniture, and living spaces',
+        title: 'Wohnen',
+        description: 'Zuhause, Möbel und Wohnräume',
         icon: '🏠'
       },
       'services': {
-        title: 'Services',
-        description: 'Banking, postal, and public services',
+        title: 'Dienstleistungen',
+        description: 'Bank-, Post- und öffentliche Dienstleistungen',
         icon: '🏛️'
       },
       'shopping_and_stores': {
-        title: 'Shopping & Stores',
-        description: 'Shopping, markets, and retail',
+        title: 'Einkaufen & Geschäfte',
+        description: 'Einkaufen, Märkte und Einzelhandel',
         icon: '🛒'
       },
       'health_and_hygiene': {
-        title: 'Health & Hygiene',
-        description: 'Medical, wellness, and personal care',
+        title: 'Gesundheit & Hygiene',
+        description: 'Medizin, Wellness und Körperpflege',
         icon: '🏥'
       },
       'travel_and_transport': {
-        title: 'Travel & Transport',
-        description: 'Tourism, vehicles, and transportation',
+        title: 'Reisen & Transport',
+        description: 'Tourismus, Fahrzeuge und Transportation',
         icon: '✈️'
       },
       'economy_and_industry': {
-        title: 'Economy & Industry',
-        description: 'Business, finance, and manufacturing',
+        title: 'Wirtschaft & Industrie',
+        description: 'Business, Finanzen und Fertigung',
         icon: '🏭'
       },
       'science_and_technology': {
-        title: 'Science & Technology',
-        description: 'Research, computing, and innovation',
+        title: 'Wissenschaft & Technologie',
+        description: 'Forschung, Computing und Innovation',
         icon: '🔬'
       },
       'government_and_society': {
-        title: 'Government & Society',
-        description: 'Politics, law, and social issues',
+        title: 'Regierung & Gesellschaft',
+        description: 'Politik, Recht und gesellschaftliche Themen',
         icon: '🏛️'
       },
       'arts_and_culture': {
-        title: 'Arts & Culture',
-        description: 'Music, literature, and traditions',
+        title: 'Kunst & Kultur',
+        description: 'Musik, Literatur und Traditionen',
         icon: '🎨'
       },
       'religion_and_philosophy': {
-        title: 'Religion & Philosophy',
-        description: 'Beliefs, ethics, and spirituality',
+        title: 'Religion & Philosophie',
+        description: 'Glaube, Ethik und Spiritualität',
         icon: '🕊️'
       },
       'geography_and_nature': {
-        title: 'Geography & Nature',
-        description: 'Environment, weather, and landscapes',
+        title: 'Geographie & Natur',
+        description: 'Umwelt, Wetter und Landschaften',
         icon: '🌍'
       }
     };
